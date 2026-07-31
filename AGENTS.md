@@ -5,28 +5,45 @@ Program, worked on by multiple parties (Builder Tech, VoltPop, Explay,
 and VSU) — not a single person's private notes. Treat every change
 accordingly.
 
+## At the start of every session
+
+- **Ask who you're working with** — which party/role (VoltPop, Builder
+  Tech, Explay, VSU staff, a student, etc.) — before making any changes,
+  so content and framing stay correct for that person. Don't guess or
+  infer this from context.
+- **Sync first.** Fetch/pull before doing anything else — this repo is
+  used asynchronously by multiple people, so don't assume your local
+  copy reflects what's already been merged.
+- **Verify GitHub actually works before starting** — `gh auth status`,
+  git remotes configured, push/fork access confirmed. Fix any problems
+  found (or clearly tell the human what's blocking, if it's outside
+  your control — e.g. they need to `gh auth login` themselves) before
+  doing any real work, not after you've already made changes you can't
+  submit.
+
+## No PII, ever
+
+Never write personally identifiable information into this KB — student
+names, personal contact details, or anything else identifying a
+specific individual beyond the named program staff already documented
+here (Javon, Emanuel, Andrew, Dr. Nicholson, etc.). This applies
+especially to anything classroom/student-related. If in doubt, leave it
+out or anonymize rather than asking first.
+
 ## Required workflow: worktree + PR, never direct commits to `main`
 
-1. **Create a git worktree** for any update or new work, rather than
-   editing directly in the primary checkout or committing straight to
-   `main`:
-   ```
-   git worktree add ../vsu-iot-course-<short-topic> -b <short-topic>
-   ```
-   Do the actual editing in that worktree.
-2. **Commit your changes** in the worktree branch with a clear,
-   specific message describing what changed and why (not just "update
-   docs").
-3. **Push the branch and open a pull request against `main`** rather
-   than merging or pushing directly. Use `gh pr create` if the `gh` CLI
-   is available; otherwise push the branch and note that a PR needs to
-   be opened.
-4. **Do not force-push, rewrite history, or merge your own PR**
-   automatically — leave the merge decision to whoever is reviewing on
-   the human side, since multiple parties may be reviewing changes to
-   shared documents like the budget or the schedule.
-5. Clean up the worktree (`git worktree remove`) once its branch has
-   been merged or is no longer needed.
+Work in a worktree/branch, commit, and open a PR against `main` — never
+commit straight to `main`. Handle this entirely yourself: check push
+access, fork-and-PR instead if you don't have it, fix any git mechanics
+that come up (e.g. unrelated-history errors) without asking. The human
+should never need to touch git, check permissions, or read a workflow
+doc — just hand them the PR URL when it's done. Don't force-push or
+merge anything other than your own not-yet-reviewed branch.
+
+Don't let uncommitted work pile up — if a changeset grows large (many
+files or substantial edits), open a PR for what's done rather than
+continuing to batch more into one giant changeset. Smaller, more
+frequent PRs are easier for async collaborators to review.
 
 ## Why this matters here specifically
 
