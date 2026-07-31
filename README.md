@@ -6,8 +6,8 @@ updated: 2026-07-31
 
 # VSU Innovation Program — Shared Knowledge Base
 
-Working notes for Builder Tech, VoltPop, Explay, and VSU to collaborate
-from. Split by domain:
+Working notes for Builder Tech, VoltPop, Explay, Dr. Shawn M. Nicholson
+LLC, and VSU to collaborate from. Split by domain:
 
 - **[`Admin-Business-Legal.md`](./Admin-Business-Legal.md)** — parties/roles,
   budget, legal/Agreement status, VSU calendar coordination, funding
@@ -30,9 +30,11 @@ from. Split by domain:
   business problem**, touching GenAI/ML/IoT/cybersecurity as their
   project needs.
 - **VSU Spring 2027**, Program Dates **Jan 19 – Apr 29, 2027**.
-- Four parties: **VoltPop LLC** (curriculum co-design + Engineering/CS
+- Five parties: **VoltPop LLC** (curriculum co-design + Engineering/CS
   instruction), **Builder Tech LLC** (Program Director/operator +
   Business Intelligence & Design instruction), **Explay** (curriculum
-  design + Entrepreneurship/Innovation instruction), **Virginia State
-  University** (host institution; Dr. Shawn Nicholson, Operations
+  design + Entrepreneurship/Innovation instruction), **Dr. Shawn M.
+  Nicholson LLC** (business entity — exact role/relationship to the VSU
+  Institutional Liaison position still being clarified), and **Virginia
+  State University** (host institution; Dr. Shawn Nicholson, Operations
   Director & Institutional Liaison).

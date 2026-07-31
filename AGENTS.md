@@ -2,15 +2,21 @@
 
 This repository is a **shared** knowledge base for the VSU Innovation
 Program, worked on by multiple parties (Builder Tech, VoltPop, Explay,
-and VSU) — not a single person's private notes. Treat every change
-accordingly.
+Dr. Shawn M. Nicholson LLC, and VSU) — not a single person's private
+notes. Treat every change accordingly.
 
 ## At the start of every session
 
+- **Confirm you're in a local git clone before editing anything.** If
+  this content was reached some other way (e.g. downloaded/exported
+  files, a synced folder without a `.git` directory), stop and
+  `git clone` the actual repository first, then set up git normally
+  (remotes, auth, fork if needed per the workflow below) — don't edit
+  a non-git copy.
 - **Ask who you're working with** — which party/role (VoltPop, Builder
-  Tech, Explay, VSU staff, a student, etc.) — before making any changes,
-  so content and framing stay correct for that person. Don't guess or
-  infer this from context.
+  Tech, Explay, Dr. Shawn M. Nicholson LLC, VSU staff, a student, etc.)
+  — before making any changes, so content and framing stay correct for
+  that person. Don't guess or infer this from context.
 - **Sync first.** Fetch/pull before doing anything else — this repo is
   used asynchronously by multiple people, so don't assume your local
   copy reflects what's already been merged.
