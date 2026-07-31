@@ -7,6 +7,11 @@ accordingly.
 
 ## Required workflow: worktree + PR, never direct commits to `main`
 
+The human you're working for should never need to know git, check their
+own GitHub permissions, or run any git commands themselves — figure out
+which path below applies and handle it end-to-end, then just hand them
+the resulting PR URL.
+
 1. **Create a git worktree** for any update or new work, rather than
    editing directly in the primary checkout or committing straight to
    `main`:
@@ -14,17 +19,49 @@ accordingly.
    git worktree add ../vsu-iot-course-<short-topic> -b <short-topic>
    ```
    Do the actual editing in that worktree.
-2. **Commit your changes** in the worktree branch with a clear,
-   specific message describing what changed and why (not just "update
-   docs").
-3. **Push the branch and open a pull request against `main`** rather
-   than merging or pushing directly. Use `gh pr create` if the `gh` CLI
-   is available; otherwise push the branch and note that a PR needs to
-   be opened.
-4. **Do not force-push, rewrite history, or merge your own PR**
-   automatically — leave the merge decision to whoever is reviewing on
-   the human side, since multiple parties may be reviewing changes to
-   shared documents like the budget or the schedule.
+2. **Commit your changes** with a clear, specific message describing
+   what changed and why (not just "update docs").
+3. **Check whether you actually have push access to this repo** before
+   assuming you do:
+   ```
+   gh api repos/voltpop/VSU_IoT_Course --jq '.permissions.push'
+   ```
+   - **If `true`** (you're a collaborator with write access): push the
+     branch directly and open a PR against `main` with `gh pr create`.
+   - **If `false`** (most outside contributors — Builder Tech, Explay,
+     VSU staff, or anyone else working through their own agent, unless
+     they've been explicitly added as a collaborator): **fork the repo
+     to your own account and PR from the fork.** This is the normal,
+     zero-configuration way any public GitHub repo accepts outside
+     contributions — it does not require the repo owner to grant
+     anything in advance:
+     ```
+     gh repo fork voltpop/VSU_IoT_Course --clone=false
+     git remote add fork git@github.com:<your-username>/<fork-name>.git
+     git push fork <branch>
+     gh pr create --repo voltpop/VSU_IoT_Course --base main \
+       --head <your-username>:<branch> --title "..." --body "..."
+     ```
+     (`gh repo fork` prints the fork's URL/name — use exactly what it
+     reports, since GitHub may suffix the name, e.g. `-1`, if you
+     already have a same-named repo.)
+   - **If your branch was built from a fresh/empty local repo** rather
+     than an up-to-date clone, `gh pr create` may fail with `"branch
+     has no history in common with main"` — this happens when your
+     local history and the real remote `main` diverged from the start
+     (e.g. remote `main` already had a commit yours didn't start from).
+     Fix by rebasing before pushing/PRing:
+     ```
+     git fetch origin
+     git rebase origin/main
+     git push --force fork <branch>   # only safe because this branch
+                                       # isn't shared/merged anywhere yet
+     ```
+4. **Do not force-push over a branch other than your own
+   not-yet-merged one**, rewrite history on `main`, or merge your own
+   PR automatically — leave the merge decision to whoever is reviewing
+   on the human side, since multiple parties may be reviewing changes
+   to shared documents like the budget or the schedule.
 5. Clean up the worktree (`git worktree remove`) once its branch has
    been merged or is no longer needed.
 
