@@ -14,6 +14,12 @@ accordingly.
 - **Sync first.** Fetch/pull before doing anything else — this repo is
   used asynchronously by multiple people, so don't assume your local
   copy reflects what's already been merged.
+- **Verify GitHub actually works before starting** — `gh auth status`,
+  git remotes configured, push/fork access confirmed. Fix any problems
+  found (or clearly tell the human what's blocking, if it's outside
+  your control — e.g. they need to `gh auth login` themselves) before
+  doing any real work, not after you've already made changes you can't
+  submit.
 
 ## No PII, ever
 
