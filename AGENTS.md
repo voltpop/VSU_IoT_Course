@@ -7,6 +7,12 @@ notes. Treat every change accordingly.
 
 ## At the start of every session
 
+- **Confirm you're in a local git clone before editing anything.** If
+  this content was reached some other way (e.g. downloaded/exported
+  files, a synced folder without a `.git` directory), stop and
+  `git clone` the actual repository first, then set up git normally
+  (remotes, auth, fork if needed per the workflow below) — don't edit
+  a non-git copy.
 - **Ask who you're working with** — which party/role (VoltPop, Builder
   Tech, Explay, Dr. Shawn M. Nicholson LLC, VSU staff, a student, etc.)
   — before making any changes, so content and framing stay correct for
