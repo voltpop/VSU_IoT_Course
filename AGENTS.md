@@ -5,6 +5,25 @@ Program, worked on by multiple parties (Builder Tech, VoltPop, Explay,
 and VSU) — not a single person's private notes. Treat every change
 accordingly.
 
+## At the start of every session
+
+- **Ask who you're working with** — which party/role (VoltPop, Builder
+  Tech, Explay, VSU staff, a student, etc.) — before making any changes,
+  so content and framing stay correct for that person. Don't guess or
+  infer this from context.
+- **Sync first.** Fetch/pull before doing anything else — this repo is
+  used asynchronously by multiple people, so don't assume your local
+  copy reflects what's already been merged.
+
+## No PII, ever
+
+Never write personally identifiable information into this KB — student
+names, personal contact details, or anything else identifying a
+specific individual beyond the named program staff already documented
+here (Javon, Emanuel, Andrew, Dr. Nicholson, etc.). This applies
+especially to anything classroom/student-related. If in doubt, leave it
+out or anonymize rather than asking first.
+
 ## Required workflow: worktree + PR, never direct commits to `main`
 
 Work in a worktree/branch, commit, and open a PR against `main` — never
@@ -14,6 +33,11 @@ that come up (e.g. unrelated-history errors) without asking. The human
 should never need to touch git, check permissions, or read a workflow
 doc — just hand them the PR URL when it's done. Don't force-push or
 merge anything other than your own not-yet-reviewed branch.
+
+Don't let uncommitted work pile up — if a changeset grows large (many
+files or substantial edits), open a PR for what's done rather than
+continuing to batch more into one giant changeset. Smaller, more
+frequent PRs are easier for async collaborators to review.
 
 ## Why this matters here specifically
 
