@@ -99,6 +99,12 @@ go from an ambiguous real-world ask to working code:
 | 14 | Apr 27 | Apr 29 | Final Presentations & Portfolio Career Day | Final live presentations, portfolio recordings | Live Presentation & Portfolio Polish | Pitch Deck, Portfolio Site & MVP, Resume; Final Presentations | same | All | All |
 | Finals Wk | May 4 / 11 | May 6 / 13 | Program Concluded | VSU Final Exams. No program activities | — | — | — | — | — |
 
+**Explay ownership confirmation (2026-07-31):** Explay confirmed the
+lead and support assignments shown above: lead for Weeks 4 and 9–12,
+and support for Weeks 2, 5, 7, and 8. Week 9's detailed division of
+product-iteration, technical-debugging, integration, and security work
+between Explay and VoltPop remains to be defined.
+
 **Tools-column note (Week 5)**: the shared sheet currently lists Arduino
 IDE, but the actual firmware plan is **MicroPython/Thonny** (decided
 2026-07-31 — Arduino IDE and MicroPython are incompatible ESP32

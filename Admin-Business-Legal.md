@@ -21,6 +21,10 @@ the VSU Innovation Program. For curriculum/teaching content, see
 | **Dr. Shawn M. Nicholson LLC** | Business entity distinct from VSU. Exact role/relationship to Dr. Nicholson's VSU Institutional Liaison position (below) — e.g. whether this is the contracting vehicle for his compensation — still needs clarification from Dr. Nicholson (see §9). |
 | **Virginia State University (VSU)** | Host institution, Commonwealth of Virginia agency. Institutional liaison: **Dr. Shawn Nicholson** (Operations Director). |
 
+**Explay role confirmation (2026-07-31):** Explay confirmed that the
+role description above is accurate: curriculum co-design plus
+Entrepreneurship & Innovation instruction.
+
 **IP ownership (current draft state):** Program Curriculum is jointly
 owned by Explay and VoltPop as co-designers (equal shares), with Builder
 Tech and VSU each getting a license to use it. Each party retains its
