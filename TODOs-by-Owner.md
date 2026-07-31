@@ -53,6 +53,10 @@ lands right around when the Business School's new dean starts
 10. **[Due mid-Aug 2026]** Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
 11. Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
 
+## Dr. Shawn M. Nicholson LLC
+
+1. Clarify this entity's exact role and relationship to Dr. Nicholson's VSU Institutional Liaison position — specifically whether it's the contracting/payment vehicle for his compensation, and how that interacts with the open Agreement payment-flow question (Admin-Business-Legal.md §1/§2/§9).
+
 ## Dr. Nicholson (VSU)
 
 1. Confirm VSU's actual 2027 academic calendar — specifically Founder's Day (Mar 18) and the midterms window (Mar 1-6) — before those schedule dates get locked in (Admin-Business-Legal.md §7).
