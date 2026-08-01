@@ -170,6 +170,10 @@ working files):
 - **Week 2** ("Understanding Systems & IoT") has no lesson plan built
   yet — V2 makes VoltPop Lead for this week, which wasn't anticipated
   under the earlier schedule version.
+- **Weeks 4, 9, 10, 11, 12** (all Explay-led) have no lesson-plan-status
+  tracking in this KB at all — unlike the VoltPop-led weeks above, it's
+  not documented here whether lesson plans for any of these exist,
+  are drafted, or still need to be built from scratch.
 
 ## 7. Open items — curriculum and teaching
 
@@ -192,3 +196,9 @@ working files):
     access to (Claude Code vs. ChatGPT/Codex) — see
     `Admin-Business-Legal.md` §6 — before further lesson-plan rewrites
     lock in one tool's prompts over the other.
+11. Establish lesson-plan status (built / drafted / not started) for
+    Explay's five lead weeks (4, 9, 10, 11, 12), matching the tracking
+    already kept for VoltPop's weeks in §6.
+12. Decide whether to reintroduce a named "elevator pitch" deliverable
+    in Weeks 11–12 (Explay-led), present in V1's schedule but dropped
+    from V2's pitch weeks (see §5).

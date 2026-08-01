@@ -84,21 +84,35 @@ until then; don't infer ownership from the category headings.
 9. **[Due mid-Aug 2026]** Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
 10. Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
 
+## Explay
+
+1. Establish lesson-plan status (built / drafted / not started) for each of Explay's five lead weeks — currently untracked in this KB entirely, unlike VoltPop's weeks (Course-Curriculum.md §6/§7):
+   - Week 4 — Business Models & Market Fit
+   - Week 9 — Full Build, Iterations 3 & 4 (incl. the shrunken security content, below)
+   - Week 10 — Testing & Going Live
+   - Week 11 — Crafting Your Pitch
+   - Week 12 — Practice & Feedback
+2. Design Week 9's shrunken security/APIs content around the 4D lens, since Explay leads that week — currently unstructured (Course-Curriculum.md §7).
+3. Help resolve Week 9's detailed division of labor with VoltPop (product-iteration vs. technical-debugging/integration/security split) — still unresolved despite Explay's lead/support assignments being confirmed (Course-Curriculum.md §6).
+4. Weigh in on restoring a real Security Considerations deliverable in Week 9, now demoted to a passing mention — Explay leads the week this content lives in (Course-Curriculum.md §5/§7).
+5. Decide whether to reintroduce a named "elevator pitch" deliverable in Weeks 11–12 — present in V1's schedule, dropped from V2 (Course-Curriculum.md §5/§7).
+6. Weigh in on the Week 11/12 VoltPop support role still marked "(TBD)" in the schedule (Course-Curriculum.md §4).
+7. Provide Explay's longer "about" boilerplate for the press kit — currently a placeholder (Press-Kit-Content.md).
+8. Provide Emanuel Perez's personal "about me" blurb and headshot for the press kit (Press-Kit-Content.md).
+9. Confirm own background-check (SentryLink, virtual staff) timeline before Week 1 (Admin-Business-Legal.md §9).
+
 ## Dr. Shawn M. Nicholson LLC
 
-1. Clarify this entity's exact role and relationship to Dr. Nicholson's VSU Institutional Liaison position — specifically whether it's the contracting/payment vehicle for his compensation, and how that interacts with the open Agreement payment-flow question (Admin-Business-Legal.md §1/§2/§9).
-
-## Dr. Nicholson (VSU)
-
-1. Confirm VSU's actual 2027 academic calendar — specifically Founder's Day (Mar 18) and the midterms window (Mar 1-6) — before those schedule dates get locked in (Admin-Business-Legal.md §7).
-2. Confirm the FERPA "school official" designation process/timeline for Builder Tech, Explay, and VoltPop (Admin-Business-Legal.md §7).
-3. Confirm background-check process/timeline, and who the (now 3, down from 6) in-person staff actually are (Admin-Business-Legal.md §7).
-4. Confirm classroom/lab space suited to the hardware weeks (ESP32/breadboards/sensors), plus network access (Admin-Business-Legal.md §7).
-5. Establish the shared grading/rubric structure the Agreement calls for but doesn't yet define (Admin-Business-Legal.md §7).
-6. Get VSU counsel/procurement review moving on indemnification, liability caps, and governing law/arbitration language (Admin-Business-Legal.md §3).
-7. Confirm the payment flow — VSU paying VoltPop/Explay directly, or via Builder Tech (Admin-Business-Legal.md §7).
-8. Loop in VSU's own advancement/development office for external fundraising coordination — not urgent given stakeholder outreach is proceeding first, but still needed before things go further (Admin-Business-Legal.md §8).
-9. **[Due mid-Aug 2026]** Pursue Anthropic's Claude for Education and/or Claude Corps application as VSU (both require an institutional applicant, not a private LLC) — Claude Corps' January 2027 cohort aligns closely with the program start (Admin-Business-Legal.md §8).
-10. **[Due mid-Aug 2026]** Explore NSF HBCU-UP funding as a federal STEM-at-HBCUs funding channel (Admin-Business-Legal.md §8).
-11. **[Due mid-Aug 2026]** Check on VSU's existing Southern Company relationship (the $500K endowed professorship) as a warm lead for additional funding (Admin-Business-Legal.md §8).
-12. Coordinate with Dean Haley (Engineering) and the Business School's interim/incoming dean, leveraging the existing MoU that already directs the two colleges to collaborate (Admin-Business-Legal.md §4).
+1. Set compensation amount and contract terms, now confirmed as the payment vehicle for Dr. Nicholson's Operations Director & Institutional Liaison role rather than a VSU salary line (Admin-Business-Legal.md §1/§2/§9).
+2. Confirm VSU's actual 2027 academic calendar — specifically Founder's Day (Mar 18) and the midterms window (Mar 1-6) — before those schedule dates get locked in (Admin-Business-Legal.md §7).
+3. Confirm the FERPA "school official" designation process/timeline for Builder Tech, Explay, and VoltPop (Admin-Business-Legal.md §7).
+4. Confirm background-check process/timeline, and who the (now 3, down from 6) in-person staff actually are (Admin-Business-Legal.md §7).
+5. Confirm classroom/lab space suited to the hardware weeks (ESP32/breadboards/sensors), plus network access (Admin-Business-Legal.md §7).
+6. Establish the shared grading/rubric structure the Agreement calls for but doesn't yet define (Admin-Business-Legal.md §7).
+7. Get VSU counsel/procurement review moving on indemnification, liability caps, and governing law/arbitration language (Admin-Business-Legal.md §3).
+8. Confirm the payment flow — VSU paying VoltPop/Explay directly, or via Builder Tech — and where Dr. Shawn M. Nicholson LLC's own compensation fits into it (Admin-Business-Legal.md §7).
+9. Loop in VSU's own advancement/development office for external fundraising coordination — not urgent given stakeholder outreach is proceeding first, but still needed before things go further (Admin-Business-Legal.md §8).
+10. **[Due mid-Aug 2026]** Pursue Anthropic's Claude for Education and/or Claude Corps application as VSU (both require an institutional applicant, not a private LLC) — Claude Corps' January 2027 cohort aligns closely with the program start (Admin-Business-Legal.md §8).
+11. **[Due mid-Aug 2026]** Explore NSF HBCU-UP funding as a federal STEM-at-HBCUs funding channel (Admin-Business-Legal.md §8).
+12. **[Due mid-Aug 2026]** Check on VSU's existing Southern Company relationship (the $500K endowed professorship) as a warm lead for additional funding (Admin-Business-Legal.md §8).
+13. Coordinate with Dean Haley (Engineering) and the Business School's interim/incoming dean, leveraging the existing MoU that already directs the two colleges to collaborate (Admin-Business-Legal.md §4).
