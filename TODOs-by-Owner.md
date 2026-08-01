@@ -85,7 +85,7 @@ by name until then. In chronological priority order:
 6. Build a new Week 2 lesson plan from scratch — no material exists yet, and VoltPop now leads it (Course-Curriculum.md §6/§7).
 7. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework (Course-Curriculum.md §7).
 8. Name RTFC explicitly as Week 8's default template once its lesson is rewritten (Course-Curriculum.md §7).
-9. Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
+9. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
 
 ## Explay
 
