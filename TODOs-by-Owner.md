@@ -22,6 +22,38 @@ cohort alignment) if all nine can't get equal depth in time. This also
 lands right around when the Business School's new dean starts
 (mid-August) — likely coincidental, but worth noting.
 
+**Note:** per Javon's meeting-recap email below, "Stakeholder
+research — Aug 4–7, 2026" is a much tighter window than "mid-August."
+Unclear whether this is the same nine-thread research effort above with
+a firmer date, or a distinct, narrower research task — confirm with
+Javon before treating either date as authoritative.
+
+## Milestone: Present to VSU (per Javon's 2026-07-31 meeting recap)
+
+**Target: Aug 21, 2026 (ideal) / Aug 28, 2026 (latest).** Javon said a
+full task-delegation email (owners + deadlines) is coming before Monday
+2026-08-03, 12:00 PM — the items below are **intentionally unassigned**
+until then; don't infer ownership from the category headings.
+
+**Program Design**
+- Finalize the mentorship model — by Aug 7, 2026 (already tracked as Builder Tech item below; now has a firm date).
+- Program revision — due Aug 17, 2026 (scope unclear — likely the Course-Curriculum.md schedule/program document; confirm with Javon).
+
+**Stakeholder Engagement**
+- Stakeholder research — Aug 4–7, 2026 (see the discrepancy note above).
+- Stakeholder presentation slides shared — by Aug 7, 2026.
+- Stakeholder support conversations start — by Aug 7, 2026.
+- VSU meeting scheduled/confirmed — by Aug 7, 2026.
+- Pitch rehearsal — Aug 19, 2026.
+- Client presentation created & delivered — Aug 21, 2026 (the milestone itself).
+
+**Budget & Resources**
+- Loaner laptop question — confirm by Aug 7, 2026. **New item**, ties directly to the open laptop-responsibility gap in `Admin-Business-Legal.md` §6 (laptops assumed VSU-supplied, not yet formally confirmed).
+- Budget revision — due Aug 14, 2026 (ties to the several open budget items under Builder Tech below).
+
+**Legal & Admin**
+- Internal MOUs and temporary NDAs in place — by Aug 7, 2026. **New item**, distinct from the main Operating Agreement already in draft — see `Admin-Business-Legal.md` §3.
+
 ## Builder Tech
 
 1. Correct Week 5's tools column in the live schedule sheet: Arduino IDE → MicroPython/Thonny (Course-Curriculum.md §4/§6).

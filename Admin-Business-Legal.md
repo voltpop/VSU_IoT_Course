@@ -87,6 +87,12 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   eliminate) the procurement/counsel-review process, since VSU already
   has a working internal framework for cross-college, externally
   partnered initiatives like this one.
+- **Internal MOUs and temporary NDAs** — per Javon's 2026-07-31 meeting
+  recap email, these need to be in place by Aug 7, 2026. Distinct from
+  the main Operating Agreement above — likely a short-term stopgap
+  covering the four (now five) parties' collaboration and information-
+  sharing before the full Agreement is signed. Scope/parties/duration
+  not yet specified (see TODOs-by-Owner.md).
 
 ## 4. Team roster, VSU contacts & regional focus
 
@@ -192,7 +198,10 @@ not an error):
 **Laptops**: no line item here — laptops are needed and will be
 **VSU-supplied directly**, outside this Program budget. Worth adding an
 explicit laptop line to the Agreement's VSU responsibilities so this
-doesn't get mistaken for a budget gap.
+doesn't get mistaken for a budget gap. Per Javon's 2026-07-31 meeting
+recap email, a "loaner laptop question" needs confirming by Aug 7,
+2026 — likely whether VSU will actually provide loaners for students
+without their own, which this assumption has never explicitly covered.
 
 Hardware quantities here (84 ESP32, 131 sensors) run above the earlier
 63/73 (baseline/buffer) cohort assumption — worth confirming whether
@@ -384,3 +393,6 @@ looped in.
 11. Clarify the specifics behind any "Claude Code is cheaper than Claude chat" comparison being used in planning — available research suggests Claude Code and Claude's chat interface share the same subscription and usage pool, so it's worth confirming exactly what was compared before it informs budget decisions.
 12. Progress the nine stakeholder/funding research threads in §8 by the mid-August deadline.
 13. Clarify Dr. Shawn M. Nicholson LLC's exact role/relationship to Dr. Nicholson's VSU Institutional Liaison position — whether it's the contracting/payment vehicle for his compensation (§1/§2), and how that interacts with the payment-flow open item above (§7).
+14. Put internal MOUs and temporary NDAs in place by Aug 7, 2026, per Javon's 2026-07-31 meeting recap (§3) — scope/parties/duration still unspecified.
+15. Confirm the loaner-laptop question by Aug 7, 2026, per the same email (§6) — resolve whether VSU will provide loaners for students without their own.
+16. Meet the overall Aug 21/28, 2026 VSU-presentation milestone from Javon's recap — see TODOs-by-Owner.md for the full categorized list (owners pending his delegation email).
