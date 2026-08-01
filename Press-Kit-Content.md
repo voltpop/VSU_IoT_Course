@@ -7,9 +7,12 @@ updated: 2026-07-31
 # VSU Innovation Program — Press Kit Content (Draft)
 
 Text content for the press kit ("press bits") to accompany the
-stakeholder pitch. **Logos and photos are not included here** — each
-entity's asset needs are listed at the bottom; the text below (blurbs +
-"about" copy) is ready to pair with them once sourced.
+stakeholder pitch. **Each company's logo, headshot, "about me," and
+"about the company" now live in its own landing-pad folder under
+`assets/`** (`assets/voltpop/`, `assets/builder-tech/`, `assets/explay/`,
+`assets/nicholson-llc/`) — each company edits and commits their own
+final versions there. The program-wide and VSU-institutional content
+below stays here since neither is a single company's landing pad.
 
 ## VSU Innovation Program
 
@@ -47,46 +50,26 @@ around.
 *(Fuller institutional "about" language should come from VSU's own
 communications office.)*
 
-## Builder Tech LLC
+## Builder Tech LLC, Explay, VoltPop LLC, Dr. Shawn M. Nicholson LLC
 
-**Short about:**
-Builder Tech LLC serves as Program Director and operator of the VSU
-Innovation Program, leading business operations, marketing coordination,
-and team coordination, alongside Business Intelligence & Design
-instruction (Javon Guerrier).
-
-*(Longer boilerplate should come from Builder Tech directly.)*
-
-## Explay
-
-**Short about:**
-Explay co-designs the VSU Innovation Program's curriculum and leads
-Entrepreneurship & Innovation instruction (Emanuel Perez), drawing on
-Explay's prior experience with project-based, "building in public"
-program models.
-
-*(Longer boilerplate should come from Explay directly.)*
-
-## VoltPop LLC
-
-**Short about:**
-VoltPop LLC co-designs the VSU Innovation Program's curriculum and leads
-Engineering & Computer Science instruction (Andrew "Drew" Foulks),
-including IoT hardware, AI-assisted development, and open-source
-practice.
-
-*(Longer boilerplate should come from VoltPop directly.)*
+Each company's logo, headshot, "about me," and "about the company" live
+in their own landing-pad folder — see `assets/<company>/README.md` for
+exactly what goes where. Draft "about the company" text has already
+been seeded in each folder's `about-company.md`; each company should
+review/replace it and add their own `about-me.md`, `logo.*`, and
+`headshot.*`.
 
 ---
 
 ## Asset checklist (needs sourcing)
 
-- [ ] VSU logo (official, current)
-- [ ] Builder Tech LLC logo
-- [ ] Explay logo
-- [ ] VoltPop LLC logo
-- [ ] Headshots: Javon Guerrier, Emanuel Perez, Andrew Foulks, Dr. Shawn
-      Nicholson
+- [ ] VSU logo (official, current) — no landing pad; VSU isn't a
+      company being asked to commit assets here, so this one just
+      needs sourcing directly.
+- [ ] Builder Tech LLC: logo, headshot, about-me, about-company — `assets/builder-tech/`
+- [ ] Explay: logo, headshot, about-me, about-company — `assets/explay/`
+- [ ] VoltPop LLC: logo, headshot, about-me, about-company — `assets/voltpop/`
+- [ ] Dr. Shawn M. Nicholson LLC: logo, headshot, about-me, about-company — `assets/nicholson-llc/`
 - [ ] Program/campus photos (VSU campus, Tri-Cities region imagery)
 - [ ] Any existing prototype/hardware photos from prior project work, if
       usable as illustrative (not program-specific yet, since the
