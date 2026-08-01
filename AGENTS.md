@@ -79,4 +79,10 @@ frequent PRs are easier for async collaborators to review.
 - Avoid adding personal/private information belonging to any one party
   (e.g., someone's individual negotiating position, personal financial
   details not relevant to the shared program) — this repo is meant to be
-  readable by all four parties.
+  readable by all five parties.
+- In `TODOs-by-Owner.md`, list items with a firm due date before undated
+  ones within each section (earliest first), and tag items whose scope
+  naturally spans more than one party as **(shared: ...)** rather than
+  treating the section they're filed under as sole ownership — this
+  program is run collaboratively, and overlap should be presumed
+  co-work by default (per VoltPop, 2026-08-01).
