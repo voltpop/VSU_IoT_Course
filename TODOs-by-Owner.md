@@ -77,15 +77,20 @@ by name until then. In chronological priority order:
 
 ## VoltPop
 
+### Curriculum work (content to generate for the class)
+
+1. Rewrite Week 7's lesson plan around Data Flow & Systems Architecture (Course-Curriculum.md §6).
+2. Adapt the existing MCP-server lesson into Week 8, now that it has a home there (Course-Curriculum.md §6).
+3. Build a new Week 2 lesson plan from scratch — no material exists yet, and VoltPop now leads it (Course-Curriculum.md §6/§7).
+4. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework (Course-Curriculum.md §7).
+5. Name RTFC explicitly as Week 8's default template once its lesson is rewritten (Course-Curriculum.md §7).
+
+### Administrative / upfront work (prep, sell, fund the course)
+
 1. **Aug 21** — Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos *(shared: Explay + Builder Tech, since it feeds the joint client presentation)* — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
 2. **Aug 4–7** — Follow through on direct Siemens research/outreach (Admin-Business-Legal.md §8).
 3. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
-4. Rewrite Week 7's lesson plan around Data Flow & Systems Architecture (Course-Curriculum.md §6).
-5. Adapt the existing MCP-server lesson into Week 8, now that it has a home there (Course-Curriculum.md §6).
-6. Build a new Week 2 lesson plan from scratch — no material exists yet, and VoltPop now leads it (Course-Curriculum.md §6/§7).
-7. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework (Course-Curriculum.md §7).
-8. Name RTFC explicitly as Week 8's default template once its lesson is rewritten (Course-Curriculum.md §7).
-9. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
+4. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
 
 ## Explay
 
