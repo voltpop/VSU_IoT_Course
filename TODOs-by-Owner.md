@@ -54,10 +54,20 @@ lands right around when the Business School's new dean starts
 
 ## Explay
 
-1. Provide Explay's longer "about" boilerplate for the press kit — currently a placeholder (Press-Kit-Content.md).
-2. Provide Emanuel Perez's personal "about me" blurb and headshot for the press kit (Press-Kit-Content.md).
+1. Establish lesson-plan status (built / drafted / not started) for each of Explay's five lead weeks — currently untracked in this KB entirely, unlike VoltPop's weeks (Course-Curriculum.md §6/§7):
+   - Week 4 — Business Models & Market Fit
+   - Week 9 — Full Build, Iterations 3 & 4 (incl. the shrunken security content, below)
+   - Week 10 — Testing & Going Live
+   - Week 11 — Crafting Your Pitch
+   - Week 12 — Practice & Feedback
+2. Design Week 9's shrunken security/APIs content around the 4D lens, since Explay leads that week — currently unstructured (Course-Curriculum.md §7).
 3. Help resolve Week 9's detailed division of labor with VoltPop (product-iteration vs. technical-debugging/integration/security split) — still unresolved despite Explay's lead/support assignments being confirmed (Course-Curriculum.md §6).
-4. Confirm own background-check (SentryLink, virtual staff) timeline before Week 1 (Admin-Business-Legal.md §9).
+4. Weigh in on restoring a real Security Considerations deliverable in Week 9, now demoted to a passing mention — Explay leads the week this content lives in (Course-Curriculum.md §5/§7).
+5. Decide whether to reintroduce a named "elevator pitch" deliverable in Weeks 11–12 — present in V1's schedule, dropped from V2 (Course-Curriculum.md §5/§7).
+6. Weigh in on the Week 11/12 VoltPop support role still marked "(TBD)" in the schedule (Course-Curriculum.md §4).
+7. Provide Explay's longer "about" boilerplate for the press kit — currently a placeholder (Press-Kit-Content.md).
+8. Provide Emanuel Perez's personal "about me" blurb and headshot for the press kit (Press-Kit-Content.md).
+9. Confirm own background-check (SentryLink, virtual staff) timeline before Week 1 (Admin-Business-Legal.md §9).
 
 ## Dr. Shawn M. Nicholson LLC
 
