@@ -146,9 +146,13 @@ considered.
 
 Built lesson plans live in `~/Documents/VoltPop/IoT_Course/` (VoltPop's
 working files):
-- `Week1_Course_Foundations_Lesson_Plan.md` — built, matches V2's Week 1
-  closely; needs two small wording fixes (references to "designing an
-  MCP server in Week 7," which no longer describes Week 7's topic).
+- `Week1_Course_Foundations_Lesson_Plan.md` — built, matches V2's Week 1.
+  Previously flagged gaps now fixed (2026-08-01): the two stray
+  "designing an MCP server in Week 7" references are corrected, and the
+  file now covers the schedule's Week 1 deliverables that weren't
+  actually in it — account creation (Lovable, Claude Code/Codex,
+  Claude/ChatGPT, Gemini/DALL-E), portfolio setup via Lovable and
+  LinkedIn (Day 1), and a first public/LinkedIn post (Day 2).
 - `Week5_AI_Wiring_Firmware_Prompt_Template.md` — built for
   MicroPython/Thonny (confirmed as the right toolchain, see §4); needs
   one new section added for Week 5's Tuesday content (GitHub migration,
@@ -176,16 +180,15 @@ working files):
 3. Build a lesson plan for Week 2.
 4. Rewrite Week 7's lesson plan around Data Flow & Systems Architecture.
 5. Adapt the MCP-server lesson into Week 8.
-6. Fix Week 1's stray references to "designing an MCP server in Week 7."
-7. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework,
+6. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework,
    and name RTFC explicitly as Week 8's default template.
-8. Design Week 9's shrunken security/APIs content around the 4D lens
+7. Design Week 9's shrunken security/APIs content around the 4D lens
    rather than leaving it unstructured.
-9. Get Week 8's leadership (VoltPop) and the API→MCP swap actually
+8. Get Week 8's leadership (VoltPop) and the API→MCP swap actually
    entered into the live schedule sheet.
-10. Correct Week 5's tools column (Arduino IDE → MicroPython/Thonny) in
-    the live schedule sheet.
-11. Resolve which AI-coding tool students will actually have funded
+9. Correct Week 5's tools column (Arduino IDE → MicroPython/Thonny) in
+   the live schedule sheet.
+10. Resolve which AI-coding tool students will actually have funded
     access to (Claude Code vs. ChatGPT/Codex) — see
     `Admin-Business-Legal.md` §6 — before further lesson-plan rewrites
     lock in one tool's prompts over the other.

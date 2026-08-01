@@ -44,14 +44,13 @@ lands right around when the Business School's new dean starts
 1. Rewrite Week 7's lesson plan around Data Flow & Systems Architecture (Course-Curriculum.md §6).
 2. Adapt the existing MCP-server lesson into Week 8, now that it has a home there (Course-Curriculum.md §6).
 3. Build a new Week 2 lesson plan from scratch — no material exists yet, and VoltPop now leads it (Course-Curriculum.md §6/§7).
-4. Fix Week 1's two stray "designing an MCP server in Week 7" references (Course-Curriculum.md §6).
-5. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework (Course-Curriculum.md §7).
-6. Name RTFC explicitly as Week 8's default template once its lesson is rewritten (Course-Curriculum.md §7).
-7. Push for a real leadership role (not just Support) in Week 9's security content, given VoltPop largely owns the technical portion of the program (Course-Curriculum.md §7).
-8. Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
-9. **[Due mid-Aug 2026]** Follow through on direct Siemens research/outreach (Admin-Business-Legal.md §8).
-10. **[Due mid-Aug 2026]** Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
-11. Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
+4. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework (Course-Curriculum.md §7).
+5. Name RTFC explicitly as Week 8's default template once its lesson is rewritten (Course-Curriculum.md §7).
+6. Push for a real leadership role (not just Support) in Week 9's security content, given VoltPop largely owns the technical portion of the program (Course-Curriculum.md §7).
+7. Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
+8. **[Due mid-Aug 2026]** Follow through on direct Siemens research/outreach (Admin-Business-Legal.md §8).
+9. **[Due mid-Aug 2026]** Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
+10. Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
 
 ## Dr. Shawn M. Nicholson LLC
 
