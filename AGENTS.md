@@ -66,11 +66,11 @@ frequent PRs are easier for async collaborators to review.
 
 - Keep the file split established in `README.md` — business/legal/budget
   content in `Admin-Business-Legal.md`, curriculum/schedule content in
-  `Course-Curriculum.md`, stakeholder-facing material in
-  `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`, and
-  cross-party action items in `TODOs-by-Owner.md`. Don't fork new
-  top-level files for content that fits an existing one without a clear
-  reason.
+  `Course-Curriculum.md`, stakeholder research/contact prep in
+  `Stakeholder-Notes.md`, press materials in `Press-Kit-Content.md` and
+  `assets/`, and cross-party action items in `TODOs-by-Owner.md`. Don't
+  fork new top-level files for content that fits an existing one
+  without a clear reason.
 - When a figure or fact changes (budget numbers, schedule dates, role
   assignments), update it in place rather than leaving stale figures
   alongside new ones — but note *what changed and when* if the change

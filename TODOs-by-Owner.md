@@ -87,9 +87,9 @@ by name until then. In chronological priority order:
 
 ### Administrative / upfront work (prep, sell, fund the course)
 
-1. **Aug 21** — Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos *(shared: Explay + Builder Tech, since it feeds the joint client presentation)* — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
-2. **Aug 4–7** — Follow through on direct Siemens research/outreach (Admin-Business-Legal.md §8).
-3. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
+1. **Aug 4–7** — Follow through on direct Siemens research/outreach — fill in `Stakeholder-Notes.md`'s Siemens profile (what they want, contact, angle) as this progresses (Admin-Business-Legal.md §8).
+2. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in — see the framing guidance at the top of `Stakeholder-Notes.md` (Admin-Business-Legal.md §8).
+3. **Aug 21** — Build the actual tailored pitch deck/press kit from `Stakeholder-Notes.md`'s per-stakeholder research (once filled in) and lock final budget/ask figures and logos/photos *(shared: Explay + Builder Tech, since it feeds the joint client presentation)* — see `Stakeholder-Notes.md` and `Press-Kit-Content.md`.
 4. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
 
 ## Explay
