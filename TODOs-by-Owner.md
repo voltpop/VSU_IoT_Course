@@ -78,11 +78,10 @@ until then; don't infer ownership from the category headings.
 3. Build a new Week 2 lesson plan from scratch — no material exists yet, and VoltPop now leads it (Course-Curriculum.md §6/§7).
 4. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework (Course-Curriculum.md §7).
 5. Name RTFC explicitly as Week 8's default template once its lesson is rewritten (Course-Curriculum.md §7).
-6. Push for a real leadership role (not just Support) in Week 9's security content, given VoltPop largely owns the technical portion of the program (Course-Curriculum.md §7).
-7. Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
-8. **[Due mid-Aug 2026]** Follow through on direct Siemens research/outreach (Admin-Business-Legal.md §8).
-9. **[Due mid-Aug 2026]** Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
-10. Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
+6. Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
+7. **[Due mid-Aug 2026]** Follow through on direct Siemens research/outreach (Admin-Business-Legal.md §8).
+8. **[Due mid-Aug 2026]** Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
+9. Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
 
 ## Explay
 
