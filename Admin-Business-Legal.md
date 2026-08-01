@@ -18,8 +18,8 @@ the VSU Innovation Program. For curriculum/teaching content, see
 | **VoltPop LLC** (Andrew "Drew" Foulks) | Curriculum co-designer + Computer Science SME/instructor; largely owns the technical portion of the program (hardware/IoT, AI-assisted development, open source). |
 | **Builder Tech LLC** (Javon Guerrier) | Program Director/operator, plus Business Intelligence & Design instruction. |
 | **Explay** (Emanuel Perez) | Curriculum co-designer, plus Entrepreneurship & Innovation instruction. |
-| **Dr. Shawn M. Nicholson LLC** | Business entity distinct from VSU. Exact role/relationship to Dr. Nicholson's VSU Institutional Liaison position (below) — e.g. whether this is the contracting vehicle for his compensation — still needs clarification from Dr. Nicholson (see §9). |
-| **Virginia State University (VSU)** | Host institution, Commonwealth of Virginia agency. Institutional liaison: **Dr. Shawn Nicholson** (Operations Director). |
+| **Dr. Shawn M. Nicholson LLC** (Dr. Shawn Nicholson) | **Confirmed (2026-08-01, VoltPop):** Dr. Nicholson is not a VSU employee — he works for, and is, this LLC. It's his professional vehicle for the Operations Director & Institutional Liaison role, structurally a fifth contracting party alongside VoltPop/Builder Tech/Explay rather than VSU staff. Compensation amount and contract-flow specifics still TBD (see §2/§9). |
+| **Virginia State University (VSU)** | Host institution, Commonwealth of Virginia agency. Its Operations Director & Institutional Liaison contact is Dr. Shawn Nicholson, engaged via Dr. Shawn M. Nicholson LLC above — not a VSU staff position. |
 
 **Explay role confirmation (2026-07-31):** Explay confirmed that the
 role description above is accurate: curriculum co-design plus
@@ -40,7 +40,7 @@ back to VoltPop/Builder Tech/Explay to showcase anonymized student work.
 | Javon (Builder Tech) — Business Intelligence & Design Instruction & Curriculum, Program Director | $55,000 | Flat fee, up from an hourly-basis $50,400 in Budget V1; role also expanded to include named instructional duties, not just Program Director/operator. |
 | Andrew (VoltPop) — Engineering & Computer Science Instruction & Curriculum | $70,000 | Unchanged from Budget V1. |
 | Emanuel (Explay) — Entrepreneurship & Innovation Instruction & Curriculum | $87,500 | Unchanged. |
-| Dr. Shawn Nicholson — Operations Director & Institutional Liaison | TBD | Was $0 in Budget V1; now an open compensation question rather than an assumed volunteer role. Possible this falls under Dr. Nicholson's existing VSU role and needs no separate cash line, or could be paid out through **Dr. Shawn M. Nicholson LLC** (see §1) — worth confirming which. |
+| Dr. Shawn Nicholson (Dr. Shawn M. Nicholson LLC) — Operations Director & Institutional Liaison | TBD | Was $0 in Budget V1; now an open compensation question rather than an assumed volunteer role. Confirmed (see §1) this is paid through **Dr. Shawn M. Nicholson LLC**, not absorbed into an existing VSU salary — amount and contract terms still need setting. |
 | Finance role | $0 | Was ~$16,000–$28,000 in Budget V1. Status (cut / unpaid / absorbed elsewhere) needs confirming. |
 | Marketing role | $0 | Needs a real line item and amount — flagged as a gap, not a considered decision. |
 
@@ -95,7 +95,7 @@ not yet reflected in the Software Licenses & Subscriptions figures in
 | Name | Entity | Role | Instructor? | Presence | Contact |
 |---|---|---|---|---|---|
 | Javon Guerrier | Builder Tech | Program Director; Operations; Business Intelligence & Design Instruction & Curriculum | Y | In-Person/Online | main@buildertech.com |
-| Dr. Shawn Nicholson | VSU / Dr. Shawn M. Nicholson LLC | Operations Director & Institutional Liaison | N | — | drshawnmnicholson@gmail.com |
+| Dr. Shawn Nicholson | Dr. Shawn M. Nicholson LLC | Operations Director & Institutional Liaison (to VSU) | N | — | drshawnmnicholson@gmail.com |
 | Emanuel Perez | Explay | Program Design; Entrepreneurship & Innovation Instruction & Curriculum | Y | Online Only | emanuel.perez.va@gmail.com |
 | Andrew Foulks | VoltPop | Computer Science SME; Engineering & Computer Science Instruction & Curriculum | Y | In-Person/Online | dfoulks@voltpop.com |
 | Dr. Xavier Palmer | TBD | Grants, Research, Cyber & Bio Advisor | N | N/A | — |
@@ -383,4 +383,4 @@ looped in.
 10. Correct the Week 5 tools column (Arduino IDE → MicroPython/Thonny) and enter the Week 8 leadership/API→MCP updates into the live schedule sheet — see Course-Curriculum.md.
 11. Clarify the specifics behind any "Claude Code is cheaper than Claude chat" comparison being used in planning — available research suggests Claude Code and Claude's chat interface share the same subscription and usage pool, so it's worth confirming exactly what was compared before it informs budget decisions.
 12. Progress the nine stakeholder/funding research threads in §8 by the mid-August deadline.
-13. Clarify Dr. Shawn M. Nicholson LLC's exact role/relationship to Dr. Nicholson's VSU Institutional Liaison position — whether it's the contracting/payment vehicle for his compensation (§1/§2), and how that interacts with the payment-flow open item above (§7).
+13. Set Dr. Shawn M. Nicholson LLC's compensation amount and contract terms, now that it's confirmed as the payment vehicle rather than a VSU salary line (§1/§2) — and fold it into the payment-flow open item above (§7), which so far only covers VoltPop/Explay/Builder Tech.
