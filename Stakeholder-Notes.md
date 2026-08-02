@@ -105,19 +105,22 @@ before this becomes anything presentation-ready (per VoltPop).
 8. **Regional/local relevance:** both connect through the Petersburg
    factory thread — a local ask, not a generic national one.
 
-### Siemens/Jabil — VoltPop's call-prep script (2026-08-02)
+### Siemens/Jabil — VoltPop's call notes / thoughts-gathering (2026-08-02)
 
-Personal call notes for VoltPop's own Siemens/Jabil calls — **not** the
-joint pitch deck (that's the Aug 21 item shared with Explay/Builder
-Tech). The goal of these calls is to introduce the program and find
-the right ongoing contact, not close anything.
+**Rough notes for thinking through VoltPop's own Siemens/Jabil calls —
+not a script to read verbatim, and not the joint pitch deck** (that's
+the Aug 21 item shared with Explay/Builder Tech). These are talking
+points to gather thoughts from, not a production. The goal of these
+calls is to introduce the program and find the right ongoing contact,
+not close anything.
 
-**Opening** (don't state the program's name — it's an internal
+**Opening idea** (don't state the program's name — it's an internal
 placeholder, not something to represent as official; see README.md):
-"Hi, this is Andrew Foulks with VoltPop — we're building a new program
-for Virginia State University, launching Spring 2027. I'm reaching out
-because I think there's a natural fit with the work you're doing, and
-wanted to introduce it and see if it's worth a longer conversation."
+something like "Hi, this is Andrew Foulks with VoltPop — we're building
+a new program for Virginia State University, launching Spring 2027.
+I'm reaching out because I think there's a natural fit with the work
+you're doing, and wanted to introduce it and see if it's worth a longer
+conversation." Adjust to how it actually feels natural on the call.
 
 **What it is (~30 seconds):** a one-semester program where VSU business
 students build a real IoT-and-AI-powered product for a real regional
@@ -133,11 +136,13 @@ engineering-training program.
   smaller scale) the manufacturing-talent-pipeline education Jabil's
   already invested in elsewhere (St. Petersburg College).
 
-**The ask on this call (soft, not formal):** "We're early — this is
-exploratory on our end too, before VSU's own advancement office is
-formally looped in. Is there someone on your side who handles education
-or community partnerships? I'd love to set up a longer conversation
-once we have more specifics finalized, probably in the next few weeks."
+**The ask on this call (soft, not formal)** — something like: "we're
+early — this is exploratory on our end too, before VSU's own
+advancement office is formally looped in. Is there someone on your
+side who handles education or community partnerships? I'd love to
+set up a longer conversation once we have more specifics finalized,
+probably in the next few weeks." Again, a rough idea, not a line to
+recite.
 
 **Questions to ask them** (worth more than anything said on the call):
 - Is there an existing education/community-outreach contact or process
