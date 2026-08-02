@@ -35,17 +35,28 @@ name.
 - Dr. Shawn Nicholson is VSU's actual Institutional Liaison — his
   presence/blessing on a call lends real legitimacy; worth considering
   for conversations beyond the earliest exploratory ones.
+- **Hierarchy of what a stakeholder can offer (per VoltPop)** — if asked
+  "what do you actually need," listen/ask in this order of usefulness,
+  but don't lock in a number on the call:
+  1. **Cash funding** — most useful, most flexible.
+  2. **In-kind contributions** — hardware, software licenses/credits,
+     event space.
+  3. **Mentors/guest speakers** — real but lower-value than the above.
+  4. **Just interest/awareness** — the floor, not the goal, but still
+     worth keeping the door open on a first, exploratory call.
 
 ## Siemens
 
 - **Owner:** VoltPop. **Status:** direct outreach in progress — due Aug 4–7 (TODOs-by-Owner.md). Next step: call the Newport News office and ask for the Academic Programs Coordinator.
+- **Existing VSU relationship — confirmed and strong (per VoltPop's lead, verified 2026-08-02):** in June 2014, Siemens announced $1B+ in in-kind software grants to Virginia schools for manufacturing education, and **VSU specifically received $105.6M in software** supporting six programs (Manufacturing Engineering, Computer Engineering, Computer Science, Electronics Engineering Technology, Logistics Technology, Mechanical Engineering Technology). VSU is also a partner institution in the **Commonwealth Center for Advanced Manufacturing (CCAM)**, alongside UVA and Virginia Tech. The grants were explicitly tied to supporting Newport News Shipbuilding as Virginia's largest industrial employer — the same Newport News connection noted below. This is a real, existing, named relationship with VSU — not a cold approach — and should lead the pitch, well ahead of the generic IoT/regional angle.
 - **What they might want / angle:** hardware/engineering mentorship tie-in — unconfirmed, needs real research. **IoT specifically is a strong regional angle for Siemens** (per VoltPop) — worth leading with in outreach rather than a generic ask.
 - **Newport News digital shipbuilding (per VoltPop, resources.sw.siemens.com video, 2026-08-01):** Siemens' Newport News Shipbuilding work centers on Teamcenter PLM, a "digital twin"/"digital thread" connecting product development to manufacturing, and a "smart shipyard"/"drawing-less ship" push (workers use mobile devices instead of paper). Note: the video's own framing is PLM/digital-twin language, not the term "IoT" — but the underlying practice (PLCs running automated shipbuilding equipment, shop-floor sensor data feeding the digital twin) is genuinely Industrial IoT, just not labeled that way by Siemens. Good concrete talking point either way.
 - **Local build (per VoltPop, still unclear):** Jabil (a third-party engineering company) is building a factory in Petersburg tied to Siemens. Not yet confirmed whether this is Jabil supporting Siemens operations, or a Siemens manufacturing facility itself — worth clarifying, since it changes who the actual regional decision-maker/contact is.
 - **Contact:** Siemens Newport News office — +1 (757) 591-6600. Ask for the Academic Programs Coordinator (name not yet known).
+- **Better contact found — VSU Engineering Industry Advisory Council (vsu.edu, 2026-08-02):** Siemens already sits on VSU's own Department of Engineering IAC, represented by **Gail Norris, US Lead: Sitrain – Digital Industry Academy** (Siemens' own education/training arm — about as directly relevant a contact as exists). This is likely a stronger entry point than a cold call to the general Newport News office — probably reachable through VSU's Engineering Department / Dean Haley rather than Siemens directly, since it's a VSU-side relationship.
 - **AI/IoT/FOSS grant-language check (2026-08-01):** Siemens Foundation's public giving focus is workforce development / STEM career awareness (healthcare, clean energy) — no explicit mention of AI, IoT, or open-source found. Doesn't rule out interest, just not a named priority in what's public.
 - **Shared pitch cluster (per VoltPop):** Siemens and Jabil likely need largely the same pitch — both are engineering/manufacturing companies where a digital-manufacturing/IoT/automation framing (PLCs, digital twin, smart-facility angle) should resonate similarly. Build one shared core pitch for this cluster rather than two from scratch, then adjust for whichever contact/entry point applies (Jabil Cares Foundation vs. local site leadership vs. Siemens Newport News).
-- **Scale and purpose of the ask (per VoltPop):** this program is a **one-shot exposure play**, not a training/certification pipeline — the goal is getting students interested in and familiar with the IoT concept, full stop. Consistent with V2's own "toe-dip, not fundamentals mastery" philosophy (`Course-Curriculum.md` §1). Don't pitch it as comparable to Jabil's $1.1M/3-year St. Petersburg College commitment (real certifications, ongoing curriculum co-development) or position it as competing with/replacing that — frame it as a light, single-semester interest-generation complement instead. Same applies to Siemens.
+- **Scale and purpose of the ask (per VoltPop):** this program is a **one-shot exposure play**, not a training/certification pipeline — the goal is getting students interested in and familiar with the IoT concept, full stop. A **foray into principles, not a technical design course** — students learn to recognize concepts and direct AI/tools, not to actually design or engineer IoT systems. Consistent with V2's own "toe-dip, not fundamentals mastery" philosophy (`Course-Curriculum.md` §1). Don't pitch it as comparable to Jabil's $1.1M/3-year St. Petersburg College commitment (real certifications, ongoing curriculum co-development) or position it as competing with/replacing that — frame it as a light, single-semester interest-generation complement instead. Same applies to Siemens.
 - **The deeper transferable skill (per VoltPop):** beyond AI-direction itself, students come away with a base-level, realistic sense of what AI/IoT/automation can and can't actually do — its real boundaries and applications, not hype-driven expectations in either direction (over-trusting it or dismissing it). Per VoltPop, this is itself a genuine, current problem in industry (people making decisions about AI/automation without realistic calibration) — worth naming directly as a pain point this program helps address, not just a nice-to-have.
 
 ## Jabil
@@ -96,6 +107,81 @@ before this becomes anything presentation-ready (per VoltPop).
 8. **Regional/local relevance:** both connect through the Petersburg
    factory thread — a local ask, not a generic national one.
 
+### Siemens/Jabil — VoltPop's call notes / thoughts-gathering (2026-08-02)
+
+**Rough notes for thinking through VoltPop's own Siemens/Jabil calls —
+not a script to read verbatim, and not the joint pitch deck** (that's
+the Aug 21 item shared with Explay/Builder Tech). These are talking
+points to gather thoughts from, not a production. The goal of these
+calls is to introduce the program and find the right ongoing contact,
+not close anything.
+
+**Worth reconsidering before the cold call:** Siemens already has a
+named rep (Gail Norris, Sitrain – Digital Industry Academy) on VSU's
+own Engineering Industry Advisory Council — possibly worth routing
+through VSU's Engineering Department/Dean Haley for a warm intro
+instead of cold-calling the Newport News general line. No equivalent
+found for Jabil yet.
+
+**Opening idea** (don't state the program's name — it's an internal
+placeholder, not something to represent as official; see README.md):
+something like "Hi, this is Andrew Foulks with VoltPop — we're building
+a new program for Virginia State University, launching Spring 2027.
+I'm reaching out because I think there's a natural fit with the work
+you're doing, and wanted to introduce it and see if it's worth a longer
+conversation." Adjust to how it actually feels natural on the call.
+
+**What it is (~30 seconds):** a one-semester program where VSU business
+students build a real IoT-and-AI-powered product for a real regional
+business problem. Intentionally light — a one-shot exposure to get
+students genuinely familiar with IoT and AI, not a certification or
+engineering-training program. **Per VoltPop: this is deliberately a
+foray into principles, not a technical design course** — students
+learn to recognize concepts and direct AI/tools, not to actually
+design or engineer IoT systems. Worth saying plainly if asked how
+technical it gets.
+
+**If pressed on going deeper/more technical:** VSU already has an
+existing MoU between its College of Engineering and School of Business
+(`Admin-Business-Legal.md` §3/§4) — so a more technical, engineering-
+focused version of this program is institutionally possible later if
+there's real interest, without needing a new agreement. Not something
+to commit to on this call, but a true, useful thing to say if a
+Siemens/Jabil contact wants more depth than the current version offers.
+
+**Why them, specifically:**
+- Siemens: the Newport News digital-twin/"smart shipyard" work — the
+  PLC/automated-systems side lines up directly with the program's
+  hardware component.
+- Jabil: connects through the Petersburg facility, and echoes (at much
+  smaller scale) the manufacturing-talent-pipeline education Jabil's
+  already invested in elsewhere (St. Petersburg College).
+
+**The ask on this call (soft, not formal)** — something like: "we're
+early — this is exploratory on our end too, before VSU's own
+advancement office is formally looped in. Is there someone on your
+side who handles education or community partnerships? I'd love to
+set up a longer conversation once we have more specifics finalized,
+probably in the next few weeks." Again, a rough idea, not a line to
+recite.
+
+**Questions to ask them** (worth more than anything said on the call):
+- Is there an existing education/community-outreach contact or process
+  for this?
+- Any technical themes they'd want student projects to explore, if
+  this moves forward?
+- Rough timeline on their side for any partnership decision?
+
+**Guardrails:**
+- Don't quote the $295–311K total program figure — not final, and not
+  the ask on this call.
+- Don't imply VSU has already signed off on external asks.
+- If asked what's actually needed, use the offer hierarchy in the
+  Framing section above (cash > in-kind > mentors > interest) — don't
+  lock in a number.
+- Don't state the program's name as if it's official (still an
+  un-chosen placeholder — see README.md).
+
 ## Virginia Gateway Region (VGR)
 
 - **Owner:** Dr. Shawn M. Nicholson LLC (**lead**, per his personal connections to Beazley/Stansbury), VoltPop (**support** — providing technical details/framing). **Status:** not yet contacted.
@@ -124,6 +210,14 @@ before this becomes anything presentation-ready (per VoltPop).
   - **Col. Rich Bendelewski** (advisory board) is listed as "Fort Lee" — likely **Fort Gregg-Adams** (Fort Lee's current name since a 2023 renaming) already listed as a regional Defense/Government Logistics contact in `Admin-Business-Legal.md` §4. Needs confirming this is actually the same installation/contact before treating it as a lead.
   - City of **Petersburg** is a VGR member community — Cameron Foundation's core service area is also Petersburg, though that's geographic overlap, not a shared named contact.
   - Worth checking whether Dr. Nicholson has personal relationships with any other VGR board members the way he does with Beazley, since that's what actually makes a connection a real warm intro rather than a coincidence.
+- **Additional stakeholder candidates via VGR's board (per VoltPop, 2026-08-02)** — beyond VGR/Dominion, worth evaluating as separate leads:
+  - **Bank of America** — Gerry Quindoza (at-large). National bank, real corporate CSR/foundation arm, much bigger scale than the regional banks already tracked. **Strong candidate.**
+  - **Port of Virginia** — Chris Gullickson (at-large). State port authority — logistics/supply-chain is one of this program's own regional industry categories, and IoT/sensor tracking is a live theme in ports specifically. **Strong candidate, good technical fit.**
+  - **Bank of Southside Virginia** — J. William Clements II (Treasurer). Same shape as Virginia Credit Union below — regional community-bank CSR giving. **Plausible.**
+  - **AdvantaStaff** — Christine Chandler (Vice Chairman). Staffing/recruiting company — a student talent-pipeline angle is a natural if modest fit. **Plausible.**
+  - Weaker/lower priority: Bon Secours Mercy Health (Joey Trapani — large health system, less tech-aligned), Fort Gregg-Adams (Col. Bendelewski — military installation, not a normal corporate-giving channel), W.E. Bowman Construction (Ed Bowman) and Roslyn Farm Corporation (Robert Walker — small local businesses).
+  - Not funders, but education/workforce partners rather than asks: Community College Workforce Alliance (Dr. Raspiller), Brightpoint Community College (William Fiege).
+  - **Targeting strategy:** rather than cold-contacting each separately, the efficient path is through **VGR's board as a whole** — if this program gets on a VGR board-meeting agenda, it reaches Beazley, Quindoza, Gullickson, Clements, and Chandler in one motion, alongside VGR itself.
 
 ## Cameron Foundation
 
@@ -138,7 +232,10 @@ before this becomes anything presentation-ready (per VoltPop).
 - **What they might want / angle:** energy-adjacent framing, unconfirmed. **Strong entry point:** James Beazley (Dominion Energy) sits on VGR's board as Secretary, and Dr. Nicholson already knows him personally — see the VGR profile above.
 - **Open question (per VoltPop):** genuinely unclear what Dominion actually gets out of this — unlike Siemens/Jabil, where the engineering/manufacturing/IoT tie-in gives an obvious "why," Dominion's motivation for expressing interest isn't established yet. Worth figuring out before the conversation, not assuming an energy angle just because they're a utility.
 - **Technical-education focus, per research (2026-08-01) — same honest gap as VGR:** Dominion's real technical-education investment is in **trades/apprenticeships**, not business/software/AI — a Power2Degree partnership with **Southside Virginia Community College** (Associate of Applied Science in Industrial Technology, credit for prior power-industry training), paid lineman apprenticeships, and nuclear engineering technician scholarships (Millstone Power Station). **No AI/IoT/software/open-source angle found.** Southside VA Community College is regionally relevant (serves the same Tri-Cities/Southside counties as VGR), so there's a real regional-workforce-ecosystem connection — but not a direct content match. This program's actual audience (business students, AI/IoT toe-dip) doesn't map onto Dominion's trade/technician pipeline any more than it does VGR's manufacturing programs — the open question above (what Dominion actually wants) still stands and shouldn't be assumed away by a generic "STEM" framing.
-- **Contact:** *(not yet sourced)*
+- **Contact:** *(not yet sourced)*. **Two VSU advisory-council contacts found (vsu.edu, 2026-08-02):**
+  - **Daniel Holmes, Technical Specialist II – Electric Distribution Technology Applications** — on VSU's Department of Engineering IAC.
+  - **Joe Woomer, Vice President at Dominion Energy** — on VSU's **School of Business** Management & Marketing Advisory Council. **Likely the strongest entry point of the three (Beazley/Holmes/Woomer)** given this program is business-student-facing and he's VP-level.
+  - These two Dominion contacts sit on exactly the two schools (Business and Engineering) already linked by VSU's existing MoU — meaning Dominion is independently engaged with both sides of the same institutional bridge this program itself sits on. Strengthens the case that Dominion is a genuinely engaged VSU partner, not a cold utility-company ask, even though the specific "why this program" motivation is still unconfirmed.
 - **AI/IoT/FOSS grant-language check (2026-08-01):** Dominion Energy Charitable Foundation's public focus is STEM/energy workforce development broadly — no explicit AI, IoT, or open-source mention found.
 
 ## "Trilus"
@@ -182,6 +279,7 @@ before this becomes anything presentation-ready (per VoltPop).
 
 - VSU's own institutional advancement/development office may have other regional corporate or foundation contacts — the Tri-Cities employers already listed in `Admin-Business-Legal.md` §4 (Amazon, LEGO Group, Perdue Farms, etc.) are plausible CSR/education-funding targets too, once that office is looped in.
 - **Apache Software Foundation (ASF) contacts** — VoltPop is checking personal contacts at ASF for funding leads. Very early/informal (not yet a named organization or program) but a natural fit given this program's open-source emphasis; add a real entry above once something concrete comes back.
+- **Use VSU's own advisory councils as a channel, not just a contact lookup (per VoltPop, 2026-08-02):** Engineering's IAC and Business's Management & Marketing Advisory Council both already exist as standing forums where industry meets VSU. Rather than only using them to find warm-intro names, worth considering asking to present the program directly to a council meeting (they meet periodically and already have VSU's ear) — potentially more efficient than one-by-one outreach for companies already on these rosters (Siemens, Dominion). Also worth checking whether VSU has other departmental advisory councils beyond these two, in case more of the remaining stakeholders (Cameron Foundation, VGR, Virginia Credit Union, AEP/Dudley Dougherty, Jabil — none of whom appeared on either council checked so far) turn up elsewhere.
 
 ---
 
