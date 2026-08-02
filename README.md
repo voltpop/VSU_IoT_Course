@@ -25,11 +25,14 @@ LLC, and VSU to collaborate from. Split by domain:
 
 ## What this program is
 
-- Working name: **VSU Innovation Program**, at Virginia State University
-  (an HBCU, Commonwealth of Virginia agency). **Not yet confirmed as
-  the actual/official program name** (per VoltPop, 2026-08-02) — used
-  throughout this KB as a working title; don't state it as fact in
-  stakeholder conversations until verified.
+- Placeholder name: **VSU Innovation Program**, at Virginia State
+  University (an HBCU, Commonwealth of Virginia agency). **Per VoltPop
+  (2026-08-02): this is an assumptive placeholder, not a name anyone
+  has actually deliberately chosen** — it's genuinely just "a generic
+  innovation program for VSU," described that way and never revisited
+  as a naming decision. Don't state it as fact in stakeholder
+  conversations, and treat naming the program as an open decision, not
+  a confirmation task.
 - Students build a **mobile web app addressing a real Tri-Cities-area
   business problem**, touching GenAI/ML/IoT/cybersecurity as their
   project needs.
