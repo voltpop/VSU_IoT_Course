@@ -210,6 +210,14 @@ recite.
   - **Col. Rich Bendelewski** (advisory board) is listed as "Fort Lee" — likely **Fort Gregg-Adams** (Fort Lee's current name since a 2023 renaming) already listed as a regional Defense/Government Logistics contact in `Admin-Business-Legal.md` §4. Needs confirming this is actually the same installation/contact before treating it as a lead.
   - City of **Petersburg** is a VGR member community — Cameron Foundation's core service area is also Petersburg, though that's geographic overlap, not a shared named contact.
   - Worth checking whether Dr. Nicholson has personal relationships with any other VGR board members the way he does with Beazley, since that's what actually makes a connection a real warm intro rather than a coincidence.
+- **Additional stakeholder candidates via VGR's board (per VoltPop, 2026-08-02)** — beyond VGR/Dominion, worth evaluating as separate leads:
+  - **Bank of America** — Gerry Quindoza (at-large). National bank, real corporate CSR/foundation arm, much bigger scale than the regional banks already tracked. **Strong candidate.**
+  - **Port of Virginia** — Chris Gullickson (at-large). State port authority — logistics/supply-chain is one of this program's own regional industry categories, and IoT/sensor tracking is a live theme in ports specifically. **Strong candidate, good technical fit.**
+  - **Bank of Southside Virginia** — J. William Clements II (Treasurer). Same shape as Virginia Credit Union below — regional community-bank CSR giving. **Plausible.**
+  - **AdvantaStaff** — Christine Chandler (Vice Chairman). Staffing/recruiting company — a student talent-pipeline angle is a natural if modest fit. **Plausible.**
+  - Weaker/lower priority: Bon Secours Mercy Health (Joey Trapani — large health system, less tech-aligned), Fort Gregg-Adams (Col. Bendelewski — military installation, not a normal corporate-giving channel), W.E. Bowman Construction (Ed Bowman) and Roslyn Farm Corporation (Robert Walker — small local businesses).
+  - Not funders, but education/workforce partners rather than asks: Community College Workforce Alliance (Dr. Raspiller), Brightpoint Community College (William Fiege).
+  - **Targeting strategy:** rather than cold-contacting each separately, the efficient path is through **VGR's board as a whole** — if this program gets on a VGR board-meeting agenda, it reaches Beazley, Quindoza, Gullickson, Clements, and Chandler in one motion, alongside VGR itself.
 
 ## Cameron Foundation
 
