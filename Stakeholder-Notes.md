@@ -58,6 +58,44 @@ name.
 - **Note:** still unclear whether Jabil's Petersburg factory (see Siemens profile above) is Jabil supporting Siemens or a Siemens-facing facility — worth resolving, since it determines whether the local-site path above even applies here.
 - **Supporting evidence, not confirmation (per VoltPop, investors.jabil.com, 2026):** Jabil announced a $1.1M donation over three years to St. Petersburg College for advanced manufacturing training (soldering/mechatronics certifications, curriculum development, scholarships, lab equipment access), explicitly framed as building a talent pipeline "that can jump into key roles at manufacturers like Jabil from day one," with curriculum aligned to automation and other current-tech sectors. Shows real appetite for education/workforce giving in manufacturing talent pipelines generally — doesn't confirm interest in this program specifically, but is a strong precedent to reference.
 
+### Siemens/Jabil — consolidated pitch points (2026-08-01)
+
+Consolidated from the notes above for convenience — **not a formalized
+pitch.** Explay and Builder Tech still need to fact-check/weigh in
+before this becomes anything presentation-ready (per VoltPop).
+
+1. **What it is:** a single-semester "toe-dip" into IoT and AI-assisted
+   development for business students — not a certification or
+   engineering-training program. Goal is interest and familiarity, not
+   credentialing.
+2. **Why it fits them:** both are engineering/manufacturing companies
+   with a real digital-manufacturing/IoT connection — Siemens' Newport
+   News "smart shipyard" work (PLM, digital twin, PLCs) and Jabil's
+   manufacturing/automation base. Their own language may be "PLM"/
+   "digital twin" rather than "IoT," but the substance lines up.
+3. **Transferable skill — AI-direction:** the 4D framework (Delegation,
+   Description, Discernment, Diligence) — directing and verifying AI/
+   automated systems, the skill a modern automated operation needs at
+   the coordination layer.
+4. **Deeper transferable skill — realistic calibration:** a base-level,
+   realistic sense of what AI/IoT/automation can and can't do, not
+   hype in either direction. Worth naming directly as a real industry
+   pain point (miscalibrated expectations), not just implying it.
+5. **Same pipeline shape they already fund, lighter weight:** real
+   regional problem → working prototype → portfolio/pitch → Career Day
+   into regional employers — same structure as Jabil's own
+   talent-pipeline giving, just single-semester and awareness-focused
+   rather than certification-focused.
+6. **Open source keeps the ask efficient:** nearly every tool the
+   course uses is free/open — their dollars fund people and exposure,
+   not licensing.
+7. **Scale/ask correction:** a modest, one-semester ask — not
+   comparable to Jabil's $1.1M/3-year commitment, and not positioned
+   as competing with or replacing it. A light complement, not a
+   peer-scale partnership.
+8. **Regional/local relevance:** both connect through the Petersburg
+   factory thread — a local ask, not a generic national one.
+
 ## Virginia Gateway Region (VGR)
 
 - **Owner:** VoltPop, working with Dr. Shawn M. Nicholson LLC. **Status:** not yet contacted.
