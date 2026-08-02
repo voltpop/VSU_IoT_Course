@@ -42,6 +42,16 @@ name.
 - **What they might want / angle:** hardware/engineering mentorship tie-in — unconfirmed, needs real research. **IoT specifically is a strong regional angle for Siemens** (per VoltPop) — worth leading with in outreach rather than a generic ask.
 - **Local build (per VoltPop, still unclear):** Jabil (a third-party engineering company) is building a factory in Petersburg tied to Siemens. Not yet confirmed whether this is Jabil supporting Siemens operations, or a Siemens manufacturing facility itself — worth clarifying, since it changes who the actual regional decision-maker/contact is.
 - **Contact:** Siemens Newport News office — +1 (757) 591-6600. Ask for the Academic Programs Coordinator (name not yet known).
+- **AI/IoT/FOSS grant-language check (2026-08-01):** Siemens Foundation's public giving focus is workforce development / STEM career awareness (healthcare, clean energy) — no explicit mention of AI, IoT, or open-source found. Doesn't rule out interest, just not a named priority in what's public.
+
+## Jabil
+
+- **Owner:** VoltPop. **Status:** not yet contacted — surfaced via the Siemens/Petersburg factory connection above, not yet confirmed as a separate funding lead.
+- **What they might want / angle:** their "Jabil Cares" community program's Education focus centers on STEM (classroom grants, supplies/tech donations, scholarships, site tours framed around STEM careers) — a real fit, though nothing Virginia/Petersburg/Siemens-specific or AI/IoT/open-source-specific found on their public page.
+- **Contact — two paths (per VoltPop):**
+  1. **Global/structured programs:** Jabil Cares Foundation Grant Application — for structured programs, multi-year initiatives, or large-scale university projects. Contact: +1 (727) 803-5988. Corporate address: 10800 Roosevelt Boulevard North, St. Petersburg, FL 33716. Review cycle: foundation trustees meet bimonthly to review/approve education and STEM grants.
+  2. **Local/regional site leadership:** Jabil gives individual manufacturing sites their own budgets for local university talent pipelines, vocational programs, and regional STEM labs — likely the better fit given the Petersburg, VA facility specifically. Reach the site's Community Relations Manager or HR department via the Jabil Global Locations Directory to pitch a localized partnership.
+- **Note:** still unclear whether Jabil's Petersburg factory (see Siemens profile above) is Jabil supporting Siemens or a Siemens-facing facility — worth resolving, since it determines whether the local-site path above even applies here.
 
 ## Virginia Gateway Region (VGR)
 
@@ -76,12 +86,14 @@ name.
 - **Owner:** *(unassigned)*. **Status:** not yet contacted.
 - **What they might want / angle:** Petersburg, VA — service area is literally the Tri-Cities footprint this program is built around; funds education/economic development; has funded STEM education before. Education/economic-development framing likely resonates.
 - **Contact:** *(not yet sourced)*
+- **AI/IoT/FOSS grant-language check (2026-08-01):** public funding-interests page lists six categories (Health Care, Community & Economic Development, Human Services, Education, Historic Preservation & Conservation, Arts & Culture) — no mention of AI, IoT, or open-source; "technology" only appears in passing re: healthcare.
 
 ## Dominion Energy
 
 - **Owner:** VoltPop, working with Dr. Shawn M. Nicholson LLC. **Status:** further along than most — has already expressed interest in helping fund a program like this; needs formal follow-up.
 - **What they might want / angle:** energy-adjacent framing, unconfirmed. **Strong entry point:** James Beazley (Dominion Energy) sits on VGR's board as Secretary, and Dr. Nicholson already knows him personally — see the VGR profile above.
 - **Contact:** *(not yet sourced)*
+- **AI/IoT/FOSS grant-language check (2026-08-01):** Dominion Energy Charitable Foundation's public focus is STEM/energy workforce development broadly — no explicit AI, IoT, or open-source mention found.
 
 ## "Trilus"
 
@@ -105,12 +117,14 @@ name.
 - **Owner:** Dr. Shawn M. Nicholson LLC / VSU (institutional applicant required). **Status:** due mid-Aug 2026 (TODOs-by-Owner.md).
 - **What they want:** federal funding for STEM undergraduate education specifically at HBCUs, including "Targeted Infusion Projects" for short-term, well-defined goals.
 - **Contact:** *(NSF program officer / HBCU-UP program page — not yet sourced)*
+- **AI/IoT/FOSS grant-language check (2026-08-01):** the current solicitation (NSF 23-563) doesn't name AI, IoT, or open-source as explicit HBCU-UP priorities, but does encourage proposals aligned with NSF's Technology, Innovation and Partnerships (TIP) directorate — a general tech-strategy hook worth using in the application rather than a named category.
 
 ## Southern Company
 
 - **Owner:** Dr. Shawn M. Nicholson LLC / VSU. **Status:** warm lead — due mid-Aug 2026 (TODOs-by-Owner.md).
 - **What they want / angle:** already has an existing relationship with VSU (funded a $500,000 endowed professorship in sustainability) — check on that relationship as the entry point rather than a cold approach.
 - **Contact:** *(not yet sourced)*
+- **AI/IoT/FOSS grant-language check (2026-08-01):** couldn't find an official Southern Company Foundation page with specific grant priorities — inconclusive, needs a direct check rather than general search.
 
 ## Anthropic's Claude for Education / Claude Corps
 
@@ -121,6 +135,7 @@ name.
 ## Other angles worth checking
 
 - VSU's own institutional advancement/development office may have other regional corporate or foundation contacts — the Tri-Cities employers already listed in `Admin-Business-Legal.md` §4 (Amazon, LEGO Group, Perdue Farms, etc.) are plausible CSR/education-funding targets too, once that office is looped in.
+- **Apache Software Foundation (ASF) contacts** — VoltPop is checking personal contacts at ASF for funding leads. Very early/informal (not yet a named organization or program) but a natural fit given this program's open-source emphasis; add a real entry above once something concrete comes back.
 
 ---
 
