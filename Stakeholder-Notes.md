@@ -57,6 +57,11 @@ name.
   - At-large: Robert Walker (Roslyn Farm Corporation), Gerry Quindoza (Bank of America), Joey Trapani (Bon Secours Mercy Health), Chris Gullickson (Port of Virginia), Ed Bowman (W.E. Bowman Construction), William Fiege (Brightpoint Community College)
   - Advisory board: Nick Walker, Jim Daniels, Col. Rich Bendelewski (Fort Lee)
 - **Cross-reference:** VGR's Secretary, James Beazley, is from Dominion Energy — a real overlap with the separate Dominion Energy lead below. **Dr. Nicholson and Mr. Beazley already know each other personally** — a direct warm intro, not just a board-membership coincidence.
+- **Possible hub pattern (per VoltPop, unconfirmed beyond Beazley — "I think at least"):** VGR's board also names two entities already elsewhere in this KB, though these are institutional/geographic overlaps, not confirmed personal contacts like Beazley:
+  - **William Fiege** (at-large) is from **Brightpoint Community College** — already listed as a regional institution in `Admin-Business-Legal.md` §4.
+  - **Col. Rich Bendelewski** (advisory board) is listed as "Fort Lee" — likely **Fort Gregg-Adams** (Fort Lee's current name since a 2023 renaming) already listed as a regional Defense/Government Logistics contact in `Admin-Business-Legal.md` §4. Needs confirming this is actually the same installation/contact before treating it as a lead.
+  - City of **Petersburg** is a VGR member community — Cameron Foundation's core service area is also Petersburg, though that's geographic overlap, not a shared named contact.
+  - Worth checking whether Dr. Nicholson has personal relationships with any other VGR board members the way he does with Beazley, since that's what actually makes a connection a real warm intro rather than a coincidence.
 
 ## Cameron Foundation
 
