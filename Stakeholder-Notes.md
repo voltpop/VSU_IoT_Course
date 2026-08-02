@@ -132,6 +132,14 @@ learn to recognize concepts and direct AI/tools, not to actually
 design or engineer IoT systems. Worth saying plainly if asked how
 technical it gets.
 
+**If pressed on going deeper/more technical:** VSU already has an
+existing MoU between its College of Engineering and School of Business
+(`Admin-Business-Legal.md` §3/§4) — so a more technical, engineering-
+focused version of this program is institutionally possible later if
+there's real interest, without needing a new agreement. Not something
+to commit to on this call, but a true, useful thing to say if a
+Siemens/Jabil contact wants more depth than the current version offers.
+
 **Why them, specifically:**
 - Siemens: the Newport News digital-twin/"smart shipyard" work — the
   PLC/automated-systems side lines up directly with the program's
