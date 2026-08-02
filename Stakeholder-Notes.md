@@ -35,6 +35,15 @@ name.
 - Dr. Shawn Nicholson is VSU's actual Institutional Liaison — his
   presence/blessing on a call lends real legitimacy; worth considering
   for conversations beyond the earliest exploratory ones.
+- **Hierarchy of what a stakeholder can offer (per VoltPop)** — if asked
+  "what do you actually need," listen/ask in this order of usefulness,
+  but don't lock in a number on the call:
+  1. **Cash funding** — most useful, most flexible.
+  2. **In-kind contributions** — hardware, software licenses/credits,
+     event space.
+  3. **Mentors/guest speakers** — real but lower-value than the above.
+  4. **Just interest/awareness** — the floor, not the goal, but still
+     worth keeping the door open on a first, exploratory call.
 
 ## Siemens
 
