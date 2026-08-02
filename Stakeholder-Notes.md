@@ -39,7 +39,8 @@ name.
 ## Siemens
 
 - **Owner:** VoltPop. **Status:** direct outreach in progress — due Aug 4–7 (TODOs-by-Owner.md). Next step: call the Newport News office and ask for the Academic Programs Coordinator.
-- **What they might want / angle:** hardware/engineering mentorship tie-in — unconfirmed, needs real research.
+- **What they might want / angle:** hardware/engineering mentorship tie-in — unconfirmed, needs real research. **IoT specifically is a strong regional angle for Siemens** (per VoltPop) — worth leading with in outreach rather than a generic ask.
+- **Local build (per VoltPop, still unclear):** Jabil (a third-party engineering company) is building a factory in Petersburg tied to Siemens. Not yet confirmed whether this is Jabil supporting Siemens operations, or a Siemens manufacturing facility itself — worth clarifying, since it changes who the actual regional decision-maker/contact is.
 - **Contact:** Siemens Newport News office — +1 (757) 591-6600. Ask for the Academic Programs Coordinator (name not yet known).
 
 ## Virginia Gateway Region (VGR)
