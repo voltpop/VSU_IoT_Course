@@ -38,9 +38,9 @@ name.
 
 ## Siemens
 
-- **Owner:** VoltPop. **Status:** direct outreach in progress — due Aug 4–7 (TODOs-by-Owner.md).
+- **Owner:** VoltPop. **Status:** direct outreach in progress — due Aug 4–7 (TODOs-by-Owner.md). Next step: call the Newport News office and ask for the Academic Programs Coordinator.
 - **What they might want / angle:** hardware/engineering mentorship tie-in — unconfirmed, needs real research.
-- **Contact:** *(not yet sourced)*
+- **Contact:** Siemens Newport News office — +1 (757) 591-6600. Ask for the Academic Programs Coordinator (name not yet known).
 
 ## Virginia Gateway Region (VGR)
 
