@@ -44,7 +44,7 @@ name.
 
 ## Virginia Gateway Region (VGR)
 
-- **Owner:** *(unassigned)*. **Status:** not yet contacted.
+- **Owner:** VoltPop, working with Dr. Shawn M. Nicholson LLC. **Status:** not yet contacted.
 - **What they might want / angle:** regional economic development organization for the Tri-Cities area — strong natural fit given the program's regional focus, and currently well-funded.
 - **Contact:** *(not yet sourced)*
 
