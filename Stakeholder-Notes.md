@@ -45,6 +45,7 @@ name.
 - **Contact:** Siemens Newport News office — +1 (757) 591-6600. Ask for the Academic Programs Coordinator (name not yet known).
 - **AI/IoT/FOSS grant-language check (2026-08-01):** Siemens Foundation's public giving focus is workforce development / STEM career awareness (healthcare, clean energy) — no explicit mention of AI, IoT, or open-source found. Doesn't rule out interest, just not a named priority in what's public.
 - **Shared pitch cluster (per VoltPop):** Siemens and Jabil likely need largely the same pitch — both are engineering/manufacturing companies where a digital-manufacturing/IoT/automation framing (PLCs, digital twin, smart-facility angle) should resonate similarly. Build one shared core pitch for this cluster rather than two from scratch, then adjust for whichever contact/entry point applies (Jabil Cares Foundation vs. local site leadership vs. Siemens Newport News).
+- **Scale the ask correctly (per VoltPop):** this program is a one-semester "teaser" — a much smaller ask than Jabil's $1.1M/3-year St. Petersburg College commitment with its ongoing coordination (curriculum co-development, certifications, faculty collaboration). Don't pitch it as comparable in scale or position it as competing with/replacing what they already fund — frame it as a light, single-semester complement instead. Same applies to Siemens.
 
 ## Jabil
 
