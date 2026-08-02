@@ -56,7 +56,7 @@ name.
   - Community representatives: Brunswick, Dinwiddie, Greensville, Prince George, and Sussex Counties; Cities of Colonial Heights, Emporia, Hopewell, and Petersburg (two reps each)
   - At-large: Robert Walker (Roslyn Farm Corporation), Gerry Quindoza (Bank of America), Joey Trapani (Bon Secours Mercy Health), Chris Gullickson (Port of Virginia), Ed Bowman (W.E. Bowman Construction), William Fiege (Brightpoint Community College)
   - Advisory board: Nick Walker, Jim Daniels, Col. Rich Bendelewski (Fort Lee)
-- **Cross-reference:** VGR's Secretary, James Beazley, is from Dominion Energy — a real overlap with the separate Dominion Energy lead below. A warm intro through one may open the other rather than treating them as unrelated cold approaches.
+- **Cross-reference:** VGR's Secretary, James Beazley, is from Dominion Energy — a real overlap with the separate Dominion Energy lead below. **Dr. Nicholson and Mr. Beazley already know each other personally** — a direct warm intro, not just a board-membership coincidence.
 
 ## Cameron Foundation
 
@@ -67,7 +67,7 @@ name.
 ## Dominion Energy
 
 - **Owner:** VoltPop, working with Dr. Shawn M. Nicholson LLC. **Status:** further along than most — has already expressed interest in helping fund a program like this; needs formal follow-up.
-- **What they might want / angle:** energy-adjacent framing, unconfirmed. Possible entry point: James Beazley (Dominion Energy) sits on VGR's board as Secretary — see the VGR profile above.
+- **What they might want / angle:** energy-adjacent framing, unconfirmed. **Strong entry point:** James Beazley (Dominion Energy) sits on VGR's board as Secretary, and Dr. Nicholson already knows him personally — see the VGR profile above.
 - **Contact:** *(not yet sourced)*
 
 ## "Trilus"
