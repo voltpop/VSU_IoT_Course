@@ -87,10 +87,12 @@ by name until then. In chronological priority order:
 
 ### Administrative / upfront work (prep, sell, fund the course)
 
-1. **Aug 21** — Finalize the stakeholder pitch deck and press kit: lock final budget/ask figures, decide per-stakeholder tailoring (Siemens/VGR/Cameron Foundation/Dominion/etc.), and source logos/photos *(shared: Explay + Builder Tech, since it feeds the joint client presentation)* — drafts in `Stakeholder-Pitch-Deck-Draft.md` and `Press-Kit-Content.md`.
-2. **Aug 4–7** — Follow through on direct Siemens research/outreach (Admin-Business-Legal.md §8).
-3. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in (Admin-Business-Legal.md §8).
-4. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
+1. **Aug 4–7** — Follow through on direct Siemens research/outreach — fill in `Stakeholder-Notes.md`'s Siemens profile (what they want, contact, angle) as this progresses (Admin-Business-Legal.md §8).
+2. **Aug 4–7** — Follow up with Jabil (Petersburg factory tied to Siemens) — resolve whether it's a distinct lead or part of the Siemens thread, then pursue via the Jabil Cares Foundation grant application or local site leadership — fill in `Stakeholder-Notes.md`'s Jabil profile as this progresses (Admin-Business-Legal.md §8).
+3. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in — see the framing guidance at the top of `Stakeholder-Notes.md` (Admin-Business-Legal.md §8).
+4. **Aug 21** — Build the actual tailored pitch deck/press kit from `Stakeholder-Notes.md`'s per-stakeholder research (once filled in) and lock final budget/ask figures and logos/photos *(shared: Explay + Builder Tech, since it feeds the joint client presentation)* — see `Stakeholder-Notes.md` and `Press-Kit-Content.md`.
+5. *(support role — Dr. Shawn M. Nicholson LLC now leads)* Support Virginia Gateway Region (VGR) and Dominion Energy outreach, per Dr. Nicholson's personal connection to James Beazley — see Dr. Shawn M. Nicholson LLC's items below (Admin-Business-Legal.md §8).
+6. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
 
 ## Explay
 
@@ -111,16 +113,18 @@ by name until then. In chronological priority order:
 
 ## Dr. Shawn M. Nicholson LLC
 
-1. **[Due mid-Aug 2026]** Check on VSU's existing Southern Company relationship (the $500K endowed professorship) as a warm lead for additional funding (Admin-Business-Legal.md §8).
-2. **[Due mid-Aug 2026]** Pursue Anthropic's Claude for Education and/or Claude Corps application as VSU (both require an institutional applicant, not a private LLC) — Claude Corps' January 2027 cohort aligns closely with the program start (Admin-Business-Legal.md §8).
-3. **[Due mid-Aug 2026]** Explore NSF HBCU-UP funding as a federal STEM-at-HBCUs funding channel (Admin-Business-Legal.md §8).
-4. *(feeds the Aug 14 budget revision)* Set compensation amount and contract terms, now confirmed as the payment vehicle for Dr. Nicholson's Operations Director & Institutional Liaison role rather than a VSU salary line (Admin-Business-Legal.md §1/§2/§9).
-5. *(feeds the Aug 14 budget revision)* Confirm the payment flow — VSU paying VoltPop/Explay directly, or via Builder Tech — and where Dr. Shawn M. Nicholson LLC's own compensation fits into it *(shared: Builder Tech)* (Admin-Business-Legal.md §7).
-6. Confirm VSU's actual 2027 academic calendar — specifically Founder's Day (Mar 18) and the midterms window (Mar 1-6) — before those schedule dates get locked in (Admin-Business-Legal.md §7).
-7. Confirm the FERPA "school official" designation process/timeline for Builder Tech, Explay, and VoltPop (Admin-Business-Legal.md §7).
-8. Confirm background-check process/timeline, and who the (now 3, down from 6) in-person staff actually are (Admin-Business-Legal.md §7).
-9. Confirm classroom/lab space suited to the hardware weeks (ESP32/breadboards/sensors), plus network access (Admin-Business-Legal.md §7).
-10. Establish the shared grading/rubric structure the Agreement calls for but doesn't yet define (Admin-Business-Legal.md §7).
-11. Get VSU counsel/procurement review moving on indemnification, liability caps, and governing law/arbitration language (Admin-Business-Legal.md §3).
-12. Loop in VSU's own advancement/development office for external fundraising coordination — not urgent given stakeholder outreach is proceeding first, but still needed before things go further (Admin-Business-Legal.md §8).
-13. Coordinate with Dean Haley (Engineering) and the Business School's interim/incoming dean, leveraging the existing MoU that already directs the two colleges to collaborate (Admin-Business-Legal.md §4).
+1. **[Due mid-Aug 2026]** Lead Virginia Gateway Region (VGR) outreach *(shared: VoltPop)* — Dr. Nicholson is taking the lead given his personal connection to James Beazley (VGR Secretary) and Tom Stansbury (Entrepreneur in Residence) — fill in `Stakeholder-Notes.md`'s VGR profile as this progresses (Admin-Business-Legal.md §8).
+2. **[Due mid-Aug 2026]** Lead Dominion Energy outreach *(shared: VoltPop)* — Dr. Nicholson is taking the lead given his personal connection to James Beazley — fill in `Stakeholder-Notes.md`'s Dominion profile as this progresses (Admin-Business-Legal.md §8).
+3. **[Due mid-Aug 2026]** Check on VSU's existing Southern Company relationship (the $500K endowed professorship) as a warm lead for additional funding (Admin-Business-Legal.md §8).
+4. **[Due mid-Aug 2026]** Pursue Anthropic's Claude for Education and/or Claude Corps application as VSU (both require an institutional applicant, not a private LLC) — Claude Corps' January 2027 cohort aligns closely with the program start (Admin-Business-Legal.md §8).
+5. **[Due mid-Aug 2026]** Explore NSF HBCU-UP funding as a federal STEM-at-HBCUs funding channel (Admin-Business-Legal.md §8).
+6. *(feeds the Aug 14 budget revision)* Set compensation amount and contract terms, now confirmed as the payment vehicle for Dr. Nicholson's Operations Director & Institutional Liaison role rather than a VSU salary line (Admin-Business-Legal.md §1/§2/§9).
+7. *(feeds the Aug 14 budget revision)* Confirm the payment flow — VSU paying VoltPop/Explay directly, or via Builder Tech — and where Dr. Shawn M. Nicholson LLC's own compensation fits into it *(shared: Builder Tech)* (Admin-Business-Legal.md §7).
+8. Confirm VSU's actual 2027 academic calendar — specifically Founder's Day (Mar 18) and the midterms window (Mar 1-6) — before those schedule dates get locked in (Admin-Business-Legal.md §7).
+9. Confirm the FERPA "school official" designation process/timeline for Builder Tech, Explay, and VoltPop (Admin-Business-Legal.md §7).
+10. Confirm background-check process/timeline, and who the (now 3, down from 6) in-person staff actually are (Admin-Business-Legal.md §7).
+11. Confirm classroom/lab space suited to the hardware weeks (ESP32/breadboards/sensors), plus network access (Admin-Business-Legal.md §7).
+12. Establish the shared grading/rubric structure the Agreement calls for but doesn't yet define (Admin-Business-Legal.md §7).
+13. Get VSU counsel/procurement review moving on indemnification, liability caps, and governing law/arbitration language (Admin-Business-Legal.md §3).
+14. Loop in VSU's own advancement/development office for external fundraising coordination — not urgent given stakeholder outreach is proceeding first, but still needed before things go further (Admin-Business-Legal.md §8).
+15. Coordinate with Dean Haley (Engineering) and the Business School's interim/incoming dean, leveraging the existing MoU that already directs the two colleges to collaborate (Admin-Business-Legal.md §4).

@@ -15,8 +15,9 @@ LLC, and VSU to collaborate from. Split by domain:
 - **[`Course-Curriculum.md`](./Course-Curriculum.md)** — curriculum
   philosophy, schedule (V1 history + V2 current), cross-check findings,
   lesson-plan status, open items.
-- **[`Stakeholder-Pitch-Deck-Draft.md`](./Stakeholder-Pitch-Deck-Draft.md)**
-  — draft content for stakeholder/funder conversations.
+- **[`Stakeholder-Notes.md`](./Stakeholder-Notes.md)** — per-stakeholder
+  research/contact prep (what they want, outreach status); a tailored
+  pitch deck gets built from this later, not guessed at now.
 - **[`Press-Kit-Content.md`](./Press-Kit-Content.md)** — blurbs/about copy
   for press materials (logos/photos still need sourcing separately).
 - **[`TODOs-by-Owner.md`](./TODOs-by-Owner.md)** — action items split by
