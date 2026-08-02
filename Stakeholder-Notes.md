@@ -48,7 +48,7 @@ name.
 
 ## Jabil
 
-- **Owner:** VoltPop. **Status:** not yet contacted — surfaced via the Siemens/Petersburg factory connection above, not yet confirmed as a separate funding lead.
+- **Owner:** VoltPop. **Status:** not yet contacted — due Aug 4–7 (TODOs-by-Owner.md), same window as Siemens given the factory connection.
 - **What they might want / angle:** their "Jabil Cares" community program's Education focus centers on STEM (classroom grants, supplies/tech donations, scholarships, site tours framed around STEM careers) — a real fit, though nothing Virginia/Petersburg/Siemens-specific or AI/IoT/open-source-specific found on their public page. **Per VoltPop (unconfirmed, "I think"):** Jabil is likely interested in similar digital-manufacturing/IoT-adjacent topics as Siemens (see the Newport News digital-shipbuilding note above) — makes sense given Jabil is itself an engineering/manufacturing company, but not yet verified against anything Jabil-specific.
 - **Contact — two paths (per VoltPop):**
   1. **Global/structured programs:** Jabil Cares Foundation Grant Application — for structured programs, multi-year initiatives, or large-scale university projects. Contact: +1 (727) 803-5988. Corporate address: 10800 Roosevelt Boulevard North, St. Petersburg, FL 33716. Review cycle: foundation trustees meet bimonthly to review/approve education and STEM grants.
