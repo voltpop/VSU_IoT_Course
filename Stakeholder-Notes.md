@@ -98,7 +98,7 @@ before this becomes anything presentation-ready (per VoltPop).
 
 ## Virginia Gateway Region (VGR)
 
-- **Owner:** VoltPop, working with Dr. Shawn M. Nicholson LLC. **Status:** not yet contacted.
+- **Owner:** Dr. Shawn M. Nicholson LLC (**lead**, per his personal connections to Beazley/Stansbury), VoltPop (**support** — providing technical details/framing). **Status:** not yet contacted.
 - **What they might want / angle:** regional economic development organization for the Tri-Cities area — strong natural fit given the program's regional focus, and currently well-funded.
 - **Contact:** *(not yet sourced)*
 - **Board of directors** (via gatewayregion.com, 2026-08-01):
@@ -133,8 +133,9 @@ before this becomes anything presentation-ready (per VoltPop).
 
 ## Dominion Energy
 
-- **Owner:** VoltPop, working with Dr. Shawn M. Nicholson LLC. **Status:** further along than most — has already expressed interest in helping fund a program like this; needs formal follow-up.
+- **Owner:** Dr. Shawn M. Nicholson LLC (**lead**, per his personal connection to Beazley), VoltPop (**support** — providing technical details/framing). **Status:** further along than most — has already expressed interest in helping fund a program like this; needs formal follow-up.
 - **What they might want / angle:** energy-adjacent framing, unconfirmed. **Strong entry point:** James Beazley (Dominion Energy) sits on VGR's board as Secretary, and Dr. Nicholson already knows him personally — see the VGR profile above.
+- **Open question (per VoltPop):** genuinely unclear what Dominion actually gets out of this — unlike Siemens/Jabil, where the engineering/manufacturing/IoT tie-in gives an obvious "why," Dominion's motivation for expressing interest isn't established yet. Worth figuring out before the conversation, not assuming an energy angle just because they're a utility.
 - **Contact:** *(not yet sourced)*
 - **AI/IoT/FOSS grant-language check (2026-08-01):** Dominion Energy Charitable Foundation's public focus is STEM/energy workforce development broadly — no explicit AI, IoT, or open-source mention found.
 
