@@ -74,6 +74,7 @@ by name until then. In chronological priority order:
 12. Reflect Builder Tech's expanded role ("Business Intelligence & Design Instruction & Curriculum") consistently in the Agreement's Article 3 (Admin-Business-Legal.md §9).
 13. Confirm whether the Week 3 mentor-interview deliverable (from the Scope Doc) still stands (Course-Curriculum.md §5/§7).
 14. Weigh in on restoring a real Security Considerations deliverable in Week 9, now demoted to a passing mention *(shared: Explay, who leads Week 9)* (Course-Curriculum.md §5/§7).
+15. Confirm/verify the program's actual name — "VSU Innovation Program" is used throughout this KB as a working title, but per VoltPop (2026-08-02) it isn't confirmed as the real/official name *(shared: all parties, since it's used in every stakeholder-facing document)* (README.md).
 
 ## VoltPop
 
