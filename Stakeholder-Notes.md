@@ -56,6 +56,13 @@ name.
   - Community representatives: Brunswick, Dinwiddie, Greensville, Prince George, and Sussex Counties; Cities of Colonial Heights, Emporia, Hopewell, and Petersburg (two reps each)
   - At-large: Robert Walker (Roslyn Farm Corporation), Gerry Quindoza (Bank of America), Joey Trapani (Bon Secours Mercy Health), Chris Gullickson (Port of Virginia), Ed Bowman (W.E. Bowman Construction), William Fiege (Brightpoint Community College)
   - Advisory board: Nick Walker, Jim Daniels, Col. Rich Bendelewski (Fort Lee)
+- **Staff (not board):** Tom Stansbury, MBA — Entrepreneur in Residence
+  (joined April 2026), supports startups via "Enterprise Facilitation";
+  also founder of StartUpAmerica Collaboration, Inc. Strong fit given
+  his role is specifically entrepreneurship support — closely aligned
+  with this program's premise (arguably a better first contact than
+  the board members). **Per VoltPop: Dr. Nicholson also knows him
+  personally.**
 - **Cross-reference:** VGR's Secretary, James Beazley, is from Dominion Energy — a real overlap with the separate Dominion Energy lead below. **Dr. Nicholson and Mr. Beazley already know each other personally** — a direct warm intro, not just a board-membership coincidence.
 - **Possible hub pattern (per VoltPop, unconfirmed beyond Beazley — "I think at least"):** VGR's board also names two entities already elsewhere in this KB, though these are institutional/geographic overlaps, not confirmed personal contacts like Beazley:
   - **William Fiege** (at-large) is from **Brightpoint Community College** — already listed as a regional institution in `Admin-Business-Legal.md` §4.
