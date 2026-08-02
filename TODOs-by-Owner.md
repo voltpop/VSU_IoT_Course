@@ -89,9 +89,10 @@ by name until then. In chronological priority order:
 
 1. **Aug 4–7** — Follow through on direct Siemens research/outreach — fill in `Stakeholder-Notes.md`'s Siemens profile (what they want, contact, angle) as this progresses (Admin-Business-Legal.md §8).
 2. **[Due mid-Aug 2026]** Follow through on Virginia Gateway Region (VGR) research/outreach *(shared: Dr. Shawn M. Nicholson LLC)* — fill in `Stakeholder-Notes.md`'s VGR profile as this progresses (Admin-Business-Legal.md §8).
-3. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in — see the framing guidance at the top of `Stakeholder-Notes.md` (Admin-Business-Legal.md §8).
-4. **Aug 21** — Build the actual tailored pitch deck/press kit from `Stakeholder-Notes.md`'s per-stakeholder research (once filled in) and lock final budget/ask figures and logos/photos *(shared: Explay + Builder Tech, since it feeds the joint client presentation)* — see `Stakeholder-Notes.md` and `Press-Kit-Content.md`.
-5. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
+3. **[Due mid-Aug 2026]** Follow up with Dominion Energy, who already expressed interest *(shared: Dr. Shawn M. Nicholson LLC)* — possible entry point via VGR's board (James Beazley, VGR Secretary, is from Dominion) — fill in `Stakeholder-Notes.md`'s Dominion profile as this progresses (Admin-Business-Legal.md §8).
+4. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in — see the framing guidance at the top of `Stakeholder-Notes.md` (Admin-Business-Legal.md §8).
+5. **Aug 21** — Build the actual tailored pitch deck/press kit from `Stakeholder-Notes.md`'s per-stakeholder research (once filled in) and lock final budget/ask figures and logos/photos *(shared: Explay + Builder Tech, since it feeds the joint client presentation)* — see `Stakeholder-Notes.md` and `Press-Kit-Content.md`.
+6. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
 
 ## Explay
 

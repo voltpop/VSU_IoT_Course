@@ -47,6 +47,16 @@ name.
 - **Owner:** VoltPop, working with Dr. Shawn M. Nicholson LLC. **Status:** not yet contacted.
 - **What they might want / angle:** regional economic development organization for the Tri-Cities area — strong natural fit given the program's regional focus, and currently well-funded.
 - **Contact:** *(not yet sourced)*
+- **Board of directors** (via gatewayregion.com, 2026-08-01):
+  - Chairman: Dr. Phyllis Tolliver (Sussex County)
+  - Vice Chairman: Christine Chandler (AdvantaStaff)
+  - Secretary: James Beazley (**Dominion Energy**)
+  - Treasurer: J. William Clements, II (The Bank of Southside Virginia)
+  - Immediate Past Chair: Dr. Edward Raspiller (Community College Workforce Alliance)
+  - Community representatives: Brunswick, Dinwiddie, Greensville, Prince George, and Sussex Counties; Cities of Colonial Heights, Emporia, Hopewell, and Petersburg (two reps each)
+  - At-large: Robert Walker (Roslyn Farm Corporation), Gerry Quindoza (Bank of America), Joey Trapani (Bon Secours Mercy Health), Chris Gullickson (Port of Virginia), Ed Bowman (W.E. Bowman Construction), William Fiege (Brightpoint Community College)
+  - Advisory board: Nick Walker, Jim Daniels, Col. Rich Bendelewski (Fort Lee)
+- **Cross-reference:** VGR's Secretary, James Beazley, is from Dominion Energy — a real overlap with the separate Dominion Energy lead below. A warm intro through one may open the other rather than treating them as unrelated cold approaches.
 
 ## Cameron Foundation
 
@@ -56,8 +66,8 @@ name.
 
 ## Dominion Energy
 
-- **Owner:** *(unassigned)*. **Status:** further along than most — has already expressed interest in helping fund a program like this; needs formal follow-up.
-- **What they might want / angle:** energy-adjacent framing, unconfirmed.
+- **Owner:** VoltPop, working with Dr. Shawn M. Nicholson LLC. **Status:** further along than most — has already expressed interest in helping fund a program like this; needs formal follow-up.
+- **What they might want / angle:** energy-adjacent framing, unconfirmed. Possible entry point: James Beazley (Dominion Energy) sits on VGR's board as Secretary — see the VGR profile above.
 - **Contact:** *(not yet sourced)*
 
 ## "Trilus"
