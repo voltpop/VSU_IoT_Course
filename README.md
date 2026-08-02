@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Shared Knowledge Base
 compiled: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-02
 ---
 
 # VSU Innovation Program — Shared Knowledge Base
@@ -22,6 +22,36 @@ LLC, and VSU to collaborate from. Split by domain:
   for press materials (logos/photos still need sourcing separately).
 - **[`TODOs-by-Owner.md`](./TODOs-by-Owner.md)** — action items split by
   Builder Tech, VoltPop, Explay, and Dr. Shawn M. Nicholson LLC.
+
+## New here? Using this KB with an AI assistant
+
+If a knowledgebase like this is new to you, the easiest way in is to
+open a coding assistant (e.g. Claude Code) pointed at a local clone and
+just ask it questions in plain language — you don't need to know git or
+read every file cover-to-cover first.
+
+Things you can ask it:
+- *"What's still open for [a stakeholder or party name]?"*
+- *"Summarize `Course-Curriculum.md` for me."*
+- *"Who owns [an action item from `TODOs-by-Owner.md`]?"*
+- *"Find every mention of [a topic] across the whole KB."*
+- *"Does anything in here contradict itself?"*
+- *"Draft a status update / outreach note from these notes"* — from
+  what's written, not invented.
+- *"What's changed since [a date]?"* — an assistant can read git
+  history for this.
+
+Why this is worth doing here specifically: five parties write across
+several documents that reference each other (e.g. `Stakeholder-Notes.md`
+cites budget figures that live in `Admin-Business-Legal.md`). Keeping
+that cross-referencing straight by hand gets harder as the KB grows — an
+assistant that can search the whole KB at once is well-suited to
+catching a figure that's stale in one file but already updated in
+another, or two documents quietly disagreeing on the same deadline.
+
+If you have an assistant make edits on your behalf, make sure it reads
+and follows `AGENTS.md` first (branch + PR workflow, no PII, confirm
+which party you're representing) rather than editing straight away.
 
 ## What this program is
 
