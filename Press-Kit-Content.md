@@ -68,7 +68,7 @@ review/replace it and add their own `about-me.md`, `logo.*`, and
       needs sourcing directly.
 - [ ] Builder Tech LLC: logo, headshot, about-me, about-company — `assets/builder-tech/`
 - [ ] Explay: logo, headshot, about-me, about-company — `assets/explay/`
-- [ ] VoltPop LLC: logo, headshot, about-me, about-company — `assets/voltpop/`
+- [ ] VoltPop LLC: logo, headshot, about-me, about-company — `assets/voltpop/`. **Logo added (2026-08-03)** — `logo.jpg`, sourced from voltpop.com's own site repo; headshot/about-me/about-company still needed.
 - [ ] Dr. Shawn M. Nicholson LLC: logo, headshot, about-me, about-company — `assets/nicholson-llc/`
 - [ ] Program/campus photos (VSU campus, Tri-Cities region imagery)
 - [ ] Any existing prototype/hardware photos from prior project work, if

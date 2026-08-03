@@ -75,6 +75,7 @@ by name until then. In chronological priority order:
 13. Confirm whether the Week 3 mentor-interview deliverable (from the Scope Doc) still stands (Course-Curriculum.md §5/§7).
 14. Weigh in on restoring a real Security Considerations deliverable in Week 9, now demoted to a passing mention *(shared: Explay, who leads Week 9)* (Course-Curriculum.md §5/§7).
 15. Actually decide on a program name — "VSU Innovation Program" is an assumptive placeholder used throughout this KB, not a name anyone has deliberately chosen (per VoltPop, 2026-08-02: "a generic innovation program for VSU," never revisited as a naming decision) *(shared: all parties, since it's used in every stakeholder-facing document)* (README.md).
+16. *(per VoltPop, 2026-08-03 — same requirement as VoltPop's and Explay's own items below, just missing here)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
 
 ## VoltPop
 
@@ -88,12 +89,12 @@ by name until then. In chronological priority order:
 
 ### Administrative / upfront work (prep, sell, fund the course)
 
-1. **Aug 4–7** — Follow through on direct Siemens research/outreach — fill in `Stakeholder-Notes.md`'s Siemens profile (what they want, contact, angle) as this progresses (Admin-Business-Legal.md §8). **Update (2026-08-02):** named contact identified — Gail Norris, Siemens rep on VSU School of Engineering's IAC — likely a warmer path than the Newport News cold-call; may shift this from VoltPop direct outreach toward a VSU-facilitated introduction.
+1. **Aug 4–7** — Follow through on direct Siemens research/outreach — fill in `Stakeholder-Notes.md`'s Siemens profile (what they want, contact, angle) as this progresses (Admin-Business-Legal.md §8). **Update (2026-08-02):** named contact identified — Gail Norris, Siemens rep on VSU School of Engineering's IAC — likely a warmer path than the Newport News cold-call; may shift this from VoltPop direct outreach toward a VSU-facilitated introduction *(shared: Dr. Shawn M. Nicholson LLC — per VoltPop, 2026-08-03, any contact with VSU itself, e.g. routing through the Engineering Department for this IAC intro, presumptively runs through him)*.
 2. **Aug 4–7** — Follow up with Jabil (Petersburg factory tied to Siemens) — resolve whether it's a distinct lead or part of the Siemens thread, then pursue via local site leadership (the stronger path) or the Jabil Cares Foundation. **Update (2026-08-02):** the Foundation is invitation-only, no public application — don't lead with it; go through the Petersburg site's Community Relations Manager/HR via the Jabil Global Locations Directory instead. Fill in `Stakeholder-Notes.md`'s Jabil profile as this progresses (Admin-Business-Legal.md §8).
-3. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in — see the framing guidance at the top of `Stakeholder-Notes.md` (Admin-Business-Legal.md §8).
+3. **Aug 7** — Frame any stakeholder conversations as exploratory/preliminary, not firm commitments on VSU's behalf, given outreach is happening before formal VSU advancement buy-in — see the framing guidance at the top of `Stakeholder-Notes.md` *(shared: all — per VoltPop, 2026-08-03)* (Admin-Business-Legal.md §8).
 4. **Aug 21** — Build the actual tailored pitch deck/press kit from `Stakeholder-Notes.md`'s per-stakeholder research (once filled in) and lock final budget/ask figures and logos/photos *(shared: Explay + Builder Tech, since it feeds the joint client presentation)* — see `Stakeholder-Notes.md` and `Press-Kit-Content.md`.
 5. *(support role — Dr. Shawn M. Nicholson LLC now leads)* Support Virginia Gateway Region (VGR) and Dominion Energy outreach, per Dr. Nicholson's personal connection to James Beazley, and Cameron Foundation outreach if needed (per VoltPop, 2026-08-03) — see Dr. Shawn M. Nicholson LLC's items below (Admin-Business-Legal.md §8).
-6. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §9).
+6. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing; same requirement as Explay's and Builder Tech's own items, done individually)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
 
 ## Explay
 
@@ -110,7 +111,7 @@ by name until then. In chronological priority order:
 6. Weigh in on restoring a real Security Considerations deliverable in Week 9, now demoted to a passing mention — Explay leads the week this content lives in *(shared: Builder Tech)* (Course-Curriculum.md §5/§7).
 7. Decide whether to reintroduce a named "elevator pitch" deliverable in Weeks 11–12 — present in V1's schedule, dropped from V2 (Course-Curriculum.md §5/§7).
 8. Weigh in on the Week 11/12 VoltPop support role still marked "(TBD)" in the schedule *(shared: VoltPop)* (Course-Curriculum.md §4).
-9. Confirm own background-check (SentryLink, virtual staff) timeline before Week 1 (Admin-Business-Legal.md §9).
+9. *(same requirement as VoltPop's and Builder Tech's own items, done individually)* Confirm own background-check (SentryLink, virtual staff) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
 
 ## Dr. Shawn M. Nicholson LLC
 
