@@ -97,6 +97,16 @@ treatment.
   oriented, not just when asked — as this repo's GitHub steward, know
   what's pending review before diving into new edits.
 
+## Don't assume a PR's status — check it
+
+Before referring to any PR as still open (e.g. reminding someone to
+merge it, or branching further work off it), check its actual current
+state (`gh pr view <number>` or `gh pr list`) rather than assuming it's
+still open because that's how it was last time it came up. Someone
+with merge authority may merge it mid-session, between sessions, or
+without mentioning it — treat "last known state" as stale until
+re-checked, every time.
+
 ## No PII, ever
 
 Never write personally identifiable information into this KB — student
