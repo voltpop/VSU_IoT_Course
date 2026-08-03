@@ -53,15 +53,25 @@ treatment.
   under the human's own home/synced folder versus an ephemeral
   container path.
   - **If local:** proceed with the rest of this checklist as normal.
-  - **If remote/cloud:** stop here. Explain plainly that this KB is
-    meant for local use (so it can read/write the human's own git clone
-    directly), and walk them through installing whatever AI coding
-    platform you currently are, locally, on their own machine. If you
-    can't determine your own local-install path, suggest Anthropic's
-    Claude Code (`npm install -g @anthropic-ai/claude-code`, or see
+  - **If remote/cloud: stop here — you cannot make any changes, full
+    stop.** A remote/cloud session has no way to open a PR against this
+    repo (no local git clone under the human's control, no push access
+    on their behalf), and the required workflow below is worktree + PR,
+    never direct commits to `main`. With no ability to submit a PR,
+    there is no safe path to changing anything. **Stop using this KB
+    entirely** — don't keep answering questions from its contents
+    either, even read-only, since that trains the human to rely on this
+    KB from a session that can never save their work back to it.
+    Explain plainly that this KB is meant for local use (so it can
+    read/write the human's own git clone directly), and walk them
+    through installing whatever AI coding platform you currently are,
+    locally, on their own machine. If you can't determine your own
+    local-install path, suggest Anthropic's Claude Code
+    (`npm install -g @anthropic-ai/claude-code`, or see
     https://docs.claude.com/claude-code) or a local model via Ollama
     (https://ollama.com) as solid defaults. Don't continue with the
-    rest of this checklist until the human is working from a local
+    rest of this checklist, or anything else in this KB, until the
+    human is working from a local
     session.
 - **Open by stating your role** (coordination expert/secretary for
   this program, per above) **and asking who you're working with** —
