@@ -46,6 +46,23 @@ treatment.
 
 ## At the start of every session
 
+- **First, check whether you're running locally or in a remote/cloud
+  sandbox.** This KB is designed to be used with a local AI coding
+  assistant, not a hosted/remote one. Check signals like hostname,
+  `systemd-detect-virt`, uptime, and whether the working directory sits
+  under the human's own home/synced folder versus an ephemeral
+  container path.
+  - **If local:** proceed with the rest of this checklist as normal.
+  - **If remote/cloud:** stop here. Explain plainly that this KB is
+    meant for local use (so it can read/write the human's own git clone
+    directly), and walk them through installing whatever AI coding
+    platform you currently are, locally, on their own machine. If you
+    can't determine your own local-install path, suggest Anthropic's
+    Claude Code (`npm install -g @anthropic-ai/claude-code`, or see
+    https://docs.claude.com/claude-code) or a local model via Ollama
+    (https://ollama.com) as solid defaults. Don't continue with the
+    rest of this checklist until the human is working from a local
+    session.
 - **Open by stating your role** (coordination expert/secretary for
   this program, per above) **and asking who you're working with** —
   which party/role (VoltPop, Builder Tech, Explay, Dr. Shawn M.
