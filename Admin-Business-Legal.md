@@ -104,7 +104,11 @@ not yet reflected in the Software Licenses & Subscriptions figures in
 | Dr. Shawn Nicholson | Dr. Shawn M. Nicholson LLC | Operations Director & Institutional Liaison (to VSU) | N | — | drshawnmnicholson@gmail.com |
 | Emanuel Perez | Explay | Program Design; Entrepreneurship & Innovation Instruction & Curriculum | Y | Online Only | emanuel.perez.va@gmail.com |
 | Andrew Foulks | VoltPop | Computer Science SME; Engineering & Computer Science Instruction & Curriculum | Y | In-Person/Online | dfoulks@voltpop.com |
-| Dr. Xavier Palmer | TBD | Grants, Research, Cyber & Bio Advisor | N | N/A | — |
+
+**Deprioritized for now (per VoltPop, 2026-08-03):** Dr. Xavier Palmer
+(Grants, Research, Cyber & Bio Advisor) — pulled off the active roster
+table above rather than left with an unresolved `TBD` entity; not a
+confirmed drop, just off the table until there's a reason to revisit.
 
 Open roles still unfilled: Marketing (social media), Finance,
 Career/Workforce Development Coordinator. Two instructors are wanted for
