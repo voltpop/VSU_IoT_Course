@@ -341,7 +341,9 @@ not cost-cutting.
   organization for the Tri-Cities area; strong natural fit given the
   program's regional focus, and currently well-funded.
 - **"Trilus"** — name as given; spelling/exact organization needs
-  confirming before outreach.
+  confirming before outreach. **Possible correction (per VoltPop,
+  2026-08-03):** may actually be "Trillis" — unconfirmed, needs
+  checking with Javon (see `Stakeholder-Notes.md`).
 - **Virginia Credit Union** — Richmond-based, plausible community/CSR
   giving program.
 - **Cameron Foundation** (Petersburg, VA) — strong fit: service area is

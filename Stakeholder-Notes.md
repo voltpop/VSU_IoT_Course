@@ -326,6 +326,7 @@ recite.
 ## "Trilus"
 
 - **Owner:** *(unassigned)*. **Status:** blocked — name as given; spelling/exact organization needs confirming before any outreach can start.
+- **Possible correction (per VoltPop, 2026-08-03):** may actually be "Trillis," not "Trilus" — unconfirmed. Confirm the actual name/spelling with Javon (original source) before treating either as correct or starting outreach.
 - **Contact:** *(not yet sourced)*
 
 ## Virginia Credit Union
