@@ -24,14 +24,17 @@ not the explanation.
 
 **Deadline: all stakeholder/funding research complete by mid-August
 2026** — roughly a 2-week runway. Covers nine distinct threads: Siemens,
-Virginia Gateway Region, "Trilus," Virginia Credit Union, Cameron
-Foundation, NSF HBCU-UP, Southern Company, Dominion Energy, and
-Anthropic's Claude for Education/Claude Corps programs. Genuinely tight
-given the volume — worth prioritizing Cameron Foundation and Virginia
-Gateway Region (strongest regional fit) and Claude Corps (January 2027
-cohort alignment) if all nine can't get equal depth in time. This also
-lands right around when the Business School's new dean starts
-(mid-August) — likely coincidental, but worth noting.
+Virginia Gateway Region, "Trilus" (**blocked** — name/spelling
+unconfirmed, possibly "Trillis"; needs confirming with Javon, the
+original source, before any outreach can start — see
+`Stakeholder-Notes.md`), Virginia Credit Union, Cameron Foundation, NSF
+HBCU-UP, Southern Company, Dominion Energy, and Anthropic's Claude for
+Education/Claude Corps programs. Genuinely tight given the volume —
+worth prioritizing Cameron Foundation and Virginia Gateway Region
+(strongest regional fit) and Claude Corps (January 2027 cohort
+alignment) if all nine can't get equal depth in time. This also lands
+right around when the Business School's new dean starts (mid-August)
+— likely coincidental, but worth noting.
 
 **Note:** per Javon's meeting-recap email below, "Stakeholder
 research — Aug 4–7, 2026" is a much tighter window than "mid-August."
@@ -116,7 +119,7 @@ by name until then. In chronological priority order:
 ## Dr. Shawn M. Nicholson LLC
 
 1. **[Due mid-Aug 2026]** Lead Virginia Gateway Region (VGR) outreach *(shared: VoltPop)* — Dr. Nicholson is taking the lead given his personal connection to James Beazley (VGR Secretary) and Tom Stansbury (Entrepreneur in Residence) — fill in `Stakeholder-Notes.md`'s VGR profile as this progresses (Admin-Business-Legal.md §8). **Open question for Dr. Nicholson (added 2026-08-02):** public research on VGR (gatewayregion.com, press releases, GuideStar) suggests VGR itself is a regional economic-development nonprofit whose funding wins are large state/federal site-infrastructure and job-creation grants (Business Ready Sites, EDA, GO Virginia) — not a CSR/philanthropic grant-maker able to just write this program a check (see the "Funding-model finding" note in `Stakeholder-Notes.md`'s VGR profile). **Given Dr. Nicholson's direct relationship with Beazley and Stansbury, does he have first-hand knowledge that corrects or adds nuance to this read?** e.g., does VGR have any discretionary sponsorship/community fund outside the big infrastructure grants, or is facilitation/introduction (rather than direct cash) really the realistic ask? Worth confirming before finalizing how VGR is pitched.
-2. **[Due mid-Aug 2026]** Lead Dominion Energy outreach *(shared: VoltPop)* — Dr. Nicholson is taking the lead given his personal connection to James Beazley — fill in `Stakeholder-Notes.md`'s Dominion profile as this progresses (Admin-Business-Legal.md §8). **Update (2026-08-02):** two additional named contacts identified via VSU's Industry Advisory Councils — Joe Woomer (VP, Dominion Energy, School of Business's Management & Marketing Advisory Council) and Daniel Holmes (Dominion Energy, Dept. of Engineering IAC) — extra warm-intro paths alongside Beazley.
+2. **[Due mid-Aug 2026]** Lead Dominion Energy outreach *(shared: VoltPop)* — Dr. Nicholson is taking the lead given his personal connection to James Beazley — fill in `Stakeholder-Notes.md`'s Dominion profile as this progresses (Admin-Business-Legal.md §8). **Update (2026-08-02):** two additional named contacts identified via VSU's Industry Advisory Councils — Joe Woomer (VP, Dominion Energy, School of Business's Management & Marketing Advisory Council) and Daniel Holmes (Dominion Energy, Dept. of Engineering IAC) — extra warm-intro paths alongside Beazley. **Open question (added 2026-08-03, per VoltPop):** genuinely unclear what Dominion actually gets out of this — unlike Siemens/Jabil, where the engineering/manufacturing/IoT tie-in gives an obvious "why," Dominion's motivation for expressing interest isn't established yet. Worth figuring out before the conversation, not assuming an energy angle just because they're a utility — see `Stakeholder-Notes.md`'s Dominion profile.
 3. **[Due mid-Aug 2026]** Lead Cameron Foundation outreach *(shared: VoltPop, support if needed — per VoltPop, 2026-08-03)* — fill in `Stakeholder-Notes.md`'s Cameron Foundation profile as this progresses (Admin-Business-Legal.md §8).
 4. **[Due mid-Aug 2026]** Check on VSU's existing Southern Company relationship (the $500K endowed professorship) as a warm lead for additional funding (Admin-Business-Legal.md §8).
 5. **[Due mid-Aug 2026]** Pursue Anthropic's Claude for Education and/or Claude Corps application as VSU (both require an institutional applicant, not a private LLC) — Claude Corps' January 2027 cohort aligns closely with the program start (Admin-Business-Legal.md §8).
