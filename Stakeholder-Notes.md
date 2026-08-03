@@ -309,7 +309,7 @@ recite.
 
 ## Cameron Foundation
 
-- **Owner:** *(unassigned)*. **Status:** not yet contacted.
+- **Owner:** Dr. Shawn M. Nicholson LLC (**lead**, per VoltPop, 2026-08-03), VoltPop (**support, if needed**). **Status:** not yet contacted.
 - **What they might want / angle:** Petersburg, VA — service area is literally the Tri-Cities footprint this program is built around; funds education/economic development; has funded STEM education before. Education/economic-development framing likely resonates.
 - **Contact:** *(not yet sourced)*
 - **AI/IoT/FOSS grant-language check (2026-08-01):** public funding-interests page lists six categories (Health Care, Community & Economic Development, Human Services, Education, Historic Preservation & Conservation, Arts & Culture) — no mention of AI, IoT, or open-source; "technology" only appears in passing re: healthcare.
