@@ -131,6 +131,32 @@ files or substantial edits), open a PR for what's done rather than
 continuing to batch more into one giant changeset. Smaller, more
 frequent PRs are easier for async collaborators to review.
 
+## Stale branches and conflicts: never let a merge drop someone's edits
+
+Because this repo is worked on asynchronously by five parties, a
+branch/worktree can easily fall behind `main` if someone else's PR
+merges first — and that party may be non-technical, working entirely
+through their own agent, with no way to notice or recover a silently
+dropped edit themselves. Treat this as a case requiring care, not a
+routine git mechanic to fix silently:
+
+- **Before opening a PR, and again right before merging,** sync the
+  branch against the latest `main` (fetch + rebase or merge) so any
+  real conflict surfaces as early as possible, rather than being
+  discovered — or missed — at merge time.
+- **If a real conflict comes up** (both sides touched the same
+  content), never resolve it by blanket-favoring one side (e.g.
+  `--ours`/`--theirs`, or a merge tool's auto-pick) and never let a
+  clean-looking auto-merge stand in for actually reading both sides.
+  Manually reconcile so both parties' edits survive in the result.
+- **If reconciling requires a judgment call that could drop or
+  reinterpret someone's content** (not a pure mechanical merge), stop
+  and surface it to both the person whose branch is being merged and
+  whoever holds merge authority, rather than resolving it unilaterally.
+  A brief delay for confirmation is cheaper than silently losing a
+  non-technical party's only copy of their input.
+- Never force-push over content already merged into `main`.
+
 ## Why this matters here specifically
 
 - Multiple organizations' agents/assistants may work in this repo. A
