@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — TODOs by Owner
 compiled: 2026-07-31
-updated: 2026-08-01
+updated: 2026-08-04
 ---
 
 # VSU Innovation Program — TODOs by Owner
@@ -36,11 +36,12 @@ alignment) if all nine can't get equal depth in time. This also lands
 right around when the Business School's new dean starts (mid-August)
 — likely coincidental, but worth noting.
 
-**Note:** per Javon's meeting-recap email below, "Stakeholder
-research — Aug 4–7, 2026" is a much tighter window than "mid-August."
-Unclear whether this is the same nine-thread research effort above with
-a firmer date, or a distinct, narrower research task — confirm with
-Javon before treating either date as authoritative.
+**Confirmed (VoltPop, 2026-08-04):** the "Aug 4–7" window isn't a
+separate, narrower task — it's this same nine-thread research effort,
+due by Aug 7 for the next proposed cross-party meeting (Javon expected
+to send the invite), consistent with the other Aug 7 milestone items
+below. "Mid-August" above is the fuller depth target across all nine
+threads, not a conflicting deadline.
 
 ## Milestone: Present to VSU (per Javon's 2026-07-31 meeting recap)
 
@@ -49,7 +50,7 @@ full task-delegation email (owners + deadlines) is coming before Monday
 2026-08-03, 12:00 PM — the items below are **intentionally unassigned**
 by name until then. In chronological priority order:
 
-1. **Aug 4–7** — Stakeholder research (see discrepancy note above) *(shared: VoltPop's Siemens thread + the broader nine-thread research effort)*.
+1. **Aug 7** — Stakeholder research due for the next proposed meeting (see note above) *(shared: VoltPop's Siemens thread + the broader nine-thread research effort)*.
 2. **Aug 7** — Finalize the mentorship model *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC, since VSU-side coordination is likely needed)*.
 3. **Aug 7** — Stakeholder presentation slides shared *(shared: VoltPop + Explay + Builder Tech)*.
 4. **Aug 7** — Stakeholder support conversations start *(shared: all instructing parties)*.
