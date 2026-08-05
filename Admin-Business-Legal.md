@@ -101,12 +101,12 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   eligibility for, alongside eVA registration itself (see
   `TODOs-by-Owner.md`).
 - **Positive development**: an existing MoU already directs VSU's
-  College of Engineering and School of Business to collaborate with
-  each other, with professors/Deans on both sides already engaged and
-  precedent for this kind of program — see §4. Should ease (though not
-  eliminate) the procurement/counsel-review process, since VSU already
-  has a working internal framework for cross-college, externally
-  partnered initiatives like this one.
+  College of Engineering and Technology and Reginald F. Lewis College of
+  Business to collaborate with each other, with professors/Deans on both
+  sides already engaged and precedent for this kind of program — see §4.
+  Should ease (though not eliminate) the procurement/counsel-review
+  process, since VSU already has a working internal framework for
+  cross-college, externally partnered initiatives like this one.
 - **Internal MOUs and temporary NDAs** — per Javon's 2026-07-31 meeting
   recap email, these need to be in place by Aug 7, 2026. Distinct from
   the main Operating Agreement above — likely a short-term stopgap
@@ -163,10 +163,16 @@ size grows. Dr. Nicholson also consults for the VA Center for
 Entrepreneurship.
 
 **VSU departmental contacts:**
-- **College of Engineering**: Dean Haley (current).
-- **College of Business**: currently an interim dean; a new (permanent)
-  dean starts mid-August 2026. Worth timing Business-school-specific
-  outreach for after the new dean arrives, or looping in both.
+- **College of Engineering and Technology** (official name confirmed
+  2026-08-05 via Javon's Stakeholder Tracker; previously shortened here
+  to "College of Engineering"): Dean Haley (current). Owner for
+  coordination purposes: Dr. Shawn M. Nicholson LLC (per the tracker).
+- **Reginald F. Lewis College of Business** (official name confirmed
+  2026-08-05 via the same tracker; previously "College of Business"/
+  "Business School"): currently an interim dean; a new (permanent) dean
+  starts mid-August 2026. Worth timing Business-school-specific outreach
+  for after the new dean arrives, or looping in both. Owner for
+  coordination purposes: Dr. Shawn M. Nicholson LLC (per the tracker).
 - Both colleges have been notified of an **existing MoU directing them
   to collaborate**, with professors and Deans on both sides already
   engaged, and precedent for this kind of program at VSU.
@@ -383,6 +389,14 @@ contributions rather than cash.
 down further — the path is external funding and in-kind contributions,
 not cost-cutting.
 
+**Note on source overlap (2026-08-05):** the list below is this KB's
+own tracked threads (from Javon's 2026-07-31 recap) and only partly
+matches Javon's separate Stakeholder Tracker spreadsheet, which adds
+Deloitte and Apache/ASF (both included below now) plus VSU's own two
+colleges (see §4), and drops Virginia Credit Union/NSF HBCU-UP/Southern
+Company/Claude Corps entirely. See `Stakeholder-Notes.md`'s framing
+note for the full discrepancy — not yet reconciled with Javon.
+
 **Concrete leads:**
 - **Dominion Energy** — has expressed interest in helping fund a
   program like this. Needs formal follow-up.
@@ -390,10 +404,21 @@ not cost-cutting.
 - **Virginia Gateway Region (VGR)** — the regional economic development
   organization for the Tri-Cities area; strong natural fit given the
   program's regional focus, and currently well-funded.
-- **OpenTrellis** (formerly tracked here as "Trilus"/"Trillis") — name
-  confirmed with Javon 2026-08-05, no longer a blocker. Tentative
-  contact: possibly Dan Frickel, a colleague of Dr. Nicholson's —
-  unconfirmed (see `Stakeholder-Notes.md`).
+- **OpenTrellis** (formerly tracked here as "Trilus"/"Trillis"; Javon's
+  tracker spells it "Open Trellis") — name confirmed with Javon
+  2026-08-05, no longer a blocker. Contact per Javon's Stakeholder
+  Tracker: Dale Frickett — still no title/email, not yet contacted (see
+  `Stakeholder-Notes.md`).
+- **Deloitte** — added 2026-08-05 via Javon's Stakeholder Tracker, his
+  own filled-out example row. Ask: sponsorship/funding, judges/mentors,
+  Virginia-office field trips. Their likely angle: an early talent
+  pipeline trained on Deloitte's own tools/casework approach. See
+  `Stakeholder-Notes.md` for the full paired goals.
+- **Apache Software Foundation (ASF)** — added 2026-08-05 via the same
+  tracker (owner: VoltPop). Natural open-source fit; Anthropic already
+  has a real, current $1.5M donation relationship with the ASF
+  (confirmed 2026-08-05) — a stronger entry point than a personal
+  contact. See `Stakeholder-Notes.md`.
 - **Virginia Credit Union** — Richmond-based, plausible community/CSR
   giving program.
 - **Cameron Foundation** (Petersburg, VA) — strong fit: service area is
