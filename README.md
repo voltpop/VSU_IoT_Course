@@ -84,3 +84,12 @@ which party you're representing) rather than editing straight away.
   Operations Director & Institutional Liaison role runs through this
   LLC, not VSU employment), and **Virginia State University** (host
   institution).
+
+## Submodule auto-bump hook
+
+This repo is also linked into VoltPop as a git submodule
+(`Engagements/VSU_IoT_Course`). A tracked `.githooks/post-merge` hook
+auto-bumps and pushes VoltPop's pin whenever `main` advances here — see
+`VoltPop/AI/Local/Repo-Architecture-Master-Scoped-KBs.md` §8 for the
+full explanation. Enable it once per clone with
+`git config core.hooksPath .githooks`.
