@@ -45,6 +45,15 @@ to send the invite), consistent with the other Aug 7 milestone items
 below. "Mid-August" above is the fuller depth target across all nine
 threads, not a conflicting deadline.
 
+**Agenda flag for the Aug 7 cross-party meeting:** confirm **Gail
+Norris** (Siemens' US Lead for Sitrain/Digital Industry Academy, via
+VSU's Engineering Industry Advisory Council) as the group's preferred
+warm-path intro for Siemens outreach — this is the specific decision
+that's currently **blocking** VoltPop from asking Dr. Nicholson to make
+the introduction (see VoltPop's admin item #1 below, and the Siemens
+profile in `Stakeholder-Notes.md`). The direct cold-call fallback stays
+open regardless of what's decided here.
+
 **Not yet reconciled (flagged 2026-08-05):** Javon separately built a
 Stakeholder Tracker (a spreadsheet, ingested here from a local `.ods`
 copy — see `Files/Stakeholder Tracker.ods`) listing a **different** set
