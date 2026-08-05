@@ -1,0 +1,27 @@
+#!/bin/sh
+# Auto-bump VoltPop's submodule pin whenever this repo's main branch advances
+# (fires after `git merge` / the merge step of `git pull`).
+#
+# Requires: git config core.hooksPath .githooks   (run once per clone — see
+# Repo-Architecture-Master-Scoped-KBs.md in VoltPop's AI/Local/ for why this
+# isn't automatic, and the full submodule process guide in general).
+
+SUPER_ROOT=$(git rev-parse --show-superproject-working-tree 2>/dev/null)
+if [ -z "$SUPER_ROOT" ]; then
+  # Not being used as a submodule right now — nothing to bump.
+  exit 0
+fi
+
+SUBMODULE_PATH=$(git rev-parse --show-toplevel)
+
+cd "$SUPER_ROOT" || exit 0
+git pull --ff-only origin main >/dev/null 2>&1
+
+git add "$SUBMODULE_PATH"
+if git commit -m "Bump VSU_IoT_Course submodule to latest main (auto)" --quiet; then
+  if git push origin main --quiet 2>/dev/null; then
+    echo "VoltPop: auto-bumped VSU_IoT_Course submodule pin and pushed." >&2
+  else
+    echo "VoltPop: auto-bumped VSU_IoT_Course submodule pin locally, but push failed — push VoltPop's main manually." >&2
+  fi
+fi
