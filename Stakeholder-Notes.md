@@ -147,6 +147,55 @@ over-read small gaps between adjacent entries.
     (small-business finance education) doesn't obviously map onto an
     AI/IoT toe-dip course the way it first seemed it might.
 
+### Deck-reuse clusters (2026-08-05, per VoltPop's request)
+
+Goal: as few actual presentation decks as possible. Grouped by sector/
+content-angle overlap, not by owner — a cluster can span multiple
+owners' stakeholders.
+
+- **Digital-manufacturing / industrial IoT** — Siemens, Jabil,
+  Huntington Ingalls. Already built (see the consolidated pitch points
+  below Huntington Ingalls' profile) — the strongest existing cluster.
+- **Energy utilities** — Dominion Energy, Southern Company, American
+  Electric Power Foundation. All three are utilities with STEM-giving
+  arms, and none had a clean content hook (Dominion's "why do they
+  care" has been an open question for days). **New angle worth using:**
+  utilities run smart-grid/grid-monitoring IoT at scale — sensor-based
+  infrastructure monitoring, smart meters — a legitimate, unforced tie
+  to this program's actual content that none of the three profiles use
+  yet. One deck could answer the open question instead of dodging it.
+- **Institutional-application programs** — Claude for Education/Claude
+  Corps, NSF HBCU-UP. **Not a pitch-deck cluster at all** — these are
+  formal applications against defined criteria, not a relationship
+  ask. Zero deck-production effort belongs here; the deliverable is a
+  written application.
+- **Regional community/economic-development foundations** — Cameron
+  Foundation, Virginia Credit Union, and Virginia Gateway Region (in
+  its facilitator framing, not as a direct funder). None have an
+  IoT-specific angle; all respond to the same "regional workforce
+  pipeline + student exposure to local employers" mission-fit framing
+  already built for VGR. One deck, swap the logo/name.
+- **Business/entrepreneurship-education fit** — Open Trellis, Deloitte.
+  Neither maps to the IoT/hardware side of the course — both map to
+  the *business* side (entrepreneurship, casework, pitch skills).
+  Pitch off the Business Model Canvas / pitch-deck deliverables
+  (Explay's/Builder Tech's material), not the sensor/hardware ones.
+- **Anthropic/open-source ecosystem** — Apache Software Foundation,
+  Claude for Education/Claude Corps. Both are literally "we're built on
+  your tooling" — the same dependency narrative, aimed at two different
+  organizations.
+
+**Biggest lever isn't content clustering, it's the delivery channel:**
+multiple stakeholders route through the same two VSU bodies — the
+Engineering Industry Advisory Council (Gail Norris/Siemens, Harry
+Johnson/Huntington Ingalls, Daniel Holmes/Dominion) and the Business
+School's Management & Marketing + Accounting & Finance advisory
+councils (Joe Woomer/Dominion, Angela Roisten/Virginia Credit Union).
+Getting on **two council agendas** could reach five stakeholders in two
+presentations instead of five separate one-on-one pitches — see the
+"Use VSU's own advisory councils as a channel" note under "Other angles
+worth checking" below, which this generalizes.
+
 ## Siemens
 
 - **Owner:** VoltPop. **Status (updated 2026-08-04, per VoltPop):** the warm path — requesting Dr. Nicholson introduce Gail Norris — is **blocked** until the Aug 7 cross-party meeting confirms it as the group's preferred approach. The direct cold-call fallback (Newport News office, ask for the Academic Programs Coordinator) is unblocked and open to VoltPop anytime — see the call notes below.
