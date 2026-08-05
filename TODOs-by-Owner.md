@@ -167,6 +167,7 @@ by name until then. In chronological priority order:
 6. *(support role — Dr. Shawn M. Nicholson LLC now leads)* Support Virginia Gateway Region (VGR) and Dominion Energy outreach, per Dr. Nicholson's personal connection to James Beazley, and Cameron Foundation outreach if needed (per VoltPop, 2026-08-03) — see Dr. Shawn M. Nicholson LLC's items below (Admin-Business-Legal.md §8).
 7. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing; same requirement as Explay's and Builder Tech's own items, done individually)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
 8. *(flagged by VoltPop, 2026-08-05 — same requirement as Builder Tech's, Explay's, and Dr. Shawn M. Nicholson LLC's own items, done individually)* Register with eVA if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
+9. *(new, 2026-08-05, per VoltPop)* Now that VoltPop is a confirmed Anthropic Brand Ambassador himself, check whether the Ambassador program offers any real path (visibility, contact, referral) into the Claude for Education/Claude Corps application — don't assume it helps without checking *(shared: Dr. Shawn M. Nicholson LLC, who owns that thread)* (Stakeholder-Notes.md).
 
 ## Explay
 
@@ -185,7 +186,7 @@ by name until then. In chronological priority order:
 8. Weigh in on the Week 11/12 VoltPop support role still marked "(TBD)" in the schedule *(shared, confirmed by VoltPop 2026-08-04: VoltPop)* (Course-Curriculum.md §4).
 9. *(same requirement as VoltPop's and Builder Tech's own items, done individually)* Confirm own background-check (SentryLink, virtual staff) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
 10. *(flagged by VoltPop, 2026-08-05 — same requirement as VoltPop's, Builder Tech's, and Dr. Shawn M. Nicholson LLC's own items, done individually)* Register with eVA if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
-11. *(flagged by VoltPop, 2026-08-05, not yet confirmed)* Confirm the reported personal contact who is an Anthropic Brand Ambassador — who they are, and whether they can realistically help with the Claude for Education/Claude Corps thread *(shared: Dr. Shawn M. Nicholson LLC, who owns that thread)* (Stakeholder-Notes.md).
+11. *(flagged by VoltPop, 2026-08-05, not yet confirmed)* Confirm the reported personal contact who is an Anthropic Brand Ambassador — who they are, and whether they can realistically help with the Claude for Education/Claude Corps thread *(shared: Dr. Shawn M. Nicholson LLC, who owns that thread; VoltPop, who is now an Ambassador himself too — see his own admin item below)* (Stakeholder-Notes.md).
 
 ## Dr. Shawn M. Nicholson LLC
 

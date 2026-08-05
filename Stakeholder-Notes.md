@@ -122,11 +122,10 @@ over-read small gaps between adjacent entries.
 8. **Claude for Education / Claude Corps** — capability and desire are
    both structurally built into a defined, open program with known
    terms, but requires VSU as institutional applicant plus competitive
-   selection. A possible connection surfaced 2026-08-05 (Explay's
-   reported Anthropic Brand Ambassador contact) — not yet confirmed,
-   and an Ambassador may not have real influence over admissions even
-   if it checks out, so treat this as unverified rather than a real
-   warm path yet.
+   selection. Connection strengthened 2026-08-05: **VoltPop is now
+   himself a confirmed Anthropic Brand Ambassador** (plus Explay's own
+   unconfirmed contact) — real, but still unproven whether the
+   Ambassador program has any actual path into Corps admissions.
 9. **NSF HBCU-UP** — strong categorical fit (federal HBCU-specific
    program) but competitive, no connection.
 10. **Virginia Credit Union** — named contact (Angela Roisten) exists,
@@ -432,7 +431,8 @@ recite.
 
 - **Owner:** Dr. Shawn M. Nicholson LLC / VSU (institutional applicant required, not a private LLC). **Status:** due mid-Aug 2026 (TODOs-by-Owner.md).
 - **What they offer:** in-kind (credits/licenses), not cash — reduces the software-subscription budget gap by the same amount. Claude Corps: $10,000 grant + $2,500/fellow in credits, plus an Anthropic-paid fellow for a year. January 2027 cohort aligns with this program's start.
-- **Possible connection (flagged 2026-08-05, per VoltPop, not yet confirmed):** Explay (Emanuel Perez) reportedly has a personal contact who is an **Anthropic Brand Ambassador**. Not yet verified directly with Emanuel — worth confirming who the contact actually is and whether an Ambassador can meaningfully help with a Claude Corps/Claude for Education application (they're a community-advocacy role, not necessarily someone with influence over admissions) before leaning on this as a real warm path.
+- **Connection — confirmed, first-person (2026-08-05):** VoltPop himself has signed up as an **Anthropic Brand Ambassador**. Stronger and more certain than the Explay lead below, though the same caveat applies — an Ambassador is a community-advocacy role, not necessarily someone with influence over Claude Corps/Claude for Education admissions. Worth VoltPop checking directly what (if any) internal visibility or contact path the Ambassador program actually offers into the Corps application process, rather than assuming it helps.
+- **Possible connection (flagged 2026-08-05, per VoltPop, not yet confirmed):** Explay (Emanuel Perez) also reportedly has a personal contact who is an Anthropic Brand Ambassador. Not yet verified directly with Emanuel.
 - **Contact:** *(not yet sourced beyond the above)*
 
 ## Apache Software Foundation (ASF)
