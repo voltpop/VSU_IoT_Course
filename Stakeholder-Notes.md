@@ -122,7 +122,11 @@ over-read small gaps between adjacent entries.
 8. **Claude for Education / Claude Corps** — capability and desire are
    both structurally built into a defined, open program with known
    terms, but requires VSU as institutional applicant plus competitive
-   selection; no personal connection.
+   selection. A possible connection surfaced 2026-08-05 (Explay's
+   reported Anthropic Brand Ambassador contact) — not yet confirmed,
+   and an Ambassador may not have real influence over admissions even
+   if it checks out, so treat this as unverified rather than a real
+   warm path yet.
 9. **NSF HBCU-UP** — strong categorical fit (federal HBCU-specific
    program) but competitive, no connection.
 10. **Virginia Credit Union** — named contact (Angela Roisten) exists,
@@ -428,7 +432,8 @@ recite.
 
 - **Owner:** Dr. Shawn M. Nicholson LLC / VSU (institutional applicant required, not a private LLC). **Status:** due mid-Aug 2026 (TODOs-by-Owner.md).
 - **What they offer:** in-kind (credits/licenses), not cash — reduces the software-subscription budget gap by the same amount. Claude Corps: $10,000 grant + $2,500/fellow in credits, plus an Anthropic-paid fellow for a year. January 2027 cohort aligns with this program's start.
-- **Contact:** *(not yet sourced)*
+- **Possible connection (flagged 2026-08-05, per VoltPop, not yet confirmed):** Explay (Emanuel Perez) reportedly has a personal contact who is an **Anthropic Brand Ambassador**. Not yet verified directly with Emanuel — worth confirming who the contact actually is and whether an Ambassador can meaningfully help with a Claude Corps/Claude for Education application (they're a community-advocacy role, not necessarily someone with influence over admissions) before leaning on this as a real warm path.
+- **Contact:** *(not yet sourced beyond the above)*
 
 ## Apache Software Foundation (ASF)
 

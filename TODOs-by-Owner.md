@@ -185,6 +185,7 @@ by name until then. In chronological priority order:
 8. Weigh in on the Week 11/12 VoltPop support role still marked "(TBD)" in the schedule *(shared, confirmed by VoltPop 2026-08-04: VoltPop)* (Course-Curriculum.md §4).
 9. *(same requirement as VoltPop's and Builder Tech's own items, done individually)* Confirm own background-check (SentryLink, virtual staff) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
 10. *(flagged by VoltPop, 2026-08-05 — same requirement as VoltPop's, Builder Tech's, and Dr. Shawn M. Nicholson LLC's own items, done individually)* Register with eVA if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
+11. *(flagged by VoltPop, 2026-08-05, not yet confirmed)* Confirm the reported personal contact who is an Anthropic Brand Ambassador — who they are, and whether they can realistically help with the Claude for Education/Claude Corps thread *(shared: Dr. Shawn M. Nicholson LLC, who owns that thread)* (Stakeholder-Notes.md).
 
 ## Dr. Shawn M. Nicholson LLC
 
