@@ -22,6 +22,15 @@ LLC, and VSU to collaborate from. Split by domain:
   for press materials (logos/photos still need sourcing separately).
 - **[`TODOs-by-Owner.md`](./TODOs-by-Owner.md)** — action items split by
   Builder Tech, VoltPop, Explay, and Dr. Shawn M. Nicholson LLC.
+- **[`Files/`](./Files/)** — raw source documents (budget spreadsheet,
+  program schedule, stakeholder tracker, meeting recap) kept alongside
+  the markdown summaries above as reference copies. These are point-in-
+  time snapshots, not synced to whatever live version anyone's actively
+  editing elsewhere (e.g. Google Sheets) — check the markdown files
+  above for the current state, not these files.
+- **[`assets/`](./assets/README.md)** — press-kit pieces (logos,
+  headshots, bios) and generated stakeholder handouts (see
+  [`assets/stakeholder-handouts/`](./assets/stakeholder-handouts/)).
 
 ## New here? Using this KB with an AI assistant
 
