@@ -139,6 +139,13 @@ not yet reflected in the Software Licenses & Subscriptions figures in
     and not yet agreed by any party. Nothing in §1's party roles or IP
     ownership should be treated as changed until that alignment happens
     and this is confirmed on all sides.
+  - **Condensed with the internal MOUs/NDAs item above (per VoltPop,
+    2026-08-05):** the two are intrinsically linked — both are really
+    the same underlying question of what the internal contracting
+    structure between the parties should actually look like. Deferred
+    as one combined item to work through **after** the stakeholder
+    presentation milestone (Aug 21/28), rather than by the original Aug
+    7 date — see `TODOs-by-Owner.md`.
 
 ## 4. Team roster, VSU contacts & regional focus
 
@@ -223,11 +230,12 @@ pitch, an idea with strong product-market fit.
 | Program Dates | Jan 19, 2027 | Apr 29, 2027 |
 | Outcomes Analysis & Assessment / Share with VSU | Apr 30, 2027 | May 13, 2027 |
 
-**Stakeholder/funding research deadline: mid-August 2026** — covers nine
-distinct threads (see §7). Genuinely tight given the volume — worth
+**Stakeholder/funding research deadline: mid-August 2026** — covers
+thirteen distinct threads as of the 2026-08-05 merge (see §8;
+`TODOs-by-Owner.md`). Genuinely tight given the volume — worth
 prioritizing Cameron Foundation and Virginia Gateway Region (strongest
-regional fit) and Claude Corps (January 2027 cohort timing) if all nine
-can't get equal depth in time.
+regional fit) and Claude Corps (January 2027 cohort timing) if all
+thirteen can't get equal depth in time.
 
 ## 6. Current budget (2026-07-31 revision)
 
@@ -389,13 +397,14 @@ contributions rather than cash.
 down further — the path is external funding and in-kind contributions,
 not cost-cutting.
 
-**Note on source overlap (2026-08-05):** the list below is this KB's
-own tracked threads (from Javon's 2026-07-31 recap) and only partly
-matches Javon's separate Stakeholder Tracker spreadsheet, which adds
-Deloitte and Apache/ASF (both included below now) plus VSU's own two
-colleges (see §4), and drops Virginia Credit Union/NSF HBCU-UP/Southern
-Company/Claude Corps entirely. See `Stakeholder-Notes.md`'s framing
-note for the full discrepancy — not yet reconciled with Javon.
+**Note on source merge (2026-08-05):** this KB's own tracked threads
+(from Javon's 2026-07-31 recap) originally only partly matched Javon's
+separate Stakeholder Tracker spreadsheet — per VoltPop, the two were
+merged rather than reconciled with Javon, so the list below now
+includes both sets' net-new names (Deloitte and Apache/ASF added below;
+VSU's own two colleges tracked separately in §4). See
+`Stakeholder-Notes.md`'s framing note and `TODOs-by-Owner.md` for the
+full merged count (thirteen threads).
 
 **Concrete leads:**
 - **Dominion Energy** — has expressed interest in helping fund a
@@ -404,11 +413,11 @@ note for the full discrepancy — not yet reconciled with Javon.
 - **Virginia Gateway Region (VGR)** — the regional economic development
   organization for the Tri-Cities area; strong natural fit given the
   program's regional focus, and currently well-funded.
-- **OpenTrellis** (formerly tracked here as "Trilus"/"Trillis"; Javon's
-  tracker spells it "Open Trellis") — name confirmed with Javon
-  2026-08-05, no longer a blocker. Contact per Javon's Stakeholder
-  Tracker: Dale Frickett — still no title/email, not yet contacted (see
-  `Stakeholder-Notes.md`).
+- **Open Trellis** (formerly tracked here as "Trilus"/"Trillis") —
+  identity fully resolved 2026-08-05: a Richmond, VA entrepreneurship/
+  startup-finance nonprofit (an RVA Works initiative), CEO Dale Fickett.
+  Not yet contacted; content fit vs. this program's AI/IoT focus still
+  needs assessing (see `Stakeholder-Notes.md`).
 - **Deloitte** — added 2026-08-05 via Javon's Stakeholder Tracker, his
   own filled-out example row. Ask: sponsorship/funding, judges/mentors,
   Virginia-office field trips. Their likely angle: an early talent
@@ -468,7 +477,7 @@ looped in.
 9. Reflect Builder Tech's expanded role consistently in the Agreement's Article 3.
 10. Correct the Week 5 tools column (Arduino IDE → MicroPython/Thonny) and enter the Week 8 leadership/API→MCP updates into the live schedule sheet — see Course-Curriculum.md.
 11. Clarify the specifics behind any "Claude Code is cheaper than Claude chat" comparison being used in planning — available research suggests Claude Code and Claude's chat interface share the same subscription and usage pool, so it's worth confirming exactly what was compared before it informs budget decisions.
-12. Progress the nine stakeholder/funding research threads in §8 by the mid-August deadline.
+12. Progress the thirteen stakeholder/funding research threads in §8 by the mid-August deadline.
 13. Clarify Dr. Shawn M. Nicholson LLC's exact role/relationship to Dr. Nicholson's VSU Institutional Liaison position — whether it's the contracting/payment vehicle for his compensation (§1/§2), and how that interacts with the payment-flow open item above (§7).
 14. Put internal MOUs and temporary NDAs in place by Aug 7, 2026, per Javon's 2026-07-31 meeting recap (§3) — scope/parties/duration still unspecified.
 15. Confirm the loaner-laptop question by Aug 7, 2026, per the same email (§6) — resolve whether VSU will provide loaners for students without their own.

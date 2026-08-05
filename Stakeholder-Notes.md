@@ -15,26 +15,21 @@ is known per stakeholder — not guessed at generically ahead of time.
 Full funding-source reasoning and the underlying budget figures live in
 `Admin-Business-Legal.md` §8/§6.
 
-**Two different "nine stakeholders" lists exist — flagged, not
-reconciled (2026-08-05):** this KB's tracked funding-research threads
-(Siemens, VGR, OpenTrellis, Virginia Credit Union, Cameron Foundation,
-NSF HBCU-UP, Southern Company, Dominion Energy, Claude for
-Education/Claude Corps — from Javon's 2026-07-31 meeting recap) are
-**not the same nine** as Javon's separate Stakeholder Tracker (a Google
-Sheet, ingested here 2026-08-05 from a local `.ods` copy — see
-`Files/Stakeholder Tracker.ods`): Deloitte, Siemens, Apache, Dominion
-Energy, Cameron Foundation, Virginia Gateway Region, Open Trellis,
-College of Engineering and Technology, and Reginald F. Lewis College of
-Business. Only five overlap (Siemens, VGR, OpenTrellis, Cameron
-Foundation, Dominion). The tracker adds **Deloitte** (new to this KB
-entirely), **Apache/ASF** (previously only an informal "other angle"
-below), and VSU's own two colleges as tracked coordination targets. It
-drops Virginia Credit Union, NSF HBCU-UP, Southern Company, and Claude
-Corps entirely. **Worth confirming with Javon directly** whether the
-tracker intentionally narrows scope to active-outreach threads (with
-the other four still alive elsewhere) or whether it supersedes the
-original nine — don't assume either way. See `TODOs-by-Owner.md` for
-the task-level fallout.
+**Two different "nine stakeholders" lists, merged (resolved 2026-08-05):**
+this KB's original tracked funding-research threads (Siemens, VGR, Open
+Trellis, Virginia Credit Union, Cameron Foundation, NSF HBCU-UP,
+Southern Company, Dominion Energy, Claude for Education/Claude Corps —
+from Javon's 2026-07-31 meeting recap) didn't match Javon's separate
+Stakeholder Tracker (a Google Sheet, ingested here 2026-08-05 from a
+local `.ods` copy — see `Files/Stakeholder Tracker.ods`), which listed
+Deloitte, Siemens, Apache, Dominion Energy, Cameron Foundation, Virginia
+Gateway Region, Open Trellis, College of Engineering and Technology,
+and Reginald F. Lewis College of Business instead — only five names
+overlapped. **Per VoltPop (2026-08-05): merged rather than reconciled**
+— both lists' net-new names are now tracked together as one combined
+set of thirteen threads (nine original + Deloitte, Apache/ASF, and
+VSU's two colleges from the tracker), rather than picking one list as
+authoritative. See `TODOs-by-Owner.md` for the full merged list.
 
 ## Framing — read before any conversation
 
@@ -143,9 +138,11 @@ over-read small gaps between adjacent entries.
 13. **Deloitte** — zero established relationship or precedent despite
     Javon's detailed goal-mapping; entirely aspirational until a real
     POC/response exists.
-14. **OpenTrellis** — genuinely unknown organization beyond a name and
-    a tentative contact; can't yet be assessed on any of the three
-    factors.
+14. **Open Trellis** — identity now resolved (a Richmond entrepreneurship/
+    startup-finance nonprofit, CEO Dale Fickett), but capability/desire
+    for *this specific* program are both unassessed, and their own focus
+    (small-business finance education) doesn't obviously map onto an
+    AI/IoT toe-dip course the way it first seemed it might.
 
 ## Siemens
 
@@ -394,11 +391,12 @@ recite.
 - **Contact — named contacts confirmed (2026-08-02), via VSU's two Industry Advisory Councils:** (1) **Joe Woomer, Vice President, Dominion Energy** — member of the School of Business's Management & Marketing Advisory Council (vsu.edu/business/industry-councils/management-marketing-advisory-council/membership/). **Likely the strongest entry point of the three (Beazley/Holmes/Woomer)** given this program is business-student-facing and he's VP-level. (2) **Daniel Holmes, Technical Specialist II – Electric Distribution Technology Applications, Dominion Energy** — member of the Dept. of Engineering IAC (vsu.edu/cet/departments/engineering/industry-advisory-council.php). Both are warmer paths in via existing VSU relationships, alongside the James Beazley/VGR route above. Notably, these two contacts sit on exactly the two schools (Business and Engineering) already linked by VSU's existing MoU — meaning Dominion is independently engaged with both sides of the same institutional bridge this program itself sits on, strengthening the case that Dominion is a genuinely engaged VSU partner rather than a cold utility-company ask, even though the specific "why this program" motivation is still unconfirmed.
 - **AI/IoT/FOSS grant-language check (2026-08-01):** Dominion Energy Charitable Foundation's public focus is STEM/energy workforce development broadly — no explicit AI, IoT, or open-source mention found.
 
-## OpenTrellis (formerly tracked here as "Trilus"/"Trillis")
+## Open Trellis (formerly tracked here as "Trilus"/"Trillis")
 
-- **Owner:** Dr. Shawn M. Nicholson LLC — confirmed via Javon's Stakeholder Tracker (2026-08-05), not just inferred from the personal-connection pattern below as previously noted. **Status:** name confirmed with Javon (original source) — it's **OpenTrellis**, not "Trilus"/"Trillis." **Naming note:** Javon's own tracker spells it "Open Trellis" (two words) — worth confirming which form is the organization's actual name before it goes into anything stakeholder-facing. No longer blocked on name/spelling; open for outreach research now.
-- **Contact (updated 2026-08-05, via Javon's Stakeholder Tracker):** **Dale Frickett** — supersedes the earlier tentative "possibly Dan Frickel" guess. Still no title/email and still marked "Not Yet Contacted" in the tracker, so treat the name as more reliable now (it's Javon's own written record, not a verbal pass-along) but the role/relationship still needs establishing — presumably still the colleague-of-Dr.-Nicholson connection noted earlier, but that specific detail isn't in the tracker itself.
-- **What they might want / angle:** not yet researched — organization/mission/giving history all still unknown beyond the name.
+- **Owner:** Dr. Shawn M. Nicholson LLC — confirmed via Javon's Stakeholder Tracker (2026-08-05). **Status:** identity fully resolved (2026-08-05, VoltPop) — name/spelling and contact both confirmed directly against the organization's own site (opentrellis.ai / opentrellis.org). No longer blocked; open for real outreach research now.
+- **What they are (confirmed 2026-08-05, opentrellis.org/about, opentrellis.org/team):** a Richmond, VA-based nonprofit founded 2013, an initiative of **RVA Works** (a Virginia public charity). Community of business founders, volunteers, and 50+ program sponsors. Provides education, technology, capital, and consulting to entrepreneurs and small-business/nonprofit owners; specializes in entrepreneurship, innovation, economic development, and startup finance. Operates primarily as a **digital platform**, not a walk-in office — serves the broader Richmond/Dinwiddie County region (near, but not directly in, Petersburg).
+- **Contact:** **Dale Fickett**, CEO & Co-Founder (confirmed spelling via his Forbes Business Council profile — corrects both the earlier tentative "Dan Frickel" guess and the tracker's "Dale Frickett"). Still not yet contacted — no direct email/outreach channel sourced yet beyond the organization's own site/socials (LinkedIn: /company/open-trellis; Facebook: opentrellis.us).
+- **What they might want / angle:** not yet assessed against this program specifically — their focus (entrepreneurship/startup-finance education, not IoT/AI) is a real potential content gap, similar to VGR's — worth checking before assuming a natural fit just because both are "education."
 
 ## Virginia Credit Union
 
@@ -437,6 +435,7 @@ recite.
 - **Owner:** VoltPop — confirmed via Javon's Stakeholder Tracker (2026-08-05); previously just an informal personal-contacts check, now a formally tracked stakeholder. **Status:** not yet contacted; POC and role still TBA in the tracker.
 - **What they might want / angle:** natural fit given this program's near-total reliance on free/open-source tooling (Admin-Business-Legal.md §8/§6). No individual found who holds a role at both ASF and OpenAI/Anthropic, or an "Anthropic Brand Ambassador" tied to ASF (checked 2026-08-05) — but a real, current institutional relationship exists instead: **Anthropic donated $1.5M to the ASF**, announced 2026-04-07 (quoted: Vitaly Gudanets, Anthropic CISO; Ruth Suehle, ASF President), and the two organizations separately coordinated on launching an **"ASF Responsible AI Initiative"** (per ASF board minutes, May 2026). Given VoltPop's own standing ASF affiliation, this Anthropic↔ASF relationship is a stronger, more concrete entry point than a personal contact would be — worth using as the actual angle rather than searching further for a dual-affiliated individual.
 - **Contact:** *(not yet sourced — the $1.5M donation announcement and board minutes don't name an individual liaison; see sources: [ASF announcement](https://news.apache.org/foundation/entry/the-apache-software-foundation-announces-1-5m-donation-from-anthropic), [ASF board minutes](https://whimsy.apache.org/board/minutes/Marketing_and_Publicity.html))*
+- **Our ask — decided (per VoltPop, 2026-08-05):** feeds the mentorship model directly (see the Framing section's offer hierarchy above) — VoltPop plans to ask ASF to provide a **guest speaker** and some **stickers/swag** for students, with more specific asks likely to follow once outreach actually starts. In-kind/mentorship-first, consistent with how this program has approached the Siemens/Jabil/Huntington Ingalls cluster too.
 
 ## Deloitte
 

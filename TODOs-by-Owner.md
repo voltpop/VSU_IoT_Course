@@ -25,24 +25,35 @@ not the explanation.
   party.
 
 **Deadline: all stakeholder/funding research complete by mid-August
-2026** — roughly a 2-week runway. Covers nine distinct threads: Siemens,
-Virginia Gateway Region, OpenTrellis (**name confirmed with Javon
-2026-08-05** — formerly tracked here as "Trilus"/"Trillis"; no longer
-blocked, but still needs a real profile — see `Stakeholder-Notes.md`),
-Virginia Credit Union, Cameron Foundation, NSF HBCU-UP, Southern
-Company, Dominion Energy, and Anthropic's Claude for Education/Claude
-Corps programs. Genuinely tight given the volume —
-worth prioritizing Cameron Foundation and Virginia Gateway Region
-(strongest regional fit) and Claude Corps (January 2027 cohort
-alignment) if all nine can't get equal depth in time. This also lands
-right around when the Reginald F. Lewis College of Business's new dean
-starts (mid-August) — likely coincidental, but worth noting.
+2026** — roughly a 2-week runway. **Merged (per VoltPop, 2026-08-05)**
+from the two previously-separate "nine stakeholders" lists (this KB's
+original nine from Javon's 2026-07-31 recap, plus the four net-new
+names from his 2026-08-05 Stakeholder Tracker) into **thirteen**
+threads: Siemens, Virginia Gateway Region, Open Trellis (**name and
+contact fully resolved 2026-08-05** — formerly tracked here as
+"Trilus"/"Trillis"; see `Stakeholder-Notes.md`), Virginia Credit Union,
+Cameron Foundation, NSF HBCU-UP, Southern Company, Dominion Energy,
+Anthropic's Claude for Education/Claude Corps, **Deloitte**, **Apache/
+ASF**, **College of Engineering and Technology**, and **Reginald F.
+Lewis College of Business** (the last two are institutional-
+coordination targets, not funding asks — see `Admin-Business-Legal.md`
+§4). Jabil, Huntington Ingalls, and American Electric Power
+Foundation/Dudley T. Dougherty Foundation remain separately-tracked
+additional candidates, as before — this merge only resolved the two
+"nine" lists specifically, not the full stakeholder set (see
+`Stakeholder-Notes.md`'s full ranking for all fourteen funding/
+partnership profiles). Genuinely tight given the volume — worth
+prioritizing Cameron Foundation and Virginia Gateway Region (strongest
+regional fit) and Claude Corps (January 2027 cohort alignment) if all
+thirteen can't get equal depth in time. This also lands right around
+when the Reginald F. Lewis College of Business's new dean starts
+(mid-August) — likely coincidental, but worth noting.
 
 **Confirmed (VoltPop, 2026-08-04):** the "Aug 4–7" window isn't a
-separate, narrower task — it's this same nine-thread research effort,
-due by Aug 7 for the next proposed cross-party meeting (Javon expected
-to send the invite), consistent with the other Aug 7 milestone items
-below. "Mid-August" above is the fuller depth target across all nine
+separate, narrower task — it's this same research effort, due by Aug 7
+for the next proposed cross-party meeting (Javon expected to send the
+invite), consistent with the other Aug 7 milestone items below.
+"Mid-August" above is the fuller depth target across all thirteen
 threads, not a conflicting deadline.
 
 **Agenda flag for the Aug 7 cross-party meeting:** confirm **Gail
@@ -52,21 +63,40 @@ warm-path intro for Siemens outreach — this is the specific decision
 that's currently **blocking** VoltPop from asking Dr. Nicholson to make
 the introduction (see VoltPop's admin item #1 below, and the Siemens
 profile in `Stakeholder-Notes.md`). The direct cold-call fallback stays
-open regardless of what's decided here.
+open regardless of what's decided here. **Per VoltPop (2026-08-05):**
+this should absolutely go forward — but it is **not** the meeting's top
+priority (see the loaner-laptop flag below for what is).
 
-**Not yet reconciled (flagged 2026-08-05):** Javon separately built a
+**Top priority for the Aug 7 meeting (per VoltPop, 2026-08-05):** the
+**loaner laptop question** (Admin-Business-Legal.md §6, TODO item below
+under Builder Tech + Dr. Shawn M. Nicholson LLC) — not because of the
+budget/logistics angle it was originally flagged for, but because it's
+actually a **feasibility question**: whether the students have working
+equipment to do this course at all. Outranks every other Aug 7 item.
+
+**Program name — still genuinely unresolved (per VoltPop, 2026-08-05):**
+not a decision anyone's ready to make yet, and that's fine for now.
+Separately, and regardless of the name question, **VoltPop flagged that
+general marketing work needs to actually start** — collecting assets,
+building a campaign, producing content, establishing an online
+presence — none of which is tracked as its own workstream yet (the
+existing Marketing items below are about the *budget line*, not the
+work itself). No owner yet — the Marketing role itself is still
+unfilled (Admin-Business-Legal.md §4) — but worth raising Aug 7 so it
+doesn't keep sliding.
+
+**Reconciled (per VoltPop, 2026-08-05):** Javon separately built a
 Stakeholder Tracker (a spreadsheet, ingested here from a local `.ods`
-copy — see `Files/Stakeholder Tracker.ods`) listing a **different** set
-of nine external stakeholders — Deloitte, Siemens, Apache, Dominion
-Energy, Cameron Foundation, Virginia Gateway Region, Open Trellis,
-College of Engineering and Technology, and Reginald F. Lewis College of
-Business — plus 4 internal team members. Only five names overlap with
-the nine above. Per Javon's 2026-08-05 email, everyone's assigned rows
-in that tracker (POC, Our Goal, Stakeholder Goal, Mutual Goal, Next
-Step) are due **EOD Friday, Aug 7, 2026** — the same deadline as the
-research effort above, but not necessarily the same scope. Worth
-confirming with Javon directly whether the tracker replaces or just
-narrows the original nine for active near-term outreach.
+copy — see `Files/Stakeholder Tracker.ods`) that had listed a
+**different** set of nine external stakeholders than this KB's original
+nine — only five names overlapped. Rather than picking one list or
+confirming with Javon which was authoritative, VoltPop's call was to
+**merge them** — see the thirteen-thread list at the top of this
+section, which now folds in Deloitte, Apache/ASF, and VSU's two
+colleges alongside the original nine. Per Javon's 2026-08-05 email,
+everyone's assigned rows in the tracker itself (POC, Our Goal,
+Stakeholder Goal, Mutual Goal, Next Step) are still due **EOD Friday,
+Aug 7, 2026** — that deadline is unaffected by the merge.
 
 ## Milestone: Present to VSU (per Javon's 2026-07-31 meeting recap)
 
@@ -75,13 +105,13 @@ full task-delegation email (owners + deadlines) is coming before Monday
 2026-08-03, 12:00 PM — the items below are **intentionally unassigned**
 by name until then. In chronological priority order:
 
-1. **Aug 7** — Stakeholder research due for the next proposed meeting (see note above) *(shared, confirmed by VoltPop 2026-08-04: VoltPop's Siemens thread + the broader nine-thread research effort)*.
-2. **Aug 7** — Finalize the mentorship model *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC, since VSU-side coordination is likely needed)*.
+1. **Aug 7** — Stakeholder research due for the next proposed meeting (see note above) *(shared, confirmed by VoltPop 2026-08-04: VoltPop's Siemens thread + the broader thirteen-thread research effort)*.
+2. **Aug 7** — Finalize the mentorship model — **decided (per VoltPop, 2026-08-05): it will be a mix** (1:1 / groups / guest-speaker-only, combined rather than one format chosen exclusively) *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC, since VSU-side coordination is likely needed)*.
 3. **Aug 7** — Stakeholder presentation slides shared *(shared, confirmed by VoltPop 2026-08-04: VoltPop + Explay + Builder Tech)*.
 4. **Aug 7** — Stakeholder support conversations start *(shared: all instructing parties)*.
 5. **Aug 7** — VSU meeting scheduled/confirmed *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC)*.
 6. **Aug 7** — Loaner laptop question confirmed *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC; ties to the laptop-responsibility gap in `Admin-Business-Legal.md` §6)*.
-7. **Aug 7** — Internal MOUs and temporary NDAs in place *(shared: all five parties; distinct from the main Operating Agreement already in draft — see `Admin-Business-Legal.md` §3)*.
+7. **Aug 7 per Javon's original recap — deprioritized by VoltPop (2026-08-05, not yet run past Javon):** Internal MOUs and temporary NDAs in place. VoltPop wants this condensed with Javon's prime-contractor restructuring proposal below (Builder Tech's list) into one combined "sort out the internal contracting structure" item, worked through **after** the Aug 21/28 stakeholder-presentation milestone rather than by Aug 7 — since both are really the same underlying question. **Flagging the conflict rather than silently adopting it:** this pushes past a date Javon himself set in his recap email — worth confirming with him directly rather than assuming he's fine with the slip *(shared: all five parties; distinct from the main Operating Agreement already in draft — see `Admin-Business-Legal.md` §3)*.
 8. **Aug 14** — Budget revision *(shared, confirmed by VoltPop 2026-08-04: Builder Tech + VoltPop + Explay + Dr. Shawn M. Nicholson LLC — compensation for all appears in the budget; ties to several Builder Tech items below)*.
 9. **Aug 17** — Program revision *(scope unclear — likely `Course-Curriculum.md`'s schedule/program document; shared, confirmed by VoltPop 2026-08-04: Builder Tech + VoltPop + Explay; scope itself still needs confirming with Javon)*.
 10. **Aug 19** — Pitch rehearsal *(shared, confirmed by VoltPop 2026-08-04: VoltPop + Explay + Builder Tech)*.
@@ -107,7 +137,7 @@ by name until then. In chronological priority order:
 16. Actually decide on a program name — "VSU Innovation Program" is an assumptive placeholder used throughout this KB, not a name anyone has deliberately chosen (per VoltPop, 2026-08-02: "a generic innovation program for VSU," never revisited as a naming decision) *(shared, confirmed by VoltPop 2026-08-04: all parties, since it's used in every stakeholder-facing document)* (README.md).
 17. *(per VoltPop, 2026-08-03 — same requirement as VoltPop's and Explay's own items below, just missing here)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
 18. *(flagged by VoltPop, 2026-08-05 — same requirement as VoltPop's, Explay's, and Dr. Shawn M. Nicholson LLC's own items, done individually)* Register with eVA (Virginia's e-procurement system) if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
-19. **Proposed (2026-08-05, not yet agreed)** — get alignment with VoltPop and Explay on Javon's prime-contractor restructuring proposal (Dr. Nicholson as prime, BTI/VoltPop/Explay as subcontractors with a joint curriculum license to him, plus a separate BTI/VoltPop/Explay MOU for future university opportunities) *before* bringing it to Dr. Nicholson *(shared, confirmed by VoltPop 2026-08-05: Explay)* (Admin-Business-Legal.md §3).
+19. **Deferred until after the Aug 21/28 stakeholder presentation (per VoltPop, 2026-08-05)** — get alignment with VoltPop and Explay on Javon's prime-contractor restructuring proposal (Dr. Nicholson as prime, BTI/VoltPop/Explay as subcontractors with a joint curriculum license to him, plus a separate BTI/VoltPop/Explay MOU for future university opportunities), **condensed with the Internal MOUs/NDAs item above (milestone item #7)** into one combined "sort out the internal contracting structure" task, before bringing any of it to Dr. Nicholson *(shared, confirmed by VoltPop 2026-08-05: Explay)* (Admin-Business-Legal.md §3).
 
 ## VoltPop
 
@@ -150,11 +180,11 @@ by name until then. In chronological priority order:
 
 ## Dr. Shawn M. Nicholson LLC
 
-1. **Aug 7** — Complete six rows in Javon's Stakeholder Tracker (Dominion Energy, Cameron Foundation, Virginia Gateway Region, Open Trellis, College of Engineering and Technology, Reginald F. Lewis College of Business) — POC, Role, Our Goal/Stakeholder Goal/Mutual Goal, and Next Step, all still TBA/blank except OpenTrellis's tentative contact name (Admin-Business-Legal.md §8; Stakeholder-Notes.md).
+1. **Aug 7** — Complete six rows in Javon's Stakeholder Tracker (Dominion Energy, Cameron Foundation, Virginia Gateway Region, Open Trellis, College of Engineering and Technology, Reginald F. Lewis College of Business) — POC, Role, Our Goal/Stakeholder Goal/Mutual Goal, and Next Step, all still TBA/blank except Open Trellis's now-confirmed POC (Dale Fickett) (Admin-Business-Legal.md §8; Stakeholder-Notes.md).
 2. **[Due mid-Aug 2026]** Lead Virginia Gateway Region (VGR) outreach *(shared, confirmed by VoltPop 2026-08-04: VoltPop)* — Dr. Nicholson is taking the lead given his personal connection to James Beazley (VGR Secretary) and Tom Stansbury (Entrepreneur in Residence) — fill in `Stakeholder-Notes.md`'s VGR profile as this progresses (Admin-Business-Legal.md §8). **Open question for Dr. Nicholson (added 2026-08-02):** public research on VGR (gatewayregion.com, press releases, GuideStar) suggests VGR itself is a regional economic-development nonprofit whose funding wins are large state/federal site-infrastructure and job-creation grants (Business Ready Sites, EDA, GO Virginia) — not a CSR/philanthropic grant-maker able to just write this program a check (see the "Funding-model finding" note in `Stakeholder-Notes.md`'s VGR profile). **Given Dr. Nicholson's direct relationship with Beazley and Stansbury, does he have first-hand knowledge that corrects or adds nuance to this read?** e.g., does VGR have any discretionary sponsorship/community fund outside the big infrastructure grants, or is facilitation/introduction (rather than direct cash) really the realistic ask? Worth confirming before finalizing how VGR is pitched.
 3. **[Due mid-Aug 2026]** Lead Dominion Energy outreach *(shared, confirmed by VoltPop 2026-08-04: VoltPop)* — Dr. Nicholson is taking the lead given his personal connection to James Beazley — fill in `Stakeholder-Notes.md`'s Dominion profile as this progresses (Admin-Business-Legal.md §8). **Update (2026-08-02):** two additional named contacts identified via VSU's Industry Advisory Councils — Joe Woomer (VP, Dominion Energy, School of Business's Management & Marketing Advisory Council) and Daniel Holmes (Dominion Energy, Dept. of Engineering IAC) — extra warm-intro paths alongside Beazley. **Open question (added 2026-08-03, per VoltPop):** genuinely unclear what Dominion actually gets out of this — unlike Siemens/Jabil, where the engineering/manufacturing/IoT tie-in gives an obvious "why," Dominion's motivation for expressing interest isn't established yet. Worth figuring out before the conversation, not assuming an energy angle just because they're a utility — see `Stakeholder-Notes.md`'s Dominion profile.
 4. **[Due mid-Aug 2026]** Lead Cameron Foundation outreach *(shared: VoltPop, support if needed — per VoltPop, 2026-08-03)* — fill in `Stakeholder-Notes.md`'s Cameron Foundation profile as this progresses (Admin-Business-Legal.md §8).
-5. **[Due mid-Aug 2026]** Research and lead OpenTrellis outreach — name confirmed with Javon 2026-08-05 (formerly tracked as "Trilus"/"Trillis"; Javon's tracker spells it "Open Trellis"), and ownership now actually confirmed as Dr. Nicholson's via that same tracker, not just inferred. Contact per the tracker: Dale Frickett — supersedes the earlier tentative "possibly Dan Frickel" guess, but still no title/email. Fill in `Stakeholder-Notes.md`'s OpenTrellis profile as this progresses (Admin-Business-Legal.md §8).
+5. **[Due mid-Aug 2026]** Lead Open Trellis outreach — identity fully resolved 2026-08-05 (a Richmond, VA entrepreneurship/startup-finance nonprofit, an RVA Works initiative; CEO Dale Fickett), ownership confirmed as Dr. Nicholson's via Javon's Stakeholder Tracker. Content fit vs. this program's AI/IoT focus still needs assessing before outreach — their own specialty is small-business finance education, not IoT/AI. Fill in `Stakeholder-Notes.md`'s Open Trellis profile as this progresses (Admin-Business-Legal.md §8).
 6. **[Due mid-Aug 2026]** Check on VSU's existing Southern Company relationship (the $500K endowed professorship) as a warm lead for additional funding (Admin-Business-Legal.md §8).
 7. **[Due mid-Aug 2026]** Pursue Anthropic's Claude for Education and/or Claude Corps application as VSU (both require an institutional applicant, not a private LLC) — Claude Corps' January 2027 cohort aligns closely with the program start (Admin-Business-Legal.md §8).
 8. **[Due mid-Aug 2026]** Explore NSF HBCU-UP funding as a federal STEM-at-HBCUs funding channel (Admin-Business-Legal.md §8).
