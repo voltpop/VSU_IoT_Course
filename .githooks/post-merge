@@ -18,6 +18,13 @@ fi
 
 SUBMODULE_PATH=$(git rev-parse --show-toplevel)
 
+# Must unset these: they're inherited from the invoking git process (pointing
+# at THIS submodule's git dir), and would otherwise silently override the cd
+# below, making every subsequent git command still operate on the submodule
+# instead of VoltPop. (Confirmed by testing: without this, "git commit"
+# reported success but never actually landed a commit in VoltPop.)
+unset GIT_DIR GIT_WORK_TREE GIT_INDEX_FILE GIT_PREFIX
+
 cd "$SUPER_ROOT" || exit 0
 git pull --ff-only origin main >/dev/null 2>&1
 
