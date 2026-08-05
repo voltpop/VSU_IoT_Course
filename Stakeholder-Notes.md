@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Stakeholder Notes
 compiled: 2026-07-31
-updated: 2026-08-01
+updated: 2026-08-05
 see_also: Admin-Business-Legal.md §8 (funding-source context and rationale), TODOs-by-Owner.md
 ---
 
@@ -14,6 +14,22 @@ tailored presentation gets built later, from these notes, once enough
 is known per stakeholder — not guessed at generically ahead of time.
 Full funding-source reasoning and the underlying budget figures live in
 `Admin-Business-Legal.md` §8/§6.
+
+**Two different "nine stakeholders" lists, merged (resolved 2026-08-05):**
+this KB's original tracked funding-research threads (Siemens, VGR, Open
+Trellis, Virginia Credit Union, Cameron Foundation, NSF HBCU-UP,
+Southern Company, Dominion Energy, Claude for Education/Claude Corps —
+from Javon's 2026-07-31 meeting recap) didn't match Javon's separate
+Stakeholder Tracker (a Google Sheet, ingested here 2026-08-05 from a
+local `.ods` copy — see `Files/Stakeholder Tracker.ods`), which listed
+Deloitte, Siemens, Apache, Dominion Energy, Cameron Foundation, Virginia
+Gateway Region, Open Trellis, College of Engineering and Technology,
+and Reginald F. Lewis College of Business instead — only five names
+overlapped. **Per VoltPop (2026-08-05): merged rather than reconciled**
+— both lists' net-new names are now tracked together as one combined
+set of thirteen threads (nine original + Deloitte, Apache/ASF, and
+VSU's two colleges from the tracker), rather than picking one list as
+authoritative. See `TODOs-by-Owner.md` for the full merged list.
 
 ## Framing — read before any conversation
 
@@ -75,6 +91,110 @@ this alone. Rough priority order: **capability > desire > connection.**
   demonstrated desire, per Dominion's "already expressed interest" —
   plus Dr. Nicholson's personal connection) is the clearest current
   example.
+
+### Current engagement-likelihood ranking (2026-08-05, per VoltPop's request)
+
+Applying the heuristic above across every profile below, strongest
+first. A snapshot, not a permanent ranking — statuses here change
+often (see each profile's own **Status** line for the latest), and per
+the heuristic itself this is a general guide, not a formula, so don't
+over-read small gaps between adjacent entries.
+
+1. **Dominion Energy** — the only lead with all three factors
+   confirmed (capability, demonstrated desire via already-expressed
+   interest, and Dr. Nicholson's personal Beazley connection).
+2. **Siemens** — existing $105.6M VSU relationship, demonstrated CSR
+   grant program with known size range, named contact (Gail Norris).
+3. **Southern Company** — VSU-specific giving precedent ($500K endowed
+   professorship), but no personal contact yet.
+4. **Cameron Foundation** — exact geographic match (Petersburg), real
+   STEM-funding precedent, accessible (not invitation-gated).
+5. **Jabil** — demonstrated ed/workforce-giving precedent ($1.1M St.
+   Petersburg College), but the Foundation path is invitation-only and
+   the stronger local-site path is unverified.
+6. **Huntington Ingalls** — strong content fit and a warm named
+   contact (Harry Johnson, same VSU IAC channel as Siemens), but
+   desire/capability specifics entirely unresearched.
+7. **Virginia Gateway Region (VGR)** — the strongest personal
+   connection on this list (Dr. Nicholson knows both Beazley and
+   Stansbury), capped by our own finding that VGR itself isn't a
+   direct-cash capability — better framed as a facilitator.
+8. **Claude for Education / Claude Corps** — capability and desire are
+   both structurally built into a defined, open program with known
+   terms, but requires VSU as institutional applicant plus competitive
+   selection. Connection strengthened 2026-08-05: **VoltPop is now
+   himself a confirmed Anthropic Brand Ambassador** (plus Explay's own
+   unconfirmed contact) — real, but still unproven whether the
+   Ambassador program has any actual path into Corps admissions.
+9. **NSF HBCU-UP** — strong categorical fit (federal HBCU-specific
+   program) but competitive, no connection.
+10. **Virginia Credit Union** — named contact (Angela Roisten) exists,
+    but desire is unconfirmed on both the council and company side.
+11. **Apache Software Foundation (ASF)** — a real Anthropic↔ASF
+    funding relationship exists as a narrative hook, but no established
+    ASF-funds-a-university-program precedent, and no individual with
+    dual capability found; VoltPop's personal ASF tie is the only
+    connection.
+12. **American Electric Power Foundation / Dudley T. Dougherty
+    Foundation** — even the basic geographic-fit threshold is
+    unconfirmed.
+13. **Deloitte** — zero established relationship or precedent despite
+    Javon's detailed goal-mapping; entirely aspirational until a real
+    POC/response exists.
+14. **Open Trellis** — identity now resolved (a Richmond entrepreneurship/
+    startup-finance nonprofit, CEO Dale Fickett), but capability/desire
+    for *this specific* program are both unassessed, and their own focus
+    (small-business finance education) doesn't obviously map onto an
+    AI/IoT toe-dip course the way it first seemed it might.
+
+### Deck-reuse clusters (2026-08-05, per VoltPop's request)
+
+Goal: as few actual presentation decks as possible. Grouped by sector/
+content-angle overlap, not by owner — a cluster can span multiple
+owners' stakeholders.
+
+- **Digital-manufacturing / industrial IoT** — Siemens, Jabil,
+  Huntington Ingalls. Already built (see the consolidated pitch points
+  below Huntington Ingalls' profile) — the strongest existing cluster.
+- **Energy utilities** — Dominion Energy, Southern Company, American
+  Electric Power Foundation. All three are utilities with STEM-giving
+  arms, and none had a clean content hook (Dominion's "why do they
+  care" has been an open question for days). **New angle worth using:**
+  utilities run smart-grid/grid-monitoring IoT at scale — sensor-based
+  infrastructure monitoring, smart meters — a legitimate, unforced tie
+  to this program's actual content that none of the three profiles use
+  yet. One deck could answer the open question instead of dodging it.
+- **Institutional-application programs** — Claude for Education/Claude
+  Corps, NSF HBCU-UP. **Not a pitch-deck cluster at all** — these are
+  formal applications against defined criteria, not a relationship
+  ask. Zero deck-production effort belongs here; the deliverable is a
+  written application.
+- **Regional community/economic-development foundations** — Cameron
+  Foundation, Virginia Credit Union, and Virginia Gateway Region (in
+  its facilitator framing, not as a direct funder). None have an
+  IoT-specific angle; all respond to the same "regional workforce
+  pipeline + student exposure to local employers" mission-fit framing
+  already built for VGR. One deck, swap the logo/name.
+- **Business/entrepreneurship-education fit** — Open Trellis, Deloitte.
+  Neither maps to the IoT/hardware side of the course — both map to
+  the *business* side (entrepreneurship, casework, pitch skills).
+  Pitch off the Business Model Canvas / pitch-deck deliverables
+  (Explay's/Builder Tech's material), not the sensor/hardware ones.
+- **Anthropic/open-source ecosystem** — Apache Software Foundation,
+  Claude for Education/Claude Corps. Both are literally "we're built on
+  your tooling" — the same dependency narrative, aimed at two different
+  organizations.
+
+**Biggest lever isn't content clustering, it's the delivery channel:**
+multiple stakeholders route through the same two VSU bodies — the
+Engineering Industry Advisory Council (Gail Norris/Siemens, Harry
+Johnson/Huntington Ingalls, Daniel Holmes/Dominion) and the Business
+School's Management & Marketing + Accounting & Finance advisory
+councils (Joe Woomer/Dominion, Angela Roisten/Virginia Credit Union).
+Getting on **two council agendas** could reach five stakeholders in two
+presentations instead of five separate one-on-one pitches — see the
+"Use VSU's own advisory councils as a channel" note under "Other angles
+worth checking" below, which this generalizes.
 
 ## Siemens
 
@@ -323,11 +443,12 @@ recite.
 - **Contact — named contacts confirmed (2026-08-02), via VSU's two Industry Advisory Councils:** (1) **Joe Woomer, Vice President, Dominion Energy** — member of the School of Business's Management & Marketing Advisory Council (vsu.edu/business/industry-councils/management-marketing-advisory-council/membership/). **Likely the strongest entry point of the three (Beazley/Holmes/Woomer)** given this program is business-student-facing and he's VP-level. (2) **Daniel Holmes, Technical Specialist II – Electric Distribution Technology Applications, Dominion Energy** — member of the Dept. of Engineering IAC (vsu.edu/cet/departments/engineering/industry-advisory-council.php). Both are warmer paths in via existing VSU relationships, alongside the James Beazley/VGR route above. Notably, these two contacts sit on exactly the two schools (Business and Engineering) already linked by VSU's existing MoU — meaning Dominion is independently engaged with both sides of the same institutional bridge this program itself sits on, strengthening the case that Dominion is a genuinely engaged VSU partner rather than a cold utility-company ask, even though the specific "why this program" motivation is still unconfirmed.
 - **AI/IoT/FOSS grant-language check (2026-08-01):** Dominion Energy Charitable Foundation's public focus is STEM/energy workforce development broadly — no explicit AI, IoT, or open-source mention found.
 
-## "Trilus"
+## Open Trellis (formerly tracked here as "Trilus"/"Trillis")
 
-- **Owner:** *(unassigned)*. **Status:** blocked — name as given; spelling/exact organization needs confirming before any outreach can start.
-- **Possible correction (per VoltPop, 2026-08-03):** may actually be "Trillis," not "Trilus" — unconfirmed. Confirm the actual name/spelling with Javon (original source) before treating either as correct or starting outreach.
-- **Contact:** *(not yet sourced)*
+- **Owner:** Dr. Shawn M. Nicholson LLC — confirmed via Javon's Stakeholder Tracker (2026-08-05). **Status:** identity fully resolved (2026-08-05, VoltPop) — name/spelling and contact both confirmed directly against the organization's own site (opentrellis.ai / opentrellis.org). No longer blocked; open for real outreach research now.
+- **What they are (confirmed 2026-08-05, opentrellis.org/about, opentrellis.org/team):** a Richmond, VA-based nonprofit founded 2013, an initiative of **RVA Works** (a Virginia public charity). Community of business founders, volunteers, and 50+ program sponsors. Provides education, technology, capital, and consulting to entrepreneurs and small-business/nonprofit owners; specializes in entrepreneurship, innovation, economic development, and startup finance. Operates primarily as a **digital platform**, not a walk-in office — serves the broader Richmond/Dinwiddie County region (near, but not directly in, Petersburg).
+- **Contact:** **Dale Fickett**, CEO & Co-Founder (confirmed spelling via his Forbes Business Council profile — corrects both the earlier tentative "Dan Frickel" guess and the tracker's "Dale Frickett"). Still not yet contacted — no direct email/outreach channel sourced yet beyond the organization's own site/socials (LinkedIn: /company/open-trellis; Facebook: opentrellis.us).
+- **What they might want / angle:** not yet assessed against this program specifically — their focus (entrepreneurship/startup-finance education, not IoT/AI) is a real potential content gap, similar to VGR's — worth checking before assuming a natural fit just because both are "education."
 
 ## Virginia Credit Union
 
@@ -359,12 +480,33 @@ recite.
 
 - **Owner:** Dr. Shawn M. Nicholson LLC / VSU (institutional applicant required, not a private LLC). **Status:** due mid-Aug 2026 (TODOs-by-Owner.md).
 - **What they offer:** in-kind (credits/licenses), not cash — reduces the software-subscription budget gap by the same amount. Claude Corps: $10,000 grant + $2,500/fellow in credits, plus an Anthropic-paid fellow for a year. January 2027 cohort aligns with this program's start.
+- **Connection — confirmed, first-person (2026-08-05):** VoltPop himself has signed up as an **Anthropic Brand Ambassador**. Stronger and more certain than the Explay lead below, though the same caveat applies — an Ambassador is a community-advocacy role, not necessarily someone with influence over Claude Corps/Claude for Education admissions. Worth VoltPop checking directly what (if any) internal visibility or contact path the Ambassador program actually offers into the Corps application process, rather than assuming it helps.
+- **Possible connection (flagged 2026-08-05, per VoltPop, not yet confirmed):** Explay (Emanuel Perez) also reportedly has a personal contact who is an Anthropic Brand Ambassador. Not yet verified directly with Emanuel.
+- **Contact:** *(not yet sourced beyond the above)*
+
+## Apache Software Foundation (ASF)
+
+- **Owner:** VoltPop — confirmed via Javon's Stakeholder Tracker (2026-08-05); previously just an informal personal-contacts check, now a formally tracked stakeholder. **Status:** not yet contacted; POC and role still TBA in the tracker.
+- **What they might want / angle:** natural fit given this program's near-total reliance on free/open-source tooling (Admin-Business-Legal.md §8/§6). No individual found who holds a role at both ASF and OpenAI/Anthropic, or an "Anthropic Brand Ambassador" tied to ASF (checked 2026-08-05) — but a real, current institutional relationship exists instead: **Anthropic donated $1.5M to the ASF**, announced 2026-04-07 (quoted: Vitaly Gudanets, Anthropic CISO; Ruth Suehle, ASF President), and the two organizations separately coordinated on launching an **"ASF Responsible AI Initiative"** (per ASF board minutes, May 2026). Given VoltPop's own standing ASF affiliation, this Anthropic↔ASF relationship is a stronger, more concrete entry point than a personal contact would be — worth using as the actual angle rather than searching further for a dual-affiliated individual.
+- **Contact:** *(not yet sourced — the $1.5M donation announcement and board minutes don't name an individual liaison; see sources: [ASF announcement](https://news.apache.org/foundation/entry/the-apache-software-foundation-announces-1-5m-donation-from-anthropic), [ASF board minutes](https://whimsy.apache.org/board/minutes/Marketing_and_Publicity.html))*
+- **Our ask — decided (per VoltPop, 2026-08-05):** feeds the mentorship model directly (see the Framing section's offer hierarchy above) — VoltPop plans to ask ASF to provide a **guest speaker** and some **stickers/swag** for students, with more specific asks likely to follow once outreach actually starts. In-kind/mentorship-first, consistent with how this program has approached the Siemens/Jabil/Huntington Ingalls cluster too.
+
+## Deloitte
+
+- **Owner:** Javon/Builder Tech, per his Stakeholder Tracker (2026-08-05) — the tracker's own filled-out example row, not yet an active outreach thread. **Status:** not yet contacted; POC and role still TBA.
+- **Our ask (per Javon's tracker):** (1) financial contributions/sponsorship for program operations, student stipends, and materials; (2) Deloitte representatives as judges, career-development coaches, and mentors; (3) coordinate field trips to Deloitte's Virginia offices (Richmond, Virginia Beach, Northern Virginia) for student exposure/networking.
+- **What they might want / angle (per Javon's tracker):** (1) a pipeline to skilled, tech-enabled talent trained on the tools/approaches Deloitte's incoming analysts use; (2) students who already think through real-world business problems and Deloitte-style casework, reducing onboarding time and increasing early billability; (3) alignment with Deloitte's strategic growth areas — digital transformation, innovation, sustainability, generative AI.
+- **Mutual framing (per Javon's tracker):** funding/mentorship/field-trip asks pair directly against Deloitte's own talent-pipeline and regional-visibility interests — see the tracker (`Files/Stakeholder Tracker.ods`) for the full paired language if drafting outreach.
+- **Next step (per Javon, 2026-08-04):** contact former colleagues in Deloitte's Virginia offices, plus reach out to the StepUp pro bono team.
 - **Contact:** *(not yet sourced)*
+
+## VSU's own colleges (institutional coordination, not a funding ask)
+
+- **College of Engineering and Technology** and **Reginald F. Lewis College of Business** — official names, corrected here 2026-08-05 via Javon's Stakeholder Tracker (previously referred to generically as "College of Engineering" and "College of Business"/"Business School" — see `Admin-Business-Legal.md` §4, now updated to match). **Owner:** Dr. Shawn M. Nicholson LLC, per the tracker. Both tracked as coordination targets (POC/role TBA, not a cash ask) rather than funding stakeholders — consistent with §4's existing Dean Haley / incoming Business dean coordination items.
 
 ## Other angles worth checking
 
 - VSU's own institutional advancement/development office may have other regional corporate or foundation contacts — the Tri-Cities employers already listed in `Admin-Business-Legal.md` §4 (Amazon, LEGO Group, Perdue Farms, etc.) are plausible CSR/education-funding targets too, once that office is looped in.
-- **Apache Software Foundation (ASF) contacts** — VoltPop is checking personal contacts at ASF for funding leads. Very early/informal (not yet a named organization or program) but a natural fit given this program's open-source emphasis; add a real entry above once something concrete comes back.
 - **Use VSU's own advisory councils as a channel, not just a contact lookup (per VoltPop, 2026-08-02):** Engineering's IAC and Business's Management & Marketing Advisory Council both already exist as standing forums where industry meets VSU. Rather than only using them to find warm-intro names, worth considering asking to present the program directly to a council meeting (they meet periodically and already have VSU's ear) — potentially more efficient than one-by-one outreach for companies already on these rosters (Siemens, Dominion). **Update (2026-08-02):** two more councils have since been checked — Business's Accounting & Finance Advisory Council (turned up Virginia Credit Union's Angela Roisten — see that profile) and IT Advisory Council (no matches). Still no council match found for Cameron Foundation, VGR (itself), AEP/Dudley Dougherty, or Jabil — worth checking whether VSU has other departmental advisory councils beyond these four in case any of those turn up elsewhere.
 
 ---

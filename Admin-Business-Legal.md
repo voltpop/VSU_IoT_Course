@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Admin, Business & Legal
 compiled: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 see_also: Course-Curriculum.md (teaching side)
 ---
 
@@ -80,19 +80,72 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   instructors can access student records — not yet confirmed as done.
 - Background checks (Checkr/SentryLink) required before working
   directly with students, per VSU policy — timeline not yet confirmed.
+- **eVA registration (flagged 2026-08-05, per VoltPop):** each of the
+  four contracting entities (Builder Tech, VoltPop, Explay, Dr. Shawn M.
+  Nicholson LLC) likely needs to register as a supplier with **eVA**
+  (eva.virginia.gov), the Commonwealth's e-procurement system, if not
+  already registered. **Confirmed (checked 2026-08-05):** registration
+  itself is free, with no annual renewal fee. Registration isn't
+  strictly a legal mandate to do business with a Virginia agency, but
+  state law requires public universities to route 75% of their
+  purchasing dollars through eVA-registered vendors — so in practice,
+  being registered is what lets VSU actually pay a vendor through its
+  normal procurement process. A **transaction fee** (1% of each
+  eVA-processed purchase order, capped at $500 for DSBSD-certified
+  SWaM businesses or $1,500 for non-SWaM vendors) applies per order once
+  registered — not a flat cost, and only triggered by actual purchase
+  orders. **Related opportunity, not yet explored:** DSBSD SWaM
+  certification (Small, Woman-owned, and Minority-owned business) is a
+  separate Virginia program that lowers that fee cap and may carry
+  other state-contracting advantages — worth each entity checking
+  eligibility for, alongside eVA registration itself (see
+  `TODOs-by-Owner.md`).
 - **Positive development**: an existing MoU already directs VSU's
-  College of Engineering and School of Business to collaborate with
-  each other, with professors/Deans on both sides already engaged and
-  precedent for this kind of program — see §4. Should ease (though not
-  eliminate) the procurement/counsel-review process, since VSU already
-  has a working internal framework for cross-college, externally
-  partnered initiatives like this one.
+  College of Engineering and Technology and Reginald F. Lewis College of
+  Business to collaborate with each other, with professors/Deans on both
+  sides already engaged and precedent for this kind of program — see §4.
+  Should ease (though not eliminate) the procurement/counsel-review
+  process, since VSU already has a working internal framework for
+  cross-college, externally partnered initiatives like this one.
 - **Internal MOUs and temporary NDAs** — per Javon's 2026-07-31 meeting
   recap email, these need to be in place by Aug 7, 2026. Distinct from
   the main Operating Agreement above — likely a short-term stopgap
   covering the four (now five) parties' collaboration and information-
   sharing before the full Agreement is signed. Scope/parties/duration
   not yet specified (see TODOs-by-Owner.md).
+- **Proposed (2026-08-05, Javon, not yet agreed):** restructure the
+  contracting relationship so Dr. Nicholson becomes **prime
+  contractor** and Builder Tech/VoltPop/Explay operate as
+  subcontractors under him — leveraging his existing VSU relationships,
+  insurance, and infrastructure to get the contract approved, and
+  avoiding credibility questions Javon thinks are more likely to be
+  raised against Builder Tech as prime. Under this proposal:
+  - Curriculum IP stays with the three subcontractors via a joint
+    licensing agreement among them, granting Nicholson only a limited
+    license for this specific program — a change from the current
+    Explay/VoltPop joint-ownership + Builder Tech/VSU license structure
+    in §1.
+  - Builder Tech, VoltPop, and Explay would separately sign their own
+    MOU locking the three of them together as a package for all
+    **future** university opportunities beyond this program, distinct
+    from the internal MOUs/NDAs above.
+  - Javon's rationale for credibility, if stakeholders push back: Dr.
+    Nicholson addresses VSU-relationship/admin/financial/operational
+    questions, VoltPop (Andrew) addresses technical/hardware-curriculum
+    credibility, and Builder Tech (Javon) + Explay (Emanuel) address
+    pedagogy/teaching-style questions.
+  - **Status:** Javon has raised this with VoltPop and Explay only, to
+    align before bringing it to Dr. Nicholson — not yet shared with him,
+    and not yet agreed by any party. Nothing in §1's party roles or IP
+    ownership should be treated as changed until that alignment happens
+    and this is confirmed on all sides.
+  - **Condensed with the internal MOUs/NDAs item above (per VoltPop,
+    2026-08-05):** the two are intrinsically linked — both are really
+    the same underlying question of what the internal contracting
+    structure between the parties should actually look like. Deferred
+    as one combined item to work through **after** the stakeholder
+    presentation milestone (Aug 21/28), rather than by the original Aug
+    7 date — see `TODOs-by-Owner.md`.
 
 ## 4. Team roster, VSU contacts & regional focus
 
@@ -117,10 +170,16 @@ size grows. Dr. Nicholson also consults for the VA Center for
 Entrepreneurship.
 
 **VSU departmental contacts:**
-- **College of Engineering**: Dean Haley (current).
-- **College of Business**: currently an interim dean; a new (permanent)
-  dean starts mid-August 2026. Worth timing Business-school-specific
-  outreach for after the new dean arrives, or looping in both.
+- **College of Engineering and Technology** (official name confirmed
+  2026-08-05 via Javon's Stakeholder Tracker; previously shortened here
+  to "College of Engineering"): Dean Haley (current). Owner for
+  coordination purposes: Dr. Shawn M. Nicholson LLC (per the tracker).
+- **Reginald F. Lewis College of Business** (official name confirmed
+  2026-08-05 via the same tracker; previously "College of Business"/
+  "Business School"): currently an interim dean; a new (permanent) dean
+  starts mid-August 2026. Worth timing Business-school-specific outreach
+  for after the new dean arrives, or looping in both. Owner for
+  coordination purposes: Dr. Shawn M. Nicholson LLC (per the tracker).
 - Both colleges have been notified of an **existing MoU directing them
   to collaborate**, with professors and Deans on both sides already
   engaged, and precedent for this kind of program at VSU.
@@ -171,11 +230,12 @@ pitch, an idea with strong product-market fit.
 | Program Dates | Jan 19, 2027 | Apr 29, 2027 |
 | Outcomes Analysis & Assessment / Share with VSU | Apr 30, 2027 | May 13, 2027 |
 
-**Stakeholder/funding research deadline: mid-August 2026** — covers nine
-distinct threads (see §7). Genuinely tight given the volume — worth
+**Stakeholder/funding research deadline: mid-August 2026** — covers
+thirteen distinct threads as of the 2026-08-05 merge (see §8;
+`TODOs-by-Owner.md`). Genuinely tight given the volume — worth
 prioritizing Cameron Foundation and Virginia Gateway Region (strongest
-regional fit) and Claude Corps (January 2027 cohort timing) if all nine
-can't get equal depth in time.
+regional fit) and Claude Corps (January 2027 cohort timing) if all
+thirteen can't get equal depth in time.
 
 ## 6. Current budget (2026-07-31 revision)
 
@@ -337,6 +397,15 @@ contributions rather than cash.
 down further — the path is external funding and in-kind contributions,
 not cost-cutting.
 
+**Note on source merge (2026-08-05):** this KB's own tracked threads
+(from Javon's 2026-07-31 recap) originally only partly matched Javon's
+separate Stakeholder Tracker spreadsheet — per VoltPop, the two were
+merged rather than reconciled with Javon, so the list below now
+includes both sets' net-new names (Deloitte and Apache/ASF added below;
+VSU's own two colleges tracked separately in §4). See
+`Stakeholder-Notes.md`'s framing note and `TODOs-by-Owner.md` for the
+full merged count (thirteen threads).
+
 **Concrete leads:**
 - **Dominion Energy** — has expressed interest in helping fund a
   program like this. Needs formal follow-up.
@@ -344,10 +413,21 @@ not cost-cutting.
 - **Virginia Gateway Region (VGR)** — the regional economic development
   organization for the Tri-Cities area; strong natural fit given the
   program's regional focus, and currently well-funded.
-- **"Trilus"** — name as given; spelling/exact organization needs
-  confirming before outreach. **Possible correction (per VoltPop,
-  2026-08-03):** may actually be "Trillis" — unconfirmed, needs
-  checking with Javon (see `Stakeholder-Notes.md`).
+- **Open Trellis** (formerly tracked here as "Trilus"/"Trillis") —
+  identity fully resolved 2026-08-05: a Richmond, VA entrepreneurship/
+  startup-finance nonprofit (an RVA Works initiative), CEO Dale Fickett.
+  Not yet contacted; content fit vs. this program's AI/IoT focus still
+  needs assessing (see `Stakeholder-Notes.md`).
+- **Deloitte** — added 2026-08-05 via Javon's Stakeholder Tracker, his
+  own filled-out example row. Ask: sponsorship/funding, judges/mentors,
+  Virginia-office field trips. Their likely angle: an early talent
+  pipeline trained on Deloitte's own tools/casework approach. See
+  `Stakeholder-Notes.md` for the full paired goals.
+- **Apache Software Foundation (ASF)** — added 2026-08-05 via the same
+  tracker (owner: VoltPop). Natural open-source fit; Anthropic already
+  has a real, current $1.5M donation relationship with the ASF
+  (confirmed 2026-08-05) — a stronger entry point than a personal
+  contact. See `Stakeholder-Notes.md`.
 - **Virginia Credit Union** — Richmond-based, plausible community/CSR
   giving program.
 - **Cameron Foundation** (Petersburg, VA) — strong fit: service area is
@@ -397,7 +477,7 @@ looped in.
 9. Reflect Builder Tech's expanded role consistently in the Agreement's Article 3.
 10. Correct the Week 5 tools column (Arduino IDE → MicroPython/Thonny) and enter the Week 8 leadership/API→MCP updates into the live schedule sheet — see Course-Curriculum.md.
 11. Clarify the specifics behind any "Claude Code is cheaper than Claude chat" comparison being used in planning — available research suggests Claude Code and Claude's chat interface share the same subscription and usage pool, so it's worth confirming exactly what was compared before it informs budget decisions.
-12. Progress the nine stakeholder/funding research threads in §8 by the mid-August deadline.
+12. Progress the thirteen stakeholder/funding research threads in §8 by the mid-August deadline.
 13. Clarify Dr. Shawn M. Nicholson LLC's exact role/relationship to Dr. Nicholson's VSU Institutional Liaison position — whether it's the contracting/payment vehicle for his compensation (§1/§2), and how that interacts with the payment-flow open item above (§7).
 14. Put internal MOUs and temporary NDAs in place by Aug 7, 2026, per Javon's 2026-07-31 meeting recap (§3) — scope/parties/duration still unspecified.
 15. Confirm the loaner-laptop question by Aug 7, 2026, per the same email (§6) — resolve whether VSU will provide loaners for students without their own.
