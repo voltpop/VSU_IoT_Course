@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — TODOs by Owner
 compiled: 2026-07-31
-updated: 2026-08-04
+updated: 2026-08-05
 ---
 
 # VSU Innovation Program — TODOs by Owner
@@ -82,6 +82,7 @@ by name until then. In chronological priority order:
 14. Weigh in on restoring a real Security Considerations deliverable in Week 9, now demoted to a passing mention *(shared: Explay, who leads Week 9)* (Course-Curriculum.md §5/§7).
 15. Actually decide on a program name — "VSU Innovation Program" is an assumptive placeholder used throughout this KB, not a name anyone has deliberately chosen (per VoltPop, 2026-08-02: "a generic innovation program for VSU," never revisited as a naming decision) *(shared, confirmed by VoltPop 2026-08-04: all parties, since it's used in every stakeholder-facing document)* (README.md).
 16. *(per VoltPop, 2026-08-03 — same requirement as VoltPop's and Explay's own items below, just missing here)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
+17. **Proposed (2026-08-05, not yet agreed)** — get alignment with VoltPop and Explay on Javon's prime-contractor restructuring proposal (Dr. Nicholson as prime, BTI/VoltPop/Explay as subcontractors with a joint curriculum license to him, plus a separate BTI/VoltPop/Explay MOU for future university opportunities) *before* bringing it to Dr. Nicholson *(shared, confirmed by VoltPop 2026-08-05: Explay)* (Admin-Business-Legal.md §3).
 
 ## VoltPop
 

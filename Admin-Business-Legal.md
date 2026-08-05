@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Admin, Business & Legal
 compiled: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-05
 see_also: Course-Curriculum.md (teaching side)
 ---
 
@@ -93,6 +93,32 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   covering the four (now five) parties' collaboration and information-
   sharing before the full Agreement is signed. Scope/parties/duration
   not yet specified (see TODOs-by-Owner.md).
+- **Proposed (2026-08-05, Javon, not yet agreed):** restructure the
+  contracting relationship so Dr. Nicholson becomes **prime
+  contractor** and Builder Tech/VoltPop/Explay operate as
+  subcontractors under him — leveraging his existing VSU relationships,
+  insurance, and infrastructure to get the contract approved, and
+  avoiding credibility questions Javon thinks are more likely to be
+  raised against Builder Tech as prime. Under this proposal:
+  - Curriculum IP stays with the three subcontractors via a joint
+    licensing agreement among them, granting Nicholson only a limited
+    license for this specific program — a change from the current
+    Explay/VoltPop joint-ownership + Builder Tech/VSU license structure
+    in §1.
+  - Builder Tech, VoltPop, and Explay would separately sign their own
+    MOU locking the three of them together as a package for all
+    **future** university opportunities beyond this program, distinct
+    from the internal MOUs/NDAs above.
+  - Javon's rationale for credibility, if stakeholders push back: Dr.
+    Nicholson addresses VSU-relationship/admin/financial/operational
+    questions, VoltPop (Andrew) addresses technical/hardware-curriculum
+    credibility, and Builder Tech (Javon) + Explay (Emanuel) address
+    pedagogy/teaching-style questions.
+  - **Status:** Javon has raised this with VoltPop and Explay only, to
+    align before bringing it to Dr. Nicholson — not yet shared with him,
+    and not yet agreed by any party. Nothing in §1's party roles or IP
+    ownership should be treated as changed until that alignment happens
+    and this is confirmed on all sides.
 
 ## 4. Team roster, VSU contacts & regional focus
 
