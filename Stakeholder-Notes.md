@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Stakeholder Notes
 compiled: 2026-07-31
-updated: 2026-08-01
+updated: 2026-08-05
 see_also: Admin-Business-Legal.md §8 (funding-source context and rationale), TODOs-by-Owner.md
 ---
 
@@ -323,11 +323,11 @@ recite.
 - **Contact — named contacts confirmed (2026-08-02), via VSU's two Industry Advisory Councils:** (1) **Joe Woomer, Vice President, Dominion Energy** — member of the School of Business's Management & Marketing Advisory Council (vsu.edu/business/industry-councils/management-marketing-advisory-council/membership/). **Likely the strongest entry point of the three (Beazley/Holmes/Woomer)** given this program is business-student-facing and he's VP-level. (2) **Daniel Holmes, Technical Specialist II – Electric Distribution Technology Applications, Dominion Energy** — member of the Dept. of Engineering IAC (vsu.edu/cet/departments/engineering/industry-advisory-council.php). Both are warmer paths in via existing VSU relationships, alongside the James Beazley/VGR route above. Notably, these two contacts sit on exactly the two schools (Business and Engineering) already linked by VSU's existing MoU — meaning Dominion is independently engaged with both sides of the same institutional bridge this program itself sits on, strengthening the case that Dominion is a genuinely engaged VSU partner rather than a cold utility-company ask, even though the specific "why this program" motivation is still unconfirmed.
 - **AI/IoT/FOSS grant-language check (2026-08-01):** Dominion Energy Charitable Foundation's public focus is STEM/energy workforce development broadly — no explicit AI, IoT, or open-source mention found.
 
-## "Trilus"
+## OpenTrellis (formerly tracked here as "Trilus"/"Trillis")
 
-- **Owner:** *(unassigned)*. **Status:** blocked — name as given; spelling/exact organization needs confirming before any outreach can start.
-- **Possible correction (per VoltPop, 2026-08-03):** may actually be "Trillis," not "Trilus" — unconfirmed. Confirm the actual name/spelling with Javon (original source) before treating either as correct or starting outreach.
-- **Contact:** *(not yet sourced)*
+- **Owner:** *(unassigned — but Dr. Shawn M. Nicholson LLC is a strong candidate to lead, per the personal-connection pattern below; not yet confirmed with him)*. **Status (updated 2026-08-05):** name confirmed with Javon (original source) — it's **OpenTrellis**, not "Trilus"/"Trillis." No longer blocked on name/spelling; open for outreach research now.
+- **Contact (2026-08-05, VoltPop, tentative):** possibly **Dan Frickel** — unconfirmed spelling/exact name — a colleague of Dr. Nicholson's. Needs verifying directly with Dr. Nicholson before treating this as a real named contact.
+- **What they might want / angle:** not yet researched — organization/mission/giving history all still unknown beyond the name.
 
 ## Virginia Credit Union
 

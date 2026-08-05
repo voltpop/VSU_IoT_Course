@@ -370,10 +370,10 @@ not cost-cutting.
 - **Virginia Gateway Region (VGR)** — the regional economic development
   organization for the Tri-Cities area; strong natural fit given the
   program's regional focus, and currently well-funded.
-- **"Trilus"** — name as given; spelling/exact organization needs
-  confirming before outreach. **Possible correction (per VoltPop,
-  2026-08-03):** may actually be "Trillis" — unconfirmed, needs
-  checking with Javon (see `Stakeholder-Notes.md`).
+- **OpenTrellis** (formerly tracked here as "Trilus"/"Trillis") — name
+  confirmed with Javon 2026-08-05, no longer a blocker. Tentative
+  contact: possibly Dan Frickel, a colleague of Dr. Nicholson's —
+  unconfirmed (see `Stakeholder-Notes.md`).
 - **Virginia Credit Union** — Richmond-based, plausible community/CSR
   giving program.
 - **Cameron Foundation** (Petersburg, VA) — strong fit: service area is
