@@ -2,9 +2,13 @@
 # Auto-bump VoltPop's submodule pin whenever this repo's main branch advances
 # (fires after `git merge` / the merge step of `git pull`).
 #
-# Requires: git config core.hooksPath .githooks   (run once per clone — see
-# Repo-Architecture-Master-Scoped-KBs.md in VoltPop's AI/Local/ for why this
-# isn't automatic, and the full submodule process guide in general).
+# Requires, once per clone:
+#   git config core.hooksPath "$(git rev-parse --show-toplevel)/.githooks"
+# MUST be an absolute path — a relative one (e.g. plain ".githooks") resolves
+# against $GIT_DIR, which for a submodule is the nested .git/modules/... path,
+# not this working tree, so git silently never finds the hook at all.
+# See Repo-Architecture-Master-Scoped-KBs.md in VoltPop's AI/Local/ for why
+# this isn't automatic, and the full submodule process guide in general.
 
 SUPER_ROOT=$(git rev-parse --show-superproject-working-tree 2>/dev/null)
 if [ -z "$SUPER_ROOT" ]; then
