@@ -80,6 +80,26 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   instructors can access student records — not yet confirmed as done.
 - Background checks (Checkr/SentryLink) required before working
   directly with students, per VSU policy — timeline not yet confirmed.
+- **eVA registration (flagged 2026-08-05, per VoltPop):** each of the
+  four contracting entities (Builder Tech, VoltPop, Explay, Dr. Shawn M.
+  Nicholson LLC) likely needs to register as a supplier with **eVA**
+  (eva.virginia.gov), the Commonwealth's e-procurement system, if not
+  already registered. **Confirmed (checked 2026-08-05):** registration
+  itself is free, with no annual renewal fee. Registration isn't
+  strictly a legal mandate to do business with a Virginia agency, but
+  state law requires public universities to route 75% of their
+  purchasing dollars through eVA-registered vendors — so in practice,
+  being registered is what lets VSU actually pay a vendor through its
+  normal procurement process. A **transaction fee** (1% of each
+  eVA-processed purchase order, capped at $500 for DSBSD-certified
+  SWaM businesses or $1,500 for non-SWaM vendors) applies per order once
+  registered — not a flat cost, and only triggered by actual purchase
+  orders. **Related opportunity, not yet explored:** DSBSD SWaM
+  certification (Small, Woman-owned, and Minority-owned business) is a
+  separate Virginia program that lowers that fee cap and may carry
+  other state-contracting advantages — worth each entity checking
+  eligibility for, alongside eVA registration itself (see
+  `TODOs-by-Owner.md`).
 - **Positive development**: an existing MoU already directs VSU's
   College of Engineering and School of Business to collaborate with
   each other, with professors/Deans on both sides already engaged and

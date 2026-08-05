@@ -82,7 +82,8 @@ by name until then. In chronological priority order:
 14. Weigh in on restoring a real Security Considerations deliverable in Week 9, now demoted to a passing mention *(shared: Explay, who leads Week 9)* (Course-Curriculum.md §5/§7).
 15. Actually decide on a program name — "VSU Innovation Program" is an assumptive placeholder used throughout this KB, not a name anyone has deliberately chosen (per VoltPop, 2026-08-02: "a generic innovation program for VSU," never revisited as a naming decision) *(shared, confirmed by VoltPop 2026-08-04: all parties, since it's used in every stakeholder-facing document)* (README.md).
 16. *(per VoltPop, 2026-08-03 — same requirement as VoltPop's and Explay's own items below, just missing here)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
-17. **Proposed (2026-08-05, not yet agreed)** — get alignment with VoltPop and Explay on Javon's prime-contractor restructuring proposal (Dr. Nicholson as prime, BTI/VoltPop/Explay as subcontractors with a joint curriculum license to him, plus a separate BTI/VoltPop/Explay MOU for future university opportunities) *before* bringing it to Dr. Nicholson *(shared, confirmed by VoltPop 2026-08-05: Explay)* (Admin-Business-Legal.md §3).
+17. *(flagged by VoltPop, 2026-08-05 — same requirement as VoltPop's, Explay's, and Dr. Shawn M. Nicholson LLC's own items, done individually)* Register with eVA (Virginia's e-procurement system) if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
+18. **Proposed (2026-08-05, not yet agreed)** — get alignment with VoltPop and Explay on Javon's prime-contractor restructuring proposal (Dr. Nicholson as prime, BTI/VoltPop/Explay as subcontractors with a joint curriculum license to him, plus a separate BTI/VoltPop/Explay MOU for future university opportunities) *before* bringing it to Dr. Nicholson *(shared, confirmed by VoltPop 2026-08-05: Explay)* (Admin-Business-Legal.md §3).
 
 ## VoltPop
 
@@ -102,6 +103,7 @@ by name until then. In chronological priority order:
 4. **Aug 21** — Build the actual tailored pitch deck/press kit from `Stakeholder-Notes.md`'s per-stakeholder research (once filled in) and lock final budget/ask figures and logos/photos *(shared, confirmed by VoltPop 2026-08-04: Explay + Builder Tech, since it feeds the joint client presentation)* — see `Stakeholder-Notes.md` and `Press-Kit-Content.md`.
 5. *(support role — Dr. Shawn M. Nicholson LLC now leads)* Support Virginia Gateway Region (VGR) and Dominion Energy outreach, per Dr. Nicholson's personal connection to James Beazley, and Cameron Foundation outreach if needed (per VoltPop, 2026-08-03) — see Dr. Shawn M. Nicholson LLC's items below (Admin-Business-Legal.md §8).
 6. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing; same requirement as Explay's and Builder Tech's own items, done individually)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
+7. *(flagged by VoltPop, 2026-08-05 — same requirement as Builder Tech's, Explay's, and Dr. Shawn M. Nicholson LLC's own items, done individually)* Register with eVA if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
 
 ## Explay
 
@@ -119,6 +121,7 @@ by name until then. In chronological priority order:
 7. Decide whether to reintroduce a named "elevator pitch" deliverable in Weeks 11–12 — present in V1's schedule, dropped from V2 (Course-Curriculum.md §5/§7).
 8. Weigh in on the Week 11/12 VoltPop support role still marked "(TBD)" in the schedule *(shared, confirmed by VoltPop 2026-08-04: VoltPop)* (Course-Curriculum.md §4).
 9. *(same requirement as VoltPop's and Builder Tech's own items, done individually)* Confirm own background-check (SentryLink, virtual staff) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
+10. *(flagged by VoltPop, 2026-08-05 — same requirement as VoltPop's, Builder Tech's, and Dr. Shawn M. Nicholson LLC's own items, done individually)* Register with eVA if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
 
 ## Dr. Shawn M. Nicholson LLC
 
@@ -139,3 +142,4 @@ by name until then. In chronological priority order:
 15. Get VSU counsel/procurement review moving on indemnification, liability caps, and governing law/arbitration language (Admin-Business-Legal.md §3).
 16. Loop in VSU's own advancement/development office for external fundraising coordination — not urgent given stakeholder outreach is proceeding first, but still needed before things go further (Admin-Business-Legal.md §8).
 17. Coordinate with Dean Haley (Engineering) and the Business School's interim/incoming dean, leveraging the existing MoU that already directs the two colleges to collaborate (Admin-Business-Legal.md §4).
+18. *(flagged by VoltPop, 2026-08-05 — same requirement as Builder Tech's, VoltPop's, and Explay's own items, done individually)* Register with eVA if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
