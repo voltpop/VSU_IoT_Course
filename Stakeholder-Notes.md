@@ -97,6 +97,56 @@ this alone. Rough priority order: **capability > desire > connection.**
   plus Dr. Nicholson's personal connection) is the clearest current
   example.
 
+### Current engagement-likelihood ranking (2026-08-05, per VoltPop's request)
+
+Applying the heuristic above across every profile below, strongest
+first. A snapshot, not a permanent ranking — statuses here change
+often (see each profile's own **Status** line for the latest), and per
+the heuristic itself this is a general guide, not a formula, so don't
+over-read small gaps between adjacent entries.
+
+1. **Dominion Energy** — the only lead with all three factors
+   confirmed (capability, demonstrated desire via already-expressed
+   interest, and Dr. Nicholson's personal Beazley connection).
+2. **Siemens** — existing $105.6M VSU relationship, demonstrated CSR
+   grant program with known size range, named contact (Gail Norris).
+3. **Southern Company** — VSU-specific giving precedent ($500K endowed
+   professorship), but no personal contact yet.
+4. **Cameron Foundation** — exact geographic match (Petersburg), real
+   STEM-funding precedent, accessible (not invitation-gated).
+5. **Jabil** — demonstrated ed/workforce-giving precedent ($1.1M St.
+   Petersburg College), but the Foundation path is invitation-only and
+   the stronger local-site path is unverified.
+6. **Huntington Ingalls** — strong content fit and a warm named
+   contact (Harry Johnson, same VSU IAC channel as Siemens), but
+   desire/capability specifics entirely unresearched.
+7. **Virginia Gateway Region (VGR)** — the strongest personal
+   connection on this list (Dr. Nicholson knows both Beazley and
+   Stansbury), capped by our own finding that VGR itself isn't a
+   direct-cash capability — better framed as a facilitator.
+8. **Claude for Education / Claude Corps** — capability and desire are
+   both structurally built into a defined, open program with known
+   terms, but requires VSU as institutional applicant plus competitive
+   selection; no personal connection.
+9. **NSF HBCU-UP** — strong categorical fit (federal HBCU-specific
+   program) but competitive, no connection.
+10. **Virginia Credit Union** — named contact (Angela Roisten) exists,
+    but desire is unconfirmed on both the council and company side.
+11. **Apache Software Foundation (ASF)** — a real Anthropic↔ASF
+    funding relationship exists as a narrative hook, but no established
+    ASF-funds-a-university-program precedent, and no individual with
+    dual capability found; VoltPop's personal ASF tie is the only
+    connection.
+12. **American Electric Power Foundation / Dudley T. Dougherty
+    Foundation** — even the basic geographic-fit threshold is
+    unconfirmed.
+13. **Deloitte** — zero established relationship or precedent despite
+    Javon's detailed goal-mapping; entirely aspirational until a real
+    POC/response exists.
+14. **OpenTrellis** — genuinely unknown organization beyond a name and
+    a tentative contact; can't yet be assessed on any of the three
+    factors.
+
 ## Siemens
 
 - **Owner:** VoltPop. **Status (updated 2026-08-04, per VoltPop):** the warm path — requesting Dr. Nicholson introduce Gail Norris — is **blocked** until the Aug 7 cross-party meeting confirms it as the group's preferred approach. The direct cold-call fallback (Newport News office, ask for the Academic Programs Coordinator) is unblocked and open to VoltPop anytime — see the call notes below.
