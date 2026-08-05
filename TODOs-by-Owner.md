@@ -67,12 +67,20 @@ open regardless of what's decided here. **Per VoltPop (2026-08-05):**
 this should absolutely go forward — but it is **not** the meeting's top
 priority (see the loaner-laptop flag below for what is).
 
-**Top priority for the Aug 7 meeting (per VoltPop, 2026-08-05):** the
-**loaner laptop question** (Admin-Business-Legal.md §6, TODO item below
-under Builder Tech + Dr. Shawn M. Nicholson LLC) — not because of the
-budget/logistics angle it was originally flagged for, but because it's
-actually a **feasibility question**: whether the students have working
-equipment to do this course at all. Outranks every other Aug 7 item.
+**Aug 7 meeting priority order (per VoltPop, 2026-08-05):**
+1. **Loaner laptop question** (Admin-Business-Legal.md §6, TODO item
+   below under Builder Tech + Dr. Shawn M. Nicholson LLC) — not because
+   of the budget/logistics angle it was originally flagged for, but
+   because it's actually a **feasibility question**: whether the
+   students have working equipment to do this course at all.
+2. **Internal MOUs/NDAs + Javon's prime-contractor proposal** (item #19
+   below, under Builder Tech) — the underlying work is deferred until
+   after the Aug 21/28 presentation, but getting the group aligned
+   *that* it's deferred and condensed into one task is itself a
+   higher-priority Friday conversation than items 3–5 below.
+3. Gail Norris/Siemens warm path (agenda flag above).
+4. Mentorship model formalization (already decided as a mix).
+5. Program name (still unresolved, lowest urgency of the five).
 
 **Program name — still genuinely unresolved (per VoltPop, 2026-08-05):**
 not a decision anyone's ready to make yet, and that's fine for now.
