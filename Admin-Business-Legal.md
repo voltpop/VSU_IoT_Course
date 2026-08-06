@@ -397,6 +397,25 @@ contributions rather than cash.
 down further — the path is external funding and in-kind contributions,
 not cost-cutting.
 
+**Open idea, not yet confirmed (per VoltPop, 2026-08-06):** the working
+assumption above treats external funding as needing to close the entire
+~$295K–$311K gap. A different model may be in play instead — VSU's own
+two colleges (College of Engineering and Technology, Reginald F. Lewis
+College of Business, see §4) **splitting the program's core cost
+between them**, with every external donation/grant reducing that split
+further rather than being the sole funding source. **Real precedent
+found 2026-08-06:** VSU's existing Southern Company Foundation grant
+(§8 below; see `Stakeholder-Notes.md`) is itself a $500K *matching*
+grant — VSU already committed its own matching funds to secure it, so
+a college co-funding a portion of this program's cost isn't a novel
+ask, it's the same mechanism VSU has already used once. If true, this
+changes both the size of the external ask (smaller) and the pitch to the two
+colleges (partly a budget commitment, not just hosting logistics — see
+`Stakeholder-Notes.md`'s "VSU's own colleges" section). **Unconfirmed
+with Dr. Nicholson or VSU** — flagging now so the external-funding
+targets below aren't sized against the wrong total before this gets
+resolved.
+
 **Note on source merge (2026-08-05):** this KB's own tracked threads
 (from Javon's 2026-07-31 recap) originally only partly matched Javon's
 separate Stakeholder Tracker spreadsheet — per VoltPop, the two were
@@ -437,8 +456,11 @@ full merged count (thirteen threads).
 - **NSF HBCU-UP** (federal) — funds STEM undergraduate education
   specifically at HBCUs, including "Targeted Infusion Projects" for
   short-term, well-defined goals.
-- **Southern Company** — already has a relationship with VSU (funded a
-  $500,000 endowed professorship in sustainability) — a warm lead.
+- **Southern Company** — VSU's existing $500K endowed sustainability
+  professorship is a grant under the Southern Company Foundation's HBCU
+  Sustainable Communities Initiative (funding AI-driven agricultural
+  research and climate-smart solutions at VSU specifically); Foundation
+  President Myra C. Bierria named 2026-08-06 — see `Stakeholder-Notes.md`.
 - **American Electric Power Foundation** and **Dudley T. Dougherty
   Foundation** — both fund STEM education but geographic fit
   (Tri-Cities/Petersburg specifically) isn't yet confirmed.

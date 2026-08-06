@@ -170,31 +170,107 @@ owners' stakeholders.
   ask. Zero deck-production effort belongs here; the deliverable is a
   written application.
 - **Regional community/economic-development foundations** — Cameron
-  Foundation, Virginia Credit Union, and Virginia Gateway Region (in
-  its facilitator framing, not as a direct funder). None have an
-  IoT-specific angle; all respond to the same "regional workforce
-  pipeline + student exposure to local employers" mission-fit framing
-  already built for VGR. One deck, swap the logo/name.
+  Foundation and Virginia Gateway Region (in its facilitator framing,
+  not as a direct funder). **Narrowed to these two (2026-08-06, per
+  VoltPop) — Virginia Credit Union pulled out, see its own entry
+  below.** What actually ties these two together isn't just the
+  "economic development" label, it's the specific shape of it: both
+  connect students to the region's *existing large employer base*
+  (manufacturing, logistics, utilities), and both are geographically
+  anchored to the Tri-Cities/Petersburg footprint specifically (Cameron
+  explicitly; VGR's entire mandate). One deck, swap the logo/name —
+  "regional workforce pipeline + student exposure to local employers."
 - **Business/entrepreneurship-education fit** — Open Trellis, Deloitte.
-  Neither maps to the IoT/hardware side of the course — both map to
-  the *business* side (entrepreneurship, casework, pitch skills).
-  Pitch off the Business Model Canvas / pitch-deck deliverables
-  (Explay's/Builder Tech's material), not the sensor/hardware ones.
+  **Confirmed, not reclustered (2026-08-06, per VoltPop)** — Open
+  Trellis's own self-description includes "economic development," which
+  made it look like a fit for the cluster above on a first pass, but two
+  things keep it here instead: (1) geography — it serves "the broader
+  Richmond/Dinwiddie County region... near, but not directly in,
+  Petersburg," meaningfully weaker than Cameron/VGR's Tri-Cities anchor;
+  (2) it supports *founders* (startup finance, entrepreneurship
+  consulting), not a pipeline into existing large regional employers —
+  a genuinely different flavor of "economic development" than Cameron/
+  VGR's. Neither Open Trellis nor Deloitte maps to the IoT/hardware side
+  of the course — both map to the *business* side (entrepreneurship,
+  casework, pitch skills). Pitch off the Business Model Canvas /
+  pitch-deck deliverables (Explay's/Builder Tech's material), not the
+  sensor/hardware ones.
+- **Virginia Credit Union — its own thing, no shared cluster
+  (2026-08-06, per VoltPop).** Pulled out of the regional-development
+  cluster above: no strong Tri-Cities-specific geographic identity
+  (Richmond-based), and its likely CSR shape (financial literacy,
+  community reinvestment — typical for credit unions) doesn't cleanly
+  match either the employer-pipeline story (Cameron/VGR) or the
+  business-education story (Open Trellis/Deloitte). Needs its own
+  distinct pitch built around financial literacy/community-reinvestment
+  framing — this program's business-model/pitch/financial-model content
+  has a direct throughline to financial literacy that hasn't been used
+  anywhere else. Not yet built into a deck; see Virginia Credit Union's
+  own profile below.
 - **Anthropic/open-source ecosystem** — Apache Software Foundation,
   Claude for Education/Claude Corps. Both are literally "we're built on
   your tooling" — the same dependency narrative, aimed at two different
   organizations.
+- **Institutional buy-in (VSU's own colleges)** — College of Engineering
+  and Technology, Reginald F. Lewis College of Business. **Not a funder
+  cluster at all (flagged 2026-08-06, per VoltPop)** — the two colleges
+  aren't being asked to fund or resource anything, they're being sold on
+  *hosting* the program: lab/classroom disruption, faculty and dean
+  time, FERPA/liability exposure. Content should center student
+  outcomes, employer-pipeline value, and program prestige for the
+  college, plus activating the existing Engineering/Business MoU — not
+  the CSR/mission-fit framing every funder-facing deck above uses. No
+  deck built yet; see the dedicated note under "VSU's own colleges"
+  below.
 
-**Biggest lever isn't content clustering, it's the delivery channel:**
-multiple stakeholders route through the same two VSU bodies — the
-Engineering Industry Advisory Council (Gail Norris/Siemens, Harry
-Johnson/Huntington Ingalls, Daniel Holmes/Dominion) and the Business
-School's Management & Marketing + Accounting & Finance advisory
-councils (Joe Woomer/Dominion, Angela Roisten/Virginia Credit Union).
-Getting on **two council agendas** could reach five stakeholders in two
-presentations instead of five separate one-on-one pitches — see the
-"Use VSU's own advisory councils as a channel" note under "Other angles
-worth checking" below, which this generalizes.
+**Biggest lever isn't content clustering, it's the delivery channel —
+worth an explicit count (per VoltPop, 2026-08-06):** 4 of the 14
+tracked stakeholders have a named representative sitting on one of
+VSU's own Industry Advisory Councils, via 5 named individuals across
+3 councils: **Siemens** (Gail Norris) and **Huntington Ingalls** (Harry
+Johnson) on the Engineering IAC; **Dominion Energy** via *two separate
+seats* (Daniel Holmes, Engineering IAC; Joe Woomer, the Business
+School's Management & Marketing Advisory Council); and **Virginia
+Credit Union** (Angela Roisten) on the Business School's Accounting &
+Finance Advisory Council. The IT Advisory Council returned zero
+matches, and no other tracked stakeholder (Cameron Foundation, VGR
+itself, AEP/Dudley Dougherty, Jabil, Deloitte, ASF) has turned up on
+any of the four rosters checked so far. **Correction (2026-08-06):**
+this was previously (mis)characterized below as "five stakeholders in
+two presentations" — Dominion Energy was double-counted (one
+stakeholder, two council seats), so the accurate framing is **4
+stakeholders, reachable via 3 council presentations** (Engineering;
+Business's Management & Marketing; Business's Accounting & Finance) —
+cheaper than 4 separate one-on-one pitches, though Dominion still needs
+its own separate appearance at two of the three since Holmes and
+Woomer sit on different councils. See the "Use VSU's own advisory
+councils as a channel" note under "Other angles worth checking" below,
+which this generalizes.
+
+### Pitch-direction / owner summary table (2026-08-06, per VoltPop — for the Aug 7 meeting)
+
+Quick-reference rollup of the clusters above, with ownership added so
+it's usable at a glance in the meeting. Not new research — a summary
+view of what's already detailed in each cluster/profile below.
+
+| Cluster | Members | Direction | Owner(s) |
+|---|---|---|---|
+| Digital-manufacturing/IoT | Siemens, Jabil, Huntington Ingalls | Foundation-layer for a bigger IoT effort already underway | VoltPop (all three) |
+| Energy/smart-grid | Dominion, (maybe AEP later) | Same foundation-layer logic, smart-grid IoT | Dr. Nicholson (lead) + VoltPop (support) — Dominion; unassigned — AEP |
+| AI-agriculture | Southern Company | Foundation-layer for the HBCU SCI-funded ag research | Dr. Nicholson / VSU |
+| AI-direction | Claude for Education/Claude Corps | Foundation-layer for Anthropic's own mission | Dr. Nicholson / VSU (institutional applicant required) |
+| GenAI talent pipeline | Deloitte | Foundation-layer for their GenAI growth area | Javon / Builder Tech |
+| Regional employer pipeline | Cameron Foundation, VGR | Geographic + existing-employer framing | Dr. Nicholson (lead) + VoltPop (support), both |
+| Business-education | Open Trellis, Deloitte (shared) | BMC/pitch-skills content | Dr. Nicholson — Open Trellis; Javon — Deloitte |
+| Financial literacy | Virginia Credit Union | Standalone | Dr. Nicholson |
+| Institutional buy-in | CoET, Lewis College | Hosting logistics + possible cost-split | Dr. Nicholson |
+| Formal application | NSF HBCU-UP, Claude Corps | Written application, not a pitch | Dr. Nicholson / VSU, both |
+| Anthropic/OSS ecosystem | ASF, Claude Corps | "Built on your tooling" | VoltPop — ASF; Dr. Nicholson / VSU — Claude Corps |
+
+**Worth raising at the meeting:** Dr. Nicholson owns or co-owns 9 of
+these 11 rows — the same ownership-concentration bottleneck flagged
+elsewhere in this KB (see `TODOs-by-Owner.md`), visible again here from
+the pitch-direction angle, not just the outreach-research angle.
 
 ## Siemens
 
@@ -454,7 +530,8 @@ recite.
 
 - **Owner:** Dr. Shawn M. Nicholson LLC (assigned 2026-08-05, per VoltPop). **Status:** not yet contacted.
 - **What they might want / angle:** Richmond-based; plausible community/CSR giving program — unconfirmed.
-- **Contact — named contact found (2026-08-02), graded against the lead-strength heuristic above:** Angela Roisten, VP, Virginia Credit Union, sits on VSU's Accounting & Finance Advisory Council. **Capability:** doubly present — both the council itself and Virginia Credit Union (her employer) are potentially capable funding bodies. **Desire:** unconfirmed on both sides — no known giving program or grant history for either the council or Virginia Credit Union specifically toward something like this. **Connection:** none known. Net: a real lead worth pursuing, but not yet a strong one — missing the confirmed-desire and connection legs that make Beazley the clear top example. Worth outreach, but don't oversell it internally as equivalent to Beazley/Norris until desire is confirmed.
+- **Pitch angle — decided (per VoltPop, 2026-08-06):** doesn't share a deck with any other stakeholder (see the deck-reuse-clusters note above) — lead with **financial literacy / community reinvestment**, the CSR shape credit unions typically fund, rather than the regional-employer-pipeline framing used for Cameron/VGR or the entrepreneurship-education framing used for Open Trellis/Deloitte. This program's business-model/pitch/financial-model content (part of every student's deliverable) has a direct, unused throughline to financial literacy — lead with that specifically, not a generic "support regional students" ask.
+- **Contact — named contact found (2026-08-02), graded against the lead-strength heuristic above:** Angela Roisten, VP, Virginia Credit Union, sits on VSU's Accounting & Finance Advisory Council. **Capability:** doubly present — both the council itself and Virginia Credit Union (her employer) are potentially capable funding bodies. **Desire:** unconfirmed on both sides — no known giving program or grant history for either the council or Virginia Credit Union specifically toward something like this. **Connection:** none known. Net: a real lead worth pursuing, but not yet a strong one — missing the confirmed-desire and connection legs that make Beazley the clear top example. Worth outreach, but don't oversell it internally as equivalent to Beazley/Norris until desire is confirmed. **Fastest path to resolving the open desire question:** skip further research and go straight to a short outreach — "you already sit on our council, would love 15 minutes" — since capability and connection are already established and desire is the only unknown left.
 
 ## American Electric Power Foundation / Dudley T. Dougherty Foundation
 
@@ -464,17 +541,19 @@ recite.
 
 ## NSF HBCU-UP
 
-- **Owner:** Dr. Shawn M. Nicholson LLC / VSU (institutional applicant required). **Status:** due mid-Aug 2026 (TODOs-by-Owner.md).
-- **What they want:** federal funding for STEM undergraduate education specifically at HBCUs, including "Targeted Infusion Projects" for short-term, well-defined goals.
+- **Owner:** Dr. Shawn M. Nicholson LLC / VSU (institutional applicant required). **Status — materially changed 2026-08-06:** the "due mid-Aug 2026" framing in `TODOs-by-Owner.md` is our own internal target, not NSF's — **the actual solicitation (NSF 23-563) is no longer active.** NSF's own program page states: "Not currently accepting proposals — this program is awaiting a new solicitation." There is currently nothing open to submit to, at any date. The task isn't "write the application by mid-August," it's "monitor for the next solicitation to be published" — worth raising at the Aug 7 meeting so nobody preps a submission against a closed window.
+- **What they want:** federal funding for STEM undergraduate education specifically at HBCUs, including "Targeted Infusion Projects" for short-term, well-defined goals — under the now-superseded solicitation, Targeted Infusion Projects ran on a fixed annual cycle (LOI: second Tuesday in September; full proposal: second Thursday in November) — useful as a template for what the *next* solicitation's cycle will likely look like, once published.
 - **Contact:** *(NSF program officer / HBCU-UP program page — not yet sourced)*
-- **AI/IoT/FOSS grant-language check (2026-08-01):** the current solicitation (NSF 23-563) doesn't name AI, IoT, or open-source as explicit HBCU-UP priorities, but does encourage proposals aligned with NSF's Technology, Innovation and Partnerships (TIP) directorate — a general tech-strategy hook worth using in the application rather than a named category.
+- **AI/IoT/FOSS grant-language check (2026-08-01):** the (now-superseded) NSF 23-563 solicitation didn't name AI, IoT, or open-source as explicit HBCU-UP priorities, but did encourage proposals aligned with NSF's Technology, Innovation and Partnerships (TIP) directorate — a general tech-strategy hook worth reusing whenever the next solicitation is published, rather than a named category to check against right now.
 
 ## Southern Company
 
-- **Owner:** Dr. Shawn M. Nicholson LLC / VSU. **Status:** warm lead — due mid-Aug 2026 (TODOs-by-Owner.md).
-- **What they want / angle:** already has an existing relationship with VSU (funded a $500,000 endowed professorship in sustainability) — check on that relationship as the entry point rather than a cold approach.
-- **Contact:** *(not yet sourced)*
-- **AI/IoT/FOSS grant-language check (2026-08-01):** couldn't find an official Southern Company Foundation page with specific grant priorities — inconclusive, needs a direct check rather than general search.
+- **Owner:** Dr. Shawn M. Nicholson LLC / VSU. **Status:** warm lead — due mid-Aug 2026 (TODOs-by-Owner.md). Significantly de-risked 2026-08-06 (see below) — no longer a cold "check on the relationship" task, now has a named foundation head and a real content hook.
+- **What they want / angle — resolved 2026-08-06 (web research):** the $500K endowed professorship isn't a standalone VSU-specific gift — it's VSU's grant under the **HBCU Sustainable Communities Initiative (HBCU SCI)**, a Southern Company Foundation program run jointly with **INROADS, UNCF, and the Thurgood Marshall College Fund**, itself part of Southern Company's broader **$50M HBCU pledge**, targeting HBCUs specifically within **Southern Company's utility service area** (Virginia Natural Gas is a Southern Company subsidiary — real geographic logic, not coincidence). **Each grant is a $500K matching grant** — VSU had to commit its own matching funds to secure this, direct precedent for the "colleges could split the program's cost" idea flagged in `Admin-Business-Legal.md` §8; this isn't a hypothetical funding mechanism, it's the one VSU already used here. Stated program goal: "empower students at HBCUs in Southern Company's service areas with the awareness, skills, and opportunities to become informed leaders in sustainability." Sibling 2026 grants: Morehouse College (sustainability minor), Hampton University (Center for Atmospheric Sciences — air quality/climate/environmental justice), Tennessee State University (sustainability minor/certificate); Clark Atlanta University and Stillman College received matching grants from an earlier 2023 cohort. **VSU's specific grant funds AI-driven agricultural research and climate-smart solutions** — a real, direct AI content hook this program can use, superseding the 2026-08-01 grant-language check below (which found no AI/IoT mention — it was looking at Southern Company's general public page, not the HBCU SCI program specifically). Source: [Morehouse College news](https://news.morehouse.edu/southern-company-foundation-sustainability).
+- **Pitch angle — decided (per VoltPop, 2026-08-06):** frame this course as a direct foundation-layer for VSU's own HBCU SCI grant, not a separate, unrelated ask. Something like: *"This is an introductory IoT course. In order to make AI-powered agriculture a thing, you need a strong foundation of IoT understanding. This introductory course helps determine the general skill level of our cohort and the pedagogy requirements needed to make 'an AI-powered farm' a thing."* Positions this program as a **feeder/prerequisite diagnostic** for the AI-driven agricultural research VSU's existing Southern Company Foundation grant already funds, not a cold, unrelated ask — the mutual goal being: Southern Company gets a real read on whether VSU students have (or can build) the IoT literacy their own funded research depends on, and this program gets funding tied to something already approved and funded rather than starting from zero. **Fit caveat worth being precise about if asked:** this pitches at the institutional/campus-baseline level (building general VSU IoT literacy that any future AI-agriculture work depends on), not a claim that this specific business-student cohort feeds directly into the ag-research grant itself — the program's audience is business students, not ag-science/STEM researchers tied to HBCU SCI.
+- **Stronger footing than one grant alone (found 2026-08-06):** VSU has its own **College of Agriculture and Agricultural Research Station (ARS)** — a genuine 1890 land-grant mission, not something that exists only because of the Southern Company grant. ARS's own stated mission is generating research to help small/limited-resource farmers be profitable, using "cutting-edge scientific techniques." **This means the pitch shouldn't tie itself to the Southern Company grant specifically** — it should position this course as introductory to **VSU's own institutional agri-tech ambitions broadly**, which persist independent of any single funder's grant cycle. Practical upshot: worth checking whether VSU's College of Agriculture itself should be tracked as its own institutional-coordination target (alongside CoET and Reginald F. Lewis College of Business, see that section below) — it's directly relevant here and currently isn't tracked as a stakeholder at all. Source: [VSU Agricultural Research Station](https://www.vsu.edu/agriculture/agricultural-research-station/), [VSU College of Agriculture](https://www.vsu.edu/agriculture/).
+- **Contact — found 2026-08-06:** **Myra C. Bierria**, Senior Vice President, Chief Administration Officer & **President, Southern Company Foundation** — the actual head of the foundation, not just a plausible name ([source](https://www.southerncompanygas.com/who-we-are/leadership/myra-bierria.html)). **Caveat:** since VSU's existing grant flows through HBCU SCI, the practical entry point may run through one of the three partner orgs (INROADS, UNCF, or TMCF — see hbcusci.org) or whoever at VSU already administers the existing grant (likely VSU's advancement/development office), rather than cold-approaching Bierria directly — worth checking that routing before reaching out.
+- **AI/IoT/FOSS grant-language check (2026-08-01) — superseded, see above:** couldn't find an official Southern Company Foundation page with specific grant priorities at the time; the actual answer was the HBCU SCI program (hbcusci.org), not the Foundation's general public materials.
 
 ## Anthropic's Claude for Education / Claude Corps
 
@@ -500,9 +579,20 @@ recite.
 - **Next step (per Javon, 2026-08-04):** contact former colleagues in Deloitte's Virginia offices, plus reach out to the StepUp pro bono team.
 - **Contact:** *(not yet sourced)*
 
-## VSU's own colleges (institutional coordination, not a funding ask)
+## VSU's own colleges (institutional coordination — but still needs its own sales materials)
 
 - **College of Engineering and Technology** and **Reginald F. Lewis College of Business** — official names, corrected here 2026-08-05 via Javon's Stakeholder Tracker (previously referred to generically as "College of Engineering" and "College of Business"/"Business School" — see `Admin-Business-Legal.md` §4, now updated to match). **Owner:** Dr. Shawn M. Nicholson LLC, per the tracker. Both tracked as coordination targets (POC/role TBA, not a cash ask) rather than funding stakeholders — consistent with §4's existing Dean Haley / incoming Business dean coordination items.
+- **Possible third college to add — not yet tracked (flagged 2026-08-06):** VSU's own **College of Agriculture** (with its Agricultural Research Station) is directly relevant given the AI-agriculture angle developed in the Southern Company profile above, and currently has no owner, no POC, and isn't tracked as a coordination target at all — a real gap given how central it now is to the ag-tech pitch angle. Worth deciding at the Aug 7 meeting whether to formally add it alongside CoET and Lewis College, same coordination-target treatment (not a funding ask, an institutional buy-in one).
+- **What's actually being asked here is categorically different from every funding stakeholder above (per VoltPop, 2026-08-06)** — not "why should you fund/resource this" but "let us actually run this inside your institution." Don't draft a funding-style pitch for either college; the real ask is buy-in and mechanics:
+  - **Institutional legitimacy/endorsement** — official host-college backing, not just VSU-in-the-abstract.
+  - **Curriculum integration** — credit-bearing status, class time, how this fits their existing degree structure.
+  - **Physical/logistical access** — labs suited to the hardware weeks, network access, classroom space (ties to `Admin-Business-Legal.md` §7's classroom/lab-space item).
+  - **Faculty/dean bandwidth** — Dean Haley's and the incoming Lewis dean's own coordination time, not a check.
+  - **Administrative unblocks only they can grant** — FERPA "school official" designations, background-check sign-off, indemnification/liability language moving through VSU counsel (`Admin-Business-Legal.md` §7, §3).
+  - **The existing MoU as leverage, not a cold ask** — it already mandates CoET/Business collaboration, so this is closer to activating a standing agreement than starting one from scratch.
+- **Open idea, not yet confirmed — this may partly be a cash ask after all (per VoltPop, 2026-08-06):** the two colleges could potentially **split the program's core cost between them**, with every external stakeholder donation/grant landing on top of that split and bringing the net ask down further — rather than external funding needing to close the entire ~$295K–$311K gap on its own (the working assumption in `Admin-Business-Legal.md` §8 so far). If this holds, the pitch to Dean Haley and the incoming Lewis dean isn't purely a hosting-logistics ask, it's also a budget-commitment ask — a meaningfully different (and harder) conversation than "let us use your lab space." **Needs confirming with Dr. Nicholson/VSU before being treated as the actual plan** — this hasn't been run past anyone at VSU yet, and VSU's own capacity to commit any of its own budget is unconfirmed. See `Admin-Business-Legal.md` §8 for the corresponding flag.
+- **Still requires its own sales materials (per VoltPop, 2026-08-06)** — "coordination target, not a funding ask" doesn't mean no pitch is needed, it means a *different* pitch is needed. Dean Haley and the incoming Lewis dean both still need to be sold on hosting this specifically — lab/classroom disruption, faculty time, and FERPA/liability exposure are a real ask of them even with no money changing hands. This is its own deck-reuse cluster (see above), distinct from every funder-facing deck — not yet built, no owner assigned beyond Dr. Nicholson himself (content likely also needs VoltPop/Explay/Builder Tech input on student-outcomes framing; flagged as a gap in `TODOs-by-Owner.md`).
+- **Timing differs sharply between the two:** College of Engineering and Technology can move now — Dean Haley is a known, already-coordinating contact (`TODOs-by-Owner.md`, Dr. Shawn M. Nicholson LLC item #18). Reginald F. Lewis College of Business is genuinely blocked until its incoming dean starts (mid-August) — there's no one to confirm anything with, let alone pitch, yet.
 
 ## Other angles worth checking
 

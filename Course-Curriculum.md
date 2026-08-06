@@ -37,6 +37,21 @@ Concrete implications:
 - **Heavy AI scaffolding, not open-ended prompting**: firmware-by-
   prompting needs a template/starter structure students fill in, not
   free generation from scratch.
+- **Strive for sense-*and*-actuate projects, not just passive
+  monitoring — but don't mandate it (per VoltPop, 2026-08-06):** given
+  the AI-agriculture positioning developed for the Southern Company
+  pitch (`Stakeholder-Notes.md`) and the expectation that a real share
+  of student projects will land on some kind of sensor relevant to
+  agri-tech, projects should be encouraged to not just monitor an
+  environment but meaningfully modify it (e.g., a moisture sensor
+  driving an irrigation actuator, not just a moisture readout) — closer
+  to what an actual "AI-powered farm" needs, and a stronger portfolio
+  outcome than a read-only dashboard. **Not a hard requirement**: not
+  every real regional problem a team picks will have a natural fit for
+  actuation, and forcing it onto a mismatched problem would undercut
+  the "specific sensor/component is irrelevant" philosophy above —
+  strive for it where the problem allows, don't force it where it
+  doesn't.
 
 ### The reusable pattern: judgment-step / mechanical-step split
 
@@ -142,6 +157,20 @@ dropped from V2 entirely — likely fine since it was optional, but worth
 noting it as a dropped option rather than assuming it was never
 considered.
 
+4. **Regional/Tri-Cities industry focus dropped from Week 2 (flagged
+   2026-08-06, per VoltPop).** V1's Week 2 explicitly said "choose a
+   Tri-Cities industry/problem focus." V2's equivalent week (Week 2:
+   Understanding Systems & IoT) just says "students pick their own use
+   case" — the explicit regional-industry steering is gone, not
+   carried forward. This matters beyond internal consistency: several
+   stakeholder pitches in `Stakeholder-Notes.md` (Cameron Foundation,
+   Virginia Gateway Region, Southern Company's AI-agriculture angle,
+   Dominion's smart-grid angle) all assume students land on regionally-
+   and industrially-relevant projects — nothing in the current schedule
+   actually guarantees that. **Needs re-introducing**, ideally back into
+   Week 2's use-case-selection language rather than left as an
+   unenforced assumption.
+
 ## 6. Lesson-plan status
 
 Built lesson plans live in `~/Documents/VoltPop/IoT_Course/` (VoltPop's
@@ -180,7 +209,15 @@ working files):
 1. Decide how (or whether) to restore a dedicated Security
    Considerations deliverable given the demotion in V2 Week 9.
 2. Confirm/add a mentor-interview deliverable to Week 3 if that
-   requirement still stands.
+   requirement still stands. **Higher stakes than a Scope-Doc technicality
+   (flagged 2026-08-06, per VoltPop):** mentors/guest speakers are one of
+   the in-kind asks actively being made of donors (Siemens/Jabil/
+   Huntington Ingalls cluster, ASF, Deloitte all carry a mentor or
+   guest-speaker ask in `Stakeholder-Notes.md`) — if the curriculum has
+   no early, structured mentor touchpoint, there's a real mismatch
+   between what's being solicited from stakeholders and what the course
+   actually does with it. Resolve this alongside the donor-mentor asks,
+   not as a separate curriculum-only question.
 3. Build a lesson plan for Week 2.
 4. Rewrite Week 7's lesson plan around Data Flow & Systems Architecture.
 5. Adapt the MCP-server lesson into Week 8.
@@ -202,3 +239,59 @@ working files):
 12. Decide whether to reintroduce a named "elevator pitch" deliverable
     in Weeks 11–12 (Explay-led), present in V1's schedule but dropped
     from V2's pitch weeks (see §5).
+13. **Re-introduce the Tri-Cities/regional-industry focus into Week 2**
+    (flagged 2026-08-06, per VoltPop, see §5 finding #4) — dropped
+    between V1 and V2; several stakeholder pitches depend on students
+    actually landing on regionally-relevant projects, which the current
+    Week 2 language no longer requires.
+
+## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
+
+Reference check requested by VoltPop — how V2's actual schedule holds
+up against the program's own stated goals/outcomes (`Admin-Business-
+Legal.md` §4), and how it would land with the stakeholders profiled in
+`Stakeholder-Notes.md`. Kept here (not just in conversation) since both
+are likely to come up again, including at the Aug 7 meeting.
+
+### Goals/outcomes scorecard
+
+| Goal/outcome | Curriculum support | Gap |
+|---|---|---|
+| Competitive job candidates | Portfolio (Wk1, Wk14), resume, Career Day | Solid |
+| Regional economic reinvestment | Week 2 use-case selection | **Weakened** — Tri-Cities framing dropped V1→V2 (see §7 item 13) |
+| Explore emerging tech on real problems | IoT hardware weeks, AI-assisted dev throughout | Solid |
+| Entrepreneurship/PMF | BMC (Wk4), idea evaluation, pitch weeks | Solid |
+| Connect to mentors *early* | — | **Missing** — Week 2/3 mentor-interview deliverable absent from V2 (see §7 item 2); only known mentor touchpoint is Career Day at the very end |
+| Outcome: "elevator pitch" named deliverable | — | Already-flagged gap (§5) — dropped from V2's pitch weeks despite being a stated outcome |
+| Outcome: financial model | BMC (partial) | No explicit financial-model deliverable — weakens the Virginia Credit Union financial-literacy pitch specifically |
+
+### Stakeholder reception, given what's actually in the schedule
+
+- **Claude Corps** — strongest alignment of any stakeholder pitch. The
+  4D framework isn't just mentioned, it's the course's literal
+  structural spine (§1) — this pitch is fully backed by the actual
+  curriculum, not just narrative.
+- **Digital-manufacturing cluster (Siemens/Jabil/Huntington Ingalls)** —
+  solid. Hardware weeks (5, 7, 8) genuinely deliver hands-on IoT
+  exposure, consistent with the "toe-dip, not engineering-depth"
+  framing already used in outreach.
+- **Apache Software Foundation** — solid. GitHub + open-source
+  governance is explicitly in Week 5.
+- **Open Trellis / Deloitte (business-education)** — solid. BMC and
+  pitch weeks directly support this pitch.
+- **Southern Company (AI-agriculture)** — the sense-and-actuate
+  encouragement added to §1 helps, but it's a philosophy note, not yet
+  propagated into the actual Week 5/8/9 deliverable language — and it
+  still depends on a team choosing an ag-relevant use case, which
+  nothing currently steers toward (see §7 item 13).
+- **Cameron Foundation / VGR / Dominion (regional/utility)** — same
+  structural risk as Southern Company: the pitch promises regional
+  relevance the schedule doesn't currently guarantee.
+- **Virginia Credit Union (financial literacy)** — weakest-supported
+  pitch of the group; no named financial-model deliverable exists to
+  point to.
+
+**Bottom line:** one fix — restoring Week 2's regional/industry-focus
+requirement (§7 item 13) — de-risks the largest number of stakeholder
+pitches at once (Cameron, VGR, Southern Company, Dominion all depend on
+it). Everything else here is stakeholder-specific and smaller in scope.
