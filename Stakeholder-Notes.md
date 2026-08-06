@@ -224,7 +224,7 @@ worth checking" below, which this generalizes.
 
 ## Huntington Ingalls
 
-- **Owner:** unassigned — not yet one of the nine funded-research threads; added as a potential stakeholder (2026-08-02). **Status:** not yet contacted. **Grouped into the digital-manufacturing cluster with Siemens/Jabil (per VoltPop, 2026-08-02)** — resolving the earlier open question of distinct-lead-vs-fold-in: as the primary employer actually manufacturing large ships using Siemens' digital-shipyard (industrial IoT) tooling, the content fit is squarely in its bailiwick, same as Siemens and Jabil.
+- **Owner:** VoltPop (assigned 2026-08-05). **Status:** not yet contacted. **Grouped into the digital-manufacturing cluster with Siemens/Jabil (per VoltPop, 2026-08-02)** — resolving the earlier open question of distinct-lead-vs-fold-in: as the primary employer actually manufacturing large ships using Siemens' digital-shipyard (industrial IoT) tooling, the content fit is squarely in its bailiwick, same as Siemens and Jabil.
 - **How this surfaced:** Harry Johnson, Director of Customer Solution Engineering, sits on VSU's Dept. of Engineering Industry Advisory Council (vsu.edu/cet/departments/engineering/industry-advisory-council.php, confirmed 2026-08-02) — the same council Gail Norris (Siemens) sits on.
 - **What they might want / angle:** Huntington Ingalls operates Newport News Shipbuilding — the actual manufacturer using the "smart shipyard"/Teamcenter PLM/digital-twin work already used as the Siemens talking point (see Siemens profile above). As the operator (not just Siemens as the tooling vendor), Huntington Ingalls may have its own independent interest in this program's IoT/digital-manufacturing framing — unconfirmed, needs real research, but the content-fit logic is at least as strong as Siemens' own.
 - **Contact:** Harry Johnson, via VSU's Dept. of Engineering IAC (same warm-intro path as Gail Norris).
@@ -452,7 +452,7 @@ recite.
 
 ## Virginia Credit Union
 
-- **Owner:** *(unassigned)*. **Status:** not yet contacted.
+- **Owner:** Dr. Shawn M. Nicholson LLC (assigned 2026-08-05, per VoltPop). **Status:** not yet contacted.
 - **What they might want / angle:** Richmond-based; plausible community/CSR giving program — unconfirmed.
 - **Contact — named contact found (2026-08-02), graded against the lead-strength heuristic above:** Angela Roisten, VP, Virginia Credit Union, sits on VSU's Accounting & Finance Advisory Council. **Capability:** doubly present — both the council itself and Virginia Credit Union (her employer) are potentially capable funding bodies. **Desire:** unconfirmed on both sides — no known giving program or grant history for either the council or Virginia Credit Union specifically toward something like this. **Connection:** none known. Net: a real lead worth pursuing, but not yet a strong one — missing the confirmed-desire and connection legs that make Beazley the clear top example. Worth outreach, but don't oversell it internally as equivalent to Beazley/Norris until desire is confirmed.
 
