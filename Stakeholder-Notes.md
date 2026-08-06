@@ -184,6 +184,17 @@ owners' stakeholders.
   Claude for Education/Claude Corps. Both are literally "we're built on
   your tooling" — the same dependency narrative, aimed at two different
   organizations.
+- **Institutional buy-in (VSU's own colleges)** — College of Engineering
+  and Technology, Reginald F. Lewis College of Business. **Not a funder
+  cluster at all (flagged 2026-08-06, per VoltPop)** — the two colleges
+  aren't being asked to fund or resource anything, they're being sold on
+  *hosting* the program: lab/classroom disruption, faculty and dean
+  time, FERPA/liability exposure. Content should center student
+  outcomes, employer-pipeline value, and program prestige for the
+  college, plus activating the existing Engineering/Business MoU — not
+  the CSR/mission-fit framing every funder-facing deck above uses. No
+  deck built yet; see the dedicated note under "VSU's own colleges"
+  below.
 
 **Biggest lever isn't content clustering, it's the delivery channel:**
 multiple stakeholders route through the same two VSU bodies — the
@@ -500,9 +511,18 @@ recite.
 - **Next step (per Javon, 2026-08-04):** contact former colleagues in Deloitte's Virginia offices, plus reach out to the StepUp pro bono team.
 - **Contact:** *(not yet sourced)*
 
-## VSU's own colleges (institutional coordination, not a funding ask)
+## VSU's own colleges (institutional coordination — but still needs its own sales materials)
 
 - **College of Engineering and Technology** and **Reginald F. Lewis College of Business** — official names, corrected here 2026-08-05 via Javon's Stakeholder Tracker (previously referred to generically as "College of Engineering" and "College of Business"/"Business School" — see `Admin-Business-Legal.md` §4, now updated to match). **Owner:** Dr. Shawn M. Nicholson LLC, per the tracker. Both tracked as coordination targets (POC/role TBA, not a cash ask) rather than funding stakeholders — consistent with §4's existing Dean Haley / incoming Business dean coordination items.
+- **What's actually being asked here is categorically different from every funding stakeholder above (per VoltPop, 2026-08-06)** — not "why should you fund/resource this" but "let us actually run this inside your institution." Don't draft a funding-style pitch for either college; the real ask is buy-in and mechanics:
+  - **Institutional legitimacy/endorsement** — official host-college backing, not just VSU-in-the-abstract.
+  - **Curriculum integration** — credit-bearing status, class time, how this fits their existing degree structure.
+  - **Physical/logistical access** — labs suited to the hardware weeks, network access, classroom space (ties to `Admin-Business-Legal.md` §7's classroom/lab-space item).
+  - **Faculty/dean bandwidth** — Dean Haley's and the incoming Lewis dean's own coordination time, not a check.
+  - **Administrative unblocks only they can grant** — FERPA "school official" designations, background-check sign-off, indemnification/liability language moving through VSU counsel (`Admin-Business-Legal.md` §7, §3).
+  - **The existing MoU as leverage, not a cold ask** — it already mandates CoET/Business collaboration, so this is closer to activating a standing agreement than starting one from scratch.
+- **Still requires its own sales materials (per VoltPop, 2026-08-06)** — "coordination target, not a funding ask" doesn't mean no pitch is needed, it means a *different* pitch is needed. Dean Haley and the incoming Lewis dean both still need to be sold on hosting this specifically — lab/classroom disruption, faculty time, and FERPA/liability exposure are a real ask of them even with no money changing hands. This is its own deck-reuse cluster (see above), distinct from every funder-facing deck — not yet built, no owner assigned beyond Dr. Nicholson himself (content likely also needs VoltPop/Explay/Builder Tech input on student-outcomes framing; flagged as a gap in `TODOs-by-Owner.md`).
+- **Timing differs sharply between the two:** College of Engineering and Technology can move now — Dean Haley is a known, already-coordinating contact (`TODOs-by-Owner.md`, Dr. Shawn M. Nicholson LLC item #18). Reginald F. Lewis College of Business is genuinely blocked until its incoming dean starts (mid-August) — there's no one to confirm anything with, let alone pitch, yet.
 
 ## Other angles worth checking
 
