@@ -170,16 +170,43 @@ owners' stakeholders.
   ask. Zero deck-production effort belongs here; the deliverable is a
   written application.
 - **Regional community/economic-development foundations** — Cameron
-  Foundation, Virginia Credit Union, and Virginia Gateway Region (in
-  its facilitator framing, not as a direct funder). None have an
-  IoT-specific angle; all respond to the same "regional workforce
-  pipeline + student exposure to local employers" mission-fit framing
-  already built for VGR. One deck, swap the logo/name.
+  Foundation and Virginia Gateway Region (in its facilitator framing,
+  not as a direct funder). **Narrowed to these two (2026-08-06, per
+  VoltPop) — Virginia Credit Union pulled out, see its own entry
+  below.** What actually ties these two together isn't just the
+  "economic development" label, it's the specific shape of it: both
+  connect students to the region's *existing large employer base*
+  (manufacturing, logistics, utilities), and both are geographically
+  anchored to the Tri-Cities/Petersburg footprint specifically (Cameron
+  explicitly; VGR's entire mandate). One deck, swap the logo/name —
+  "regional workforce pipeline + student exposure to local employers."
 - **Business/entrepreneurship-education fit** — Open Trellis, Deloitte.
-  Neither maps to the IoT/hardware side of the course — both map to
-  the *business* side (entrepreneurship, casework, pitch skills).
-  Pitch off the Business Model Canvas / pitch-deck deliverables
-  (Explay's/Builder Tech's material), not the sensor/hardware ones.
+  **Confirmed, not reclustered (2026-08-06, per VoltPop)** — Open
+  Trellis's own self-description includes "economic development," which
+  made it look like a fit for the cluster above on a first pass, but two
+  things keep it here instead: (1) geography — it serves "the broader
+  Richmond/Dinwiddie County region... near, but not directly in,
+  Petersburg," meaningfully weaker than Cameron/VGR's Tri-Cities anchor;
+  (2) it supports *founders* (startup finance, entrepreneurship
+  consulting), not a pipeline into existing large regional employers —
+  a genuinely different flavor of "economic development" than Cameron/
+  VGR's. Neither Open Trellis nor Deloitte maps to the IoT/hardware side
+  of the course — both map to the *business* side (entrepreneurship,
+  casework, pitch skills). Pitch off the Business Model Canvas /
+  pitch-deck deliverables (Explay's/Builder Tech's material), not the
+  sensor/hardware ones.
+- **Virginia Credit Union — its own thing, no shared cluster
+  (2026-08-06, per VoltPop).** Pulled out of the regional-development
+  cluster above: no strong Tri-Cities-specific geographic identity
+  (Richmond-based), and its likely CSR shape (financial literacy,
+  community reinvestment — typical for credit unions) doesn't cleanly
+  match either the employer-pipeline story (Cameron/VGR) or the
+  business-education story (Open Trellis/Deloitte). Needs its own
+  distinct pitch built around financial literacy/community-reinvestment
+  framing — this program's business-model/pitch/financial-model content
+  has a direct throughline to financial literacy that hasn't been used
+  anywhere else. Not yet built into a deck; see Virginia Credit Union's
+  own profile below.
 - **Anthropic/open-source ecosystem** — Apache Software Foundation,
   Claude for Education/Claude Corps. Both are literally "we're built on
   your tooling" — the same dependency narrative, aimed at two different
@@ -478,7 +505,8 @@ recite.
 
 - **Owner:** Dr. Shawn M. Nicholson LLC (assigned 2026-08-05, per VoltPop). **Status:** not yet contacted.
 - **What they might want / angle:** Richmond-based; plausible community/CSR giving program — unconfirmed.
-- **Contact — named contact found (2026-08-02), graded against the lead-strength heuristic above:** Angela Roisten, VP, Virginia Credit Union, sits on VSU's Accounting & Finance Advisory Council. **Capability:** doubly present — both the council itself and Virginia Credit Union (her employer) are potentially capable funding bodies. **Desire:** unconfirmed on both sides — no known giving program or grant history for either the council or Virginia Credit Union specifically toward something like this. **Connection:** none known. Net: a real lead worth pursuing, but not yet a strong one — missing the confirmed-desire and connection legs that make Beazley the clear top example. Worth outreach, but don't oversell it internally as equivalent to Beazley/Norris until desire is confirmed.
+- **Pitch angle — decided (per VoltPop, 2026-08-06):** doesn't share a deck with any other stakeholder (see the deck-reuse-clusters note above) — lead with **financial literacy / community reinvestment**, the CSR shape credit unions typically fund, rather than the regional-employer-pipeline framing used for Cameron/VGR or the entrepreneurship-education framing used for Open Trellis/Deloitte. This program's business-model/pitch/financial-model content (part of every student's deliverable) has a direct, unused throughline to financial literacy — lead with that specifically, not a generic "support regional students" ask.
+- **Contact — named contact found (2026-08-02), graded against the lead-strength heuristic above:** Angela Roisten, VP, Virginia Credit Union, sits on VSU's Accounting & Finance Advisory Council. **Capability:** doubly present — both the council itself and Virginia Credit Union (her employer) are potentially capable funding bodies. **Desire:** unconfirmed on both sides — no known giving program or grant history for either the council or Virginia Credit Union specifically toward something like this. **Connection:** none known. Net: a real lead worth pursuing, but not yet a strong one — missing the confirmed-desire and connection legs that make Beazley the clear top example. Worth outreach, but don't oversell it internally as equivalent to Beazley/Norris until desire is confirmed. **Fastest path to resolving the open desire question:** skip further research and go straight to a short outreach — "you already sit on our council, would love 15 minutes" — since capability and connection are already established and desire is the only unknown left.
 
 ## American Electric Power Foundation / Dudley T. Dougherty Foundation
 
