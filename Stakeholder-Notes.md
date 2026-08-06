@@ -247,6 +247,31 @@ Woomer sit on different councils. See the "Use VSU's own advisory
 councils as a channel" note under "Other angles worth checking" below,
 which this generalizes.
 
+### Pitch-direction / owner summary table (2026-08-06, per VoltPop — for the Aug 7 meeting)
+
+Quick-reference rollup of the clusters above, with ownership added so
+it's usable at a glance in the meeting. Not new research — a summary
+view of what's already detailed in each cluster/profile below.
+
+| Cluster | Members | Direction | Owner(s) |
+|---|---|---|---|
+| Digital-manufacturing/IoT | Siemens, Jabil, Huntington Ingalls | Foundation-layer for a bigger IoT effort already underway | VoltPop (all three) |
+| Energy/smart-grid | Dominion, (maybe AEP later) | Same foundation-layer logic, smart-grid IoT | Dr. Nicholson (lead) + VoltPop (support) — Dominion; unassigned — AEP |
+| AI-agriculture | Southern Company | Foundation-layer for the HBCU SCI-funded ag research | Dr. Nicholson / VSU |
+| AI-direction | Claude for Education/Claude Corps | Foundation-layer for Anthropic's own mission | Dr. Nicholson / VSU (institutional applicant required) |
+| GenAI talent pipeline | Deloitte | Foundation-layer for their GenAI growth area | Javon / Builder Tech |
+| Regional employer pipeline | Cameron Foundation, VGR | Geographic + existing-employer framing | Dr. Nicholson (lead) + VoltPop (support), both |
+| Business-education | Open Trellis, Deloitte (shared) | BMC/pitch-skills content | Dr. Nicholson — Open Trellis; Javon — Deloitte |
+| Financial literacy | Virginia Credit Union | Standalone | Dr. Nicholson |
+| Institutional buy-in | CoET, Lewis College | Hosting logistics + possible cost-split | Dr. Nicholson |
+| Formal application | NSF HBCU-UP, Claude Corps | Written application, not a pitch | Dr. Nicholson / VSU, both |
+| Anthropic/OSS ecosystem | ASF, Claude Corps | "Built on your tooling" | VoltPop — ASF; Dr. Nicholson / VSU — Claude Corps |
+
+**Worth raising at the meeting:** Dr. Nicholson owns or co-owns 9 of
+these 11 rows — the same ownership-concentration bottleneck flagged
+elsewhere in this KB (see `TODOs-by-Owner.md`), visible again here from
+the pitch-direction angle, not just the outreach-research angle.
+
 ## Siemens
 
 - **Owner:** VoltPop. **Status (updated 2026-08-04, per VoltPop):** the warm path — requesting Dr. Nicholson introduce Gail Norris — is **blocked** until the Aug 7 cross-party meeting confirms it as the group's preferred approach. The direct cold-call fallback (Newport News office, ask for the Academic Programs Coordinator) is unblocked and open to VoltPop anytime — see the call notes below.
