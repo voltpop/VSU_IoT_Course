@@ -244,3 +244,54 @@ working files):
     between V1 and V2; several stakeholder pitches depend on students
     actually landing on regionally-relevant projects, which the current
     Week 2 language no longer requires.
+
+## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
+
+Reference check requested by VoltPop — how V2's actual schedule holds
+up against the program's own stated goals/outcomes (`Admin-Business-
+Legal.md` §4), and how it would land with the stakeholders profiled in
+`Stakeholder-Notes.md`. Kept here (not just in conversation) since both
+are likely to come up again, including at the Aug 7 meeting.
+
+### Goals/outcomes scorecard
+
+| Goal/outcome | Curriculum support | Gap |
+|---|---|---|
+| Competitive job candidates | Portfolio (Wk1, Wk14), resume, Career Day | Solid |
+| Regional economic reinvestment | Week 2 use-case selection | **Weakened** — Tri-Cities framing dropped V1→V2 (see §7 item 13) |
+| Explore emerging tech on real problems | IoT hardware weeks, AI-assisted dev throughout | Solid |
+| Entrepreneurship/PMF | BMC (Wk4), idea evaluation, pitch weeks | Solid |
+| Connect to mentors *early* | — | **Missing** — Week 2/3 mentor-interview deliverable absent from V2 (see §7 item 2); only known mentor touchpoint is Career Day at the very end |
+| Outcome: "elevator pitch" named deliverable | — | Already-flagged gap (§5) — dropped from V2's pitch weeks despite being a stated outcome |
+| Outcome: financial model | BMC (partial) | No explicit financial-model deliverable — weakens the Virginia Credit Union financial-literacy pitch specifically |
+
+### Stakeholder reception, given what's actually in the schedule
+
+- **Claude Corps** — strongest alignment of any stakeholder pitch. The
+  4D framework isn't just mentioned, it's the course's literal
+  structural spine (§1) — this pitch is fully backed by the actual
+  curriculum, not just narrative.
+- **Digital-manufacturing cluster (Siemens/Jabil/Huntington Ingalls)** —
+  solid. Hardware weeks (5, 7, 8) genuinely deliver hands-on IoT
+  exposure, consistent with the "toe-dip, not engineering-depth"
+  framing already used in outreach.
+- **Apache Software Foundation** — solid. GitHub + open-source
+  governance is explicitly in Week 5.
+- **Open Trellis / Deloitte (business-education)** — solid. BMC and
+  pitch weeks directly support this pitch.
+- **Southern Company (AI-agriculture)** — the sense-and-actuate
+  encouragement added to §1 helps, but it's a philosophy note, not yet
+  propagated into the actual Week 5/8/9 deliverable language — and it
+  still depends on a team choosing an ag-relevant use case, which
+  nothing currently steers toward (see §7 item 13).
+- **Cameron Foundation / VGR / Dominion (regional/utility)** — same
+  structural risk as Southern Company: the pitch promises regional
+  relevance the schedule doesn't currently guarantee.
+- **Virginia Credit Union (financial literacy)** — weakest-supported
+  pitch of the group; no named financial-model deliverable exists to
+  point to.
+
+**Bottom line:** one fix — restoring Week 2's regional/industry-focus
+requirement (§7 item 13) — de-risks the largest number of stakeholder
+pitches at once (Cameron, VGR, Southern Company, Dominion all depend on
+it). Everything else here is stakeholder-specific and smaller in scope.
