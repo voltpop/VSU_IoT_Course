@@ -403,8 +403,13 @@ assumption above treats external funding as needing to close the entire
 two colleges (College of Engineering and Technology, Reginald F. Lewis
 College of Business, see §4) **splitting the program's core cost
 between them**, with every external donation/grant reducing that split
-further rather than being the sole funding source. If true, this changes
-both the size of the external ask (smaller) and the pitch to the two
+further rather than being the sole funding source. **Real precedent
+found 2026-08-06:** VSU's existing Southern Company Foundation grant
+(§8 below; see `Stakeholder-Notes.md`) is itself a $500K *matching*
+grant — VSU already committed its own matching funds to secure it, so
+a college co-funding a portion of this program's cost isn't a novel
+ask, it's the same mechanism VSU has already used once. If true, this
+changes both the size of the external ask (smaller) and the pitch to the two
 colleges (partly a budget commitment, not just hosting logistics — see
 `Stakeholder-Notes.md`'s "VSU's own colleges" section). **Unconfirmed
 with Dr. Nicholson or VSU** — flagging now so the external-funding
