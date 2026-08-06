@@ -495,10 +495,10 @@ recite.
 
 ## Southern Company
 
-- **Owner:** Dr. Shawn M. Nicholson LLC / VSU. **Status:** warm lead — due mid-Aug 2026 (TODOs-by-Owner.md).
-- **What they want / angle:** already has an existing relationship with VSU (funded a $500,000 endowed professorship in sustainability) — check on that relationship as the entry point rather than a cold approach.
-- **Contact:** *(not yet sourced)*
-- **AI/IoT/FOSS grant-language check (2026-08-01):** couldn't find an official Southern Company Foundation page with specific grant priorities — inconclusive, needs a direct check rather than general search.
+- **Owner:** Dr. Shawn M. Nicholson LLC / VSU. **Status:** warm lead — due mid-Aug 2026 (TODOs-by-Owner.md). Significantly de-risked 2026-08-06 (see below) — no longer a cold "check on the relationship" task, now has a named foundation head and a real content hook.
+- **What they want / angle — resolved 2026-08-06 (web research):** the $500K endowed professorship isn't a standalone VSU-specific gift — it's VSU's grant under the **HBCU Sustainable Communities Initiative (HBCU SCI)**, a $10M+ Southern Company Foundation program run jointly with **INROADS, UNCF, and the Thurgood Marshall College Fund**, itself part of Southern Company's broader **$50M HBCU pledge**. Clark Atlanta University, Morehouse College, and Tennessee State University received parallel $500K grants from the same initiative — this is a structured multi-HBCU program, not a one-off VSU relationship. **VSU's specific grant funds AI-driven agricultural research and climate-smart solutions** — a real, direct AI content hook this program can use, superseding the 2026-08-01 grant-language check below (which found no AI/IoT mention — it was looking at Southern Company's general public page, not the HBCU SCI program specifically).
+- **Contact — found 2026-08-06:** **Myra C. Bierria**, Senior Vice President, Chief Administration Officer & **President, Southern Company Foundation** — the actual head of the foundation, not just a plausible name ([source](https://www.southerncompanygas.com/who-we-are/leadership/myra-bierria.html)). **Caveat:** since VSU's existing grant flows through HBCU SCI, the practical entry point may run through one of the three partner orgs (INROADS, UNCF, or TMCF — see hbcusci.org) or whoever at VSU already administers the existing grant (likely VSU's advancement/development office), rather than cold-approaching Bierria directly — worth checking that routing before reaching out.
+- **AI/IoT/FOSS grant-language check (2026-08-01) — superseded, see above:** couldn't find an official Southern Company Foundation page with specific grant priorities at the time; the actual answer was the HBCU SCI program (hbcusci.org), not the Foundation's general public materials.
 
 ## Anthropic's Claude for Education / Claude Corps
 

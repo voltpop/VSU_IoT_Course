@@ -451,8 +451,11 @@ full merged count (thirteen threads).
 - **NSF HBCU-UP** (federal) — funds STEM undergraduate education
   specifically at HBCUs, including "Targeted Infusion Projects" for
   short-term, well-defined goals.
-- **Southern Company** — already has a relationship with VSU (funded a
-  $500,000 endowed professorship in sustainability) — a warm lead.
+- **Southern Company** — VSU's existing $500K endowed sustainability
+  professorship is a grant under the Southern Company Foundation's HBCU
+  Sustainable Communities Initiative (funding AI-driven agricultural
+  research and climate-smart solutions at VSU specifically); Foundation
+  President Myra C. Bierria named 2026-08-06 — see `Stakeholder-Notes.md`.
 - **American Electric Power Foundation** and **Dudley T. Dougherty
   Foundation** — both fund STEM education but geographic fit
   (Tri-Cities/Petersburg specifically) isn't yet confirmed.
