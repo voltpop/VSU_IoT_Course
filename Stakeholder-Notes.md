@@ -196,16 +196,29 @@ owners' stakeholders.
   deck built yet; see the dedicated note under "VSU's own colleges"
   below.
 
-**Biggest lever isn't content clustering, it's the delivery channel:**
-multiple stakeholders route through the same two VSU bodies — the
-Engineering Industry Advisory Council (Gail Norris/Siemens, Harry
-Johnson/Huntington Ingalls, Daniel Holmes/Dominion) and the Business
-School's Management & Marketing + Accounting & Finance advisory
-councils (Joe Woomer/Dominion, Angela Roisten/Virginia Credit Union).
-Getting on **two council agendas** could reach five stakeholders in two
-presentations instead of five separate one-on-one pitches — see the
-"Use VSU's own advisory councils as a channel" note under "Other angles
-worth checking" below, which this generalizes.
+**Biggest lever isn't content clustering, it's the delivery channel —
+worth an explicit count (per VoltPop, 2026-08-06):** 4 of the 14
+tracked stakeholders have a named representative sitting on one of
+VSU's own Industry Advisory Councils, via 5 named individuals across
+3 councils: **Siemens** (Gail Norris) and **Huntington Ingalls** (Harry
+Johnson) on the Engineering IAC; **Dominion Energy** via *two separate
+seats* (Daniel Holmes, Engineering IAC; Joe Woomer, the Business
+School's Management & Marketing Advisory Council); and **Virginia
+Credit Union** (Angela Roisten) on the Business School's Accounting &
+Finance Advisory Council. The IT Advisory Council returned zero
+matches, and no other tracked stakeholder (Cameron Foundation, VGR
+itself, AEP/Dudley Dougherty, Jabil, Deloitte, ASF) has turned up on
+any of the four rosters checked so far. **Correction (2026-08-06):**
+this was previously (mis)characterized below as "five stakeholders in
+two presentations" — Dominion Energy was double-counted (one
+stakeholder, two council seats), so the accurate framing is **4
+stakeholders, reachable via 3 council presentations** (Engineering;
+Business's Management & Marketing; Business's Accounting & Finance) —
+cheaper than 4 separate one-on-one pitches, though Dominion still needs
+its own separate appearance at two of the three since Holmes and
+Woomer sit on different councils. See the "Use VSU's own advisory
+councils as a channel" note under "Other angles worth checking" below,
+which this generalizes.
 
 ## Siemens
 
