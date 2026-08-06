@@ -157,6 +157,20 @@ dropped from V2 entirely — likely fine since it was optional, but worth
 noting it as a dropped option rather than assuming it was never
 considered.
 
+4. **Regional/Tri-Cities industry focus dropped from Week 2 (flagged
+   2026-08-06, per VoltPop).** V1's Week 2 explicitly said "choose a
+   Tri-Cities industry/problem focus." V2's equivalent week (Week 2:
+   Understanding Systems & IoT) just says "students pick their own use
+   case" — the explicit regional-industry steering is gone, not
+   carried forward. This matters beyond internal consistency: several
+   stakeholder pitches in `Stakeholder-Notes.md` (Cameron Foundation,
+   Virginia Gateway Region, Southern Company's AI-agriculture angle,
+   Dominion's smart-grid angle) all assume students land on regionally-
+   and industrially-relevant projects — nothing in the current schedule
+   actually guarantees that. **Needs re-introducing**, ideally back into
+   Week 2's use-case-selection language rather than left as an
+   unenforced assumption.
+
 ## 6. Lesson-plan status
 
 Built lesson plans live in `~/Documents/VoltPop/IoT_Course/` (VoltPop's
@@ -195,7 +209,15 @@ working files):
 1. Decide how (or whether) to restore a dedicated Security
    Considerations deliverable given the demotion in V2 Week 9.
 2. Confirm/add a mentor-interview deliverable to Week 3 if that
-   requirement still stands.
+   requirement still stands. **Higher stakes than a Scope-Doc technicality
+   (flagged 2026-08-06, per VoltPop):** mentors/guest speakers are one of
+   the in-kind asks actively being made of donors (Siemens/Jabil/
+   Huntington Ingalls cluster, ASF, Deloitte all carry a mentor or
+   guest-speaker ask in `Stakeholder-Notes.md`) — if the curriculum has
+   no early, structured mentor touchpoint, there's a real mismatch
+   between what's being solicited from stakeholders and what the course
+   actually does with it. Resolve this alongside the donor-mentor asks,
+   not as a separate curriculum-only question.
 3. Build a lesson plan for Week 2.
 4. Rewrite Week 7's lesson plan around Data Flow & Systems Architecture.
 5. Adapt the MCP-server lesson into Week 8.
@@ -217,3 +239,8 @@ working files):
 12. Decide whether to reintroduce a named "elevator pitch" deliverable
     in Weeks 11–12 (Explay-led), present in V1's schedule but dropped
     from V2's pitch weeks (see §5).
+13. **Re-introduce the Tri-Cities/regional-industry focus into Week 2**
+    (flagged 2026-08-06, per VoltPop, see §5 finding #4) — dropped
+    between V1 and V2; several stakeholder pitches depend on students
+    actually landing on regionally-relevant projects, which the current
+    Week 2 language no longer requires.
