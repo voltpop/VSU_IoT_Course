@@ -37,6 +37,21 @@ Concrete implications:
 - **Heavy AI scaffolding, not open-ended prompting**: firmware-by-
   prompting needs a template/starter structure students fill in, not
   free generation from scratch.
+- **Strive for sense-*and*-actuate projects, not just passive
+  monitoring — but don't mandate it (per VoltPop, 2026-08-06):** given
+  the AI-agriculture positioning developed for the Southern Company
+  pitch (`Stakeholder-Notes.md`) and the expectation that a real share
+  of student projects will land on some kind of sensor relevant to
+  agri-tech, projects should be encouraged to not just monitor an
+  environment but meaningfully modify it (e.g., a moisture sensor
+  driving an irrigation actuator, not just a moisture readout) — closer
+  to what an actual "AI-powered farm" needs, and a stronger portfolio
+  outcome than a read-only dashboard. **Not a hard requirement**: not
+  every real regional problem a team picks will have a natural fit for
+  actuation, and forcing it onto a mismatched problem would undercut
+  the "specific sensor/component is irrelevant" philosophy above —
+  strive for it where the problem allows, don't force it where it
+  doesn't.
 
 ### The reusable pattern: judgment-step / mechanical-step split
 
