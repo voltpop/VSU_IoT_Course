@@ -397,6 +397,20 @@ contributions rather than cash.
 down further — the path is external funding and in-kind contributions,
 not cost-cutting.
 
+**Open idea, not yet confirmed (per VoltPop, 2026-08-06):** the working
+assumption above treats external funding as needing to close the entire
+~$295K–$311K gap. A different model may be in play instead — VSU's own
+two colleges (College of Engineering and Technology, Reginald F. Lewis
+College of Business, see §4) **splitting the program's core cost
+between them**, with every external donation/grant reducing that split
+further rather than being the sole funding source. If true, this changes
+both the size of the external ask (smaller) and the pitch to the two
+colleges (partly a budget commitment, not just hosting logistics — see
+`Stakeholder-Notes.md`'s "VSU's own colleges" section). **Unconfirmed
+with Dr. Nicholson or VSU** — flagging now so the external-funding
+targets below aren't sized against the wrong total before this gets
+resolved.
+
 **Note on source merge (2026-08-05):** this KB's own tracked threads
 (from Javon's 2026-07-31 recap) originally only partly matched Javon's
 separate Stakeholder Tracker spreadsheet — per VoltPop, the two were
