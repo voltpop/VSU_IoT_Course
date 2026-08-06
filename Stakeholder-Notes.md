@@ -541,10 +541,10 @@ recite.
 
 ## NSF HBCU-UP
 
-- **Owner:** Dr. Shawn M. Nicholson LLC / VSU (institutional applicant required). **Status:** due mid-Aug 2026 (TODOs-by-Owner.md).
-- **What they want:** federal funding for STEM undergraduate education specifically at HBCUs, including "Targeted Infusion Projects" for short-term, well-defined goals.
+- **Owner:** Dr. Shawn M. Nicholson LLC / VSU (institutional applicant required). **Status — materially changed 2026-08-06:** the "due mid-Aug 2026" framing in `TODOs-by-Owner.md` is our own internal target, not NSF's — **the actual solicitation (NSF 23-563) is no longer active.** NSF's own program page states: "Not currently accepting proposals — this program is awaiting a new solicitation." There is currently nothing open to submit to, at any date. The task isn't "write the application by mid-August," it's "monitor for the next solicitation to be published" — worth raising at the Aug 7 meeting so nobody preps a submission against a closed window.
+- **What they want:** federal funding for STEM undergraduate education specifically at HBCUs, including "Targeted Infusion Projects" for short-term, well-defined goals — under the now-superseded solicitation, Targeted Infusion Projects ran on a fixed annual cycle (LOI: second Tuesday in September; full proposal: second Thursday in November) — useful as a template for what the *next* solicitation's cycle will likely look like, once published.
 - **Contact:** *(NSF program officer / HBCU-UP program page — not yet sourced)*
-- **AI/IoT/FOSS grant-language check (2026-08-01):** the current solicitation (NSF 23-563) doesn't name AI, IoT, or open-source as explicit HBCU-UP priorities, but does encourage proposals aligned with NSF's Technology, Innovation and Partnerships (TIP) directorate — a general tech-strategy hook worth using in the application rather than a named category.
+- **AI/IoT/FOSS grant-language check (2026-08-01):** the (now-superseded) NSF 23-563 solicitation didn't name AI, IoT, or open-source as explicit HBCU-UP priorities, but did encourage proposals aligned with NSF's Technology, Innovation and Partnerships (TIP) directorate — a general tech-strategy hook worth reusing whenever the next solicitation is published, rather than a named category to check against right now.
 
 ## Southern Company
 
