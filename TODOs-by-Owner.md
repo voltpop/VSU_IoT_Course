@@ -168,6 +168,7 @@ by name until then. In chronological priority order:
 7. *(per VoltPop, likely deferred until after stakeholder conversations bring in upfront funding — not urgent despite the "before Week 1" framing; same requirement as Explay's and Builder Tech's own items, done individually)* Confirm own background-check (Checkr) timeline before Week 1 (Admin-Business-Legal.md §6/§7).
 8. *(flagged by VoltPop, 2026-08-05 — same requirement as Builder Tech's, Explay's, and Dr. Shawn M. Nicholson LLC's own items, done individually)* Register with eVA if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
 9. *(new, 2026-08-05, per VoltPop)* Now that VoltPop is a confirmed Anthropic Brand Ambassador himself, check whether the Ambassador program offers any real path (visibility, contact, referral) into the Claude for Education/Claude Corps application — don't assume it helps without checking *(shared: Dr. Shawn M. Nicholson LLC, who owns that thread)* (Stakeholder-Notes.md).
+10. *(new owner assignment, 2026-08-05)* Research/pursue Huntington Ingalls outreach — no due date set yet; contact is Harry Johnson via VSU's Dept. of Engineering IAC (Stakeholder-Notes.md).
 
 ## Explay
 
@@ -209,3 +210,4 @@ by name until then. In chronological priority order:
 17. Loop in VSU's own advancement/development office for external fundraising coordination — not urgent given stakeholder outreach is proceeding first, but still needed before things go further (Admin-Business-Legal.md §8).
 18. Coordinate with Dean Haley (College of Engineering and Technology) and the Reginald F. Lewis College of Business's interim/incoming dean, leveraging the existing MoU that already directs the two colleges to collaborate (Admin-Business-Legal.md §4).
 19. *(flagged by VoltPop, 2026-08-05 — same requirement as Builder Tech's, VoltPop's, and Explay's own items, done individually)* Register with eVA if not already registered, and check DSBSD SWaM-certification eligibility (Admin-Business-Legal.md §3).
+20. **[Due mid-Aug 2026]** *(new owner assignment, 2026-08-05, per VoltPop)* Lead Virginia Credit Union outreach — contact is Angela Roisten, VP, via VSU's Accounting & Finance Advisory Council; desire unconfirmed on either side so far (Stakeholder-Notes.md).
