@@ -596,6 +596,18 @@ recite.
 - **Possible connection (flagged 2026-08-05, per VoltPop, not yet confirmed):** Explay (Emanuel Perez) also reportedly has a personal contact who is an Anthropic Brand Ambassador. Not yet verified directly with Emanuel.
 - **Contact:** *(not yet sourced beyond the above)*
 
+## Amazon (AWS/Kiro) — new, flagged 2026-08-08
+
+- **Owner:** *(unassigned)*. **Status:** new idea, not yet researched or contacted — no named POC.
+- **The idea, per VoltPop, 2026-08-08:** Kiro (Amazon's AI-powered IDE) may be the better AI coding tool for students in this program, ahead of ChatGPT Plus or Claude Code. If VoltPop's team adopts it, the natural follow-on ask is an **AI-tooling donation from Amazon** — same shape as the Claude for Education/Claude Corps in-kind play above (credits/licenses reducing the software-subscription budget gap directly), just a different vendor. Worth noting a `.kiro/` directory already exists locally in this repo, unconfirmed but suggesting the tool is already being evaluated hands-on rather than cold.
+- **Directly resolves an existing open budget question, not a new one:** `TODOs-by-Owner.md` and `Admin-Business-Legal.md` §6 already flag an unresolved **"AI-coding-tool funding gap"** — the curriculum names "Anthropic Claude Code or OpenAI Codex" as a weekly either/or choice, but the budget only funds ChatGPT Plus, with no Claude/Anthropic line at all. Kiro adds a third real candidate to that same decision, and an Amazon donation could close the gap outright rather than requiring a new budget line — this should be resolved as one decision (which tool(s) the curriculum actually uses), not researched as a separate thread from the existing funding-gap question.
+- **Amazon is already a known regional entity here, not a cold name:** already listed in `Admin-Business-Legal.md` §4 as a Tri-Cities-area employer (Logistics & Distribution cluster) and flagged in `Stakeholder-Notes.md`'s "Other angles worth checking" section as a plausible CSR/education-funding target once VSU's advancement office is looped in — this is that lead, now with a concrete, specific ask (AI tooling credits) instead of a generic "worth checking" note.
+- **Open questions:**
+  - Has Kiro actually been evaluated against ChatGPT Plus/Claude Code for this program's curriculum specifically, or is this a preference call still needing a real comparison (cost, capability, classroom fit)?
+  - Does Amazon/AWS have an education-donation program analogous to Claude for Education/Claude Corps, with defined terms (credits, cohort alignment, institutional-applicant requirements)? Not yet researched.
+  - Named contact — none sourced yet; likely AWS Educate or an AWS regional/public-sector team, unconfirmed.
+- **Next step:** decide the AI-tool question as a single cross-tool comparison (ChatGPT Plus vs. Claude Code vs. Kiro) rather than in isolation, then research Amazon's actual education-giving structure before treating a donation as a real plan.
+
 ## Apache Software Foundation (ASF)
 
 - **Owner:** VoltPop — confirmed via Javon's Stakeholder Tracker (2026-08-05); previously just an informal personal-contacts check, now a formally tracked stakeholder. **Status:** not yet contacted; POC and role still TBA in the tracker.

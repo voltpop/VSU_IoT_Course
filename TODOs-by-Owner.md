@@ -173,6 +173,7 @@ by name until then. In chronological priority order:
 9. *(new, 2026-08-05, per VoltPop)* Now that VoltPop is a confirmed Anthropic Brand Ambassador himself, check whether the Ambassador program offers any real path (visibility, contact, referral) into the Claude for Education/Claude Corps application — don't assume it helps without checking *(shared: Dr. Shawn M. Nicholson LLC, who owns that thread)* (Stakeholder-Notes.md).
 10. *(new owner assignment, 2026-08-05)* Research/pursue Huntington Ingalls outreach — no due date set yet; contact is Harry Johnson via VSU's Dept. of Engineering IAC (Stakeholder-Notes.md).
 11. *(new, flagged 2026-08-07, per Drew, during the Aug 7 meeting)* Add a "give me information about this program" setting/feature for web users — no further spec yet (what surface/site this lives on, what info it surfaces, self-serve vs. contact-request) — needs scoping before building.
+12. *(new, flagged 2026-08-08, per VoltPop)* Evaluate **Kiro** (Amazon's AI IDE) against ChatGPT Plus/Claude Code as the program's actual AI coding tool — resolve as one decision alongside the existing AI-coding-tool funding gap (Admin-Business-Legal.md §6/§9), not separately. If Kiro is adopted, pursue an **Amazon AI-tooling donation** (credits/licenses) as the funding angle, same shape as the Claude for Education/Claude Corps ask — see the new Amazon/Kiro profile in `Stakeholder-Notes.md`. No named Amazon contact yet.
 
 ## Explay
 

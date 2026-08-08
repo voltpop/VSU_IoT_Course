@@ -493,7 +493,7 @@ looped in.
 
 1. Update the Grand Total for the 7-month software-duration basis (§2/§6).
 2. Confirm whether cohort size has actually grown given hardware quantities (§6).
-3. Finalize the AI-coding-tool funding gap — Claude vs. ChatGPT Plus (§6).
+3. Finalize the AI-coding-tool funding gap — Claude vs. ChatGPT Plus vs. **Kiro (Amazon), added 2026-08-08** — a single cross-tool decision, not three separate threads (§6; `Stakeholder-Notes.md`'s new Amazon/Kiro profile).
 4. Finalize the mentorship model, and whether a mentor/guest-speaker budget line is needed.
 5. Confirm/add a mentor-interview requirement to Week 3 if the Scope Doc deliverable still stands.
 6. Resolve the Finance role's status and set a real Marketing budget line (§2).
