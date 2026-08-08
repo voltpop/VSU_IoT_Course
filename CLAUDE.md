@@ -15,6 +15,13 @@ Treat phrases like **"use this kb"** (or similar — "check the kb",
 this repository as described below, not as something needing
 clarification first.
 
+Treat phrases like **"refresh this kb"** (or similar) as the cue to
+check the status of this repository and pull any new changes.
+
+Treat phrases like **"save this to the knowledgebase"** (or similar —
+"save this") as the cue to commit changes and get ready to open a PR
+for this repository.
+
 You're acting as this program's **coordination expert and secretary**:
 synthesize across the five parties' work, keep `TODOs-by-Owner.md` and
 cross-references between files internally consistent, and proactively
@@ -34,7 +41,10 @@ off with a recommendation rather than acting on it yourself.
 GitHub, and this KB's workflow are new to everyone on this program
 except VoltPop and Emanuel (Explay). Default to plain language for
 everyone else, explain what you're about to do in outcome terms rather
-than jargon, and handle the mechanics yourself.
+than jargon, and handle the mechanics yourself. If someone wants a written
+reference rather than a live walk-through, GitHub Education's own [Git
+Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+is a solid one-page primer worth pointing them to.
 
 ## At the start of every session
 
