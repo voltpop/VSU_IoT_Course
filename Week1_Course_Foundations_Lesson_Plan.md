@@ -23,6 +23,16 @@ items 1–5 below in checklist/walk-through mode (get everyone
 functional, don't over-explain), then shift register for item 6 into
 actual teaching mode.
 
+**Not academic content doesn't mean low priority — per VoltPop,
+2026-08-08: "it's vitally important that we get Git and Kiro set up and
+configured, as those two tools will be driving 90% of this project."**
+Items 2–4 (account creation, git basics, notes-KB setup) are the
+highest-stakes part of Day 1 precisely *because* they're setup, not
+despite it — every subsequent week depends on students actually having
+working git + Kiro access. Getting this right matters more than moving
+quickly through it; don't let "checklist mode" above be read as "low
+effort."
+
 ## Learning objectives
 
 By the end of Week 1, students can:
@@ -53,8 +63,27 @@ that this is exposure to a way of working, not a certification.
 **2. Account creation — GitHub and Kiro** *(setup)* (~40 min)
 - GitHub: create an account, verify email, join the class organization/
   repo (mechanics TBD — see Open Items below).
-- Kiro: create an account, confirm access, quick orientation to its
-  interface as "the tool you'll talk to all semester."
+- **Kiro authenticates via GitHub OAuth — confirmed supported
+  (kiro.dev/docs/getting-started/authentication, checked 2026-08-08):**
+  Kiro's own sign-in flow lets students "choose the provider [GitHub],
+  authenticate in your browser, and authorize the Kiro app" — so
+  students sign into Kiro with the *same* GitHub account, not a second
+  credential. This is a real, documented feature, not something this
+  program has to build itself.
+- **Install commands, confirmed from Kiro's own docs (2026-08-08):**
+  - Kiro CLI: `curl -fsSL https://cli.kiro.dev/install | bash` (macOS/
+    Linux) or `irm 'https://cli.kiro.dev/install.ps1' | iex` (Windows
+    PowerShell); verify with `kiro-cli doctor`, re-authenticate with
+    `kiro-cli login`.
+  - Kiro Crew: `kirocrew setup` (interactive wizard for data dir,
+    agent, credentials), `kirocrew doctor` (verify), `kirocrew gateway`
+    (starts the local server). **Caveat:** Crew's own docs describe
+    "device-code sign-in" during first launch, not explicitly GitHub
+    OAuth the way the base Kiro CLI is documented — worth confirming
+    hands-on whether Crew's credential step actually reuses the same
+    GitHub session, rather than assuming it does.
+- Kiro: confirm access, quick orientation to its interface as "the tool
+  you'll talk to all semester."
 - **Not created here, per the 2026-08-08 decision:** ChatGPT, Claude,
   Codex, or Gemini accounts — Kiro is the program's AI tool going
   forward (Course-Curriculum.md §7 item #15).
@@ -119,7 +148,8 @@ how comfortable each group is with the tools.
 
 - [GitHub Education Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - GitHub account + class org/repo access (mechanics TBD)
-- Kiro account + setup instructions (TBD — depends on Amazon donation status, `Stakeholder-Notes.md`'s Amazon/Kiro profile)
+- Kiro account + setup instructions (TBD — depends on Amazon donation status, `Stakeholder-Notes.md`'s Amazon/Kiro profile). Sources checked 2026-08-08: [Kiro CLI setup](https://kiro.dev/docs/cli/setup/), [Kiro Crew installation](https://kiro.dev/docs/crew/installation/), [Kiro authentication methods](https://kiro.dev/docs/getting-started/authentication/).
+- Setup/install automation is being built as a separate standalone repo (VoltPop's own account initially, to be transferred later) — see the new workspace-repo item in `TODOs-by-Owner.md`.
 
 ## Open items — resolve before this plan is considered final
 
