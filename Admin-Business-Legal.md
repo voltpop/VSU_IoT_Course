@@ -41,8 +41,8 @@ back to VoltPop/Builder Tech/Explay to showcase anonymized student work.
 | Andrew (VoltPop) — Engineering & Computer Science Instruction & Curriculum | $70,000 | Unchanged from Budget V1. |
 | Emanuel (Explay) — Entrepreneurship & Innovation Instruction & Curriculum | $87,500 | Unchanged. |
 | Dr. Shawn Nicholson (Dr. Shawn M. Nicholson LLC) — Operations Director & Institutional Liaison | TBD | Was $0 in Budget V1; now an open compensation question rather than an assumed volunteer role. Confirmed (see §1) this is paid through **Dr. Shawn M. Nicholson LLC**, not absorbed into an existing VSU salary — amount and contract terms still need setting. |
-| Finance role | $0 | Was ~$16,000–$28,000 in Budget V1. Status (cut / unpaid / absorbed elsewhere) needs confirming. |
-| Marketing role | $0 | Needs a real line item and amount — flagged as a gap, not a considered decision. |
+| Finance role | **Cut** | Was ~$16,000–$28,000 in Budget V1, $0/unresolved as of the 2026-07-31 revision. **Decided (per Javon, 2026-08-08): role cut entirely** — no longer an open budget question. |
+| Marketing role | **Cut** | Was flagged as a gap needing a real line item. **Decided (per Javon, 2026-08-08): role cut entirely**, same as Finance. Resolves the budget-line question, but the *general marketing work itself* (assets, campaign, online presence — flagged in `TODOs-by-Owner.md`'s program-name note) still has no owner if that work is still wanted. |
 
 **Contractual Services subtotal: $212,500.**
 
@@ -233,12 +233,13 @@ pitch, an idea with strong product-market fit.
 | Program Dates | Jan 19, 2027 | Apr 29, 2027 |
 | Outcomes Analysis & Assessment / Share with VSU | Apr 30, 2027 | May 13, 2027 |
 
-**Stakeholder/funding research deadline: mid-August 2026** — covers
-thirteen distinct threads as of the 2026-08-05 merge (see §8;
-`TODOs-by-Owner.md`). Genuinely tight given the volume — worth
+**Stakeholder/funding research deadline: mid-August 2026** — see §8 for
+the full current thread list (`Stakeholder-Notes.md`'s own headers are
+authoritative; don't restate a total count here, it goes stale as
+threads get added). Genuinely tight given the volume — worth
 prioritizing Cameron Foundation and Virginia Gateway Region (strongest
-regional fit) and Claude Corps (January 2027 cohort timing) if all
-thirteen can't get equal depth in time.
+regional fit) and Claude Corps (January 2027 cohort timing) if not all
+threads can get equal depth in time.
 
 ## 6. Current budget (2026-07-31 revision)
 
@@ -270,9 +271,11 @@ recap email, a "loaner laptop question" needs confirming by Aug 7,
 2026 — likely whether VSU will actually provide loaners for students
 without their own, which this assumption has never explicitly covered.
 
-Hardware quantities here (84 ESP32, 131 sensors) run above the earlier
-63/73 (baseline/buffer) cohort assumption — worth confirming whether
-cohort size grew, or these are just multi-unit-per-kit ratios.
+**Resolved (per Javon, 2026-08-08):** cohort size is **max 60 students,
+in teams of 3-4** — not growth from the earlier 63/73 baseline/buffer
+assumption. Hardware quantities here (84 ESP32, 131 sensors) run above
+60 because they include an **instructor/testing buffer** on top of the
+student count; device count may still increase further.
 
 **Software Licenses & Subscriptions:**
 
@@ -422,11 +425,9 @@ resolved.
 **Note on source merge (2026-08-05):** this KB's own tracked threads
 (from Javon's 2026-07-31 recap) originally only partly matched Javon's
 separate Stakeholder Tracker spreadsheet — per VoltPop, the two were
-merged rather than reconciled with Javon, so the list below now
-includes both sets' net-new names (Deloitte and Apache/ASF added below;
-VSU's own two colleges tracked separately in §4). See
-`Stakeholder-Notes.md`'s framing note and `TODOs-by-Owner.md` for the
-full merged count (thirteen threads).
+merged rather than reconciled with Javon. `Stakeholder-Notes.md`'s own
+`##` headers are the current, authoritative thread list (new ones get
+added as they come up — don't rely on a fixed count here).
 
 **Concrete leads:**
 - **Dominion Energy** — has expressed interest in helping fund a
@@ -492,17 +493,17 @@ looped in.
 ## 9. Open items summary
 
 1. Update the Grand Total for the 7-month software-duration basis (§2/§6).
-2. Confirm whether cohort size has actually grown given hardware quantities (§6).
-3. Finalize the AI-coding-tool funding gap — Claude vs. ChatGPT Plus (§6).
+2. ~~Confirm whether cohort size has actually grown given hardware quantities~~ — **resolved 2026-08-08: max 60 students, teams of 3-4; hardware quantities include an instructor/testing buffer** (§6).
+3. Finalize the AI-coding-tool funding gap — Claude vs. ChatGPT Plus vs. **Kiro (Amazon), added 2026-08-08** — a single cross-tool decision, not three separate threads (§6; `Stakeholder-Notes.md`'s new Amazon/Kiro profile).
 4. Finalize the mentorship model, and whether a mentor/guest-speaker budget line is needed.
 5. Confirm/add a mentor-interview requirement to Week 3 if the Scope Doc deliverable still stands.
-6. Resolve the Finance role's status and set a real Marketing budget line (§2).
+6. ~~Resolve the Finance role's status and set a real Marketing budget line~~ — **resolved 2026-08-08: both roles cut entirely** (§2). General marketing work itself may still need an owner if still wanted — see `TODOs-by-Owner.md`.
 7. Fill remaining Agreement brackets (dollar amounts, effective date, addresses, insurance limits, payment flow).
 8. Get VSU counsel/procurement review moving on indemnification, liability, governing law.
 9. Reflect Builder Tech's expanded role consistently in the Agreement's Article 3.
 10. Correct the Week 5 tools column (Arduino IDE → MicroPython/Thonny) and enter the Week 8 leadership/API→MCP updates into the live schedule sheet — see Course-Curriculum.md.
 11. Clarify the specifics behind any "Claude Code is cheaper than Claude chat" comparison being used in planning — available research suggests Claude Code and Claude's chat interface share the same subscription and usage pool, so it's worth confirming exactly what was compared before it informs budget decisions.
-12. Progress the thirteen stakeholder/funding research threads in §8 by the mid-August deadline.
+12. Progress the stakeholder/funding research threads in §8 by the mid-August deadline (see `Stakeholder-Notes.md` for the current list).
 13. Clarify Dr. Shawn M. Nicholson LLC's exact role/relationship to Dr. Nicholson's VSU Institutional Liaison position — whether it's the contracting/payment vehicle for his compensation (§1/§2), and how that interacts with the payment-flow open item above (§7).
 14. Put internal MOUs and temporary NDAs in place by Aug 7, 2026, per Javon's 2026-07-31 meeting recap (§3) — scope/parties/duration still unspecified.
 15. Confirm the loaner-laptop question by Aug 7, 2026, per the same email (§6) — resolve whether VSU will provide loaners for students without their own.

@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — TODOs by Owner
 compiled: 2026-07-31
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 # VSU Innovation Program — TODOs by Owner
@@ -25,35 +25,25 @@ not the explanation.
   party.
 
 **Deadline: all stakeholder/funding research complete by mid-August
-2026** — roughly a 2-week runway. **Merged (per VoltPop, 2026-08-05)**
-from the two previously-separate "nine stakeholders" lists (this KB's
-original nine from Javon's 2026-07-31 recap, plus the four net-new
-names from his 2026-08-05 Stakeholder Tracker) into **thirteen**
-threads: Siemens, Virginia Gateway Region, Open Trellis (**name and
-contact fully resolved 2026-08-05** — formerly tracked here as
-"Trilus"/"Trillis"; see `Stakeholder-Notes.md`), Virginia Credit Union,
-Cameron Foundation, NSF HBCU-UP, Southern Company, Dominion Energy,
-Anthropic's Claude for Education/Claude Corps, **Deloitte**, **Apache/
-ASF**, **College of Engineering and Technology**, and **Reginald F.
-Lewis College of Business** (the last two are institutional-
-coordination targets, not funding asks — see `Admin-Business-Legal.md`
-§4). Jabil, Huntington Ingalls, and American Electric Power
-Foundation/Dudley T. Dougherty Foundation remain separately-tracked
-additional candidates, as before — this merge only resolved the two
-"nine" lists specifically, not the full stakeholder set (see
-`Stakeholder-Notes.md`'s full ranking for all fourteen funding/
-partnership profiles). Genuinely tight given the volume — worth
-prioritizing Cameron Foundation and Virginia Gateway Region (strongest
-regional fit) and Claude Corps (January 2027 cohort alignment) if all
-thirteen can't get equal depth in time. This also lands right around
-when the Reginald F. Lewis College of Business's new dean starts
-(mid-August) — likely coincidental, but worth noting.
+2026.** The full, current thread list lives in `Stakeholder-Notes.md`
+(its `##` headers) — don't restate a total count here, it goes stale
+every time a thread is added (USDA and Amazon/Kiro both arrived after
+this deadline note was first written). **Priority if depth-per-thread
+runs short:** Cameron Foundation and VGR (strongest regional fit) and
+Claude Corps (January 2027 cohort alignment) — though see
+`Stakeholder-Notes.md`'s current engagement-likelihood ranking for the
+up-to-date read, since Cameron's since dropped to a likely Year 2
+target. *(Historical note, 2026-08-05: this list started as a merge of
+two independently-compiled nine-stakeholder lists — this KB's own, and
+Javon's separate Stakeholder Tracker — that only overlapped on five
+names; Open Trellis's name/contact were also resolved that day,
+formerly tracked here as "Trilus"/"Trillis.")*
 
 **Confirmed (VoltPop, 2026-08-04):** the "Aug 4–7" window isn't a
 separate, narrower task — it's this same research effort, due by Aug 7
 for the next proposed cross-party meeting (Javon expected to send the
 invite), consistent with the other Aug 7 milestone items below.
-"Mid-August" above is the fuller depth target across all thirteen
+"Mid-August" above is the fuller depth target across all tracked
 threads, not a conflicting deadline.
 
 **Agenda flag for the Aug 7 cross-party meeting:** confirm **Gail
@@ -93,18 +83,11 @@ work itself). No owner yet — the Marketing role itself is still
 unfilled (Admin-Business-Legal.md §4) — but worth raising Aug 7 so it
 doesn't keep sliding.
 
-**Reconciled (per VoltPop, 2026-08-05):** Javon separately built a
-Stakeholder Tracker (a spreadsheet, ingested here from a local `.ods`
-copy — see `Files/Stakeholder Tracker.ods`) that had listed a
-**different** set of nine external stakeholders than this KB's original
-nine — only five names overlapped. Rather than picking one list or
-confirming with Javon which was authoritative, VoltPop's call was to
-**merge them** — see the thirteen-thread list at the top of this
-section, which now folds in Deloitte, Apache/ASF, and VSU's two
-colleges alongside the original nine. Per Javon's 2026-08-05 email,
-everyone's assigned rows in the tracker itself (POC, Our Goal,
-Stakeholder Goal, Mutual Goal, Next Step) are still due **EOD Friday,
-Aug 7, 2026** — that deadline is unaffected by the merge.
+**Note:** the two-list merge referenced above is explained in the
+historical note near the top of this file — not repeated here. Per
+Javon's 2026-08-05 email, everyone's assigned rows in the tracker
+itself (`Files/Stakeholder Tracker.ods`) were due EOD Friday, Aug 7,
+2026 — since passed; see the Aug 7 milestone items above for outcome.
 
 **Javon's next-steps directive (2026-08-07, live on the Aug 7 call):** "we're probably ok on research, we need a deck and to update the program to accommodate for the pivot." Research effort below is treated as substantially done as of today — the two live priorities now are (1) building the actual pitch deck (milestone item #11 below) and (2) updating the program/curriculum itself to reflect the Aug 7 hydroponics-framing pivot (new curriculum item below, under Builder Tech/VoltPop/Explay).
 
@@ -115,12 +98,12 @@ full task-delegation email (owners + deadlines) is coming before Monday
 2026-08-03, 12:00 PM — the items below are **intentionally unassigned**
 by name until then. In chronological priority order:
 
-1. **Aug 7** — Stakeholder research due for the next proposed meeting (see note above) *(shared, confirmed by VoltPop 2026-08-04: VoltPop's Siemens thread + the broader thirteen-thread research effort)*.
+1. **Aug 7** — Stakeholder research due for the next proposed meeting (see note above) *(shared, confirmed by VoltPop 2026-08-04: VoltPop's Siemens thread + the broader stakeholder-research effort)*.
 2. **Aug 7** — Finalize the mentorship model — **decided (per VoltPop, 2026-08-05): it will be a mix** (1:1 / groups / guest-speaker-only, combined rather than one format chosen exclusively) *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC, since VSU-side coordination is likely needed)*.
-3. **Aug 7** — Stakeholder presentation slides shared *(shared, confirmed by VoltPop 2026-08-04: VoltPop + Explay + Builder Tech)*.
+3. **Aug 7 — likely still open, flagging a contradiction rather than assuming:** Stakeholder presentation slides shared *(shared, confirmed by VoltPop 2026-08-04: VoltPop + Explay + Builder Tech)*. Javon's own 2026-08-07 directive ("we need a deck") reads as this not being done yet — worth reconciling with this item's Aug 7 date rather than treating both as separately true.
 4. **Aug 7** — Stakeholder support conversations start *(shared: all instructing parties)*.
-5. **Aug 7** — VSU meeting scheduled/confirmed *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC)*.
-6. **Aug 7 — status unconfirmed as of the Aug 7 call itself; verify before EOD** — Loaner laptop question confirmed *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC; ties to the laptop-responsibility gap in `Admin-Business-Legal.md` §6)*.
+5. **[Done]** ~~Aug 7 — VSU meeting scheduled/confirmed~~ — the Aug 7 cross-party meeting happened; see the extensive outcomes captured throughout `Stakeholder-Notes.md` and `Admin-Business-Legal.md` *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC)*.
+6. **Aug 7 — date passed with no confirmation on record; still open** — Loaner laptop question confirmed *(shared: Builder Tech + Dr. Shawn M. Nicholson LLC; ties to the laptop-responsibility gap in `Admin-Business-Legal.md` §6)*.
 7. **Aug 7 per Javon's original recap — deprioritized by VoltPop (2026-08-05, not yet run past Javon):** Internal MOUs and temporary NDAs in place. VoltPop wants this condensed with Javon's prime-contractor restructuring proposal below (Builder Tech's list) into one combined "sort out the internal contracting structure" item, worked through **after** the Aug 21/28 stakeholder-presentation milestone rather than by Aug 7 — since both are really the same underlying question. **Flagging the conflict rather than silently adopting it:** this pushes past a date Javon himself set in his recap email — worth confirming with him directly rather than assuming he's fine with the slip *(shared: all five parties; distinct from the main Operating Agreement already in draft — see `Admin-Business-Legal.md` §3)*. **Update (2026-08-07, live on the Aug 7 call):** separate from this deferral question, the group decided the main Operating Agreement itself will be **prioritized for value and efficacy** — Dr. Nicholson is ok with that approach. What that concretely means for drafting priorities (which sections get attorney attention first, what gets simplified/deferred) is still unspecified — needs nailing down before it's an actual drafting instruction (Admin-Business-Legal.md §3). Scope/parties/duration for the MOUs/NDAs themselves are **still unspecified** — not resolved by this call.
 8. **Aug 14** — Budget revision *(shared, confirmed by VoltPop 2026-08-04: Builder Tech + VoltPop + Explay + Dr. Shawn M. Nicholson LLC — compensation for all appears in the budget; ties to several Builder Tech items below)*.
 9. **Aug 17** — Program revision *(scope unclear — likely `Course-Curriculum.md`'s schedule/program document; shared, confirmed by VoltPop 2026-08-04: Builder Tech + VoltPop + Explay; scope itself still needs confirming with Javon)*.
@@ -131,12 +114,12 @@ by name until then. In chronological priority order:
 ## Builder Tech
 
 1. **Aug 7** — Finalize the mentorship model (1:1 / groups / guest-speaker-only / mix) (Admin-Business-Legal.md §9).
-2. **Aug 7** — Complete the Deloitte row in Javon's own Stakeholder Tracker — currently his filled-out example (Our Goal/Stakeholder Goal/Mutual Goal/Next Step all populated), but POC and Role are still TBA (Admin-Business-Legal.md §8; Stakeholder-Notes.md).
+2. **[Done, per Javon, 2026-08-08]** ~~Complete the Deloitte row in Javon's own Stakeholder Tracker~~ — POC and Role now filled in, alongside the already-populated Our Goal/Stakeholder Goal/Mutual Goal/Next Step (Admin-Business-Legal.md §8; Stakeholder-Notes.md).
 3. *(feeds the Aug 14 budget revision)* Decide whether a mentor/guest-speaker budget line is needed despite volunteer expectations (Admin-Business-Legal.md §9).
-4. *(feeds the Aug 14 budget revision)* Resolve the Finance role's $0 budget line — cut, unpaid, or absorbed elsewhere? (Admin-Business-Legal.md §2).
-5. *(feeds the Aug 14 budget revision)* Add a real Marketing budget line with an actual amount (Admin-Business-Legal.md §2).
+4. **[Decided, per Javon, 2026-08-08]** ~~Resolve the Finance role's $0 budget line~~ — **cut entirely.** Removes the $0-line question outright (Admin-Business-Legal.md §2).
+5. **[Decided, per Javon, 2026-08-08]** ~~Add a real Marketing budget line~~ — **cut entirely**, same as Finance above. Also resolves the previously-flagged "unowned marketing workstream" concern (`TODOs-by-Owner.md`'s program-name note above) — no Marketing role means no marketing-budget-line gap to fill, though the *general marketing work itself* (assets, campaign, online presence) still has no owner if the program still wants that work done (Admin-Business-Legal.md §2).
 6. *(feeds the Aug 14 budget revision)* Update the Grand Total for the 7-month software-duration change (Admin-Business-Legal.md §6/§9).
-7. *(feeds the Aug 14 budget revision)* Confirm whether cohort size actually grew, given hardware quantities (84 ESP32, 131 sensors) running above the old 63/73 baseline (Admin-Business-Legal.md §6/§9).
+7. **[Confirmed, per Javon, 2026-08-08]** ~~Confirm whether cohort size actually grew~~ — **resolved: max 60 students, teams of 3-4** (not growth from the 63/73 baseline). Hardware quantities (84 ESP32, 131 sensors) include an instructor/testing buffer on top of the 60-student cohort; device count may still increase further (Admin-Business-Legal.md §6/§9).
 8. *(partially feeds the Aug 14 budget revision — dollar amounts; rest undated)* Fill remaining Agreement brackets: dollar amounts beyond the budget, effective date, addresses, insurance limits, payment-flow confirmation *(shared: Dr. Shawn M. Nicholson LLC, since payment flow affects his compensation too)* (Admin-Business-Legal.md §9).
 9. Correct Week 5's tools column in the live schedule sheet: Arduino IDE → MicroPython/Thonny (Course-Curriculum.md §4/§6).
 10. Enter the Week 8 leadership flip (Explay → VoltPop) into the live schedule sheet — currently verbal-only (Course-Curriculum.md §4/§7).
@@ -173,6 +156,7 @@ by name until then. In chronological priority order:
 9. *(new, 2026-08-05, per VoltPop)* Now that VoltPop is a confirmed Anthropic Brand Ambassador himself, check whether the Ambassador program offers any real path (visibility, contact, referral) into the Claude for Education/Claude Corps application — don't assume it helps without checking *(shared: Dr. Shawn M. Nicholson LLC, who owns that thread)* (Stakeholder-Notes.md).
 10. *(new owner assignment, 2026-08-05)* Research/pursue Huntington Ingalls outreach — no due date set yet; contact is Harry Johnson via VSU's Dept. of Engineering IAC (Stakeholder-Notes.md).
 11. *(new, flagged 2026-08-07, per Drew, during the Aug 7 meeting)* Add a "give me information about this program" setting/feature for web users — no further spec yet (what surface/site this lives on, what info it surfaces, self-serve vs. contact-request) — needs scoping before building.
+12. *(new, flagged 2026-08-08, per VoltPop)* Evaluate **Kiro** (Amazon's AI IDE) against ChatGPT Plus/Claude Code as the program's actual AI coding tool — resolve as one decision alongside the existing AI-coding-tool funding gap (Admin-Business-Legal.md §6/§9), not separately. If Kiro is adopted, pursue an **Amazon AI-tooling donation** (credits/licenses) as the funding angle, same shape as the Claude for Education/Claude Corps ask — see the new Amazon/Kiro profile in `Stakeholder-Notes.md`. No named Amazon contact yet.
 
 ## Explay
 
@@ -218,3 +202,4 @@ by name until then. In chronological priority order:
 21. *(new, flagged 2026-08-06, per VoltPop — no owner yet beyond Dr. Nicholson himself, since content likely needs VoltPop/Explay/Builder Tech input too)* Build a distinct "sell VSU on hosting this" pitch for Dean Haile and the incoming Reginald F. Lewis College of Business dean — a different deck than any funder-facing one, since nothing here is a cash ask; the ask is lab/classroom access, faculty time, curriculum integration, and FERPA/liability sign-off (Stakeholder-Notes.md's "VSU's own colleges" section).
 22. *(new, flagged 2026-08-06, per VoltPop, not yet confirmed)* Confirm with VSU whether College of Engineering and Technology, Reginald F. Lewis College of Business, and (as of 2026-08-07) the College of Agriculture could split the program's core cost between them, with external funding reducing that further rather than needing to close the full ~$295K–$311K gap alone — changes the size of the external ask and the nature of the pitch to all three colleges if true (Admin-Business-Legal.md §8; Stakeholder-Notes.md). **Flagged 2026-08-07:** now a three-way negotiation, not two — expect the schools' provosts to angle for credit/control rather than a neutral split; structure the ask (and any naming/credit opportunities) so no single college's provost feels shortchanged relative to the others.
 23. **[Decided at the Aug 7 meeting]** ~~Decide whether VSU's College of Agriculture should be formally added as a third institutional-coordination target~~ — **resolved: yes, and it's now the program's lead sales framing**, not just a coordination target. Group consensus is to pitch primarily through the College of Agriculture's endowment for Automated Hydroponics, positioning the course as the on-ramp to VSU's eventual IoT+AI hydroponics facility. **Remaining next steps:** source the endowment's actual terms, size, eligibility, and a named contact (none of that is sourced yet); also assess whether the college could be a direct-cash target itself, not just an institutional-buy-in one, if it actually controls a discretionary piece of that endowment (Stakeholder-Notes.md's "VSU's own colleges" section).
+24. *(new, flagged 2026-08-07 — no TODO item existed for this until now, unlike every other tracked thread)* Share the named contact Dr. Nicholson reportedly already has at VSU's **Center for Entrepreneurship**, and get his read on what they've told him their goal is (Stakeholder-Notes.md's "VSU's own colleges" section).
