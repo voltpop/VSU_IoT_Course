@@ -97,11 +97,11 @@ go from an ambiguous real-world ask to working code:
 
 | Week | Tue | Thu | Topic | Description | Skill | Deliverables | Tools | Lead | Support |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Jan 19 | Jan 21 | Course Kickoff | Program intro, account creation, prompt engineering, portfolio via Lovable, first social post | Prompt Engineering & Context Management | Portfolio & LinkedIn; First Public Post | Lovable, Claude Code/Codex, Claude/ChatGPT, Gemini/DALL-E | All | All |
+| 1 | Jan 19 | Jan 21 | Course Kickoff | Program intro, account creation, git/GitHub basics, notes-KB setup (Kiro-fronted), prompt engineering, first social post | Prompt Engineering & Context Management | Portfolio & LinkedIn; First Public Post | GitHub, Kiro | All | All |
 | 2 | Jan 26 | Jan 28 | Understanding Systems & IoT | Use-case exploration; students pick their own use case; device tinkering | Systems Thinking | Use Case Report; Systems Mapping & Post | + IoT Prototypes | **VoltPop** | Builder Tech, Explay |
 | 3 | Feb 2 | Feb 4 | Problem & User Discovery | Problem validation, persona, current-state stories & flow | Design Thinking & Problem Solving | Problem Statement; Persona & Journey Map & Post | + TL Draw | Builder Tech | Explay |
 | 4 | Feb 9 | Feb 11 | Business Models & Market Fit | Generate/evaluate ideas, brand identity, project page | Business Model Design & Strategic Planning | Business Model Canvas; Brand Identity Launch & Post | same | Explay | Builder Tech |
-| 5 | Feb 16 | Feb 18 | Hardware Setup & Sensor Basics | GitHub migration, open-source governance intro, ESP32 power-on/sensor/breadboard; firmware | Hardware Prototyping & Firmware Basics | GitHub Repo & Hardware Setup; Firmware & Docs & Post | + Canva, Arduino IDE (see note below), GitHub, ESP32/Breadboard/Sensors | **VoltPop** | Builder Tech, Explay (TBD) |
+| 5 | Feb 16 | Feb 18 | Hardware Setup & Sensor Basics | Extend the existing GitHub repo to hardware/firmware code, open-source governance intro, ESP32 power-on/sensor/breadboard; firmware | Hardware Prototyping & Firmware Basics | Hardware Repo Setup; Firmware & Docs & Post | + Canva, MicroPython/Thonny, ESP32/Breadboard/Sensors | **VoltPop** | Builder Tech, Explay (TBD) |
 | 6 | Feb 23 | Feb 25 | Designing the User Experience | Future-state user flow, key screens, AI-polished prototype | User-Centered Design | Future State Journey Map; Low-Fidelity Prototype & Post | same | Builder Tech | Explay, VoltPop |
 | 7 | Mar 2 | Mar 4 | Data Flow & Systems Architecture | Map sensor→app data flow/payload; "proof of life" hardware-software integration | AI-Assisted Design & Systems Integration | System Architecture Diagram; End-to-End Integration Test & Post | same | **VoltPop** | Explay (TBD) |
 | — | Mar 9 | Mar 11 | SPRING BREAK | No classes | — | — | — | — | — |
@@ -119,6 +119,31 @@ lead and support assignments shown above: lead for Weeks 4 and 9–12,
 and support for Weeks 2, 5, 7, and 8. Week 9's detailed division of
 product-iteration, technical-debugging, integration, and security work
 between Explay and VoltPop remains to be defined.
+
+**Day 1 plan — updated 2026-08-08 (per VoltPop):** account creation is
+now **GitHub and Kiro**, replacing ChatGPT/Claude/Codex/Gemini —
+Claude Code/Codex and Gemini are expected to be superseded by Kiro
+outright (see §7 item #15), and Lovable is deferred out of Day 1
+entirely (UI-design-only, introduced later when actually used). Day 1
+now also covers **git/GitHub basics** (hand out the Git Cheat Sheet,
+§6) and setting up the **notes knowledge base, fronted by Kiro** — the
+same git-based-KB model this program's own team uses. **Portfolio setup
+and the first public LinkedIn post both stay on Day 1**, per VoltPop.
+**Portfolio mechanism — proposed, not yet locked (per VoltPop,
+2026-08-08): a per-group GitHub Pages site**, not an individual
+portfolio — fits the GitHub-from-day-one direction above, and pairs
+naturally with the git-based notes KB (same repo, same tool). **Open
+tension worth resolving explicitly:** VoltPop also floated using
+Lovable for that GitHub Pages site's UI — which would mean Lovable
+comes back into Day 1 for this one specific use (UI design for the
+portfolio site), even though it's otherwise being deferred out of Day 1
+entirely (see above). Worth deciding directly: Lovable-designed on Day
+1, or a plainer Day-1 page with Lovable's UI polish applied later once
+it's actually introduced. Also unconfirmed: whether "group" replaces an
+individual portfolio outright, or sits alongside one. Needs resolving
+before this reaches an actual lesson-plan rewrite (the built file lives
+outside this repo, in VoltPop's own working files —
+see §6 below).
 
 **Tools-column note (Week 5)**: the shared sheet currently lists Arduino
 IDE, but the actual firmware plan is **MicroPython/Thonny** (decided
@@ -175,13 +200,17 @@ considered.
 
 Built lesson plans live in `~/Documents/VoltPop/IoT_Course/` (VoltPop's
 working files):
-- `Week1_Course_Foundations_Lesson_Plan.md` — built, matches V2's Week 1.
-  Previously flagged gaps now fixed (2026-08-01): the two stray
-  "designing an MCP server in Week 7" references are corrected, and the
-  file now covers the schedule's Week 1 deliverables that weren't
-  actually in it — account creation (Lovable, Claude Code/Codex,
-  Claude/ChatGPT, Gemini/DALL-E), portfolio setup via Lovable and
-  LinkedIn (Day 1), and a first public/LinkedIn post (Day 2).
+- `Week1_Course_Foundations_Lesson_Plan.md` — the prior version (built
+  against V2's original Lovable/ChatGPT/Claude/Codex/Gemini plan) was
+  lost — VoltPop's external working-files copy couldn't be located
+  (2026-08-08). **Rebuilt from scratch, now tracked in this repo** (not
+  an external file anymore, precisely so it can't go missing the same
+  way again) — reflects the 2026-08-08 Day 1 update above: GitHub/Kiro
+  account creation, git basics, notes-KB setup, and a proposed
+  per-group GitHub Pages portfolio. Marked `status: draft` in its own
+  frontmatter — several real open items listed at the bottom of the
+  file (portfolio mechanism, GitHub org structure, Kiro provisioning,
+  untested timing) still need resolving before it's final.
 - `Week5_AI_Wiring_Firmware_Prompt_Template.md` — built for
   MicroPython/Thonny (confirmed as the right toolchain, see §4); needs
   one new section added for Week 5's Tuesday content (GitHub migration,
