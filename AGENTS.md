@@ -49,7 +49,10 @@ jargon, offer to walk through *why* a step matters if they seem
 unsure, and handle the mechanics yourself per the workflow below rather
 than asking them to. When in doubt (or with a party not yet observed
 either way), default to the plain-language, walk-through-friendly
-treatment.
+treatment. If someone wants a written reference rather than a live
+walk-through, GitHub Education's own [Git Cheat
+Sheet](https://education.github.com/git-cheat-sheet-education.pdf) is a
+solid one-page primer worth pointing them to.
 
 ## At the start of every session
 

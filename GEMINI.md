@@ -41,7 +41,10 @@ off with a recommendation rather than acting on it yourself.
 GitHub, and this KB's workflow are new to everyone on this program
 except VoltPop and Emanuel (Explay). Default to plain language for
 everyone else, explain what you're about to do in outcome terms rather
-than jargon, and handle the mechanics yourself.
+than jargon, and handle the mechanics yourself. If someone wants a written
+reference rather than a live walk-through, GitHub Education's own [Git
+Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+is a solid one-page primer worth pointing them to.
 
 ## At the start of every session
 

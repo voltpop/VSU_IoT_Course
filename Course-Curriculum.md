@@ -185,7 +185,18 @@ working files):
 - `Week5_AI_Wiring_Firmware_Prompt_Template.md` — built for
   MicroPython/Thonny (confirmed as the right toolchain, see §4); needs
   one new section added for Week 5's Tuesday content (GitHub migration,
-  open-source governance intro) that isn't in the file yet.
+  open-source governance intro) that isn't in the file yet. **When that
+  section gets built (flagged 2026-08-08, per VoltPop):** include
+  GitHub Education's [Git Cheat
+  Sheet](https://education.github.com/git-cheat-sheet-education.pdf) as
+  a student handout — students are being introduced to git/GitHub cold
+  here, same onboarding gap this KB itself solves for the five program
+  parties via `AGENTS.md`'s own pointer to the same resource. **Open
+  question, same day (per VoltPop):** whether this git/GitHub
+  introduction should actually move earlier than Week 5 — possibly
+  Week 1 — so students have git-based-knowledge-base literacy from day
+  one rather than only once firmware work starts; see §7 item #15's
+  per-tool timing breakdown.
 - `Week7_MCP_Server_Design_Prompts.md` — originally built for the old
   Week 7 topic (MCP server design). Week 7's actual topic is now "Data
   Flow & Systems Architecture," which needs new content built for it
@@ -259,7 +270,27 @@ working files):
     been agreed on beyond what's implicit in the existing per-week Tools
     column. Resolve alongside item #14 above, since a shorter tool list
     is also an easier one to front-load early — don't decide the list
-    and the timing as two separate passes.
+    and the timing as two separate passes. **"Earlier" isn't a blanket
+    rule for every tool — per-tool emerging direction (2026-08-08, per
+    VoltPop):**
+    - **Git/GitHub:** likely earlier than Week 5's current placement —
+      possibly Week 1, so students have git-based-knowledge-base
+      literacy from day one, not just when GitHub migration happens for
+      firmware. Still an open option, not decided (see the note added
+      to §6 above).
+    - **Kiro (Amazon):** per the escalated claim in
+      `Stakeholder-Notes.md`'s Amazon/Kiro profile, **Claude Code/
+      Codex and Gemini may all be replaced by Kiro outright** — reasoning
+      given: "Kiro + GitHub is not as heavy a lift." If this holds,
+      Week 1's current tools list (Lovable, Claude Code/Codex, Claude/
+      ChatGPT, Gemini/DALL-E) shrinks considerably. Not yet a locked
+      decision.
+    - **Lovable:** the opposite direction — **defer introduction to
+      whenever it's actually first used**, rather than Week 1's current
+      Day-1 portfolio setup. "Earlier is better" applies to tools
+      students need continuously from day one (git, the core AI
+      assistant); it doesn't automatically apply to a tool whose real
+      use starts later in the schedule.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 
