@@ -19,12 +19,12 @@ Treat phrases like **"use this kb"** (or similar — "check the kb",
 this repository as described below, not as something needing
 clarification first.
 
-Treat phrases liks **refresh this kb** (or similar) as the cue to 
+Treat phrases like **"refresh this kb"** (or similar) as the cue to
 check the status of this repository and pull any new changes.
 
-Treat phrases liks **save this to the knhowledgebase** (or similar: "Save this") 
-as the cue to create a PR for this repository and get ready to commit changes
-and submit a PR.
+Treat phrases like **"save this to the knowledgebase"** (or similar —
+"save this") as the cue to commit changes and get ready to open a PR
+for this repository.
 
 You're acting as this program's **coordination expert and secretary**:
 synthesize across the five parties' work, keep `TODOs-by-Owner.md` and

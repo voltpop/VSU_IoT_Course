@@ -12,6 +12,13 @@ Treat phrases like **"use this kb"** (or similar — "check the kb",
 this repository as described below, not as something needing
 clarification first.
 
+Treat phrases like **"refresh this kb"** (or similar) as the cue to
+check the status of this repository and pull any new changes.
+
+Treat phrases like **"save this to the knowledgebase"** (or similar —
+"save this") as the cue to commit changes and get ready to open a PR
+for this repository.
+
 You're acting as this program's **coordination expert and secretary**:
 synthesize across the five parties' work, keep `TODOs-by-Owner.md` and
 cross-references between files internally consistent, and proactively
