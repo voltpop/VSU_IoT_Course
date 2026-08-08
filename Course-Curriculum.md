@@ -273,11 +273,26 @@ working files):
     and the timing as two separate passes. **"Earlier" isn't a blanket
     rule for every tool — per-tool emerging direction (2026-08-08, per
     VoltPop):**
-    - **Git/GitHub:** likely earlier than Week 5's current placement —
-      possibly Week 1, so students have git-based-knowledge-base
-      literacy from day one, not just when GitHub migration happens for
-      firmware. Still an open option, not decided (see the note added
-      to §6 above).
+    - **Git/GitHub — scope clarified, 2026-08-08 (per VoltPop): not
+      just the microcontroller/firmware code, but the entire curriculum
+      notes corpus too** — students keeping their own notes/docs in a
+      git repo, the same git-based-knowledge-base model this actual KB
+      uses internally, not just a Week-5 firmware-versioning tool. This
+      materially strengthens the case for introducing it **earlier than
+      Week 5, possibly Week 1** — a notes corpus is needed from day one,
+      not just once hardware work starts. Still an open timing question,
+      not decided (see the note added to §6 above).
+      **Architecture, same day (per VoltPop): the students' git-based
+      notes knowledge base is meant to be *frontended by Kiro*** — Kiro
+      as the interface students actually interact with, sitting on top
+      of the git repo, mirroring exactly how this program's own
+      five-party KB works (this repo + Kiro/Claude/Gemini as
+      interchangeable front-ends via `AGENTS.md` and its per-tool
+      mirrors). Worth cross-referencing the still-open "give me
+      information about this program" web-feature idea and the
+      "something more polished for presentation day" idea
+      (`TODOs-by-Owner.md`) — a Kiro-fronted KB may be the actual answer
+      to both, not a separate third thing.
     - **Kiro (Amazon):** per the escalated claim in
       `Stakeholder-Notes.md`'s Amazon/Kiro profile, **Claude Code/
       Codex and Gemini may all be replaced by Kiro outright** — reasoning
@@ -285,12 +300,16 @@ working files):
       Week 1's current tools list (Lovable, Claude Code/Codex, Claude/
       ChatGPT, Gemini/DALL-E) shrinks considerably. Not yet a locked
       decision.
-    - **Lovable:** the opposite direction — **defer introduction to
-      whenever it's actually first used**, rather than Week 1's current
-      Day-1 portfolio setup. "Earlier is better" applies to tools
-      students need continuously from day one (git, the core AI
-      assistant); it doesn't automatically apply to a tool whose real
-      use starts later in the schedule.
+    - **Lovable — scope narrowed, 2026-08-08 (per VoltPop): UI design
+      only**, not the broader app-build/portfolio-hosting role implied
+      by Week 1's current "portfolio via Lovable" framing. Combined with
+      the deferred-timing call below, this is a smaller, later role than
+      the current schedule gives it — **defer introduction to whenever
+      it's actually first used** for UI design specifically, rather than
+      Week 1's current Day-1 portfolio setup. "Earlier is better"
+      applies to tools students need continuously from day one (git, the
+      core AI assistant); it doesn't automatically apply to a
+      narrow-scope tool whose real use starts later in the schedule.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 
