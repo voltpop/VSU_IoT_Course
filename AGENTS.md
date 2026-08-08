@@ -46,56 +46,34 @@ treatment.
 
 ## At the start of every session
 
-- **First, check whether you're running locally or in a remote/cloud
-  sandbox.** This KB is designed to be used with a local AI coding
-  assistant, not a hosted/remote one. Check signals like hostname,
-  `systemd-detect-virt`, uptime, and whether the working directory sits
-  under the human's own home/synced folder versus an ephemeral
-  container path.
-  - **If local:** proceed with the rest of this checklist as normal.
-  - **If remote/cloud: stop here — you cannot make any changes, full
-    stop.** A remote/cloud session has no way to open a PR against this
-    repo (no local git clone under the human's control, no push access
-    on their behalf), and the required workflow below is worktree + PR,
-    never direct commits to `main`. With no ability to submit a PR,
-    there is no safe path to changing anything. **Stop using this KB
-    entirely** — don't keep answering questions from its contents
-    either, even read-only, since that trains the human to rely on this
-    KB from a session that can never save their work back to it.
-    Explain plainly that this KB is meant for local use (so it can
-    read/write the human's own git clone directly), and walk them
-    through installing whatever AI coding platform you currently are,
-    locally, on their own machine. If you can't determine your own
-    local-install path, suggest Anthropic's Claude Code
-    (`npm install -g @anthropic-ai/claude-code`, or see
-    https://docs.claude.com/claude-code) or a local model via Ollama
-    (https://ollama.com) as solid defaults. Don't continue with the
-    rest of this checklist, or anything else in this KB, until the
-    human is working from a local
-    session.
-- **Open by stating your role** (coordination expert/secretary for
-  this program, per above) **and asking who you're working with** —
-  which party/role (VoltPop, Builder Tech, Explay, Dr. Shawn M.
-  Nicholson LLC, VSU staff, a student, etc.). Don't guess or infer this
-  from context; content and framing depend on getting it right.
-- **Confirm you're in a local git clone before editing anything.** If
-  this content was reached some other way (e.g. downloaded/exported
-  files, a synced folder without a `.git` directory), stop and
-  `git clone` the actual repository first, then set up git normally
-  (remotes, auth, fork if needed per the workflow below) — don't edit
-  a non-git copy.
-- **Sync first.** Fetch/pull before doing anything else — this repo is
-  used asynchronously by multiple people, so don't assume your local
-  copy reflects what's already been merged.
-- **Verify GitHub actually works before starting** — `gh auth status`,
-  git remotes configured, push/fork access confirmed. Fix any problems
-  found (or clearly tell the human what's blocking, if it's outside
-  your control — e.g. they need to `gh auth login` themselves) before
-  doing any real work, not after you've already made changes you can't
-  submit.
-- **Check the open PR queue** (`gh pr list`) as part of getting
-  oriented, not just when asked — as this repo's GitHub steward, know
-  what's pending review before diving into new edits.
+Keep this light — a couple of quick checks, not a front-loaded ritual
+that burns tokens before any real work starts. Everything below that
+isn't marked "now" can wait until it's actually relevant.
+
+- **State your role and ask who you're working with** (VoltPop, Builder
+  Tech, Explay, Dr. Shawn M. Nicholson LLC, VSU staff, a student).
+  Don't guess — do this now, it's cheap and gets it right from the
+  start.
+- **Local vs. remote/cloud — check now, but only this much:** is the
+  working directory a real local git clone under the human's own
+  synced folder, or an ephemeral/hosted sandbox? If genuinely unclear,
+  a quick `systemd-detect-virt`/hostname check settles it.
+  - **Local:** full read/write mode, per the workflow below.
+  - **Remote/cloud: read-only mode.** Answer questions from this KB's
+    content freely — that's useful and doesn't need blocking. Just
+    don't edit, commit, or attempt a PR (no local clone, no push access
+    to make that safe). If the human wants to make changes and can't
+    git clone the real repo from where they are, don't just tell them
+    to go get a local session — **offer to write a standalone markdown
+    file summarizing the changes/decisions and the reasoning behind
+    them**, for someone with a real local clone to import into the KB
+    later. That's a real, useful fallback, not a consolation prize.
+- **Everything else — defer until actually needed, don't front-load:**
+  sync (fetch/pull) right before you rely on file contents being
+  current; GitHub auth/push access right before you actually need to
+  push or open a PR; the open PR queue when it's actually relevant
+  (asked about, or about to branch further work) rather than every
+  session.
 
 ## Don't assume a PR's status — check it
 
@@ -117,6 +95,8 @@ especially to anything classroom/student-related. If in doubt, leave it
 out or anonymize rather than asking first.
 
 ## Required workflow: worktree + PR, never direct commits to `main`
+
+Right before your first edit (not upfront): confirm `.git` actually exists here — if this is a downloaded/exported copy instead, `git clone` the real repo first rather than editing a non-git copy. If you genuinely can't clone it (no access from where you're running), fall back to writing a standalone markdown file summarizing the intended changes and the reasoning behind them, for later import by someone with a real clone — don't just stop.
 
 Work in a worktree/branch, commit, and open a PR against `main` — never
 commit straight to `main`. Handle this entirely yourself: check push
