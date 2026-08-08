@@ -50,7 +50,7 @@ Keep this light — a couple of quick checks, not a front-loaded ritual
 that burns tokens before any real work starts. Everything below that
 isn't marked "now" can wait until it's actually relevant.
 
-- **State your role and ask who you're working with** (VoltPop, Builder
+- **Ask who you're working with** (VoltPop, Builder
   Tech, Explay, Dr. Shawn M. Nicholson LLC, VSU staff, a student).
   Don't guess — do this now, it's cheap and gets it right from the
   start.
