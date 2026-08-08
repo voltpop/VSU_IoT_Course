@@ -71,6 +71,7 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   review before signature, especially IP, FERPA, and liability
   sections, and needs VSU's contracts/procurement office looped in
   early.
+- **Decided at the Aug 7 meeting (per Drew): the Operating Agreement will be prioritized for value and efficacy** — Dr. Nicholson (assumed "he" from context; confirm if this was someone else) is OK with that approach. **Not yet specified:** what "value and efficacy" concretely means for drafting priorities — e.g., which sections get attorney attention first, or what gets simplified/deferred. Worth nailing down before this becomes the actual drafting instruction to whoever finalizes the Agreement.
 - Three sections need VSU counsel review: indemnification, liability
   caps, governing law/arbitration — standard commercial language in
   these areas may not survive VSU's sovereign-immunity and procurement
@@ -172,7 +173,9 @@ Entrepreneurship.
 **VSU departmental contacts:**
 - **College of Engineering and Technology** (official name confirmed
   2026-08-05 via Javon's Stakeholder Tracker; previously shortened here
-  to "College of Engineering"): Dean Haley (current). Owner for
+  to "College of Engineering"): Dean Dawit Haile (current; corrected
+  2026-08-07 via Javon's updated tracker — previously misspelled
+  "Haley" throughout this KB). Owner for
   coordination purposes: Dr. Shawn M. Nicholson LLC (per the tracker).
 - **Reginald F. Lewis College of Business** (official name confirmed
   2026-08-05 via the same tracker; previously "College of Business"/
