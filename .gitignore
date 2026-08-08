@@ -2,3 +2,10 @@
 .vscode/
 .idea/
 *.~lock.*#
+
+# Per-tool copies of AGENTS.md, committed once as a shared starting
+# point but not meant to receive ongoing tracked edits — update
+# AGENTS.md instead and re-sync these manually if the shared
+# instructions change.
+CLAUDE.md
+GEMINI.md
