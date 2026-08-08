@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Stakeholder Notes
 compiled: 2026-07-31
-updated: 2026-08-05
+updated: 2026-08-08
 see_also: Admin-Business-Legal.md §8 (funding-source context and rationale), TODOs-by-Owner.md
 ---
 
@@ -15,21 +15,17 @@ is known per stakeholder — not guessed at generically ahead of time.
 Full funding-source reasoning and the underlying budget figures live in
 `Admin-Business-Legal.md` §8/§6.
 
-**Two different "nine stakeholders" lists, merged (resolved 2026-08-05):**
-this KB's original tracked funding-research threads (Siemens, VGR, Open
-Trellis, Virginia Credit Union, Cameron Foundation, NSF HBCU-UP,
-Southern Company, Dominion Energy, Claude for Education/Claude Corps —
-from Javon's 2026-07-31 meeting recap) didn't match Javon's separate
-Stakeholder Tracker (a Google Sheet, ingested here 2026-08-05 from a
-local `.ods` copy — see `Files/Stakeholder Tracker.ods`), which listed
-Deloitte, Siemens, Apache, Dominion Energy, Cameron Foundation, Virginia
-Gateway Region, Open Trellis, College of Engineering and Technology,
-and Reginald F. Lewis College of Business instead — only five names
-overlapped. **Per VoltPop (2026-08-05): merged rather than reconciled**
-— both lists' net-new names are now tracked together as one combined
-set of thirteen threads (nine original + Deloitte, Apache/ASF, and
-VSU's two colleges from the tracker), rather than picking one list as
-authoritative. See `TODOs-by-Owner.md` for the full merged list.
+**One running list, not a fixed count.** This file's `##` headers below
+are the current, authoritative set of tracked threads — don't rely on a
+hardcoded total anywhere in this KB (including `TODOs-by-Owner.md`'s
+own history of this list), since new threads get added as they come up
+(USDA and Amazon/Kiro both arrived this way on 2026-08-07/08) and any
+specific number goes stale immediately. Origin note, for context rather
+than ongoing reference: this list started as a 2026-08-05 merge of two
+independently-compiled nine-stakeholder lists (this KB's own, and
+Javon's separate Stakeholder Tracker) that only overlapped on five
+names — full history of that merge lives in `TODOs-by-Owner.md` if
+needed.
 
 ## Framing — read before any conversation
 
@@ -600,6 +596,7 @@ recite.
 
 - **Owner:** *(unassigned)*. **Status:** new idea, not yet researched or contacted — no named POC.
 - **The idea, per VoltPop, 2026-08-08:** Kiro (Amazon's AI-powered IDE) may be the better AI coding tool for students in this program, ahead of ChatGPT Plus or Claude Code. If VoltPop's team adopts it, the natural follow-on ask is an **AI-tooling donation from Amazon** — same shape as the Claude for Education/Claude Corps in-kind play above (credits/licenses reducing the software-subscription budget gap directly), just a different vendor. Worth noting a `.kiro/` directory already exists locally in this repo, unconfirmed but suggesting the tool is already being evaluated hands-on rather than cold.
+- **VoltPop's expectation, same day: the group will likely converge on Kiro specifically because of its "easiest" setup model** — a genuinely relevant selection criterion given this program's actual audience (business students on a one-semester IoT toe-dip, not CS majors), where setup friction has a real, disproportionate cost relative to a program with more technical depth/time to spare. **Still worth confirming, not just assuming:** what specifically makes Kiro's setup easier (fewer steps, no local environment config, browser-based, etc.) compared to ChatGPT Plus/Claude Code's own setup — the comparison needs to be concrete before it's the deciding factor in the cross-tool decision above.
 - **Directly resolves an existing open budget question, not a new one:** `TODOs-by-Owner.md` and `Admin-Business-Legal.md` §6 already flag an unresolved **"AI-coding-tool funding gap"** — the curriculum names "Anthropic Claude Code or OpenAI Codex" as a weekly either/or choice, but the budget only funds ChatGPT Plus, with no Claude/Anthropic line at all. Kiro adds a third real candidate to that same decision, and an Amazon donation could close the gap outright rather than requiring a new budget line — this should be resolved as one decision (which tool(s) the curriculum actually uses), not researched as a separate thread from the existing funding-gap question.
 - **Amazon is already a known regional entity here, not a cold name:** already listed in `Admin-Business-Legal.md` §4 as a Tri-Cities-area employer (Logistics & Distribution cluster) and flagged in `Stakeholder-Notes.md`'s "Other angles worth checking" section as a plausible CSR/education-funding target once VSU's advancement office is looped in — this is that lead, now with a concrete, specific ask (AI tooling credits) instead of a generic "worth checking" note.
 - **Open questions:**

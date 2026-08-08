@@ -244,6 +244,22 @@ working files):
     between V1 and V2; several stakeholder pitches depend on students
     actually landing on regionally-relevant projects, which the current
     Week 2 language no longer requires.
+14. **Pare down the full tools list to what's roughly essential**
+    (flagged 2026-08-08, per VoltPop) — the current list, compiled
+    across this schedule's per-week Tools column and
+    `Admin-Business-Legal.md` §6's software/hardware budget tables, is
+    long (ChatGPT Plus, Claude Code/Codex, Claude/ChatGPT, Gemini/DALL-E,
+    Kiro, Lovable, TLDraw, GitHub, Postman, Canva, MS Office, Zoom, plus
+    the firmware/hardware toolchain) and has never been deliberately
+    trimmed — related to, but broader than, item #10's narrower
+    AI-coding-tool funding question above.
+15. **Decide when each tool actually gets introduced in the
+    curriculum** (flagged 2026-08-08, per VoltPop) — **stated principle:
+    earlier is better**, but no actual per-tool integration timing has
+    been agreed on beyond what's implicit in the existing per-week Tools
+    column. Resolve alongside item #14 above, since a shorter tool list
+    is also an easier one to front-load early — don't decide the list
+    and the timing as two separate passes.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 
