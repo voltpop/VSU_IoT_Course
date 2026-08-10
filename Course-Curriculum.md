@@ -339,6 +339,29 @@ working files):
       applies to tools students need continuously from day one (git, the
       core AI assistant); it doesn't automatically apply to a
       narrow-scope tool whose real use starts later in the schedule.
+16. **Does the Kiro-replaces-Claude/Codex/Gemini direction break
+    anything Javon already laid out? (raised 2026-08-08, per VoltPop)**
+    Checked against the current V2 schedule (§4) and lesson-plan status
+    (§6) — three findings:
+    - **Core course structure: unaffected.** All 14 weeks' topics,
+      skills, deliverables, and lead/support assignments are untouched;
+      the Tools column cascades cleanly from Week 1 via "same," so
+      Weeks 2–14 don't need individual edits.
+    - **VoltPop's built lesson-plan content: confirmed not a blocker
+      (per VoltPop, 2026-08-08)** — "VoltPop doesn't have anything in
+      particular written around Claude that wouldn't also apply to
+      Kiro," despite `Admin-Business-Legal.md` §8's note that his
+      lesson plans were "written specifically around Claude Code."
+      Resolved: the content itself is generically AI-assisted-
+      development, not Claude-specific in a way that breaks.
+    - **Still open, not yet addressed:** (1) Week 8's "MCP integration"
+      content assumes MCP server support — unconfirmed whether Kiro
+      supports MCP the same way Claude Code does. (2) Strategic tension
+      with the Claude Corps/Claude for Education funding pitch
+      (`Stakeholder-Notes.md`), whose strongest-alignment claim rests
+      partly on the course's tooling matching Claude's — worth deciding
+      whether that pitch still gets pursued once Kiro is the actual
+      classroom tool, or gets deprioritized alongside the tool switch.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 
