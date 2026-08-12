@@ -354,14 +354,19 @@ working files):
       lesson plans were "written specifically around Claude Code."
       Resolved: the content itself is generically AI-assisted-
       development, not Claude-specific in a way that breaks.
-    - **Still open, not yet addressed:** (1) Week 8's "MCP integration"
+    - **Still open, not yet addressed:** Week 8's "MCP integration"
       content assumes MCP server support — unconfirmed whether Kiro
-      supports MCP the same way Claude Code does. (2) Strategic tension
-      with the Claude Corps/Claude for Education funding pitch
-      (`Stakeholder-Notes.md`), whose strongest-alignment claim rests
-      partly on the course's tooling matching Claude's — worth deciding
-      whether that pitch still gets pursued once Kiro is the actual
-      classroom tool, or gets deprioritized alongside the tool switch.
+      supports MCP the same way Claude Code does.
+    - **Resolved (per VoltPop, 2026-08-12): deprioritize the Claude
+      Corps/Claude for Education funding pitch.** VoltPop's current
+      leaning is that the program uses Kiro as the classroom tool — not
+      yet locked in (still needs an explicit "yes, actually decided"
+      checkpoint, per the escalated note in `Stakeholder-Notes.md`'s
+      Amazon/Kiro profile), but firm enough to shift funding-pitch
+      priority now: Claude Corps' strongest angle was tooling match,
+      which no longer holds if Kiro is the actual classroom tool.
+      Funding focus shifts to the Amazon AI-tooling donation angle
+      (`Stakeholder-Notes.md`'s Amazon/Kiro profile) instead.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 
