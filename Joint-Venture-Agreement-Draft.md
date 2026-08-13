@@ -170,11 +170,11 @@ had agreed — see `TODOs-by-Owner.md`, Builder Tech item 19):
   under a different name. Requires all three remaining Parties to
   agree, not just 2 of 3. See §6 and `JV-Agreement-Vote-Form.md`
   item 10.
-- **Still open (per VoltPop, 2026-08-13: "I don't know"):** whether
-  Nicholson LLC must consult the other three Parties before making
-  VSU-facing decisions specifically, or has full discretion there as
-  prime contractor. Genuinely undecided — needs a real group
-  discussion, not a guess.
+- **Proposed by VoltPop, 2026-08-13 (revised same day from an earlier
+  "I don't know") — not yet confirmed by the other three Parties:**
+  Nicholson LLC must **consult** the other three Parties before making
+  VSU-facing decisions — not full discretion as prime contractor. See
+  `JV-Agreement-Vote-Form.md` item 6.
 
 ## 5. Intellectual Property and Confidentiality
 
@@ -279,9 +279,9 @@ updating to match — flagged there separately.
   currently scheduled January–April 2027 per `Course-Curriculum.md`
   §4, and would **not** automatically continue into any future
   opportunity — see §1's scope note.
-- **Termination — proposed boilerplate for the group's 2026-08-14
-  vote, adapted from standard JV termination-clause practice (not yet
-  agreed by anyone):**
+- **Termination — confirmed as VoltPop's own position 2026-08-13 (not
+  just a drafting placeholder), not yet confirmed by the other three
+  Parties:**
   - Voluntary withdrawal: 30 days' written notice to the other three
     Parties.
   - No mid-cohort exit without **unanimous** consent of the other
@@ -300,7 +300,21 @@ updating to match — flagged there separately.
   - Termination for cause (breach, insolvency, misconduct): no notice
     period required, effective on a **unanimous** vote of the other
     three — same deliberate exception as above.
-  - See `JV-Agreement-Vote-Form.md` item 10 for the actual vote.
+  - **Not proposed — genuinely unsettled, per VoltPop, 2026-08-13 ("not
+    100% on all rights ceasing on termination"):** whether an exiting/
+    terminated Party's rights under this Agreement should all end at
+    termination. **Flagging a real tension rather than resolving it:**
+    read broadly, this could cut against the bullet above (confidentiality/
+    IP terms surviving exit) — does "rights cease" mean only
+    governance/access rights (voting, Venture participation) end, while
+    an already-vested joint IP ownership share (§5) stays intact? Or
+    would it also strip that retroactively? VoltPop himself isn't sure
+    yet — **not ready for tomorrow's vote**, kept out of
+    `JV-Agreement-Vote-Form.md` item 10 until it's thought through
+    further.
+  - See `JV-Agreement-Vote-Form.md` item 10 for the actual vote (base
+    termination terms only — the rights-cessation question above is
+    excluded).
 
 ## 7. Liability and Indemnification
 

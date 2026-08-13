@@ -97,16 +97,18 @@ four Parties.*
 ---
 
 ### 6. Nicholson LLC's VSU-facing decision authority
-*Genuinely undecided — no proposed default. Does Nicholson LLC need to
-consult the other three before VSU-facing decisions, or is it his call
-alone?*
+*Default (per VoltPop, 2026-08-13, revised same day from an earlier "I
+don't know"): Nicholson LLC must **consult** the other three Parties
+before VSU-facing decisions — not full discretion as prime contractor.
+If this fails to pass, the group will discuss further rather than
+defaulting to either position.*
 
-| Party | Preference (Consult / Full discretion) |
+| Party | Vote (Y/N) |
 |---|---|
-| VoltPop | ______________ |
-| Builder Tech | ______________ |
-| Explay | ______________ |
-| Nicholson LLC | ______________ |
+| VoltPop | Y |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
 
 **Result:** ______________ **Notes:** ___________________________________
 
