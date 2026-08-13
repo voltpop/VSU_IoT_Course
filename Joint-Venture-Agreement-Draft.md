@@ -76,16 +76,52 @@ Per the roles already documented in `Admin-Business-Legal.md` §1:
 | Explay | Curriculum co-designer; Entrepreneurship & Innovation instruction | In-kind: curriculum design + instruction time |
 | Nicholson LLC | Operations Director & Institutional Liaison to VSU; **prime contractor** for VSU-facing matters (per the alignment reached 2026-08-12 — see `TODOs-by-Owner.md`, Builder Tech item 19) | In-kind: institutional-liaison + operations work, plus his existing VSU relationships/standing used to secure the underlying contract |
 
-**No cash contributions are contemplated** — each Party's contribution
-is in-kind labor/expertise, and each Party is separately compensated
-per the program budget (`Admin-Business-Legal.md` §2/§6), not via a
-traditional JV profit split. [**Flag for attorney review:** this is a
-hybrid structure — a JV agreement layered on top of individual
-compensation arrangements rather than the more typical
-capital-contribution-for-profit-share model most JV templates assume.
-Worth confirming this hybrid approach is the right vehicle, rather than
-defaulting to standard JV profit/loss-allocation language that doesn't
-actually fit how these Parties get paid.]
+**The Venture itself holds no pooled capital and makes no profit
+distribution** — each Party's contribution to the Venture is in-kind
+labor/expertise, not cash paid into the Venture. **That said, real cash
+does move between Parties** — this is not a "no cash contributions"
+arrangement in the fuller sense. **Confirmed 2026-08-13, per VoltPop:
+VSU will pay Nicholson LLC only**, consistent with his prime-contractor
+role (§3). Beyond that single payment point, the structure is still
+being worked out:
+
+- **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
+  three Parties, contingent on tomorrow's vote:** Nicholson LLC pays
+  VoltPop, Builder Tech, and Explay their respective fees
+  (`Admin-Business-Legal.md` §2) as subcontractor payments, not JV
+  capital contributions or a profit share.
+- **Payment-timing risk — proposed by VoltPop, 2026-08-13, contingent
+  on the vote:** Nicholson LLC is not expected to front the $212,500
+  Contractual Services total from his own funds if VSU pays late.
+  Instead, he passes payment through to each subcontractor within a
+  **short, defined window (proposed: 10 business days)** of actually
+  receiving the corresponding funds from VSU — bounded and visible,
+  rather than an open-ended "whenever VSU gets around to it," and
+  rather than requiring Nicholson LLC to guarantee the schedule
+  regardless of VSU's own payment timing.
+- **Documentation vehicle — proposed by VoltPop, 2026-08-13:** these
+  payment obligations would live in **separate subcontractor
+  agreements** between Nicholson LLC and each of VoltPop, Builder Tech,
+  and Explay individually — not in this JV Agreement itself — consistent
+  with standard prime/subcontractor practice and cleaner for invoicing
+  and tax treatment (W-9/1099) between the two LLCs in each pairing.
+  This JV Agreement governs the four Parties' collective venture; the
+  subcontractor agreements would govern the actual fee-for-service
+  payment mechanics.
+- **Still open:** Dr. Nicholson's own compensation amount and whether it
+  includes a separate component for the prime-contractor administrative/
+  risk burden he's now carrying (`TODOs-by-Owner.md`, VoltPop item 18) —
+  not being set in this pass. **Also still open:** whether Dr. Nicholson
+  has a different preferred structure for any of the above — none of
+  this has been run past him yet.
+
+[**Flag for attorney review:** this is a hybrid structure — a JV
+agreement layered on top of individual prime/subcontractor payment
+arrangements rather than the more typical capital-contribution-for-
+profit-share model most JV templates assume. Worth confirming this
+hybrid approach is the right vehicle, rather than defaulting to standard
+JV profit/loss-allocation language that doesn't actually fit how these
+Parties get paid.]
 
 ## 3. Prime/Subcontractor Structure
 
@@ -286,6 +322,15 @@ liability-cap language already flagged for attorney review in
 `Admin-Business-Legal.md` §3, which covers the Parties' collective
 exposure to VSU rather than to each other.
 
+**Proposed by VoltPop, 2026-08-13 — not yet confirmed, and not yet run
+past Dr. Nicholson himself:** if his insurance is confirmed as covering
+all four Parties, the other three should help cover the cost of holding
+it — a budget line reimbursing Nicholson LLC for a portion of his
+premium, rather than him bearing the full cost of coverage that
+benefits everyone. Amount TBD pending his actual premium cost. See
+`Admin-Business-Legal.md` §6a, `TODOs-by-Owner.md` VoltPop admin item
+20.
+
 ## 8. Dispute Resolution
 
 **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
@@ -397,6 +442,17 @@ verify).
     obligations survive the Venture's end or a Party's exit for **3
     years** — a proposed default, not yet discussed by the group. (§5,
     `JV-Agreement-Vote-Form.md` item 16)
+16. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED, contingent on tomorrow's
+    vote:** beyond the confirmed fact that VSU pays Nicholson LLC only,
+    the rest of the payment structure is a proposal — Nicholson LLC
+    passes fees through to VoltPop, Builder Tech, and Explay as
+    subcontractor payments (not JV contributions/profit share), within a
+    **10-business-day** window of his actually receiving the
+    corresponding VSU funds, documented in **separate subcontractor
+    agreements** rather than in this JV Agreement itself. Dr. Nicholson's
+    own compensation, and whether he has a different preferred structure
+    for any of this, are both still open — this hasn't been run past him
+    yet. (§2, `JV-Agreement-Vote-Form.md` item 17)
 
 ## Open items before this becomes a real draft
 
@@ -426,13 +482,18 @@ LLC still need to actually confirm each one before it's a real term:**
     kept unanimous (§5, Question 14).
 11. Confidentiality survival period — proposed 3 years, not yet
     discussed by the group (§5, Question 15).
+12. Payment structure beyond "VSU pays Nicholson LLC only" —
+    subcontractor pass-through payments, the 10-business-day window, and
+    separate subcontractor agreements as the vehicle. Also still needs
+    Dr. Nicholson's own input, not just the other three's sign-off (§2,
+    Question 16).
 
 **Settled, not a Party-consent question:**
-12. `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
+13. `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
    rescope (not just recovery) — see the note in the Parties section
    above.
 
-**Once the group has actually weighed in on 1-8 above:**
-10. Draft real liability/indemnification and dispute-resolution
+**Once the group has actually weighed in on 1-12 above:**
+14. Draft real liability/indemnification and dispute-resolution
     language (§7, §8) to replace the current placeholders.
-11. Attorney review of the whole document before anyone signs anything.
+15. Attorney review of the whole document before anyone signs anything.

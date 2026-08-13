@@ -294,6 +294,30 @@ duration hasn't been discussed, worth a direct vote. Full text in
 
 ---
 
+### 17. Payment structure beyond "VSU pays Nicholson LLC only"
+*Confirmed fact, not part of this vote: VSU pays Nicholson LLC only,
+consistent with his prime-contractor role. This vote covers what
+happens next: Nicholson LLC passes fees through to VoltPop, Builder
+Tech, and Explay as subcontractor payments (not JV contributions or a
+profit share), within a 10-business-day window of actually receiving
+the corresponding VSU funds, documented in separate subcontractor
+agreements between Nicholson LLC and each of the three individually
+(not in this JV Agreement). Dr. Nicholson's own compensation amount is
+not part of this vote — still TBD — and neither is whether he'd prefer
+a different structure entirely; that hasn't been asked yet. Full text
+in `Joint-Venture-Agreement-Draft.md` §2.*
+
+| Party | Vote (Y/N) |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+---
+
 ## Not a group vote
 
 **Explay's exact legal entity name:** factual confirmation from Explay
