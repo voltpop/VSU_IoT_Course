@@ -266,6 +266,11 @@ doesn't get mistaken for a budget gap. Per Javon's 2026-07-31 meeting
 recap email, a "loaner laptop question" needs confirming by Aug 7,
 2026 — likely whether VSU will actually provide loaners for students
 without their own, which this assumption has never explicitly covered.
+**Decided (per VoltPop, 2026-08-13):** having a working laptop will be
+listed as a **requirement for participation** — shifts this from a
+VSU-supply assumption to a student-responsibility default. Separately,
+still ask VSU whether they have any loaners available for students who
+don't have one, as a fallback rather than the primary plan.
 
 **Resolved (per Javon, 2026-08-08):** cohort size is **max 60 students,
 in teams of 3-4** — not growth from the earlier 63/73 baseline/buffer
