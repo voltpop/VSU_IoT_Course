@@ -71,7 +71,7 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   review before signature, especially IP, FERPA, and liability
   sections, and needs VSU's contracts/procurement office looped in
   early.
-- **Decided at the Aug 7 meeting (per Drew): the Operating Agreement will be prioritized for value and efficacy** — Dr. Nicholson (assumed "he" from context; confirm if this was someone else) is OK with that approach. **Not yet specified:** what "value and efficacy" concretely means for drafting priorities — e.g., which sections get attorney attention first, or what gets simplified/deferred. Worth nailing down before this becomes the actual drafting instruction to whoever finalizes the Agreement.
+- **Decided at the Aug 7 meeting (per Drew): the Operating Agreement will be prioritized for value and efficacy** — Dr. Nicholson (assumed "he" from context; confirm if this was someone else) is OK with that approach. **Not yet specified:** what "value and efficacy" concretely means for drafting priorities — e.g., which sections get attorney attention first, or what gets simplified/deferred. Worth nailing down before this becomes the actual drafting instruction to whoever finalizes the Agreement. **Update (2026-08-12, per VoltPop):** VoltPop is starting work on this deliverable directly with Dr. Nicholson — the "value and efficacy" drafting-priorities question above is still open and worth resolving as part of that work, not a separate blocker.
 - Three sections need VSU counsel review: indemnification, liability
   caps, governing law/arbitration — standard commercial language in
   these areas may not survive VSU's sovereign-immunity and procurement
@@ -135,11 +135,7 @@ not yet reflected in the Software Licenses & Subscriptions figures in
     questions, VoltPop (Andrew) addresses technical/hardware-curriculum
     credibility, and Builder Tech (Javon) + Explay (Emanuel) address
     pedagogy/teaching-style questions.
-  - **Status:** Javon has raised this with VoltPop and Explay only, to
-    align before bringing it to Dr. Nicholson — not yet shared with him,
-    and not yet agreed by any party. Nothing in §1's party roles or IP
-    ownership should be treated as changed until that alignment happens
-    and this is confirmed on all sides.
+  - **Status — alignment reached (per VoltPop, 2026-08-12): "we've agreed to align behind Shawn."** VoltPop and Explay have now agreed to the substance of Javon's proposal (Dr. Nicholson as prime contractor). **Not yet done:** this still hasn't been brought to Dr. Nicholson himself — VoltPop is now the one initiating that conversation with him directly. Nothing in §1's party roles or IP ownership should be treated as changed until Dr. Nicholson has actually agreed to take on the prime-contractor role.
   - **Condensed with the internal MOUs/NDAs item above (per VoltPop,
     2026-08-05):** the two are intrinsically linked — both are really
     the same underlying question of what the internal contracting
