@@ -141,15 +141,19 @@ covers.*
 
 ---
 
-### 9. IP structure ratification
-*Curriculum IP is jointly owned by VoltPop, Builder Tech, and Explay
-via joint license; Nicholson LLC gets a limited license for this
-program only.*
+### 9. IP structure ratification — RESOLVED, per VoltPop (2026-08-13)
+*Curriculum IP is split/jointly owned by VoltPop, Builder Tech, and
+Explay; Nicholson LLC gets a limited license for this program only.
+Already resolved going into the meeting — this line is a formality
+confirmation, not an open vote.* **Outstanding correction needed
+before this is fully consistent: Javon's own Curriculum Development MOU
+draft (Exhibit A) still says Builder Tech is sole owner** — his draft
+needs updating to match, per `TODOs-by-Owner.md` Builder Tech item 21.
 
-| Party | Vote (Y/N) |
+| Party | Confirm (✓) |
 |---|---|
 | VoltPop | ☐ |
-| Builder Tech | ☐ |
+| Builder Tech | ☐ (contingent on his Exhibit A correction) |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 

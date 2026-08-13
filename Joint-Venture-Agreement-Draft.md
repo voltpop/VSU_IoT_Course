@@ -142,9 +142,14 @@ had agreed — see `TODOs-by-Owner.md`, Builder Tech item 19):
 
 ## 5. Intellectual Property and Confidentiality
 
-Per the prime-contractor proposal's IP terms (aligned 2026-08-12,
-**confirmed with Nicholson LLC himself as of 2026-08-13** — see
-`Admin-Business-Legal.md` §3):
+**Resolved, per VoltPop, 2026-08-13: split ownership among the
+curriculum creators.** Consistent with the prime-contractor proposal's
+IP terms (aligned 2026-08-12, confirmed with Nicholson LLC himself as
+of 2026-08-13 — see `Admin-Business-Legal.md` §3), and now also the
+resolved position on curriculum IP generally, governing both this JV
+Agreement and the separate Curriculum Development MOU (Javon's draft,
+`Files/Curriculum Development MOU Draft.docx`) among the three
+curriculum creators:
 
 - Curriculum IP for the current program is **jointly owned by VoltPop,
   Builder Tech, and Explay** via a joint licensing agreement among the
@@ -153,6 +158,15 @@ Per the prime-contractor proposal's IP terms (aligned 2026-08-12,
   for purposes of this specific program only — not joint ownership.
 - Each Party retains ownership of its own pre-existing materials
   brought into the Venture.
+- **Correction needed in the companion document (flagged 2026-08-13):**
+  Javon's Curriculum Development MOU draft (Exhibit A) currently states
+  the opposite — Builder Tech as **sole** owner of curriculum it
+  develops, with VoltPop and Explay receiving only a non-exclusive
+  license back. That contradicts the split-ownership resolution above
+  and needs correcting in his draft before either document is
+  finalized — not something to silently reconcile by rewriting his
+  document without his sign-off. See `TODOs-by-Owner.md`, Builder Tech
+  item 21.
 - **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
   three Parties: no Party may sell, license, or otherwise provide the
   jointly-developed program content to any of that Party's own
