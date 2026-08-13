@@ -1,0 +1,402 @@
+---
+title: Joint Venture Agreement — Draft (Builder Tech / VoltPop / Explay / Dr. Shawn M. Nicholson LLC)
+status: TEMPLATE ONLY — NOT LEGAL ADVICE — UNREVIEWED DRAFT
+drafted: 2026-08-13
+---
+
+> **This is a working template, not a finished legal document.**
+> Bracketed items are unresolved placeholders, not agreed terms. This
+> draft has **not** been reviewed by an attorney and should not be
+> signed, relied upon, or shared outside the four parties below until
+> it has. See `Admin-Business-Legal.md` §3 for how this relates to the
+> separate Operating Agreement (VSU-facing) and the still-open question
+> of whether this JV agreement supersedes or sits alongside the
+> internal MOUs/NDAs and the BTI/VoltPop/Explay future-opportunities
+> MOU already discussed there.
+
+# Joint Venture Agreement
+
+This Joint Venture Agreement ("**Agreement**") is entered into as of
+**[EFFECTIVE DATE]** by and among:
+
+1. **VoltPop LLC** ("VoltPop"), represented by Andrew "Drew" Foulks;
+2. **Builder Tech LLC** ("Builder Tech"), represented by Javon Guerrier;
+3. **Explay LLC** [per VoltPop's own check, 2026-08-13 — "it looks like
+   Explay LLC is his thing," a stronger signal than a guess but still
+   **pending Explay's own confirmation**, not yet independently
+   verified; see Explay's TODO item 12] ("Explay"), represented by
+   Emanuel Perez; and
+4. **Dr. Shawn M. Nicholson LLC** ("Nicholson LLC"), represented by
+   Dr. Shawn M. Nicholson,
+
+(each a "**Party**," collectively the "**Parties**").
+
+**Not a party to this Agreement:** Virginia State University ("VSU").
+VSU's relationship to the Parties is governed separately by the
+Operating Agreement referenced in `Admin-Business-Legal.md` §3
+(currently drafted as `VoltPop-BuilderTech-VSU-Agreement.md` — this
+file could not be located anywhere in this repository or its git
+history as of 2026-08-13, despite being referenced as existing in
+several TODO items). **Confirmed 2026-08-13, per VoltPop: this needs a
+full rebuild, not just recovery** — its very name reflects an outdated
+two-party framing (VoltPop + Builder Tech only) that no longer matches
+the current four-private-party structure. Rebuilding it should account
+for Explay and Nicholson LLC as full parties, and the prime-contractor
+structure below, not just restore whatever the original said.
+
+## 1. Purpose
+
+The Parties are forming this joint venture (the "**Venture**") to
+jointly design, develop, and deliver the educational program currently
+referred to in this KB by the placeholder name "VSU Innovation Program"
+(see `TODOs-by-Owner.md` item 16 under Builder Tech — the program's
+actual name is not yet decided), in partnership with Virginia State
+University, and to jointly pursue **future similar opportunities** with
+VSU or other institutions beyond this initial program.
+
+**Scope — proposed by VoltPop, 2026-08-13, not yet confirmed by the
+other three Parties: this Agreement would cover the current program
+only.** Under this proposal it would **not** serve as the
+"BTI/VoltPop/Explay MOU for future university opportunities" discussed
+in `Admin-Business-Legal.md` §3 — that would stay a separate,
+still-undrafted document. **Explicitly flagged, not just left undated:**
+VoltPop expects that if a future opportunity actually materializes, the
+structure here may well change (parties, roles, IP terms) — this
+proposal doesn't assume this Agreement's terms simply roll forward onto
+a future deal without renegotiation.
+
+## 2. Roles and Contributions
+
+Per the roles already documented in `Admin-Business-Legal.md` §1:
+
+| Party | Role | Contribution |
+|---|---|---|
+| VoltPop | Curriculum co-designer; CS/technical SME and instructor (hardware/IoT, AI-assisted development, open source) | In-kind: curriculum design + instruction time |
+| Builder Tech | Program Director/operator; Business Intelligence & Design instruction | In-kind: program operations + instruction time |
+| Explay | Curriculum co-designer; Entrepreneurship & Innovation instruction | In-kind: curriculum design + instruction time |
+| Nicholson LLC | Operations Director & Institutional Liaison to VSU; **prime contractor** for VSU-facing matters (per the alignment reached 2026-08-12 — see `TODOs-by-Owner.md`, Builder Tech item 19) | In-kind: institutional-liaison + operations work, plus his existing VSU relationships/standing used to secure the underlying contract |
+
+**No cash contributions are contemplated** — each Party's contribution
+is in-kind labor/expertise, and each Party is separately compensated
+per the program budget (`Admin-Business-Legal.md` §2/§6), not via a
+traditional JV profit split. [**Flag for attorney review:** this is a
+hybrid structure — a JV agreement layered on top of individual
+compensation arrangements rather than the more typical
+capital-contribution-for-profit-share model most JV templates assume.
+Worth confirming this hybrid approach is the right vehicle, rather than
+defaulting to standard JV profit/loss-allocation language that doesn't
+actually fit how these Parties get paid.]
+
+## 3. Prime/Subcontractor Structure
+
+**Confirmed 2026-08-13, per VoltPop: all four Parties have now aligned,
+including Dr. Nicholson himself** (previously only VoltPop and Explay
+had agreed — see `TODOs-by-Owner.md`, Builder Tech item 19):
+
+- Nicholson LLC acts as **prime contractor** to VSU, leveraging his
+  existing VSU relationships, insurance, and infrastructure.
+- VoltPop, Builder Tech, and Explay act as **subcontractors** to
+  Nicholson LLC under this arrangement.
+- **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
+  three Parties: "subcontractor" status would be purely about the
+  external VSU-facing contract structure, not an internal hierarchy.**
+  The functional description itself is accurate today (fact, not
+  proposal): Builder Tech (Javon) leads building the course itself,
+  VoltPop leads the technical bits, and Nicholson LLC runs
+  institutional/administrative interference with VSU. Whether Venture-
+  wide decisions stay governed only by §4's rule regardless of this
+  split, unaffected by the prime/subcontractor labels, is VoltPop's
+  proposal — not yet the group's confirmed position.
+
+## 4. Governance and Decision-Making
+
+- Day-to-day decisions within each Party's functional role (Builder
+  Tech building the course, VoltPop on the technical bits, Nicholson
+  LLC on institutional/administrative matters, Explay on curriculum
+  co-design and entrepreneurship instruction): that Party decides
+  unilaterally.
+- **Proposed by VoltPop, 2026-08-13 (revised same day from an earlier
+  unanimous-consent proposal) — not yet confirmed by the other three
+  Parties: decisions affecting the Venture as a whole (admitting a new
+  Party, transferring or assigning a Party's interest, amending this
+  Agreement) would require a majority vote — 3 of the 4 Parties — to
+  pass.** **Flagging a real gap this change introduces:** with four
+  Parties voting, a 2-2 split doesn't reach the 3-vote threshold, so
+  the motion simply fails and the status quo holds — no separate
+  tie-breaker mechanism is strictly needed, since "fails to reach
+  majority" is already a defined outcome. Worth confirming the group
+  is fine with that default (nothing changes on a 2-2 split) rather
+  than wanting an explicit tie-breaker (e.g., Nicholson LLC given his
+  prime-contractor role) for deadlocks specifically.
+- **Deliberate exception, per VoltPop, 2026-08-13: removing a Party
+  from the Agreement is kept unanimous, not majority** — consistent
+  with §6's termination-for-cause provision, which is the same action
+  under a different name. Requires all three remaining Parties to
+  agree, not just 2 of 3. See §6 and `JV-Agreement-Vote-Form.md`
+  item 10.
+- **Still open (per VoltPop, 2026-08-13: "I don't know"):** whether
+  Nicholson LLC must consult the other three Parties before making
+  VSU-facing decisions specifically, or has full discretion there as
+  prime contractor. Genuinely undecided — needs a real group
+  discussion, not a guess.
+
+## 5. Intellectual Property and Confidentiality
+
+Per the prime-contractor proposal's IP terms (aligned 2026-08-12,
+**confirmed with Nicholson LLC himself as of 2026-08-13** — see
+`Admin-Business-Legal.md` §3):
+
+- Curriculum IP for the current program is **jointly owned by VoltPop,
+  Builder Tech, and Explay** via a joint licensing agreement among the
+  three of them.
+- Nicholson LLC receives a **limited license** to use the curriculum
+  for purposes of this specific program only — not joint ownership.
+- Each Party retains ownership of its own pre-existing materials
+  brought into the Venture.
+- **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
+  three Parties: no Party may sell, license, or otherwise provide the
+  jointly-developed program content to any of that Party's own
+  previous or current clients without unanimous consent of the
+  remaining three Parties.** Kept unanimous, consistent with §6's
+  termination provisions, rather than the majority standard in §4/§9 —
+  this is a content-protection clause, not a routine governance
+  decision. [**Scoping assumption, needs confirming:** this restricts
+  the *jointly-owned* curriculum specifically (per the bullet above),
+  not each Party's own separately-owned pre-existing materials, which
+  presumably that Party can already use with its own clients freely.
+  Worth confirming that reading is actually what's intended.] See
+  `JV-Agreement-Vote-Form.md` item 14.
+- **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
+  three Parties: a non-compete on the jointly-developed curriculum
+  specifically.** No Party may use the jointly-developed curriculum to
+  build or operate a directly competing program (same or substantially
+  similar curriculum, at another institution) without **unanimous**
+  consent of the other three — kept unanimous, same reasoning as the
+  content-sale restriction above. Applies during the Venture's term and
+  for **12 months** after that Party exits or the Venture ends — a
+  defined tail, not indefinite, per standard non-compete practice
+  (scope needs to stay reasonable to be enforceable under Virginia law,
+  which limits overly broad restrictions). Distinct from the
+  content-sale restriction above — this covers building a rival
+  program generally, including with entirely new clients, not just
+  selling to an existing client list. Does **not** restrict a Party's
+  own general skills/expertise outside the specific jointly-developed
+  materials (e.g., VoltPop teaching IoT concepts elsewhere using his
+  own materials). See `JV-Agreement-Vote-Form.md` item 15.
+- [**Not yet specified:** IP terms for any future opportunities pursued
+  under §1 above, if this Agreement is meant to cover those too.]
+
+### Confidentiality
+
+- **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
+  three Parties.** Each Party agrees to keep confidential any
+  non-public information shared by another Party in connection with
+  the Venture — including compensation/financial terms, stakeholder
+  and donor negotiation details, unpublished curriculum drafts, and
+  internal strategic discussions ("Confidential Information").
+- Confidential Information may be used only for purposes of the
+  Venture, and may not be disclosed to third parties without the
+  disclosing Party's consent.
+- **Standard exceptions** (not restricted by the above): information
+  that is or becomes publicly available through no fault of the
+  receiving Party; information independently developed without
+  reference to the disclosed information; disclosure required by law,
+  regulation, or court order, with prior notice to the disclosing
+  Party where legally permitted.
+- **Survival — proposed default, needs group input:** confidentiality
+  obligations survive the end of the Venture's term or any Party's
+  exit for **3 years**, rather than indefinitely — reasonable given
+  this isn't trade-secret-level information, but this duration hasn't
+  actually been discussed. See `JV-Agreement-Vote-Form.md` item 16.
+
+**Note:** this differs from the *older* IP structure still described in
+`Admin-Business-Legal.md` §1 ("jointly owned by Explay and VoltPop...
+Builder Tech and VSU each getting a license") — that older structure
+predates the prime-contractor alignment and should now be treated as
+**superseded**, since Nicholson LLC has confirmed the prime-contractor
+role as of 2026-08-13. `Admin-Business-Legal.md` §1 itself still needs
+updating to match — flagged there separately.
+
+## 6. Term and Termination
+
+- **Effective date:** [TBD — Nicholson LLC has now confirmed the
+  prime-contractor role per §3 above, so this is no longer blocked on
+  that; still needs an actual calendar date].
+- **Term — proposed by VoltPop, 2026-08-13, not yet confirmed by the
+  other three Parties (follows mechanically from §1's proposed
+  current-program-only scope, so carries the same status):** the
+  Venture's term would run through the current program's completion,
+  currently scheduled January–April 2027 per `Course-Curriculum.md`
+  §4, and would **not** automatically continue into any future
+  opportunity — see §1's scope note.
+- **Termination — proposed boilerplate for the group's 2026-08-14
+  vote, adapted from standard JV termination-clause practice (not yet
+  agreed by anyone):**
+  - Voluntary withdrawal: 30 days' written notice to the other three
+    Parties.
+  - No mid-cohort exit without **unanimous** consent of the other
+    three, given the continuity/FERPA obligations already flagged in
+    `Admin-Business-Legal.md` §3/§7. **Deliberately kept unanimous
+    (per VoltPop, 2026-08-13), unlike §4/§9's switch to majority** —
+    termination decisions carry more weight than routine Venture-wide
+    decisions and warrant full agreement, not a 3-1 override.
+  - Confidentiality and IP terms (§5) survive any Party's exit
+    regardless of cause.
+  - An exiting Party must reasonably transition its in-progress duties/
+    materials to the remaining Parties before the notice period ends.
+  - Exiting Party is compensated pro-rata for completed work only, per
+    the existing budget terms (`Admin-Business-Legal.md` §2/§6) — no
+    compensation for uncompleted phases.
+  - Termination for cause (breach, insolvency, misconduct): no notice
+    period required, effective on a **unanimous** vote of the other
+    three — same deliberate exception as above.
+  - See `JV-Agreement-Vote-Form.md` item 10 for the actual vote.
+
+## 7. Liability and Indemnification
+
+**Proposed by VoltPop, 2026-08-13 — not yet confirmed as formal
+coverage: Nicholson LLC's existing insurance would be the intended
+mechanism for Party-to-Party liability exposure.** This is reportedly a
+shared reason the Parties aligned behind him as prime contractor in the
+first place (§3) — his existing insurance and VSU standing, not just
+his institutional relationships — but that's a rationale for the
+overall structure, not the same as the other three Parties having
+agreed this specific policy actually covers them. **Needs both the
+other Parties' explicit sign-off and attorney/insurance-review
+attention before this is real language:** what does Nicholson LLC's
+policy actually cover (does it extend to the other three Parties, or
+only to Nicholson LLC itself), what are its limits, and does it
+address the specific exposure here (e.g., a Party's negligence during
+the program)? This is distinct from the VSU-facing indemnification/
+liability-cap language already flagged for attorney review in
+`Admin-Business-Legal.md` §3, which covers the Parties' collective
+exposure to VSU rather than to each other.
+
+## 8. Dispute Resolution
+
+**Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
+three Parties: Virginia law would govern, per VoltPop's direction to
+"see VA law on that one."** [**Still needs drafting and group
+agreement:** the actual resolution mechanism — direct negotiation
+first, then mediation, then binding arbitration or litigation as a
+last resort is the typical default structure, and nothing so far
+suggests the Parties want something unusual, but this hasn't been
+explicitly chosen by anyone but VoltPop. Also confirm the specific
+Virginia venue/county for any arbitration or litigation.]
+
+## 9. Miscellaneous
+
+- **Relationship to other documents:** this Agreement does not modify
+  or supersede the separate Operating Agreement governing the
+  Parties' collective relationship with VSU, or any individual
+  compensation arrangements under `Admin-Business-Legal.md` §2/§6.
+- **Assignment/transfer — proposed by VoltPop, 2026-08-13 (revised
+  same day to match §4's switch to majority), not yet confirmed by the
+  other three Parties:** transferring or assigning a Party's interest
+  would require a majority vote (3 of 4) — consistent with §4's
+  proposed governance rule above, and carrying the same
+  not-yet-confirmed status.
+- [**Standard boilerplate still not drafted:** entire-agreement clause,
+  amendment process, severability, notices.]
+
+---
+
+## Questions to bring to the group (2026-08-13, updated same day)
+
+**Important distinction:** VoltPop answering a question here means it's
+his intended direction for this draft — it does **not** mean Builder
+Tech, Explay, or Nicholson LLC have actually agreed to it. Anything
+that sets a binding term for all four Parties is marked **PROPOSED —
+NOT YET CONFIRMED** below, not RESOLVED, until the other three actually
+sign off. RESOLVED is reserved for things that are simply true
+regardless of drafting (an event that already happened, a fact to
+verify).
+
+1. **PENDING VERIFICATION (not VoltPop's to confirm alone):** entity is
+   believed to be "Explay LLC" — added to Explay's own TODO list for
+   Explay to confirm directly. (§ Parties)
+2. **RESOLVED (fact):** yes, Dr. Nicholson has agreed to the
+   prime-contractor role. All four Parties are now aligned on that
+   specific point. (§3, §5)
+3. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** scoping this Agreement
+   to the current program only, not the future-opportunities MOU, with
+   an explicit flag that a future engagement may need a different
+   structure. This is VoltPop's drafting direction, not yet run past
+   the other three. (§1)
+4. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (revised 2026-08-13 from
+   an earlier unanimous-consent proposal):** majority vote (3 of 4) for
+   Venture-wide decisions (admitting a new Party, transferring/
+   assigning an interest, amending the Agreement), not unanimous
+   consent. **Removing a Party is a deliberate exception, kept
+   unanimous** — same action as §6's termination-for-cause. The other
+   three haven't actually agreed to any of this yet — also worth
+   confirming the group is fine with a 2-2 split simply failing to
+   pass on the majority items, rather than wanting an explicit
+   tie-breaker. (§4, §6)
+5. **STILL OPEN ("I don't know," per VoltPop) — needs the full group:**
+   does Nicholson LLC need to consult the other three before VSU-facing
+   decisions, or is it his call alone? (§3, §4)
+6. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** term runs through the
+   current program's completion (~April 2027) — follows mechanically
+   from #3's scope answer, so carries the same not-yet-confirmed
+   status. (§6)
+7. **STILL OPEN ("we'll discuss this," per VoltPop) — needs the full
+   group:** what happens to in-progress obligations if a Party exits
+   mid-program? (§6)
+8. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED as formal coverage:**
+   Nicholson LLC's existing insurance is intended as the
+   liability-coverage mechanism — reportedly a shared reason the group
+   aligned behind him as prime, but whether his actual policy legally
+   covers the other three Parties is unconfirmed, and needs both the
+   other Parties' sign-off and an attorney/insurance-review check. (§7)
+9. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** Virginia law governs
+   disputes; specific venue/mechanism (mediation → arbitration, or
+   something else) still needs drafting and group agreement. (§8)
+10. **RESOLVED (fact/decision, not a Party-consent question):**
+    `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
+    rescope, not just recovery — its two-party framing is outdated now
+    that Explay and Nicholson LLC are full parties. (§ intro)
+11. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** "subcontractor" status
+    is external/VSU-facing only — internally the split is functional
+    (Builder Tech builds the course, VoltPop leads technical, Nicholson
+    LLC handles institutional/admin), governed by #4's rule regardless.
+    The functional-roles description is accurate today; whether it
+    stays governance-irrelevant under a signed Agreement is still
+    VoltPop's proposal, not the group's confirmed position. (§3, §4)
+12. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (revised 2026-08-13 to
+    match #4):** transferring/assigning a Party's interest requires a
+    majority vote (3 of 4), not unanimous consent — consistent with
+    #4, and carries the same not-yet-confirmed status. (§9)
+
+## Open items before this becomes a real draft
+
+**Genuinely undecided by anyone — needs the full group, not just
+VoltPop:**
+1. Whether Nicholson LLC must consult the other three before VSU-facing
+   decisions, or has full discretion (§3, §4, Question 5).
+2. What happens to in-progress obligations if a Party exits mid-program
+   (§6, Question 7).
+3. Confirm Explay's exact legal entity name — on Explay's own TODO list
+   (Question 1).
+
+**VoltPop has proposed an answer; Builder Tech, Explay, and Nicholson
+LLC still need to actually confirm each one before it's a real term:**
+4. Scoping the Agreement to the current program only (§1).
+5. Unanimous consent for Venture-wide decisions, including
+   admitting/removing a Party or transferring an interest (§4, §9).
+6. Term ending with the current program (§6).
+7. Nicholson LLC's insurance as the Party-to-Party liability mechanism
+   — also needs an actual insurance-coverage confirmation, separate
+   from the other Parties' sign-off (§7).
+8. Virginia law/venue for dispute resolution, and the actual mediation/
+   arbitration mechanism itself (§8).
+
+**Settled, not a Party-consent question:**
+9. `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
+   rescope (not just recovery) — see the note in the Parties section
+   above.
+
+**Once the group has actually weighed in on 1-8 above:**
+10. Draft real liability/indemnification and dispute-resolution
+    language (§7, §8) to replace the current placeholders.
+11. Attorney review of the whole document before anyone signs anything.

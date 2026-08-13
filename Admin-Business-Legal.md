@@ -25,13 +25,26 @@ the VSU Innovation Program. For curriculum/teaching content, see
 role description above is accurate: curriculum co-design plus
 Entrepreneurship & Innovation instruction.
 
-**IP ownership (current draft state):** Program Curriculum is jointly
-owned by Explay and VoltPop as co-designers (equal shares), with Builder
-Tech and VSU each getting a license to use it. Each party retains its
-own pre-existing materials; newly co-created ("Joint") materials are
-jointly owned with a license back to VSU for course use. Student
-portfolio IP is left to VSU's own academic IP policy, with a license
-back to VoltPop/Builder Tech/Explay to showcase anonymized student work.
+**IP ownership — superseded 2026-08-13, per VoltPop (Dr. Nicholson's
+prime-contractor confirmation completes the alignment reached
+2026-08-12):** Program Curriculum is now jointly owned by **VoltPop,
+Builder Tech, and Explay** via a joint license among the three of them,
+with **Nicholson LLC** receiving a limited license to use it for this
+specific program only. This replaces the older draft-state structure
+(Explay/VoltPop joint ownership with Builder Tech/VSU each getting a
+license) — kept below for reference only, not as the current state:
+
+> *(superseded)* Program Curriculum was jointly owned by Explay and
+> VoltPop as co-designers (equal shares), with Builder Tech and VSU
+> each getting a license to use it.
+
+Each party retains its own pre-existing materials; newly co-created
+("Joint") materials are jointly owned with a license back to VSU for
+course use. Student portfolio IP is left to VSU's own academic IP
+policy, with a license back to VoltPop/Builder Tech/Explay to showcase
+anonymized student work. **Not yet drafted:** the actual license terms
+Nicholson LLC receives under the new structure — see
+`Joint-Venture-Agreement-Draft.md` §5.
 
 ## 2. Compensation (current, per 2026-07-31 budget revision — see §6)
 
@@ -135,7 +148,7 @@ not yet reflected in the Software Licenses & Subscriptions figures in
     questions, VoltPop (Andrew) addresses technical/hardware-curriculum
     credibility, and Builder Tech (Javon) + Explay (Emanuel) address
     pedagogy/teaching-style questions.
-  - **Status — alignment reached (per VoltPop, 2026-08-12): "we've agreed to align behind Shawn."** VoltPop and Explay have now agreed to the substance of Javon's proposal (Dr. Nicholson as prime contractor). **Not yet done:** this still hasn't been brought to Dr. Nicholson himself — VoltPop is now the one initiating that conversation with him directly. Nothing in §1's party roles or IP ownership should be treated as changed until Dr. Nicholson has actually agreed to take on the prime-contractor role.
+  - **Status — fully aligned (per VoltPop, 2026-08-13): Dr. Nicholson has now agreed to the prime-contractor role.** VoltPop and Explay aligned on 2026-08-12; Nicholson's own confirmation followed on 2026-08-13, completing alignment across all four private parties. §1's party roles and IP ownership (above) should now be treated as **superseded** by this structure — curriculum IP stays with VoltPop/Builder Tech/Explay via joint license, with Nicholson LLC receiving a limited license for this program only — not the older "Explay/VoltPop joint-ownership + Builder Tech/VSU license" framing still written in §1. §1 itself still needs a direct rewrite to match; flagging here in the meantime so the two sections don't silently disagree. See the first-pass `Joint-Venture-Agreement-Draft.md` for how this is being worked through with the group.
   - **Condensed with the internal MOUs/NDAs item above (per VoltPop,
     2026-08-05):** the two are intrinsically linked — both are really
     the same underlying question of what the internal contracting
@@ -143,6 +156,23 @@ not yet reflected in the Software Licenses & Subscriptions figures in
     as one combined item to work through **after** the stakeholder
     presentation milestone (Aug 21/28), rather than by the original Aug
     7 date — see `TODOs-by-Owner.md`.
+- **New legal document needed — Joint Venture agreement (flagged
+  2026-08-13, per VoltPop):** a formal JV agreement covering all
+  parties involved. **First-pass draft started 2026-08-13:**
+  `Joint-Venture-Agreement-Draft.md` — covers the four private entities
+  (VoltPop, Builder Tech, Explay, Nicholson LLC) only, not VSU. Heavily
+  placeholder-laden; needs the Parties to actually work through it
+  together before it's anywhere close to attorney-ready. **Not yet clarified:** how this relates to the
+  documents already discussed above — is it the same vehicle as the
+  "internal MOUs and temporary NDAs" stopgap, the BTI/VoltPop/Explay
+  future-opportunities MOU from Javon's prime-contractor proposal, a
+  formalization of that same four-entity relationship now that
+  alignment behind Dr. Nicholson-as-prime is reached, or a genuinely
+  separate document layered on top of the main Operating Agreement?
+  Needs scoping (which parties, what it covers, how it interacts with
+  the prime/subcontractor structure) before drafting starts — likely
+  needs the same attorney/VSU-counsel review path as the Operating
+  Agreement above (see `TODOs-by-Owner.md`).
 
 ## 4. Team roster, VSU contacts & regional focus
 
