@@ -381,6 +381,22 @@ verify).
     match #4):** transferring/assigning a Party's interest requires a
     majority vote (3 of 4), not unanimous consent — consistent with
     #4, and carries the same not-yet-confirmed status. (§9)
+13. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** no Party may sell,
+    license, or otherwise provide the jointly-developed program content
+    to any of that Party's own previous or current clients without
+    **unanimous** consent of the remaining three — a content-protection
+    clause, kept unanimous rather than following #4's majority standard.
+    (§5, `JV-Agreement-Vote-Form.md` item 14)
+14. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** a 12-month
+    post-exit non-compete on the jointly-developed curriculum
+    specifically, requiring **unanimous** consent of the other three to
+    waive — does not restrict a Party's own general skills/expertise
+    outside the jointly-developed materials. (§5, `JV-Agreement-Vote-Form.md`
+    item 15)
+15. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** confidentiality
+    obligations survive the Venture's end or a Party's exit for **3
+    years** — a proposed default, not yet discussed by the group. (§5,
+    `JV-Agreement-Vote-Form.md` item 16)
 
 ## Open items before this becomes a real draft
 
@@ -404,9 +420,15 @@ LLC still need to actually confirm each one before it's a real term:**
    from the other Parties' sign-off (§7).
 8. Virginia law/venue for dispute resolution, and the actual mediation/
    arbitration mechanism itself (§8).
+9. Restriction on selling jointly-developed content to a Party's own
+   clients, kept unanimous (§5, Question 13).
+10. Non-compete on the jointly-developed curriculum, 12-month tail,
+    kept unanimous (§5, Question 14).
+11. Confidentiality survival period — proposed 3 years, not yet
+    discussed by the group (§5, Question 15).
 
 **Settled, not a Party-consent question:**
-9. `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
+12. `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
    rescope (not just recovery) — see the note in the Parties section
    above.
 
