@@ -377,7 +377,17 @@ contributions rather than cash.
   existing VSU role, it may not need a new cash line at all.
 - **Insurance ($4,000)** — VSU likely already carries institutional
   liability/campus insurance; worth checking whether it extends to
-  cover this program's activities.
+  cover this program's activities. **Distinct question, flagged
+  2026-08-13, per VoltPop:** this $4,000 line is VSU-side coverage, not
+  the same as Nicholson LLC's own insurance, which the Joint Venture
+  draft proposes (§7, not yet confirmed) as the **Party-to-Party**
+  liability mechanism among the four private entities. If that holds,
+  a **separate budget line to reimburse Nicholson LLC for a portion of
+  his own insurance premium** may be warranted, since the coverage
+  would then be protecting all four Parties, not just him — amount not
+  yet determined; needs his actual premium cost first
+  (`Joint-Venture-Agreement-Draft.md` §7, `JV-Agreement-Vote-Form.md`
+  item 7).
 - **Legal Fees ($4,000)** — VSU's own counsel needs to review the
   Agreement on VSU's side regardless; presumably already in-kind.
 - **Event venue costs** (part of the $10,000 Events line) — if events
@@ -539,3 +549,4 @@ looped in.
 14. Put internal MOUs and temporary NDAs in place by Aug 7, 2026, per Javon's 2026-07-31 meeting recap (§3) — scope/parties/duration still unspecified.
 15. Confirm the loaner-laptop question by Aug 7, 2026, per the same email (§6) — resolve whether VSU will provide loaners for students without their own.
 16. Meet the overall Aug 21/28, 2026 VSU-presentation milestone from Javon's recap — see TODOs-by-Owner.md for the full categorized list (owners pending his delegation email).
+17. **[New, flagged 2026-08-13, per VoltPop]** Add a budget line to reimburse Dr. Nicholson LLC for a portion of his insurance premium, since his insurance is proposed (`Joint-Venture-Agreement-Draft.md` §7) as the Party-to-Party liability mechanism covering all four Parties, not just him — distinct from the existing $4,000 VSU-side insurance line (§6a). Amount TBD pending his actual premium cost.

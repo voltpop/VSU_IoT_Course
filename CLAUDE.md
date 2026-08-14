@@ -123,8 +123,16 @@ branch/worktree can easily fall behind `main`:
   budget content in `Admin-Business-Legal.md`, curriculum/schedule
   content in `Course-Curriculum.md`, stakeholder research in
   `Stakeholder-Notes.md`, press materials in `Press-Kit-Content.md` and
-  `assets/`, cross-party action items in `TODOs-by-Owner.md`. Don't fork
-  new top-level files without a clear reason.
+  `assets/`. Don't fork new top-level files without a clear reason.
+- **`TODOs-by-Owner.md` (restructured 2026-08-13):** scoped to
+  cross-party deliverables tied to a specific formal agreement — one
+  table per agreement, per party, with columns for checkbox /
+  deliverable / due date / who assigned it / a short note.
+- **`<Party>-Workspace.md` (new, 2026-08-13) — the one established
+  exception to "don't fork new top-level files" above.** Each party's
+  own personal work and the fuller history behind their
+  `TODOs-by-Owner.md` rows live here instead, so trimming a shared
+  table never actually loses anything.
 - When a figure or fact changes, update it in place rather than leaving
   stale figures alongside new ones — note *what changed and when* if
   the change is non-obvious.

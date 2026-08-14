@@ -6,23 +6,21 @@ status: for use at the 2026-08-14 meeting — fill in during/after the vote
 
 # Joint Venture Agreement — Vote Form
 
-For use at the 2026-08-14 meeting. Each term below is a proposal from
-`Joint-Venture-Agreement-Draft.md` — full context/reasoning for each is
-in that file's "Questions to bring to the group" section. Record each
-Party's vote, then the final result and any notes, so this doubles as
-the meeting record once it's filled in.
+For use at the 2026-08-14 meeting. Full text/context for every item is
+in `Joint-Venture-Agreement-Draft.md`, linked below by section — read
+there if wanted, nothing more than the title is needed to vote. Record
+each Party's vote, then the final result and any notes, so this doubles
+as the meeting record once it's filled in.
 
 **Parties voting:** VoltPop LLC | Builder Tech LLC | Explay LLC
 (pending entity confirmation) | Dr. Shawn M. Nicholson LLC
 
 ---
 
-### 1. Scope
-*This JV Agreement covers the current VSU program only — not future
-university opportunities (those would stay a separate, still-undrafted
-MOU).*
+<a id="vote-1"></a>
+### 1. Scope — current program only *([draft §1](Joint-Venture-Agreement-Draft.md#sec-1))*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -33,11 +31,10 @@ MOU).*
 
 ---
 
-### 2. Term
-*Following from #1: the Agreement's term ends when the current program
-does (~April 2027), not open-ended.*
+<a id="vote-2"></a>
+### 2. Term — ends with the current program (~April 2027) *([draft §6](Joint-Venture-Agreement-Draft.md#sec-6))*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -48,15 +45,10 @@ does (~April 2027), not open-ended.*
 
 ---
 
-### 3. Venture-wide decisions require majority vote
-*Admitting a new Party, transferring/assigning an interest, or amending
-the Agreement requires a majority vote — 3 of 4 — not unanimous
-consent. (Revised 2026-08-13 from an earlier unanimous-consent
-proposal.) A 2-2 split simply fails to pass; no separate tie-breaker is
-proposed. **Removing a Party is NOT covered by this item** — see item
-10, kept unanimous.*
+<a id="vote-3"></a>
+### 3. Venture-wide decisions (incl. transferring an interest) require majority vote, not unanimous *([draft §4](Joint-Venture-Agreement-Draft.md#sec-4), [§9](Joint-Venture-Agreement-Draft.md#sec-9))*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -67,9 +59,10 @@ proposed. **Removing a Party is NOT covered by this item** — see item
 
 ---
 
-### 4. Transferring a Party's interest requires majority vote (3 of 4)
+<a id="vote-4"></a>
+### 4. Subcontractor status is external-only, not an internal hierarchy *([draft §3](Joint-Venture-Agreement-Draft.md#sec-3))*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -80,12 +73,10 @@ proposed. **Removing a Party is NOT covered by this item** — see item
 
 ---
 
-### 5. Subcontractor status is external-only
-*"Subcontractor" status under the VSU contract is external/VSU-facing
-only — it does not create an internal chain of command between the
-four Parties.*
+<a id="vote-5"></a>
+### 5. Nicholson LLC must consult the other three before VSU-facing decisions *([draft §4](Joint-Venture-Agreement-Draft.md#sec-4))*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -96,28 +87,10 @@ four Parties.*
 
 ---
 
-### 6. Nicholson LLC's VSU-facing decision authority
-*Genuinely undecided — no proposed default. Does Nicholson LLC need to
-consult the other three before VSU-facing decisions, or is it his call
-alone?*
+<a id="vote-6"></a>
+### 6. Nicholson LLC's insurance as the Party-to-Party liability mechanism *([draft §7](Joint-Venture-Agreement-Draft.md#sec-7))*
 
-| Party | Preference (Consult / Full discretion) |
-|---|---|
-| VoltPop | ______________ |
-| Builder Tech | ______________ |
-| Explay | ______________ |
-| Nicholson LLC | ______________ |
-
-**Result:** ______________ **Notes:** ___________________________________
-
----
-
-### 7. Nicholson LLC's insurance as the liability mechanism
-*Accepted as the intended Party-to-Party liability-coverage mechanism —
-pending separate insurance/attorney verification of what it actually
-covers.*
-
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -128,9 +101,10 @@ covers.*
 
 ---
 
-### 8. Virginia law governs disputes
+<a id="vote-7"></a>
+### 7. Virginia law governs disputes *([draft §8](Joint-Venture-Agreement-Draft.md#sec-8))*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -141,14 +115,8 @@ covers.*
 
 ---
 
-### 9. IP structure ratification — RESOLVED, per VoltPop (2026-08-13)
-*Curriculum IP is split/jointly owned by VoltPop, Builder Tech, and
-Explay; Nicholson LLC gets a limited license for this program only.
-Already resolved going into the meeting — this line is a formality
-confirmation, not an open vote.* **Outstanding correction needed
-before this is fully consistent: Javon's own Curriculum Development MOU
-draft (Exhibit A) still says Builder Tech is sole owner** — his draft
-needs updating to match, per `TODOs-by-Owner.md` Builder Tech item 21.
+<a id="vote-8"></a>
+### 8. IP structure ratification — split ownership (VoltPop/Builder Tech/Explay), Nicholson LLC licensed *([draft §5](Joint-Venture-Agreement-Draft.md#sec-5))*
 
 | Party | Confirm (✓) |
 |---|---|
@@ -161,18 +129,10 @@ needs updating to match, per `TODOs-by-Owner.md` Builder Tech item 21.
 
 ---
 
-### 10. Termination / exit mid-program
-*Proposed boilerplate (adapted from standard JV practice, not yet
-agreed by anyone): 30 days' written notice to withdraw; no mid-cohort
-exit without **unanimous** consent of the other three; confidentiality/
-IP terms survive exit; exiting Party must hand off in-progress duties;
-exiting Party is paid pro-rata for completed work only; termination for
-cause (breach/insolvency/misconduct) is immediate on a **unanimous**
-vote of the other three. Deliberately kept unanimous (per VoltPop)
-even though items 3-4 use majority — termination carries more weight.
-Full text in `Joint-Venture-Agreement-Draft.md` §6.*
+<a id="vote-9"></a>
+### 9. Termination / exit mid-program *([draft §6](Joint-Venture-Agreement-Draft.md#sec-6))*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -183,31 +143,10 @@ Full text in `Joint-Venture-Agreement-Draft.md` §6.*
 
 ---
 
-### 11. Dispute resolution mechanism
-*Separate from item 8 (which law governs): direct negotiation first,
-then mediation, then binding arbitration as a last resort — the
-standard default structure — versus going straight to litigation, or
-something else entirely.*
+<a id="vote-10"></a>
+### 10. Dispute resolution mechanism: negotiate → mediate → arbitrate *([draft §8](Joint-Venture-Agreement-Draft.md#sec-8))*
 
-| Party | Preference |
-|---|---|
-| VoltPop | ______________ |
-| Builder Tech | ______________ |
-| Explay | ______________ |
-| Nicholson LLC | ______________ |
-
-**Result:** ______________ **Notes:** ___________________________________
-
----
-
-### 12. No separate JV-level profit split
-*Explicit ratification that this Agreement creates no venture-level
-profit-sharing right — compensation stays governed entirely by each
-Party's existing individual arrangement in `Admin-Business-Legal.md`
-§2/§6, and this Agreement doesn't modify the separate VSU-facing
-Operating Agreement.*
-
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -218,32 +157,10 @@ Operating Agreement.*
 
 ---
 
-### 13. What counts as valid "written notice"
-*Relevant to item 10's 30-day withdrawal notice: is email sufficient,
-or does formal notice require something more (certified mail, etc.)?*
+<a id="vote-11"></a>
+### 11. No separate JV-level profit split *([draft §2](Joint-Venture-Agreement-Draft.md#sec-2), [§9](Joint-Venture-Agreement-Draft.md#sec-9))*
 
-| Party | Preference (Email OK / Formal method required) |
-|---|---|
-| VoltPop | ______________ |
-| Builder Tech | ______________ |
-| Explay | ______________ |
-| Nicholson LLC | ______________ |
-
-**Result:** ______________ **Notes:** ___________________________________
-
----
-
-### 14. Restriction on selling content to a Party's own clients
-*No Party may sell, license, or otherwise provide the jointly-developed
-program content to any of that Party's own previous or current clients
-without **unanimous** consent of the remaining three Parties. Kept
-unanimous, consistent with items 3/10's removal provisions, not the
-majority standard in items 3-4/9 generally. Scoping assumption: this
-covers the jointly-owned curriculum specifically, not each Party's own
-separately-owned pre-existing materials — confirm that reading is
-correct. Full text in `Joint-Venture-Agreement-Draft.md` §5.*
-
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -254,16 +171,10 @@ correct. Full text in `Joint-Venture-Agreement-Draft.md` §5.*
 
 ---
 
-### 15. Non-compete on the jointly-developed curriculum
-*No Party may use the jointly-developed curriculum to build/operate a
-directly competing program without **unanimous** consent of the other
-three. Applies during the Venture's term + 12 months after exit. Does
-not restrict a Party's own general skills/expertise, only the specific
-jointly-developed materials. Distinct from item 14 (selling to existing
-clients specifically). Full text in `Joint-Venture-Agreement-Draft.md`
-§5.*
+<a id="vote-12"></a>
+### 12. Email is the adopted method of written notice *([draft §6](Joint-Venture-Agreement-Draft.md#sec-6))*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -274,21 +185,81 @@ clients specifically). Full text in `Joint-Venture-Agreement-Draft.md`
 
 ---
 
-### 16. Confidentiality clause
-*Each Party keeps the others' non-public info confidential (financial
-terms, stakeholder/donor negotiation details, unpublished curriculum,
-internal strategy) — standard public-info/independent-development/
-legally-required-disclosure exceptions apply. Proposed survival period
-after exit/Venture end: 3 years (not indefinite) — this specific
-duration hasn't been discussed, worth a direct vote. Full text in
-`Joint-Venture-Agreement-Draft.md` §5.*
+<a id="vote-13"></a>
+### 13. Non-Circumvention and Non-Compete (incl. dealing directly with VSU) *([draft §5](Joint-Venture-Agreement-Draft.md#sec-5))*
 
-| Party | Vote (Y/N on the clause itself) | Preferred survival period |
-|---|---|---|
-| VoltPop | ☐ | ______________ |
-| Builder Tech | ☐ | ______________ |
-| Explay | ☐ | ______________ |
-| Nicholson LLC | ☐ | ______________ |
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+---
+
+<a id="vote-14"></a>
+### 14. Confidentiality clause, 3-year survival *([draft §5](Joint-Venture-Agreement-Draft.md#sec-5))*
+
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+---
+
+<a id="vote-15"></a>
+### 15. Payment structure beyond "VSU pays Nicholson LLC only" *([draft §2](Joint-Venture-Agreement-Draft.md#sec-2))*
+
+**15a.** Subcontractor payments, not JV contributions/profit share
+
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+**15b.** 10-business-day pass-through window
+
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+**15c.** Separate subcontractor agreements as the vehicle
+
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+---
+
+<a id="vote-16"></a>
+### 16. No tie-breaker for a 2-2 governance split (item 3) *([draft §4](Joint-Venture-Agreement-Draft.md#sec-4))*
+
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
 
 **Result:** ______________ **Notes:** ___________________________________
 
@@ -297,8 +268,6 @@ duration hasn't been discussed, worth a direct vote. Full text in
 ## Not a group vote
 
 **Explay's exact legal entity name:** factual confirmation from Explay
-directly, not a vote. VoltPop's own check (2026-08-13): "it looks like
-Explay LLC is his thing" — a stronger signal than a guess, but still
-needs Explay's own confirmation before treating it as settled.
+directly, not a vote — see draft, Parties section.
 
 Confirmed name: _______________________________

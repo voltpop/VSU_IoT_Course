@@ -164,9 +164,22 @@ routine git mechanic to fix silently:
   content in `Admin-Business-Legal.md`, curriculum/schedule content in
   `Course-Curriculum.md`, stakeholder research/contact prep in
   `Stakeholder-Notes.md`, press materials in `Press-Kit-Content.md` and
-  `assets/`, and cross-party action items in `TODOs-by-Owner.md`. Don't
-  fork new top-level files for content that fits an existing one
-  without a clear reason.
+  `assets/`. Don't fork new top-level files for content that fits an
+  existing one without a clear reason.
+- **`TODOs-by-Owner.md` (restructured 2026-08-13):** scoped to
+  cross-party deliverables tied to a specific formal agreement — one
+  table per agreement, per party (e.g. a party's Curriculum-MOU table,
+  its Joint-Venture table), with columns for checkbox / deliverable /
+  due date / who assigned it / a short note. It's the scannable
+  checklist, not the explanation.
+- **`<Party>-Workspace.md` (new, 2026-08-13) — the one established
+  exception to "don't fork new top-level files" above.** Each party
+  gets their own workspace file for personal work not tied to a
+  cross-party agreement (stakeholder outreach, tool evaluations, admin
+  chores), and for the fuller history/quotes/decision-provenance behind
+  every row in their `TODOs-by-Owner.md` tables — so trimming a shared
+  table to stay scannable never actually loses anything, it just moves
+  the depth elsewhere.
 - When a figure or fact changes (budget numbers, schedule dates, role
   assignments), update it in place rather than leaving stale figures
   alongside new ones — but note *what changed and when* if the change
