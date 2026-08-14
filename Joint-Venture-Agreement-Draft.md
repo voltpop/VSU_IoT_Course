@@ -200,15 +200,15 @@ curriculum creators:
   for purposes of this specific program only — not joint ownership.
 - Each Party retains ownership of its own pre-existing materials
   brought into the Venture.
-- **Correction needed in the companion document (flagged 2026-08-13):**
-  Javon's Curriculum Development MOU draft (Exhibit A) currently states
-  the opposite — Builder Tech as **sole** owner of curriculum it
+- **Correction made in the companion document (flagged 2026-08-13,
+  resolved 2026-08-14, confirmed by Javon and VoltPop together):**
+  Javon's Curriculum Development MOU draft (Exhibit A) previously
+  stated the opposite — Builder Tech as **sole** owner of curriculum it
   develops, with VoltPop and Explay receiving only a non-exclusive
-  license back. That contradicts the split-ownership resolution above
-  and needs correcting in his draft before either document is
-  finalized — not something to silently reconcile by rewriting his
-  document without his sign-off. See `TODOs-by-Owner.md`, Builder Tech
-  item 21.
+  license back. `Files/Curriculum Development MOU Draft.docx` §5 and
+  Exhibit A5 now match the split-ownership resolution above — joint,
+  equal ownership among Builder Tech, Voltpop, and Explay. See
+  `TODOs-by-Owner.md`, Builder Tech item 21.
 - **Non-Circumvention and Non-Compete — proposed by VoltPop, 2026-08-13,
   consolidating two earlier separate proposals (content-sale
   restriction and non-compete) into one general-purpose clause — not
