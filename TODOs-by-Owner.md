@@ -190,6 +190,7 @@ trimming it — it's archived there instead.*
 | ☐ | Add budget line reimbursing Nicholson for a portion of his insurance premium | — | Self | Distinct from the existing $4,000 VSU-side insurance line. Amount TBD pending his premium cost. *(shared: Nicholson LLC)* |
 | ☐ | Push Nicholson for an MOU with the College of Agriculture | — | Self | Hydroponics-endowment framing is the pitch's lead narrative. Endowment terms/contact/size still unsourced — doesn't block pushing for the MOU. |
 | ☐ | Deliver pitch deck to VGR's board | — | Self | Pending deck's name/week-count reconciliation (row above). Also carries the Jabil intro ask and Siemens context (VGR has no direct Siemens tie). |
+| ☐ | Update "The Ask" slide (Financial Sponsorship / In-Kind Support figures) | — | Self | Self-assigned at the 2026-08-14 tag-up; Files/Regional-Economic-Development-Deck.pptx, slide 9 |
 
 ## Explay
 
