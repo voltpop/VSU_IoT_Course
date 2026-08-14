@@ -8,6 +8,13 @@ notes. Treat every change accordingly. This file mirrors `AGENTS.md`
 two ever disagree, treat `AGENTS.md` as authoritative and flag the
 drift.
 
+**For the actual steps behind everything below — session start,
+committing changes, assigning work, leaving a note for someone,
+auditing the KB, working the PR queue — see [`KB-Skills.md`](./KB-Skills.md).**
+It's written tool-agnostically on purpose, so behavior stays the same
+no matter which AI assistant is reading it. This file carries the
+policy; `KB-Skills.md` carries the "how."
+
 ## Your role here
 
 Treat phrases like **"use this kb"** (or similar — "check the kb",
@@ -48,32 +55,8 @@ is a solid one-page primer worth pointing them to.
 
 ## At the start of every session
 
-Keep this light — a couple of quick checks, not a front-loaded ritual
-that burns tokens before any real work starts.
-
-- **State your role and ask who you're working with** (VoltPop, Builder
-  Tech, Explay, Dr. Shawn M. Nicholson LLC, VSU staff, a student). Do
-  this now — it's cheap and gets it right from the start.
-- **Local vs. remote/cloud — check now, but only this much:** is this a
-  real local git clone under the human's own synced folder, or an
-  ephemeral/hosted sandbox?
-  - **Local:** full read/write mode, per the workflow below.
-  - **Remote/cloud: read-only mode.** Answer questions from this KB's
-    content freely. Don't edit, commit, or attempt a PR. If the human
-    wants changes made and can't clone the real repo from where
-    they're running, offer to write a standalone markdown file
-    summarizing the intended changes/decisions and the reasoning behind
-    them, for later import by someone with a real clone.
-- **Everything else — defer until actually needed:** sync (fetch/pull)
-  right before relying on file contents being current; GitHub
-  auth/push access right before pushing or opening a PR; the open PR
-  queue when it's actually relevant.
-
-## Don't assume a PR's status — check it
-
-Before referring to any PR as still open, check its actual current
-state (`gh pr view <number>` or `gh pr list`) rather than assuming it's
-still open because that's how it was last time it came up.
+Run `kb-checkin` (see `KB-Skills.md`) — keep it light, a couple of
+quick checks rather than a front-loaded ritual.
 
 ## No PII, ever
 
@@ -86,36 +69,14 @@ out or anonymize rather than asking first.
 
 ## Required workflow: worktree + PR, never direct commits to `main`
 
-Right before your first edit (not upfront): confirm `.git` actually
-exists here — if this is a downloaded/exported copy instead, `git
-clone` the real repo first rather than editing a non-git copy. If you
-genuinely can't clone it, fall back to the markdown-summary approach
-above rather than just stopping.
-
-Work in a worktree/branch, commit, and open a PR against `main` — never
-commit straight to `main`. Handle this entirely yourself: check push
-access, fork-and-PR instead if you don't have it, fix any git mechanics
-that come up without asking. The human should never need to touch git.
-Don't force-push or merge anything other than your own not-yet-reviewed
-branch.
-
-Don't let uncommitted work pile up — open a PR for what's done rather
-than continuing to batch more into one giant changeset.
-
-## Stale branches and conflicts: never let a merge drop someone's edits
-
-Because this repo is worked on asynchronously by five parties, a
-branch/worktree can easily fall behind `main`:
-
-- Sync the branch against latest `main` before opening a PR, and again
-  right before merging.
-- If a real conflict comes up, never blanket-favor one side and never
-  let a clean-looking auto-merge stand in for actually reading both
-  sides. Manually reconcile so both parties' edits survive.
-- If reconciling requires a judgment call that could drop or
-  reinterpret someone's content, stop and surface it rather than
-  resolving it unilaterally.
-- Never force-push over content already merged into `main`.
+Run `save-to-kb` (see `KB-Skills.md`) for every change — worktree/branch,
+sync against `main` before opening and again before merging, manual
+conflict reconciliation (never blanket-favor one side or let an
+auto-merge stand in for reading both), small frequent PRs, and
+merge/close authority gated to VoltPop. This applies to every function
+in `KB-Skills.md` that writes to the repo (`kb-assign`, `kb-message`,
+`kb-audit`'s cleanup step, `kb-prs`'s merges) — never commit straight to
+`main` regardless of which function triggered the write.
 
 ## Other conventions
 
@@ -132,7 +93,9 @@ branch/worktree can easily fall behind `main`:
   exception to "don't fork new top-level files" above.** Each party's
   own personal work and the fuller history behind their
   `TODOs-by-Owner.md` rows live here instead, so trimming a shared
-  table never actually loses anything.
+  table never actually loses anything. Also holds a "Messages" section
+  (added 2026-08-14) at the top, per the `kb-message` function in
+  `KB-Skills.md`.
 - When a figure or fact changes, update it in place rather than leaving
   stale figures alongside new ones — note *what changed and when* if
   the change is non-obvious.
