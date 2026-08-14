@@ -18,6 +18,10 @@ LLC, and VSU to collaborate from. Split by domain:
 - **[`Stakeholder-Notes.md`](./Stakeholder-Notes.md)** — per-stakeholder
   research/contact prep (what they want, outreach status); a tailored
   pitch deck gets built from this later, not guessed at now.
+- **[`Contacts.md`](./Contacts.md)** — confirmed program team roster
+  plus stakeholder contacts that already have real dial-in info, as
+  vCards, one per person/org. `Stakeholder-Notes.md` above stays the
+  source of truth for research and outreach status.
 - **[`Press-Kit-Content.md`](./Press-Kit-Content.md)** — blurbs/about copy
   for press materials (logos/photos still need sourcing separately).
 - **[`TODOs-by-Owner.md`](./TODOs-by-Owner.md)** — cross-party
