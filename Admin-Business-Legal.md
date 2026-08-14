@@ -98,6 +98,14 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   caps, governing law/arbitration — standard commercial language in
   these areas may not survive VSU's sovereign-immunity and procurement
   constraints unchanged.
+- **Nicholson's title, deliberately staying CEO (per VoltPop, 2026-08-14):** a
+  "Project Manager" designation was also added, but internally only
+  (`Project-Agenda.md`) — the external/deck-facing and team-roster title
+  (§4, `Contacts.md`) stays **CEO**. VoltPop's stated reasoning (his own
+  words, not yet confirmed as settled legal fact): the CEO title is
+  expected to help Nicholson provide indemnity/liability coverage as a
+  corporate officer of his LLC — worth keeping in mind once this section
+  actually goes to VSU counsel review.
 - FERPA: VSU is expected to designate Builder Tech, Explay, and VoltPop
   as "school officials" with a "legitimate educational interest" so
   instructors can access student records — not yet confirmed as done.
