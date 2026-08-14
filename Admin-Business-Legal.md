@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Admin, Business & Legal
 compiled: 2026-07-31
-updated: 2026-08-05
+updated: 2026-08-14
 see_also: Course-Curriculum.md (teaching side)
 ---
 

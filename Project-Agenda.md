@@ -58,6 +58,10 @@ agenda of its own) — this is the next full Friday tag-up.
    this now that there's a refined, solid ask to bring her (network
    activation + in-kind support) rather than a general one — see
    [Stakeholder-Notes.md's Siemens profile](./Stakeholder-Notes.md#siemens).
+2. **Schedule Siemens and Jabil outreach meetings** — per VoltPop,
+   2026-08-14: Jabil is in the same position as Siemens (ask now
+   refined, just waiting on scheduling) — see
+   [Stakeholder-Notes.md's Jabil profile](./Stakeholder-Notes.md#jabil).
 
 _(Add further items here as they come up before the 21st.)_
 

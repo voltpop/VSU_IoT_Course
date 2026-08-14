@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — TODOs by Owner
 compiled: 2026-07-31
-updated: 2026-08-13
+updated: 2026-08-14
 ---
 
 # VSU Innovation Program — TODOs by Owner
@@ -174,7 +174,7 @@ trimming it — it's archived there instead.*
 | ☐ | Deliverable | Due | Assigned by | Notes |
 |---|---|---|---|---|
 | ☐ | Siemens research/outreach — fill in Stakeholder-Notes.md profile | — *(not stale — was deliberately waiting on the Ask, per VoltPop 2026-08-14)* | Self | Contact: Gail Norris (VSU Eng IAC). **Now unblocked:** the Ask is refined as network activation + in-kind support — ready to request Dr. Nicholson's introduction. Cold-call fallback (Newport News) always open in parallel. *(shared: Nicholson LLC — VSU contact routing)* |
-| ☐ | Jabil outreach — fill in Stakeholder-Notes.md profile | Aug 4–7 *(stale)* | Self | Needs Javon's confirmation: distinct lead or Siemens-tied? Route via Petersburg site Community Relations Mgr/HR, not the invitation-only Foundation. Last known: not yet contacted (2026-08-04) — needs a fresh check. Mentorship/Career Day is a valued ask on its own, not just a cash fallback. |
+| ☐ | Jabil outreach — fill in Stakeholder-Notes.md profile | — *(not stale — same as Siemens, per VoltPop 2026-08-14)* | Self | Needs Javon's confirmation: distinct lead or Siemens-tied? Route via Petersburg site Community Relations Mgr/HR, not the invitation-only Foundation. Ask now refined (network activation + in-kind support); meeting-scheduling to be discussed at the next Friday tag-up (2026-08-21). Mentorship/Career Day is a valued ask on its own, not just a cash fallback. |
 | ☐ | Complete Apache/ASF row in Javon's Stakeholder Tracker | Aug 7 *(stale)* | Self | Still blank except assignee. Anthropic↔ASF $1.5M donation is the strongest angle. Confirm whether completed. |
 | ☐ | Frame stakeholder conversations as exploratory, not firm VSU commitments | Aug 7 | Self | Outreach precedes formal VSU advancement buy-in. *(shared: all parties)* |
 | ☐ | Build tailored pitch deck/press kit, lock budget/ask figures + logos/photos | Aug 21 | Javon *("we need a deck," Aug 7 call — top live priority)* | Draft exists: Regional-Economic-Development-Deck.pptx (near-complete, per 2026-08-14 tag-up). **Resolved (2026-08-14): week count confirmed as 15** (see Course-Curriculum.md §2) — deck was correct, Course-Curriculum.md's "14" was the stale figure. **Still open:** program name ("Tri-Cities Innovation Lab" vs. undecided placeholder). Bios/headshots/logos for the press kit due from all parties by Aug 17 (Contacts.md/press-kit repo). Next: deliver to VGR board. *(shared: Explay + Builder Tech)* |
