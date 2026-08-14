@@ -57,14 +57,19 @@ VSU or other institutions beyond this initial program.
 
 **Scope — proposed by VoltPop, 2026-08-13, not yet confirmed by the
 other three Parties: this Agreement would cover the current program
-only.** Under this proposal it would **not** serve as the
-"BTI/VoltPop/Explay MOU for future university opportunities" discussed
-in `Admin-Business-Legal.md` §3 — that would stay a separate,
-still-undrafted document. **Explicitly flagged, not just left undated:**
-VoltPop expects that if a future opportunity actually materializes, the
-structure here may well change (parties, roles, IP terms) — this
-proposal doesn't assume this Agreement's terms simply roll forward onto
-a future deal without renegotiation.
+only.** **Clarified 2026-08-14, per Javon and VoltPop:** concretely,
+that means this Agreement governs the **delivery of the Curriculum**
+as a program at VSU — not curriculum development itself (that's the
+Curriculum Development MOU's scope, per `Files/Curriculum Development MOU Draft.docx`)
+and not any future opportunity beyond this program. Under this proposal
+it would **not** serve as the "BTI/VoltPop/Explay MOU for future
+university opportunities" discussed in `Admin-Business-Legal.md` §3 —
+that would stay a separate, still-undrafted document. **Explicitly
+flagged, not just left undated:** VoltPop expects that if a future
+opportunity actually materializes, the structure here may well change
+(parties, roles, IP terms) — this proposal doesn't assume this
+Agreement's terms simply roll forward onto a future deal without
+renegotiation.
 
 <a id="sec-2"></a>
 ## 2. Roles and Contributions
@@ -296,11 +301,16 @@ updating to match — flagged there separately.
   that; still needs an actual calendar date].
 - **Term — proposed by VoltPop, 2026-08-13, not yet confirmed by the
   other three Parties (follows mechanically from §1's proposed
-  current-program-only scope, so carries the same status):** the
-  Venture's term would run through the current program's completion,
-  currently scheduled January–April 2027 per `Course-Curriculum.md`
-  §4, and would **not** automatically continue into any future
-  opportunity — see §1's scope note.
+  current-program-only scope, so carries the same status). Extended
+  2026-08-14, per Javon and VoltPop:** the Venture's term would run
+  through **May 2027**, not just the January–April 2027 program
+  delivery window per `Course-Curriculum.md` §4 — covering the
+  Outcomes and Reporting / Tri-Cities Career Showcase phase and
+  post-course analysis, per the timeline already reflected in the
+  stakeholder deck (`Files/Regional-Economic-Development-Deck.pptx`)
+  and `Files/VoltPop-BuilderTech-VSU-Agreement.docx` §2. Would **not**
+  automatically continue into any future opportunity — see §1's scope
+  note.
 - **Termination — confirmed as VoltPop's own position 2026-08-13 (not
   just a drafting placeholder), not yet confirmed by the other three
   Parties:**

@@ -18,7 +18,7 @@ as the meeting record once it's filled in.
 ---
 
 <a id="vote-1"></a>
-### 1. Scope — current program only *([draft §1](Joint-Venture-Agreement-Draft.md#sec-1))*
+### 1. Scope — current program's curriculum delivery only, not development or future opportunities *([draft §1](Joint-Venture-Agreement-Draft.md#sec-1))*
 
 | Party | Y |
 |---|---|
@@ -32,7 +32,7 @@ as the meeting record once it's filled in.
 ---
 
 <a id="vote-2"></a>
-### 2. Term — ends with the current program (~April 2027) *([draft §6](Joint-Venture-Agreement-Draft.md#sec-6))*
+### 2. Term — runs through ~May 2027, covering post-course/Outcomes & Reporting *([draft §6](Joint-Venture-Agreement-Draft.md#sec-6))*
 
 | Party | Y |
 |---|---|
@@ -118,10 +118,10 @@ as the meeting record once it's filled in.
 <a id="vote-8"></a>
 ### 8. IP structure ratification — split ownership (VoltPop/Builder Tech/Explay), Nicholson LLC licensed *([draft §5](Joint-Venture-Agreement-Draft.md#sec-5))*
 
-| Party | Confirm (✓) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
-| Builder Tech | ☐ (contingent on his Exhibit A correction) |
+| Builder Tech | ☐ (Exhibit A correction drafted 2026-08-14 — see [PR #42](https://github.com/voltpop/VSU_IoT_Course/pull/42), not yet merged) |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
