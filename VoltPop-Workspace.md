@@ -284,17 +284,7 @@ Tech, where the deliverable is the curriculum content itself.
     due Aug 17)* Supply potential guest IoT speakers (Siemens, Dominion,
     others) and manage the press-kit repo on GitHub; also support
     general pitch-deck content updates by the same date.
-23. **Deck narrative pivot — landed well.** *(resolved 2026-08-14
-    tag-up)* The retention→competitiveness pivot (item 18 above)
-    landed very well with the whole group live at the tag-up — VoltPop
-    called it a genuine strengthening, not just an alternate framing.
-    Revised framing: students gain hands-on project experience solving
-    real regional problems, which employers can assess directly, rather
-    than leaning on weak regional talent-retention data (state-level
-    retention for VSU students is comparatively strong, per Builder
-    Tech — worth keeping as a secondary point for state-level
-    audiences specifically).
-24. **Week count, confirmed.** *(2026-08-14 tag-up)* **15 weeks of
+23. **Week count, confirmed.** *(2026-08-14 tag-up)* **15 weeks of
     course content; 16 weeks total calendar span** (1 week off for
     spring break) is authoritative — resolves the deck's week-count
     reconciliation flag in the deck's favor. `Course-Curriculum.md` §4's

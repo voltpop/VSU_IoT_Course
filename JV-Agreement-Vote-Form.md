@@ -130,7 +130,7 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 | Party | Y |
 |---|---|
 | VoltPop | ☐ |
-| Builder Tech | ☐ (Exhibit A correction drafted 2026-08-14 — see [PR #42](https://github.com/voltpop/VSU_IoT_Course/pull/42), not yet merged) |
+| Builder Tech | ☐ (Exhibit A correction drafted and merged 2026-08-14 — see [PR #42](https://github.com/voltpop/VSU_IoT_Course/pull/42)) |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
