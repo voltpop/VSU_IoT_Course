@@ -28,9 +28,23 @@ being discussed *when*, not the full task list.
 5. **Curriculum Development MOU (v2) review** — [`Files/Curriculum Development MOU Draft (v2).docx`](./Files/Curriculum%20Development%20MOU%20Draft%20%28v2%29.docx), adds Exhibits B (VoltPop) and C (Explay) alongside Builder Tech's Exhibit A.
    - **Flag:** Exhibit C describes Explay's role as "software/experience design," but the curriculum weeks they actually lead (Business Models & Market Fit, Testing & Going Live, Crafting Your Pitch, Practice & Feedback) are business/go-to-market — worth reconciling the two descriptions.
 
-**Decisions / outcomes:** _(fill in during/after the meeting)_
+**Decisions / outcomes:**
+- Regional Economic Development Deck approved as near-complete for today's purposes; remaining polish to happen async (see [TODOs-by-Owner.md](./TODOs-by-Owner.md#voltpop-admin-work)).
+- Deck's narrative pivot (talent-retention data → project-based learning solving real regional problems) landed very well — considered a genuine strengthening, not just an alternate framing.
+- Week count confirmed authoritative: **15 weeks of content, 16 weeks total calendar span** (1 week off for spring break) — resolves the deck's open week-count reconciliation. **Not yet reconciled:** the actual week-by-week table in `Course-Curriculum.md` §4 still needs to be worked into 15 content weeks (see the flag there).
+- VSU-schools pitch (Dean Haile / incoming Lewis dean) ownership confirmed as Dr. Nicholson's.
+- Dr. Nicholson's title: **CEO stays the external/deck-facing title** (slide 3); **"Project Manager" added as an internal-only coordination designation** (he's a PMP and the institutional liaison) — explicitly not a governance change. The JV's actual decision structure (majority vote, no 2-2 tie-breaker) is unaffected.
+- JV model conceptually reaffirmed (Nicholson LLC as VSU's contracting party, others as subcontractors through the JV) — **but VoltPop wants the 16-item ballot in [JV-Agreement-Vote-Form.md](./JV-Agreement-Vote-Form.md) formally/officially confirmed before treating it as ratified**, not settled by conversation alone.
+- New stakeholder surfaced: Vincent W. Howell, President of SME (Society of Manufacturing Engineers) — Nicholson's personal contact, potential funding/resource partner (see [Stakeholder-Notes.md](./Stakeholder-Notes.md#sme-society-of-manufacturing-engineers--new-surfaced-live-on-the-2026-08-14-tag-up)).
+- Standing cadence: weekly meetings **Tuesdays at 5:00 PM**, starting next week, to review progress against deliverables/due dates.
 
-**Follow-ups:** _(fill in during/after the meeting)_
+**Follow-ups (due 2026-08-17 unless noted):**
+- All: professional bios, photos, and logo variants for the press kit.
+- Builder Tech: share agenda/deck access via Google Drive; update slides with logos/bios; update cohort profile, program overview, and career-showcase visuals.
+- Dr. Nicholson: role/title alignment + reformat the project timeline into mobilization/delivery/reporting phases; develop "The Ask" slide's content (mentorship/sponsorship/donation figures); schedule VGR and Siemens/Dominion follow-up meetings.
+- VoltPop: supply potential guest IoT speakers; manage the press-kit repo (GitHub); support pitch-deck content updates; implement "The Ask" slide edit itself (content from Nicholson, above).
+- Builder Tech + Nicholson: finalize MOUs and the Joint Venture agreement (roles, responsibilities, decision hierarchy).
+- All: prep for next Tuesday's 5:00 PM meeting.
 
 ---
 
@@ -38,7 +52,7 @@ being discussed *when*, not the full task list.
 
 | Date | Attendees | Agenda | Decisions | Follow-ups |
 |---|---|---|---|---|
-| 2026-08-14 | _(fill in)_ | JV vote, MOU v2, deck review, budget revision | _(fill in)_ | _(fill in)_ |
+| 2026-08-14 | VoltPop, Builder Tech (Javon), Dr. Shawn M. Nicholson; Explay not confirmed present | JV vote, MOU v2, deck review, budget revision | See Decisions/outcomes above | See Follow-ups above; next meeting Tue 5:00 PM |
 
 _(Add a new row per meeting going forward — this table is the running history.)_
 

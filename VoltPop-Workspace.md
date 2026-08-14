@@ -274,6 +274,34 @@ Tech, where the deliverable is the curriculum content itself.
     unresolved; pushing for the MOU now doesn't require waiting on
     those, but they'll shape what the MOU can actually claim.
 
+21. **"The Ask" slide.** *(self-assigned, 2026-08-14 tag-up)* Update
+    slide 9's Financial Sponsorship / In-Kind Support figures
+    (`Files/Regional-Economic-Development-Deck.pptx`). Complementary
+    with Dr. Nicholson's own action item (developing the underlying
+    mentorship/sponsorship/donation figures) — he supplies content,
+    this is the actual slide edit.
+22. **Press kit + guest speakers.** *(2026-08-14 tag-up action item,
+    due Aug 17)* Supply potential guest IoT speakers (Siemens, Dominion,
+    others) and manage the press-kit repo on GitHub; also support
+    general pitch-deck content updates by the same date.
+23. **Deck narrative pivot — landed well.** *(resolved 2026-08-14
+    tag-up)* The retention→competitiveness pivot (item 18 above)
+    landed very well with the whole group live at the tag-up — VoltPop
+    called it a genuine strengthening, not just an alternate framing.
+    Revised framing: students gain hands-on project experience solving
+    real regional problems, which employers can assess directly, rather
+    than leaning on weak regional talent-retention data (state-level
+    retention for VSU students is comparatively strong, per Builder
+    Tech — worth keeping as a secondary point for state-level
+    audiences specifically).
+24. **Week count, confirmed.** *(2026-08-14 tag-up)* **15 weeks of
+    course content; 16 weeks total calendar span** (1 week off for
+    spring break) is authoritative — resolves the deck's week-count
+    reconciliation flag in the deck's favor. `Course-Curriculum.md` §4's
+    actual week-by-week table (14 numbered weeks, one a no-new-content
+    Buffer Week, plus separate spring-break/Finals rows) still needs
+    reconciling to match 15 content weeks — not done by this note alone.
+
 20. **VGR board delivery.** *(new, flagged 2026-08-12, per VoltPop)*
     **Update (2026-08-13): the pitch deck now exists in draft** — still
     pending the name/week-count reconciliation flagged there before

@@ -93,6 +93,17 @@ go from an ambiguous real-world ask to working code:
 | 14 | Tue/Thu | Presentations (Live) | Live presentations | Canva | Final presentation delivered |
 | 15 | Final Week | Present the Full Arc | Resume + portfolio due; Career Day | — | Resume, portfolio, Career Day |
 
+**Week-count, confirmed authoritative (per VoltPop, 2026-08-14 tag-up):**
+**16 weeks total calendar span (including 1 week off for spring
+break); 15 weeks of actual course content.** This resolves the pitch
+deck's week-count reconciliation flag (`TODOs-by-Owner.md`'s VoltPop
+Administrative table) in the deck's favor. **Not yet reconciled against
+the table below:** the V2 table shows 14 numbered content weeks (one of
+which, Week 13, is an explicit no-new-content Buffer Week) plus separate
+unnumbered spring-break and Finals rows — that structure doesn't cleanly
+map onto "15 content weeks" yet. Reconciling the actual week-by-week
+table to match is still open, not assumed done by this note.
+
 ## 4. Full V2 schedule table (current authoritative schedule)
 
 | Week | Tue | Thu | Topic | Description | Skill | Deliverables | Tools | Lead | Support |
