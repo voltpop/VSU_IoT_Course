@@ -50,8 +50,8 @@ structure below, not just restore whatever the original said.
 The Parties are forming this joint venture (the "**Venture**") to
 jointly design, develop, and deliver the educational program currently
 referred to in this KB by the placeholder name "VSU Innovation Program"
-(see `TODOs-by-Owner.md` item 16 under Builder Tech — the program's
-actual name is not yet decided), in partnership with Virginia State
+(see [Builder Tech's program-name item](Builder-Tech-Workspace.md#program-name)
+— the program's actual name is not yet decided), in partnership with Virginia State
 University, and to jointly pursue **future similar opportunities** with
 VSU or other institutions beyond this initial program.
 
@@ -76,7 +76,7 @@ Per the roles already documented in `Admin-Business-Legal.md` §1:
 | VoltPop | Curriculum co-designer; CS/technical SME and instructor (hardware/IoT, AI-assisted development, open source) | In-kind: curriculum design + instruction time |
 | Builder Tech | Program Director/operator; Business Intelligence & Design instruction | In-kind: program operations + instruction time |
 | Explay | Curriculum co-designer; Entrepreneurship & Innovation instruction | In-kind: curriculum design + instruction time |
-| Nicholson LLC | Operations Director & Institutional Liaison to VSU; **prime contractor** for VSU-facing matters (per the alignment reached 2026-08-12 — see `TODOs-by-Owner.md`, Builder Tech item 19) | In-kind: institutional-liaison + operations work, plus his existing VSU relationships/standing used to secure the underlying contract |
+| Nicholson LLC | Operations Director & Institutional Liaison to VSU; **prime contractor** for VSU-facing matters (per the alignment reached 2026-08-12 — see [Builder Tech's prime-contractor alignment record](Builder-Tech-Workspace.md#prime-contractor-alignment)) | In-kind: institutional-liaison + operations work, plus his existing VSU relationships/standing used to secure the underlying contract |
 
 **The Venture itself holds no pooled capital and makes no profit
 distribution** — each Party's contribution to the Venture is in-kind
@@ -130,7 +130,7 @@ Parties get paid.]
 
 **Confirmed 2026-08-13, per VoltPop: all four Parties have now aligned,
 including Dr. Nicholson himself** (previously only VoltPop and Explay
-had agreed — see `TODOs-by-Owner.md`, Builder Tech item 19):
+had agreed — see [Builder Tech's prime-contractor alignment record](Builder-Tech-Workspace.md#prime-contractor-alignment)):
 
 - Nicholson LLC acts as **prime contractor** to VSU, leveraging his
   existing VSU relationships, insurance, and infrastructure.

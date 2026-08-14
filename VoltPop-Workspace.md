@@ -11,7 +11,9 @@ short note. This file is where the fuller history behind each item
 lives: quotes, per-date updates, decision provenance, blockers. Nothing
 that used to be in the shared TODO list's prose was deleted when it was
 trimmed into table form — it's archived here instead. Organized to
-match the three tables (Curriculum, Administrative, Joint Venture).
+match the two tables (Curriculum, Administrative — Joint Venture folded
+into Administrative 2026-08-13, same "get the internal deal done"
+bucket as the Operating Agreement work).
 
 ## Curriculum
 
@@ -109,8 +111,9 @@ Tech, where the deliverable is the curriculum content itself.
    build-out of Javon's `Regional-Deck-Outline.md`. Two reconciliation
    items before treating this as done: (1) the deck titles the program
    **"Tri-Cities Innovation Lab,"** not yet reconciled with the
-   still-undecided placeholder name tracked in Builder Tech's item
-   #16; (2) the deck states a **15-week program**, vs.
+   still-undecided placeholder name tracked in [Builder Tech's
+   program-name item](Builder-Tech-Workspace.md#program-name); (2) the
+   deck states a **15-week program**, vs.
    `Course-Curriculum.md`'s authoritative V2 schedule (§4), which is
    **14 weeks**.
 
@@ -124,13 +127,15 @@ Tech, where the deliverable is the curriculum content itself.
 7. **Background check (Checkr).** *(per VoltPop, likely deferred until
    after stakeholder conversations bring in upfront funding — not
    urgent despite the "before Week 1" framing; same requirement as
-   Explay's and Builder Tech's own items, done individually)* Confirm
+   Explay's and [Builder Tech's](TODOs-by-Owner.md#buildertech-admin-work)
+   own items, done individually)* Confirm
    own background-check (Checkr) timeline before Week 1
    (Admin-Business-Legal.md §6/§7).
 
 8. **eVA registration.** *(flagged by VoltPop, 2026-08-05 — same
-   requirement as Builder Tech's, Explay's, and Dr. Shawn M. Nicholson
-   LLC's own items, done individually)* Register with eVA if not
+   requirement as [Builder Tech's](TODOs-by-Owner.md#buildertech-admin-work),
+   Explay's, and Dr. Shawn M. Nicholson LLC's own items, done
+   individually)* Register with eVA if not
    already registered, and check DSBSD SWaM-certification eligibility
    (Admin-Business-Legal.md §3).
 
@@ -211,7 +216,51 @@ Tech, where the deliverable is the curriculum content itself.
     now-four-party structure (Explay and Nicholson LLC as full parties
     too).
 
-15. **College of Agriculture MOU.** *(new, flagged 2026-08-12, per
+15. **The JV Agreement itself.** **[New, flagged 2026-08-13, per
+   VoltPop]** A formal **Joint Venture agreement** is needed among the
+   four private entities (VoltPop, Builder Tech, Explay, Nicholson LLC
+   — not VSU). **First-pass draft in progress:**
+   `Joint-Venture-Agreement-Draft.md` — most sections now carry a
+   VoltPop-proposed answer, but **none are confirmed by Builder Tech,
+   Explay, or Nicholson LLC yet** — treat every "proposed" tag in that
+   file as a real agenda item, not a settled term. Three items are
+   genuinely undecided by anyone and need the full group: whether
+   Nicholson LLC must consult the others before VSU-facing decisions,
+   what happens if a Party exits mid-program, and Explay's exact entity
+   name (on Explay's own list to confirm). Scoped to the current
+   program only, not the future-opportunities MOU — explicitly not
+   assumed to carry forward if a future opportunity arises. Vote
+   scheduled 2026-08-14, see `JV-Agreement-Vote-Form.md`.
+
+16. **Ask Nicholson his preferred payment structure.** **[New, flagged
+   2026-08-13, per VoltPop]** Ask Dr. Nicholson directly whether he has
+   a different preferred structure for the payment flow than what's
+   proposed in `Joint-Venture-Agreement-Draft.md` §2 (subcontractor
+   pass-through payments, 10-business-day window, separate
+   subcontractor agreements) — none of this has been run past him yet,
+   only VoltPop's own proposal *(shared: Dr. Shawn M. Nicholson LLC)*.
+   See `JV-Agreement-Vote-Form.md` item 15.
+
+17. **Subcontractor agreement boilerplate.** **[New, flagged 2026-08-13,
+   per VoltPop]** Draft boilerplate **subcontractor agreement**
+   templates — one per pairing (Nicholson LLC ↔ VoltPop, ↔ Builder
+   Tech, ↔ Explay) — per the "separate subcontractor agreements"
+   proposal in `Joint-Venture-Agreement-Draft.md` §2. Template only,
+   not legal advice, same caveat as the JV draft itself; needs attorney
+   review before use *(shared: all four parties, since each needs
+   their own copy)*.
+
+18. **Insurance reimbursement budget line.** **[New, flagged
+   2026-08-13, per VoltPop]** Add a budget line reimbursing Dr.
+   Nicholson LLC for a portion of his insurance premium, since that
+   insurance is proposed (`Joint-Venture-Agreement-Draft.md` §7) as the
+   Party-to-Party liability mechanism covering all four Parties, not
+   just him — distinct from the existing $4,000 VSU-side insurance
+   line (`Admin-Business-Legal.md` §6a). Amount TBD pending his actual
+   premium cost *(shared: Dr. Shawn M. Nicholson LLC, who'd need to
+   disclose that figure)*.
+
+19. **College of Agriculture MOU.** *(new, flagged 2026-08-12, per
     VoltPop)* Contact Dr. Nicholson and push for an **MOU with the
     College of Agriculture**, covering the hydroponics-endowment
     framing that's now the pitch's lead narrative (Stakeholder-Notes.md
@@ -221,7 +270,7 @@ Tech, where the deliverable is the curriculum content itself.
     unresolved; pushing for the MOU now doesn't require waiting on
     those, but they'll shape what the MOU can actually claim.
 
-16. **VGR board delivery.** *(new, flagged 2026-08-12, per VoltPop)*
+20. **VGR board delivery.** *(new, flagged 2026-08-12, per VoltPop)*
     **Update (2026-08-13): the pitch deck now exists in draft** — still
     pending the name/week-count reconciliation flagged there before
     it's presentation-ready. Once that's settled, work with Dr.
@@ -237,51 +286,3 @@ Tech, where the deliverable is the curriculum content itself.
     instead, so the VGR meeting likely carries the Siemens ask as
     shared pitch content/context rather than a VGR-sourced introduction
     the way Jabil's is.
-
-## Joint Venture
-
-Deliverables under the Joint Venture Agreement among the four private
-entities (VoltPop, Builder Tech, Explay, Nicholson LLC — not VSU).
-
-1. **The JV Agreement itself.** **[New, flagged 2026-08-13, per
-   VoltPop]** A formal **Joint Venture agreement** is needed among the
-   four private entities. **First-pass draft in progress:**
-   `Joint-Venture-Agreement-Draft.md` — most sections now carry a
-   VoltPop-proposed answer, but **none are confirmed by Builder Tech,
-   Explay, or Nicholson LLC yet** — treat every "proposed" tag in that
-   file as a real agenda item, not a settled term. Three items are
-   genuinely undecided by anyone and need the full group: whether
-   Nicholson LLC must consult the others before VSU-facing decisions,
-   what happens if a Party exits mid-program, and Explay's exact entity
-   name (on Explay's own list to confirm). Scoped to the current
-   program only, not the future-opportunities MOU — explicitly not
-   assumed to carry forward if a future opportunity arises. Vote
-   scheduled 2026-08-14, see `JV-Agreement-Vote-Form.md`.
-
-2. **Ask Nicholson his preferred payment structure.** **[New, flagged
-   2026-08-13, per VoltPop]** Ask Dr. Nicholson directly whether he has
-   a different preferred structure for the payment flow than what's
-   proposed in `Joint-Venture-Agreement-Draft.md` §2 (subcontractor
-   pass-through payments, 10-business-day window, separate
-   subcontractor agreements) — none of this has been run past him yet,
-   only VoltPop's own proposal *(shared: Dr. Shawn M. Nicholson LLC)*.
-   See `JV-Agreement-Vote-Form.md` item 15.
-
-3. **Subcontractor agreement boilerplate.** **[New, flagged 2026-08-13,
-   per VoltPop]** Draft boilerplate **subcontractor agreement**
-   templates — one per pairing (Nicholson LLC ↔ VoltPop, ↔ Builder
-   Tech, ↔ Explay) — per the "separate subcontractor agreements"
-   proposal in `Joint-Venture-Agreement-Draft.md` §2. Template only,
-   not legal advice, same caveat as the JV draft itself; needs attorney
-   review before use *(shared: all four parties, since each needs
-   their own copy)*.
-
-4. **Insurance reimbursement budget line.** **[New, flagged
-   2026-08-13, per VoltPop]** Add a budget line reimbursing Dr.
-   Nicholson LLC for a portion of his insurance premium, since that
-   insurance is proposed (`Joint-Venture-Agreement-Draft.md` §7) as the
-   Party-to-Party liability mechanism covering all four Parties, not
-   just him — distinct from the existing $4,000 VSU-side insurance
-   line (`Admin-Business-Legal.md` §6a). Amount TBD pending his actual
-   premium cost *(shared: Dr. Shawn M. Nicholson LLC, who'd need to
-   disclose that figure)*.
