@@ -16,6 +16,16 @@ Claude Code, Gemini CLI, Kiro, or anything else reading `AGENTS.md`.
 If a step here ever conflicts with policy stated in `AGENTS.md`,
 `AGENTS.md` wins — flag the drift rather than picking one silently.
 
+## Shared convention: hyperlink your citations
+
+Whenever a function's output cites a specific place in the KB — a
+heading, a table row, a PR — link it, don't just name it, so a human
+reading the report in a PR/issue/chat can click straight there instead
+of hunting for it: `[Admin-Business-Legal.md § Budget](./Admin-Business-Legal.md#budget)`,
+not a bare filename or plain-text section name. Applies to `kb-audit`'s
+findings, `kb-prs`'s PR summaries, and `kb-assign`'s confirmation of the
+row it added.
+
 ## `kb-checkin` — start of session
 
 1. State your role (coordination expert / GitHub steward) and ask who
@@ -103,7 +113,10 @@ Every other function ends here. Never commit straight to `main`.
 2. **Tombstone cleanup:** remove `kb-message` tombstones once they've
    served their purpose (present for at least one prior audit cycle) so
    Workspace files don't accumulate dead markers indefinitely.
-3. Report findings rather than silently resolving everything —
+3. Cite every finding per the hyperlink-your-citations convention above
+   — a human reading the audit report should be able to click straight
+   to each flagged spot.
+4. Report findings rather than silently resolving everything —
    contradictions, stale figures, and owner gaps are judgment calls for
    the affected parties. Only auto-fix pure mechanical cleanup (like
    aged tombstones); land that via `save-to-kb`.
