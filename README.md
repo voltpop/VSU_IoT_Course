@@ -31,7 +31,14 @@ LLC, and VSU to collaborate from. Split by domain:
   the fuller history/quotes/decision-provenance behind every row in
   their `TODOs-by-Owner.md` tables. Trimming a shared table to stay
   scannable never actually loses anything — it just moves the depth
-  here.
+  here. Each also carries a "Messages" section for short notes left for
+  that party (see `KB-Skills.md`'s `kb-message`).
+- **[`KB-Skills.md`](./KB-Skills.md)** — the canonical, tool-agnostic
+  reference for what an AI assistant working in this KB can actually
+  do: starting a session, committing changes, assigning a deliverable,
+  leaving someone a note, auditing the KB for drift, and stewarding the
+  PR queue. `AGENTS.md` and its per-tool mirrors point here for the
+  "how"; they carry the policy.
 - **[`Files/`](./Files/)** — raw source documents (budget spreadsheet,
   program schedule, stakeholder tracker, meeting recap) kept alongside
   the markdown summaries above as reference copies. These are point-in-
