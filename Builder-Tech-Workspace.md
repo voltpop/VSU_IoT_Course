@@ -223,7 +223,14 @@ Budget, agreement-drafting, and prep work.
    in `Files/Regional-Economic-Development-Deck.pptx` and the
    Problem/Opportunity section of `Regional-Deck-Outline.md` if it goes
    forward. See `Stakeholder-Notes.md`'s Reusable talking points section
-   for the full reasoning.
+   for the full reasoning. **Resolved 2026-08-14 tag-up: landed very
+   well** with the whole group live — VoltPop called it a genuine
+   strengthening, not just an alternate framing. Revised framing:
+   students gain hands-on project experience solving real regional
+   problems, which employers can assess directly, rather than leaning
+   on weak regional talent-retention data (state-level retention for
+   VSU students is comparatively strong, per Builder Tech — worth
+   keeping as a secondary point for state-level audiences specifically).
 10. **Curriculum Development MOU IP-clause correction.** **[New,
     flagged 2026-08-13, per VoltPop]** Correct the IP clause in Javon's
     own **Curriculum Development MOU Draft** (`Files/Curriculum
@@ -242,3 +249,15 @@ Budget, agreement-drafting, and prep work.
     Exhibit A correction above — deliberately not resolved as part of
     tomorrow's vote (see [Vote Form item
     9](JV-Agreement-Vote-Form.md#vote-9)).
+11. **Monday deliverables.** *(2026-08-14 tag-up action item, due Aug
+    17)* Share agenda notes and pitch-deck slide access with the team
+    via Google Drive; update slides with logos and bios; update the
+    cohort profile, program overview, and career-showcase slide details
+    with clearer visuals/bullet points.
+12. **MOU/JV finalization.** *(2026-08-14 tag-up action item, shared
+    with Dr. Shawn M. Nicholson LLC)* Finalize the MOUs and the Joint
+    Venture agreement — roles, responsibilities, decision hierarchy.
+    Note: the formal line-item JV vote is still pending official
+    confirmation per VoltPop — see
+    [JV-Agreement-Vote-Form.md](JV-Agreement-Vote-Form.md)'s status
+    note — so this isn't "final" in the ratified sense yet.

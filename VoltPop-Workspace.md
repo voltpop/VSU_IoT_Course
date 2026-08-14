@@ -54,7 +54,13 @@ Tech, where the deliverable is the curriculum content itself.
    recorded anywhere in this KB — `Stakeholder-Notes.md`'s Siemens
    profile still carries the same 2026-08-04 "blocked" status. Confirm
    with the group whether Gail Norris was actually agreed on rather
-   than assuming either resolved or still-blocked.
+   than assuming either resolved or still-blocked. **Corrected
+   (2026-08-14, per VoltPop): this was never stale — it was
+   deliberately waiting on the pitch's ask being refined**, not
+   neglected. That precondition is now met: today's tag-up refined the
+   ask to network activation + in-kind support. Requesting Dr.
+   Nicholson's introduction is the next live step; the cold-call
+   fallback stays open in parallel.
 
 2. **Jabil outreach.** *Aug 4–7 — date passed, flagging as stale
    (2026-08-13):* Follow up with Jabil (Petersburg factory tied to
@@ -76,7 +82,11 @@ Tech, where the deliverable is the curriculum content itself.
    participation as a real, valued ask in its own right here** — not
    just a fallback if cash isn't available. **Needs a fresh check
    (2026-08-13):** no update in over a week — confirm current status
-   before assuming this is still on its original timeline.
+   before assuming this is still on its original timeline. **Corrected
+   (2026-08-14, per VoltPop): same situation as Siemens, above — was
+   waiting on the ask, not neglected.** Ask now refined; meeting-
+   scheduling for both Siemens and Jabil to be discussed at the next
+   Friday tag-up (2026-08-21), per `Project-Agenda.md`.
 
 3. **Apache/ASF stakeholder tracker row.** *Aug 7 — date passed,
    flagging as stale (2026-08-13):* Complete the Apache/ASF row in
@@ -273,6 +283,24 @@ Tech, where the deliverable is the curriculum content itself.
     eligibility, and the "AgriTech rebrand" hypothesis — are still
     unresolved; pushing for the MOU now doesn't require waiting on
     those, but they'll shape what the MOU can actually claim.
+
+21. **"The Ask" slide.** *(self-assigned, 2026-08-14 tag-up)* Update
+    slide 9's Financial Sponsorship / In-Kind Support figures
+    (`Files/Regional-Economic-Development-Deck.pptx`). Complementary
+    with Dr. Nicholson's own action item (developing the underlying
+    mentorship/sponsorship/donation figures) — he supplies content,
+    this is the actual slide edit.
+22. **Press kit + guest speakers.** *(2026-08-14 tag-up action item,
+    due Aug 17)* Supply potential guest IoT speakers (Siemens, Dominion,
+    others) and manage the press-kit repo on GitHub; also support
+    general pitch-deck content updates by the same date.
+23. **Week count, confirmed.** *(2026-08-14 tag-up)* **15 weeks of
+    course content; 16 weeks total calendar span** (1 week off for
+    spring break) is authoritative — resolves the deck's week-count
+    reconciliation flag in the deck's favor. `Course-Curriculum.md` §4's
+    actual week-by-week table (14 numbered weeks, one a no-new-content
+    Buffer Week, plus separate spring-break/Finals rows) still needs
+    reconciling to match 15 content weeks — not done by this note alone.
 
 20. **VGR board delivery.** *(new, flagged 2026-08-12, per VoltPop)*
     **Update (2026-08-13): the pitch deck now exists in draft** — still

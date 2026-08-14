@@ -15,6 +15,15 @@ as the meeting record once it's filled in.
 **Parties voting:** VoltPop LLC | Builder Tech LLC | Explay LLC
 (pending entity confirmation) | Dr. Shawn M. Nicholson LLC
 
+**Status update (2026-08-14 tag-up):** the group discussed and appears
+aligned on the JV structure conceptually (Nicholson LLC as the
+contracting party with VSU, the other three as subcontractors through
+the JV) — but per VoltPop, this is **not** being treated as an actual
+ratified vote on the 16 items below. He wants an explicit, official
+line-item confirmation pass before anything here is settled, rather
+than letting conceptual agreement in conversation stand in for the
+formal ballot. Checkboxes below remain unfilled until that happens.
+
 ---
 
 <a id="vote-1"></a>
@@ -121,7 +130,7 @@ as the meeting record once it's filled in.
 | Party | Y |
 |---|---|
 | VoltPop | ☐ |
-| Builder Tech | ☐ (Exhibit A correction drafted 2026-08-14 — see [PR #42](https://github.com/voltpop/VSU_IoT_Course/pull/42), not yet merged) |
+| Builder Tech | ☐ (Exhibit A correction drafted and merged 2026-08-14 — see [PR #42](https://github.com/voltpop/VSU_IoT_Course/pull/42)) |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
