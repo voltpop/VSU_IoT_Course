@@ -26,6 +26,26 @@ not a bare filename or plain-text section name. Applies to `kb-audit`'s
 findings, `kb-prs`'s PR summaries, and `kb-assign`'s confirmation of the
 row it added.
 
+## Shared convention: contacts are vCards in `Contacts.md`
+
+Contact details — both the confirmed team roster and any stakeholder
+who already has real dial-in info recorded — live in `Contacts.md`, one
+person or org per fenced `vcard` code block (RFC 6350 vCard format,
+version 4.0 unless the source data you're transcribing only gives you
+3.0; use `KIND:org` for an organizational contact with no individual
+name attached). Each block is independently valid standalone vCard
+text, so the file doubles as a ready-to-extract multi-contact `.vcf` —
+don't invent a different contact schema (a table, a bullet list,
+freeform prose) even for a quick one-off entry.
+
+- Team roster: `Admin-Business-Legal.md` §4's table stays the source of
+  truth for role/entity; update there first, then mirror into
+  `Contacts.md`.
+- Stakeholder contacts: `Stakeholder-Notes.md` stays the source of
+  truth for research and outreach status; `Contacts.md` only mirrors
+  the actual email/phone/address once one exists — don't add an entry
+  for a named-but-uncontacted lead with no real contact info yet.
+
 ## `kb-checkin` — start of session
 
 1. State your role (coordination expert / GitHub steward) and ask who
@@ -109,7 +129,10 @@ Every other function ends here. Never commit straight to `main`.
 1. Cross-file checks: figures or facts that changed in one file but
    are still stale in another, dead internal links/anchors, dead PR
    links, `TODOs-by-Owner.md` rows with no corresponding history in
-   their party's Workspace file.
+   their party's Workspace file, and `Contacts.md` entries that have
+   drifted from their source of truth (`Admin-Business-Legal.md` §4 for
+   the team roster, `Stakeholder-Notes.md` for stakeholder contacts) —
+   role/entity/contact-info changed in one but not the other.
 2. **Tombstone cleanup:** remove `kb-message` tombstones once they've
    served their purpose (present for at least one prior audit cycle) so
    Workspace files don't accumulate dead markers indefinitely.
