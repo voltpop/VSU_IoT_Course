@@ -48,6 +48,21 @@ being discussed *when*, not the full task list.
 
 ---
 
+## Next Friday tag-up — 2026-08-21 (planned agenda)
+
+Distinct from the weekly Tuesday 5:00 PM check-ins (already a heavy
+agenda of its own) — this is the next full Friday tag-up.
+
+1. **Gail Norris/Siemens warm-path intro** — request Dr. Nicholson make
+   the introduction. Per VoltPop, 2026-08-14: the group all prefers
+   this now that there's a refined, solid ask to bring her (network
+   activation + in-kind support) rather than a general one — see
+   [Stakeholder-Notes.md's Siemens profile](./Stakeholder-Notes.md#siemens).
+
+_(Add further items here as they come up before the 21st.)_
+
+---
+
 ## Meeting log
 
 | Date | Attendees | Agenda | Decisions | Follow-ups |
