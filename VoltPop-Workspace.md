@@ -102,12 +102,17 @@ Tech, where the deliverable is the curriculum content itself.
    **Rich Bowen** (rbowen@apache.org). Still need to actually complete
    Javon's Stakeholder Tracker row with this outcome.
 
-4. **Frame stakeholder conversations as exploratory.** *Aug 7* — Frame
-   any stakeholder conversations as exploratory/preliminary, not firm
-   commitments on VSU's behalf, given outreach is happening before
-   formal VSU advancement buy-in — see the framing guidance at the top
-   of `Stakeholder-Notes.md` *(shared: all — per VoltPop, 2026-08-03)*
-   (Admin-Business-Legal.md §8).
+4. **Frame stakeholder conversations as exploratory.** **Removed from
+   the TODO table (2026-08-14, per VoltPop):** not actually a
+   completable deliverable of VoltPop's — a standing behavioral norm
+   for whoever's running a stakeholder conversation, already fully
+   written up in `Stakeholder-Notes.md`'s Framing section. Per VoltPop,
+   it's on Dr. Nicholson's radar as the one now leading most
+   introductions personally (his presence as Institutional Liaison
+   already lends real legitimacy to those specific conversations, per
+   the Framing section — distinct from VSU's advancement/development
+   office formally signing off, which is still Nicholson's own
+   separate item #17).
 
 5. **Pitch deck/press kit.** *Aug 21* — Build the actual tailored pitch
    deck/press kit from `Stakeholder-Notes.md`'s per-stakeholder
