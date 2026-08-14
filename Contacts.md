@@ -120,6 +120,16 @@ END:VCARD
 ```vcard
 BEGIN:VCARD
 VERSION:4.0
+FN:Rich Bowen
+ORG:Apache Software Foundation
+EMAIL:rbowen@apache.org
+NOTE:Confirmed 2026-08-14 contact for ASF's in-kind guest-lecturer commitment (Stakeholder-Notes.md).
+END:VCARD
+```
+
+```vcard
+BEGIN:VCARD
+VERSION:4.0
 FN:Vincent W. Howell
 ORG:SME (Society of Manufacturing Engineers)
 TITLE:President
