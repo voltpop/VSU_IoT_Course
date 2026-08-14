@@ -173,7 +173,7 @@ trimming it — it's archived there instead.*
 
 | ☐ | Deliverable | Due | Assigned by | Notes |
 |---|---|---|---|---|
-| ☐ | Siemens research/outreach — fill in Stakeholder-Notes.md profile | Aug 4–7 *(stale)* | Self | Contact: Gail Norris (VSU Eng IAC) — warm path blocked pending Aug 7 group agreement, outcome never recorded; confirm with group. Cold-call fallback (Newport News) always open. *(shared: Nicholson LLC — VSU contact routing)* |
+| ☐ | Siemens research/outreach — fill in Stakeholder-Notes.md profile | — *(not stale — was deliberately waiting on the Ask, per VoltPop 2026-08-14)* | Self | Contact: Gail Norris (VSU Eng IAC). **Now unblocked:** the Ask is refined as network activation + in-kind support — ready to request Dr. Nicholson's introduction. Cold-call fallback (Newport News) always open in parallel. *(shared: Nicholson LLC — VSU contact routing)* |
 | ☐ | Jabil outreach — fill in Stakeholder-Notes.md profile | Aug 4–7 *(stale)* | Self | Needs Javon's confirmation: distinct lead or Siemens-tied? Route via Petersburg site Community Relations Mgr/HR, not the invitation-only Foundation. Last known: not yet contacted (2026-08-04) — needs a fresh check. Mentorship/Career Day is a valued ask on its own, not just a cash fallback. |
 | ☐ | Complete Apache/ASF row in Javon's Stakeholder Tracker | Aug 7 *(stale)* | Self | Still blank except assignee. Anthropic↔ASF $1.5M donation is the strongest angle. Confirm whether completed. |
 | ☐ | Frame stakeholder conversations as exploratory, not firm VSU commitments | Aug 7 | Self | Outreach precedes formal VSU advancement buy-in. *(shared: all parties)* |
