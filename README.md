@@ -20,8 +20,18 @@ LLC, and VSU to collaborate from. Split by domain:
   pitch deck gets built from this later, not guessed at now.
 - **[`Press-Kit-Content.md`](./Press-Kit-Content.md)** — blurbs/about copy
   for press materials (logos/photos still need sourcing separately).
-- **[`TODOs-by-Owner.md`](./TODOs-by-Owner.md)** — action items split by
-  Builder Tech, VoltPop, Explay, and Dr. Shawn M. Nicholson LLC.
+- **[`TODOs-by-Owner.md`](./TODOs-by-Owner.md)** — cross-party
+  deliverables tied to a specific formal agreement, split by Builder
+  Tech, VoltPop, Explay, and Dr. Shawn M. Nicholson LLC. One table per
+  agreement per party (e.g. a Curriculum-MOU table, a Joint-Venture
+  table), with checkbox / deliverable / due date / who assigned it / a
+  short note — the scannable checklist, not the full story.
+- **`<Party>-Workspace.md`** (e.g. `VoltPop-Workspace.md`) — each
+  party's own personal work not tied to a cross-party agreement, plus
+  the fuller history/quotes/decision-provenance behind every row in
+  their `TODOs-by-Owner.md` tables. Trimming a shared table to stay
+  scannable never actually loses anything — it just moves the depth
+  here.
 - **[`Files/`](./Files/)** — raw source documents (budget spreadsheet,
   program schedule, stakeholder tracker, meeting recap) kept alongside
   the markdown summaries above as reference copies. These are point-in-
