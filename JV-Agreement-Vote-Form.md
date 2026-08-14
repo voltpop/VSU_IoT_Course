@@ -340,6 +340,26 @@ and each of the three, not in this JV Agreement itself.
 
 ---
 
+### 18. No tie-breaker for a 2-2 governance split
+*New item, 2026-08-13, surfaced while reviewing item 3: with four
+Parties and a 3-of-4 majority threshold, a 2-2 split simply fails to
+pass — the status quo holds, no separate tie-breaker mechanism exists.
+This confirms that's the accepted default, rather than the group
+wanting an explicit tie-breaker (e.g., giving Nicholson LLC, as prime
+contractor, a deciding vote on deadlocks specifically). Full text in
+`Joint-Venture-Agreement-Draft.md` §4.*
+
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+---
+
 ## Not a group vote
 
 **Explay's exact legal entity name:** factual confirmation from Explay

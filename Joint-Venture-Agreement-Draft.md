@@ -163,7 +163,9 @@ had agreed — see `TODOs-by-Owner.md`, Builder Tech item 19):
   majority" is already a defined outcome. Worth confirming the group
   is fine with that default (nothing changes on a 2-2 split) rather
   than wanting an explicit tie-breaker (e.g., Nicholson LLC given his
-  prime-contractor role) for deadlocks specifically.
+  prime-contractor role) for deadlocks specifically — **newly added to
+  the ballot as its own item, 2026-08-13: see
+  `JV-Agreement-Vote-Form.md` item 18.**
 - **Deliberate exception, per VoltPop, 2026-08-13: removing a Party
   from the Agreement is kept unanimous, not majority** — consistent
   with §6's termination-for-cause provision, which is the same action
@@ -297,6 +299,11 @@ updating to match — flagged there separately.
 - **Termination — confirmed as VoltPop's own position 2026-08-13 (not
   just a drafting placeholder), not yet confirmed by the other three
   Parties:**
+  - **Proposed default, per VoltPop 2026-08-13, see
+    `JV-Agreement-Vote-Form.md` item 13:** email is the adopted method
+    of official written notice — no certified mail or other formal
+    method required, for the 30-day withdrawal notice below or
+    elsewhere in this Agreement.
   - Voluntary withdrawal: 30 days' written notice to the other three
     Parties.
   - No mid-cohort exit without **unanimous** consent of the other
@@ -413,15 +420,18 @@ verify).
    structure. This is VoltPop's drafting direction, not yet run past
    the other three. (§1)
 4. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (revised 2026-08-13 from
-   an earlier unanimous-consent proposal):** majority vote (3 of 4) for
-   Venture-wide decisions (admitting a new Party, transferring/
-   assigning an interest, amending the Agreement), not unanimous
-   consent. **Removing a Party is a deliberate exception, kept
+   an earlier unanimous-consent proposal; merges former #12, since §9's
+   Assignment/transfer clause states the identical rule):** majority
+   vote (3 of 4) for Venture-wide decisions (admitting a new Party,
+   transferring/assigning an interest, amending the Agreement), not
+   unanimous consent. **Removing a Party is a deliberate exception, kept
    unanimous** — same action as §6's termination-for-cause. The other
    three haven't actually agreed to any of this yet — also worth
    confirming the group is fine with a 2-2 split simply failing to
    pass on the majority items, rather than wanting an explicit
-   tie-breaker. (§4, §6)
+   tie-breaker (own vote now: see `JV-Agreement-Vote-Form.md` item 18).
+   (§4, §6, §9; `JV-Agreement-Vote-Form.md` item 3 — former item 4
+   merged in)
 5. **STILL OPEN ("I don't know," per VoltPop) — needs the full group:**
    does Nicholson LLC need to consult the other three before VSU-facing
    decisions, or is it his call alone? (§3, §4)
@@ -429,9 +439,21 @@ verify).
    current program's completion (~April 2027) — follows mechanically
    from #3's scope answer, so carries the same not-yet-confirmed
    status. (§6)
-7. **STILL OPEN ("we'll discuss this," per VoltPop) — needs the full
-   group:** what happens to in-progress obligations if a Party exits
-   mid-program? (§6)
+7. **NARROWED, 2026-08-13 — smaller than it looked, per VoltPop:**
+   §6's termination boilerplate (vote item 10) already answers the
+   *procedural/financial* half — an exiting Party hands off duties and
+   gets pro-rata pay only. The *substantive* half (who covers the
+   exiting Party's functional role) is less of an open gap than it
+   first appeared: the curriculum itself will already exist by then, per
+   the **prior MOU between VoltPop and Builder Tech** (the Curriculum
+   Development MOU, `Files/Curriculum Development MOU Draft.docx`) —
+   what's left if, say, VoltPop exits mid-program is **delivering**
+   already-built content, not designing it from scratch. Still a real
+   staffing question (someone has to actually teach it), but a
+   substitution problem, not a content-recreation one — and the
+   jointly-owned IP (§5) means the remaining Parties already have full
+   rights to use the existing materials regardless of who delivers them.
+   Not resolved to a specific default, but meaningfully de-risked. (§6)
 8. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED as formal coverage:**
    Nicholson LLC's existing insurance is intended as the
    liability-coverage mechanism — reportedly a shared reason the group
@@ -452,11 +474,7 @@ verify).
     The functional-roles description is accurate today; whether it
     stays governance-irrelevant under a signed Agreement is still
     VoltPop's proposal, not the group's confirmed position. (§3, §4)
-12. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (revised 2026-08-13 to
-    match #4):** transferring/assigning a Party's interest requires a
-    majority vote (3 of 4), not unanimous consent — consistent with
-    #4, and carries the same not-yet-confirmed status. (§9)
-13. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (merges former #13/#14,
+12. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (merges former #13/#14,
     revised 2026-08-13 into one general-purpose Non-Circumvention and
     Non-Compete clause):** without **unanimous** consent of the
     remaining three, no Party may sell the jointly-developed content to
@@ -466,11 +484,12 @@ verify).
     left open. 12-month post-exit tail; does not restrict a Party's own
     general skills/expertise or separately-owned pre-existing materials.
     (§5, `JV-Agreement-Vote-Form.md` item 14; former item 15 merged in)
-14. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** confidentiality
+13. **CONFIRMED AS VOLTPOP'S POSITION, 2026-08-13:** confidentiality
     obligations survive the Venture's end or a Party's exit for **3
-    years** — a proposed default, not yet discussed by the group. (§5,
+    years** — most of the underlying tech will likely be outdated by
+    then anyway. Not yet confirmed by the other three. (§5,
     `JV-Agreement-Vote-Form.md` item 16)
-15. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED, contingent on tomorrow's
+14. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED, contingent on tomorrow's
     vote:** beyond the confirmed fact that VSU pays Nicholson LLC only,
     the rest of the payment structure is a proposal — Nicholson LLC
     passes fees through to VoltPop, Builder Tech, and Explay as
@@ -489,33 +508,43 @@ verify).
 VoltPop:**
 1. Whether Nicholson LLC must consult the other three before VSU-facing
    decisions, or has full discretion (§3, §4, Question 5).
-2. What happens to in-progress obligations if a Party exits mid-program
-   (§6, Question 7).
+2. Narrowed 2026-08-13: who actually delivers an exiting Party's
+   already-built curriculum content — a staffing/substitution question,
+   not a content-recreation one, now that curriculum will already exist
+   per the VoltPop/Builder Tech MOU (§6, Question 7).
 3. Confirm Explay's exact legal entity name — on Explay's own TODO list
    (Question 1).
 
 **VoltPop has proposed an answer; Builder Tech, Explay, and Nicholson
 LLC still need to actually confirm each one before it's a real term:**
 4. Scoping the Agreement to the current program only (§1).
-5. Unanimous consent for Venture-wide decisions, including
-   admitting/removing a Party or transferring an interest (§4, §9).
+5. **Corrected 2026-08-13 — was stale, said "unanimous" here after the
+   rest of the document moved to majority:** majority vote (3 of 4) for
+   admitting a new Party, transferring/assigning an interest, and
+   amending the Agreement — **removing** a Party is the one deliberate
+   exception, kept unanimous (§4, §6, §9, Question 4).
 6. Term ending with the current program (§6).
 7. Nicholson LLC's insurance as the Party-to-Party liability mechanism
-   — also needs an actual insurance-coverage confirmation, separate
-   from the other Parties' sign-off (§7).
+   — Nicholson himself has agreed; still needs an actual
+   insurance-coverage confirmation, separate from the other three
+   Parties' own sign-off (§7).
 8. Virginia law/venue for dispute resolution, and the actual mediation/
    arbitration mechanism itself (§8).
-9. Restriction on selling jointly-developed content to a Party's own
-   clients, kept unanimous (§5, Question 13).
-10. Non-compete on the jointly-developed curriculum, 12-month tail,
-    kept unanimous (§5, Question 14).
-11. Confidentiality survival period — proposed 3 years, not yet
-    discussed by the group (§5, Question 15).
-12. Payment structure beyond "VSU pays Nicholson LLC only" —
+9. Non-Circumvention and Non-Compete — restriction on selling
+   jointly-developed content to a Party's own clients, building a
+   competing program (now including at VSU itself), and dealing
+   directly with VSU to bypass the others, kept unanimous (§5,
+   Question 12).
+10. Confidentiality survival period — proposed 3 years (§5, Question 13).
+11. Payment structure beyond "VSU pays Nicholson LLC only" —
     subcontractor pass-through payments, the 10-business-day window, and
     separate subcontractor agreements as the vehicle. Also still needs
     Dr. Nicholson's own input, not just the other three's sign-off (§2,
-    Question 16).
+    Question 14).
+12. **New, 2026-08-13:** no tie-breaker for a 2-2 governance split under
+    the new majority-vote rule — confirming that's the accepted default
+    rather than wanting an explicit tie-breaker (§4, Question 4, vote
+    item 18).
 
 **Settled, not a Party-consent question:**
 13. `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
