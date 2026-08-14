@@ -52,12 +52,13 @@ Nicholson LLC receives under the new structure — see
 |---|---|---|
 | Javon (Builder Tech) — Business Intelligence & Design Instruction & Curriculum, Program Director | $55,000 | Flat fee, up from an hourly-basis $50,400 in Budget V1; role also expanded to include named instructional duties, not just Program Director/operator. |
 | Andrew (VoltPop) — Engineering & Computer Science Instruction & Curriculum | $70,000 | Unchanged from Budget V1. |
-| Emanuel (Explay) — Entrepreneurship & Innovation Instruction & Curriculum | $87,500 | Unchanged. |
+| Emanuel (Explay) — Entrepreneurship & Innovation Instruction & Curriculum | $40,000 | **Changed 2026-08-14, per Javon: Emanuel is ok with $40,000**, reflecting his updated (reduced) level of involvement — down from $87,500. Not yet directly confirmed by Emanuel himself in this KB. |
 | Dr. Shawn Nicholson (Dr. Shawn M. Nicholson LLC) — Operations Director & Institutional Liaison | TBD | Was $0 in Budget V1; now an open compensation question rather than an assumed volunteer role. Confirmed (see §1) this is paid through **Dr. Shawn M. Nicholson LLC**, not absorbed into an existing VSU salary — amount and contract terms still need setting. |
 | Finance role | **Cut** | Was ~$16,000–$28,000 in Budget V1, $0/unresolved as of the 2026-07-31 revision. **Decided (per Javon, 2026-08-08): role cut entirely** — no longer an open budget question. |
 | Marketing role | **Cut** | Was flagged as a gap needing a real line item. **Decided (per Javon, 2026-08-08): role cut entirely**, same as Finance. Resolves the budget-line question, but the *general marketing work itself* (assets, campaign, online presence — flagged in `TODOs-by-Owner.md`'s program-name note) still has no owner if that work is still wanted. |
 
-**Contractual Services subtotal: $212,500.**
+**Contractual Services subtotal: $165,000** (updated 2026-08-14 — was
+$212,500 before Emanuel's compensation change above).
 
 **Duration basis**: Budget V1's labor figures were calculated against a
 16-week span (the full VSU Spring 2027 semester, including non-teaching
@@ -272,7 +273,8 @@ threads can get equal depth in time.
 Supersedes Budget V1 (which had no Grand Total and several blank line
 items). Treat this as the current working figures.
 
-**Contractual Services**: see §2. Subtotal **$212,500**.
+**Contractual Services**: see §2. Subtotal **$165,000** (updated
+2026-08-14 — was $212,500).
 
 **Supplies & Materials** (note: per-sensor-type pricing from Budget V1
 has been replaced with a single flat "Sensors" line — a simplification,

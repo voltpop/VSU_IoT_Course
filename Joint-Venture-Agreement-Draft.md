@@ -93,8 +93,9 @@ being worked out:
   (`Admin-Business-Legal.md` §2) as subcontractor payments, not JV
   capital contributions or a profit share.
 - **Payment-timing risk — proposed by VoltPop, 2026-08-13, contingent
-  on the vote:** Nicholson LLC is not expected to front the $212,500
-  Contractual Services total from his own funds if VSU pays late.
+  on the vote:** Nicholson LLC is not expected to front the $165,000
+  Contractual Services total (updated 2026-08-14, was $212,500 — see
+  `Admin-Business-Legal.md` §2) from his own funds if VSU pays late.
   Instead, he passes payment through to each subcontractor within a
   **short, defined window (proposed: 10 business days)** of actually
   receiving the corresponding funds from VSU — bounded and visible,
