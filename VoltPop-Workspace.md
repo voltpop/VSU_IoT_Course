@@ -96,7 +96,11 @@ Tech, where the deliverable is the curriculum content itself.
    2026-08-05 is the strongest angle found so far
    (Admin-Business-Legal.md §8; Stakeholder-Notes.md). No status
    update recorded since assignment — confirm whether this row
-   actually got completed.
+   actually got completed. **Resolved (2026-08-14, per VoltPop): not
+   stale — outcome just hadn't been recorded.** ASF has confirmed
+   in-kind support in the form of a **guest lecturer**. Named contact:
+   **Rich Bowen** (rbowen@apache.org). Still need to actually complete
+   Javon's Stakeholder Tracker row with this outcome.
 
 4. **Frame stakeholder conversations as exploratory.** *Aug 7* — Frame
    any stakeholder conversations as exploratory/preliminary, not firm
