@@ -209,12 +209,16 @@ Tech, where the deliverable is the curriculum content itself.
     §3) — the Aug 7 call decided it's prioritized for "value and
     efficacy," but what that concretely means for drafting priorities
     is still unspecified. **Update (2026-08-13, per VoltPop): the
-    referenced draft (`VoltPop-BuilderTech-VSU-Agreement.md`) could not
-    be located anywhere in this repository or its history** — this is
-    now a **full rebuild, not a recovery**, and needs rescoping beyond
-    its two-party (VoltPop + Builder Tech) framing to match the
-    now-four-party structure (Explay and Nicholson LLC as full parties
-    too).
+    referenced draft could not be located anywhere in this repository or
+    its history** — this was a **full rebuild, not a recovery**, needing
+    rescoping beyond its two-party (VoltPop + Builder Tech) framing to
+    match the now-four-party structure (Explay and Nicholson LLC as full
+    parties too). **Update (2026-08-14, per Javon and VoltPop):
+    first-pass rebuild done**, as a `.docx` in the same contract format
+    as the Curriculum Development MOU:
+    [`Files/VoltPop-BuilderTech-VSU-Agreement.docx`](./Files/VoltPop-BuilderTech-VSU-Agreement.docx).
+    Still placeholder-laden — needs the group's work-through and
+    eventual attorney/VSU-counsel review.
 
 15. **The JV Agreement itself.** **[New, flagged 2026-08-13, per
    VoltPop]** A formal **Joint Venture agreement** is needed among the

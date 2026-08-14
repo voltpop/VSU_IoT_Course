@@ -34,15 +34,22 @@ This Joint Venture Agreement ("**Agreement**") is entered into as of
 **Not a party to this Agreement:** Virginia State University ("VSU").
 VSU's relationship to the Parties is governed separately by the
 Operating Agreement referenced in `Admin-Business-Legal.md` §3
-(currently drafted as `VoltPop-BuilderTech-VSU-Agreement.md` — this
-file could not be located anywhere in this repository or its git
+(`Files/VoltPop-BuilderTech-VSU-Agreement.docx` — **rebuilt from scratch
+2026-08-14, confirmed by Javon and VoltPop:** the file referenced under
+this name could not be located anywhere in this repository or its git
 history as of 2026-08-13, despite being referenced as existing in
-several TODO items). **Confirmed 2026-08-13, per VoltPop: this needs a
-full rebuild, not just recovery** — its very name reflects an outdated
-two-party framing (VoltPop + Builder Tech only) that no longer matches
-the current four-private-party structure. Rebuilding it should account
-for Explay and Nicholson LLC as full parties, and the prime-contractor
-structure below, not just restore whatever the original said.
+several TODO items, so this is a full rebuild, not a recovery. Drafted
+as a `.docx` in the same contract format as the Curriculum Development
+MOU, rather than as a KB markdown file, and moved into `Files/`
+alongside it — kept the same base filename for cross-reference
+continuity even though the name itself is a two-party holdover (see
+`Files/VoltPop-BuilderTech-VSU-Agreement.docx` §9 for the still-open
+question of whether Builder Tech, Voltpop, and Explay need to
+countersign it directly). Scoped to cover *only* the VSU-facing
+contract terms — it deliberately does not restate roles, curriculum IP
+ownership, or internal governance, which stay in the Curriculum
+Development MOU and this document, to avoid the drift just corrected
+between those two).
 
 <a id="sec-1"></a>
 ## 1. Purpose
@@ -482,9 +489,11 @@ verify).
    something else) still needs drafting and group agreement. (§8;
    [Vote Form items 7 and 10](JV-Agreement-Vote-Form.md#vote-7))
 10. **RESOLVED (fact/decision, not a Party-consent question):**
-    `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
-    rescope, not just recovery — its two-party framing is outdated now
-    that Explay and Nicholson LLC are full parties. (§ intro)
+    `Files/VoltPop-BuilderTech-VSU-Agreement.docx` — first-pass rebuild
+    done 2026-08-14, as a `.docx` in the same contract format as the
+    Curriculum Development MOU. Its two-party framing was outdated;
+    rebuilt to account for Explay and Nicholson LLC as full parties.
+    (§ intro)
 11. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** "subcontractor" status
     is external/VSU-facing only — internally the split is functional
     (Builder Tech builds the course, VoltPop leads technical, Nicholson
@@ -567,9 +576,11 @@ LLC still need to actually confirm each one before it's a real term:**
     Form item 16).
 
 **Settled, not a Party-consent question:**
-13. `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
-   rescope (not just recovery) — see the note in the Parties section
-   above.
+13. `Files/VoltPop-BuilderTech-VSU-Agreement.docx` — **first-pass
+   rebuild done 2026-08-14**, as a `.docx` in the same contract format
+   as the Curriculum Development MOU — see the note in the Parties
+   section above. Still placeholder-laden; needs the same group
+   work-through and eventual attorney/VSU-counsel review as this document.
 
 **Once the group has actually weighed in on 1-12 above:**
 14. Draft real liability/indemnification and dispute-resolution

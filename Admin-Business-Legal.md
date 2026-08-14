@@ -79,8 +79,16 @@ not yet reflected in the Software Licenses & Subscriptions figures in
 
 ## 3. Legal/contract status
 
-- Operating Agreement drafted (`VoltPop-BuilderTech-VSU-Agreement.md`),
-  explicitly flagged as a template, not legal advice — needs attorney
+- Operating Agreement (`Files/VoltPop-BuilderTech-VSU-Agreement.docx`) —
+  **the version referenced here could not actually be located in the
+  repo or its history as of 2026-08-13; rebuilt from scratch 2026-08-14**
+  (confirmed by Javon and VoltPop), as a `.docx` in the same contract
+  format as `Files/Curriculum Development MOU Draft.docx` rather than
+  a KB markdown file, to reflect the four-party structure and
+  prime-contractor relationship. Scoped to VSU-facing terms only —
+  internal roles/IP/governance stay in the Curriculum Development MOU
+  and `Joint-Venture-Agreement-Draft.md` instead of being restated.
+  Explicitly flagged as a template, not legal advice — needs attorney
   review before signature, especially IP, FERPA, and liability
   sections, and needs VSU's contracts/procurement office looped in
   early.
