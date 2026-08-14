@@ -44,6 +44,7 @@ the current four-private-party structure. Rebuilding it should account
 for Explay and Nicholson LLC as full parties, and the prime-contractor
 structure below, not just restore whatever the original said.
 
+<a id="sec-1"></a>
 ## 1. Purpose
 
 The Parties are forming this joint venture (the "**Venture**") to
@@ -65,6 +66,7 @@ structure here may well change (parties, roles, IP terms) — this
 proposal doesn't assume this Agreement's terms simply roll forward onto
 a future deal without renegotiation.
 
+<a id="sec-2"></a>
 ## 2. Roles and Contributions
 
 Per the roles already documented in `Admin-Business-Legal.md` §1:
@@ -123,6 +125,7 @@ hybrid approach is the right vehicle, rather than defaulting to standard
 JV profit/loss-allocation language that doesn't actually fit how these
 Parties get paid.]
 
+<a id="sec-3"></a>
 ## 3. Prime/Subcontractor Structure
 
 **Confirmed 2026-08-13, per VoltPop: all four Parties have now aligned,
@@ -144,6 +147,7 @@ had agreed — see `TODOs-by-Owner.md`, Builder Tech item 19):
   split, unaffected by the prime/subcontractor labels, is VoltPop's
   proposal — not yet the group's confirmed position.
 
+<a id="sec-4"></a>
 ## 4. Governance and Decision-Making
 
 - Day-to-day decisions within each Party's functional role (Builder
@@ -163,21 +167,21 @@ had agreed — see `TODOs-by-Owner.md`, Builder Tech item 19):
   majority" is already a defined outcome. Worth confirming the group
   is fine with that default (nothing changes on a 2-2 split) rather
   than wanting an explicit tie-breaker (e.g., Nicholson LLC given his
-  prime-contractor role) for deadlocks specifically — **newly added to
-  the ballot as its own item, 2026-08-13: see
-  `JV-Agreement-Vote-Form.md` item 18.**
+  prime-contractor role) for deadlocks specifically — **its own ballot
+  item: see [Vote Form item 16](JV-Agreement-Vote-Form.md#vote-16).**
 - **Deliberate exception, per VoltPop, 2026-08-13: removing a Party
   from the Agreement is kept unanimous, not majority** — consistent
   with §6's termination-for-cause provision, which is the same action
   under a different name. Requires all three remaining Parties to
-  agree, not just 2 of 3. See §6 and `JV-Agreement-Vote-Form.md`
-  item 10.
+  agree, not just 2 of 3. See §6 and
+  [Vote Form item 9](JV-Agreement-Vote-Form.md#vote-9).
 - **Proposed by VoltPop, 2026-08-13 (revised same day from an earlier
   "I don't know") — not yet confirmed by the other three Parties:**
   Nicholson LLC must **consult** the other three Parties before making
   VSU-facing decisions — not full discretion as prime contractor. See
-  `JV-Agreement-Vote-Form.md` item 6.
+  [Vote Form item 5](JV-Agreement-Vote-Form.md#vote-5).
 
+<a id="sec-5"></a>
 ## 5. Intellectual Property and Confidentiality
 
 **Resolved, per VoltPop, 2026-08-13: split ownership among the
@@ -245,7 +249,7 @@ curriculum creators:
   clause (c) in particular — a non-circumvention term aimed at a named
   institutional client — should get a sanity check on enforceability
   alongside the rest of this section.] See
-  `JV-Agreement-Vote-Form.md` item 14 (item 15 merged into this).
+  [Vote Form item 13](JV-Agreement-Vote-Form.md#vote-13).
 - [**Not yet specified:** IP terms for any future opportunities pursued
   under §1 above, if this Agreement is meant to cover those too.]
 
@@ -273,8 +277,8 @@ curriculum creators:
   underlying tech referenced (AI coding tools, specific IoT/hardware
   choices) will likely be outdated by then anyway, so a longer or
   indefinite restriction isn't needed — this isn't trade-secret-level
-  information with lasting value. See `JV-Agreement-Vote-Form.md`
-  item 16.
+  information with lasting value. See
+  [Vote Form item 14](JV-Agreement-Vote-Form.md#vote-14).
 
 **Note:** this differs from the *older* IP structure still described in
 `Admin-Business-Legal.md` §1 ("jointly owned by Explay and VoltPop...
@@ -284,6 +288,7 @@ predates the prime-contractor alignment and should now be treated as
 role as of 2026-08-13. `Admin-Business-Legal.md` §1 itself still needs
 updating to match — flagged there separately.
 
+<a id="sec-6"></a>
 ## 6. Term and Termination
 
 - **Effective date:** [TBD — Nicholson LLC has now confirmed the
@@ -300,10 +305,10 @@ updating to match — flagged there separately.
   just a drafting placeholder), not yet confirmed by the other three
   Parties:**
   - **Proposed default, per VoltPop 2026-08-13, see
-    `JV-Agreement-Vote-Form.md` item 13:** email is the adopted method
-    of official written notice — no certified mail or other formal
-    method required, for the 30-day withdrawal notice below or
-    elsewhere in this Agreement.
+    [Vote Form item 12](JV-Agreement-Vote-Form.md#vote-12):** email is
+    the adopted method of official written notice — no certified mail
+    or other formal method required, for the 30-day withdrawal notice
+    below or elsewhere in this Agreement.
   - Voluntary withdrawal: 30 days' written notice to the other three
     Parties.
   - No mid-cohort exit without **unanimous** consent of the other
@@ -332,12 +337,13 @@ updating to match — flagged there separately.
     an already-vested joint IP ownership share (§5) stays intact? Or
     would it also strip that retroactively? VoltPop himself isn't sure
     yet — **not ready for tomorrow's vote**, kept out of
-    `JV-Agreement-Vote-Form.md` item 10 until it's thought through
-    further.
-  - See `JV-Agreement-Vote-Form.md` item 10 for the actual vote (base
-    termination terms only — the rights-cessation question above is
-    excluded).
+    [Vote Form item 9](JV-Agreement-Vote-Form.md#vote-9) until it's
+    thought through further.
+  - See [Vote Form item 9](JV-Agreement-Vote-Form.md#vote-9) for the
+    actual vote (base termination terms only — the rights-cessation
+    question above is excluded).
 
+<a id="sec-7"></a>
 ## 7. Liability and Indemnification
 
 **Confirmed in conversation with Dr. Nicholson, 2026-08-13, per
@@ -357,7 +363,8 @@ address the specific exposure here (e.g., a Party's negligence during
 the program)? This is distinct from the VSU-facing indemnification/
 liability-cap language already flagged for attorney review in
 `Admin-Business-Legal.md` §3, which covers the Parties' collective
-exposure to VSU rather than to each other.
+exposure to VSU rather than to each other. See
+[Vote Form item 6](JV-Agreement-Vote-Form.md#vote-6).
 
 **Proposed by VoltPop, 2026-08-13 — not yet confirmed, and not yet run
 past Dr. Nicholson himself:** if his insurance is confirmed as covering
@@ -368,30 +375,37 @@ benefits everyone. Amount TBD pending his actual premium cost. See
 `Admin-Business-Legal.md` §6a, `TODOs-by-Owner.md` VoltPop admin item
 20.
 
+<a id="sec-8"></a>
 ## 8. Dispute Resolution
 
 **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
 three Parties: Virginia law would govern, per VoltPop's direction to
-"see VA law on that one."** [**Still needs drafting and group
-agreement:** the actual resolution mechanism — direct negotiation
-first, then mediation, then binding arbitration or litigation as a
-last resort is the typical default structure, and nothing so far
-suggests the Parties want something unusual, but this hasn't been
-explicitly chosen by anyone but VoltPop. Also confirm the specific
-Virginia venue/county for any arbitration or litigation.]
+"see VA law on that one."** See
+[Vote Form item 7](JV-Agreement-Vote-Form.md#vote-7). [**Still needs
+drafting and group agreement:** the actual resolution mechanism —
+direct negotiation first, then mediation, then binding arbitration or
+litigation as a last resort is the typical default structure, and
+nothing so far suggests the Parties want something unusual, but this
+hasn't been explicitly chosen by anyone but VoltPop. See
+[Vote Form item 10](JV-Agreement-Vote-Form.md#vote-10). Also confirm
+the specific Virginia venue/county for any arbitration or litigation —
+not yet on the ballot, still needs drafting.]
 
+<a id="sec-9"></a>
 ## 9. Miscellaneous
 
 - **Relationship to other documents:** this Agreement does not modify
   or supersede the separate Operating Agreement governing the
   Parties' collective relationship with VSU, or any individual
-  compensation arrangements under `Admin-Business-Legal.md` §2/§6.
+  compensation arrangements under `Admin-Business-Legal.md` §2/§6. See
+  [Vote Form item 11](JV-Agreement-Vote-Form.md#vote-11).
 - **Assignment/transfer — proposed by VoltPop, 2026-08-13 (revised
   same day to match §4's switch to majority), not yet confirmed by the
   other three Parties:** transferring or assigning a Party's interest
   would require a majority vote (3 of 4) — consistent with §4's
   proposed governance rule above, and carrying the same
-  not-yet-confirmed status.
+  not-yet-confirmed status. Same vote as §4's rule — see
+  [Vote Form item 3](JV-Agreement-Vote-Form.md#vote-3).
 - [**Standard boilerplate still not drafted:** entire-agreement clause,
   amendment process, severability, notices.]
 
@@ -418,7 +432,7 @@ verify).
    to the current program only, not the future-opportunities MOU, with
    an explicit flag that a future engagement may need a different
    structure. This is VoltPop's drafting direction, not yet run past
-   the other three. (§1)
+   the other three. (§1; [Vote Form item 1](JV-Agreement-Vote-Form.md#vote-1))
 4. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (revised 2026-08-13 from
    an earlier unanimous-consent proposal; merges former #12, since §9's
    Assignment/transfer clause states the identical rule):** majority
@@ -429,18 +443,20 @@ verify).
    three haven't actually agreed to any of this yet — also worth
    confirming the group is fine with a 2-2 split simply failing to
    pass on the majority items, rather than wanting an explicit
-   tie-breaker (own vote now: see `JV-Agreement-Vote-Form.md` item 18).
-   (§4, §6, §9; `JV-Agreement-Vote-Form.md` item 3 — former item 4
-   merged in)
+   tie-breaker (own vote now: see
+   [Vote Form item 16](JV-Agreement-Vote-Form.md#vote-16)).
+   (§4, §6, §9; [Vote Form item 3](JV-Agreement-Vote-Form.md#vote-3) —
+   former item 4 merged in)
 5. **STILL OPEN ("I don't know," per VoltPop) — needs the full group:**
    does Nicholson LLC need to consult the other three before VSU-facing
-   decisions, or is it his call alone? (§3, §4)
+   decisions, or is it his call alone? (§3, §4;
+   [Vote Form item 5](JV-Agreement-Vote-Form.md#vote-5))
 6. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** term runs through the
    current program's completion (~April 2027) — follows mechanically
    from #3's scope answer, so carries the same not-yet-confirmed
-   status. (§6)
+   status. (§6; [Vote Form item 2](JV-Agreement-Vote-Form.md#vote-2))
 7. **NARROWED, 2026-08-13 — smaller than it looked, per VoltPop:**
-   §6's termination boilerplate (vote item 10) already answers the
+   §6's termination boilerplate (Vote Form item 9) already answers the
    *procedural/financial* half — an exiting Party hands off duties and
    gets pro-rata pay only. The *substantive* half (who covers the
    exiting Party's functional role) is less of an open gap than it
@@ -459,10 +475,12 @@ verify).
    liability-coverage mechanism — reportedly a shared reason the group
    aligned behind him as prime, but whether his actual policy legally
    covers the other three Parties is unconfirmed, and needs both the
-   other Parties' sign-off and an attorney/insurance-review check. (§7)
+   other Parties' sign-off and an attorney/insurance-review check. (§7;
+   [Vote Form item 6](JV-Agreement-Vote-Form.md#vote-6))
 9. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** Virginia law governs
    disputes; specific venue/mechanism (mediation → arbitration, or
-   something else) still needs drafting and group agreement. (§8)
+   something else) still needs drafting and group agreement. (§8;
+   [Vote Form items 7 and 10](JV-Agreement-Vote-Form.md#vote-7))
 10. **RESOLVED (fact/decision, not a Party-consent question):**
     `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and
     rescope, not just recovery — its two-party framing is outdated now
@@ -473,7 +491,8 @@ verify).
     LLC handles institutional/admin), governed by #4's rule regardless.
     The functional-roles description is accurate today; whether it
     stays governance-irrelevant under a signed Agreement is still
-    VoltPop's proposal, not the group's confirmed position. (§3, §4)
+    VoltPop's proposal, not the group's confirmed position. (§3, §4;
+    [Vote Form item 4](JV-Agreement-Vote-Form.md#vote-4))
 12. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (merges former #13/#14,
     revised 2026-08-13 into one general-purpose Non-Circumvention and
     Non-Compete clause):** without **unanimous** consent of the
@@ -483,12 +502,13 @@ verify).
     the last of which closes a gap the two original separate proposals
     left open. 12-month post-exit tail; does not restrict a Party's own
     general skills/expertise or separately-owned pre-existing materials.
-    (§5, `JV-Agreement-Vote-Form.md` item 14; former item 15 merged in)
+    (§5; [Vote Form item 13](JV-Agreement-Vote-Form.md#vote-13) —
+    former item 15 merged in)
 13. **CONFIRMED AS VOLTPOP'S POSITION, 2026-08-13:** confidentiality
     obligations survive the Venture's end or a Party's exit for **3
     years** — most of the underlying tech will likely be outdated by
-    then anyway. Not yet confirmed by the other three. (§5,
-    `JV-Agreement-Vote-Form.md` item 16)
+    then anyway. Not yet confirmed by the other three. (§5;
+    [Vote Form item 14](JV-Agreement-Vote-Form.md#vote-14))
 14. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED, contingent on tomorrow's
     vote:** beyond the confirmed fact that VSU pays Nicholson LLC only,
     the rest of the payment structure is a proposal — Nicholson LLC
@@ -499,8 +519,8 @@ verify).
     agreements** rather than in this JV Agreement itself. Dr. Nicholson's
     own compensation, and whether he has a different preferred structure
     for any of this, are both still open — this hasn't been run past him
-    yet. (§2, `JV-Agreement-Vote-Form.md` items 17a-c, split 2026-08-13
-    so disagreement on one part doesn't sink the others)
+    yet. (§2; [Vote Form items 15a-c](JV-Agreement-Vote-Form.md#vote-15),
+    split 2026-08-13 so disagreement on one part doesn't sink the others)
 
 ## Open items before this becomes a real draft
 
@@ -543,8 +563,8 @@ LLC still need to actually confirm each one before it's a real term:**
     Question 14).
 12. **New, 2026-08-13:** no tie-breaker for a 2-2 governance split under
     the new majority-vote rule — confirming that's the accepted default
-    rather than wanting an explicit tie-breaker (§4, Question 4, vote
-    item 18).
+    rather than wanting an explicit tie-breaker (§4, Question 4, Vote
+    Form item 16).
 
 **Settled, not a Party-consent question:**
 13. `VoltPop-BuilderTech-VSU-Agreement.md` needs a full rebuild and

@@ -17,7 +17,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 1. Scope — current program only *(draft §1)*
+<a id="vote-1"></a>
+### 1. Scope — current program only *([draft §1](Joint-Venture-Agreement-Draft.md#sec-1))*
 
 | Party | Y |
 |---|---|
@@ -30,7 +31,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 2. Term — ends with the current program (~April 2027) *(draft §6)*
+<a id="vote-2"></a>
+### 2. Term — ends with the current program (~April 2027) *([draft §6](Joint-Venture-Agreement-Draft.md#sec-6))*
 
 | Party | Y |
 |---|---|
@@ -43,7 +45,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 3. Venture-wide decisions (incl. transferring an interest) require majority vote, not unanimous *(draft §4, §9)*
+<a id="vote-3"></a>
+### 3. Venture-wide decisions (incl. transferring an interest) require majority vote, not unanimous *([draft §4](Joint-Venture-Agreement-Draft.md#sec-4), [§9](Joint-Venture-Agreement-Draft.md#sec-9))*
 
 | Party | Y |
 |---|---|
@@ -56,7 +59,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 4. Subcontractor status is external-only, not an internal hierarchy *(draft §3)*
+<a id="vote-4"></a>
+### 4. Subcontractor status is external-only, not an internal hierarchy *([draft §3](Joint-Venture-Agreement-Draft.md#sec-3))*
 
 | Party | Y |
 |---|---|
@@ -69,7 +73,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 5. Nicholson LLC must consult the other three before VSU-facing decisions *(draft §4)*
+<a id="vote-5"></a>
+### 5. Nicholson LLC must consult the other three before VSU-facing decisions *([draft §4](Joint-Venture-Agreement-Draft.md#sec-4))*
 
 | Party | Y |
 |---|---|
@@ -82,7 +87,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 6. Nicholson LLC's insurance as the Party-to-Party liability mechanism *(draft §7)*
+<a id="vote-6"></a>
+### 6. Nicholson LLC's insurance as the Party-to-Party liability mechanism *([draft §7](Joint-Venture-Agreement-Draft.md#sec-7))*
 
 | Party | Y |
 |---|---|
@@ -95,7 +101,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 7. Virginia law governs disputes *(draft §8)*
+<a id="vote-7"></a>
+### 7. Virginia law governs disputes *([draft §8](Joint-Venture-Agreement-Draft.md#sec-8))*
 
 | Party | Y |
 |---|---|
@@ -108,7 +115,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 8. IP structure ratification — split ownership (VoltPop/Builder Tech/Explay), Nicholson LLC licensed *(draft §5)*
+<a id="vote-8"></a>
+### 8. IP structure ratification — split ownership (VoltPop/Builder Tech/Explay), Nicholson LLC licensed *([draft §5](Joint-Venture-Agreement-Draft.md#sec-5))*
 
 | Party | Confirm (✓) |
 |---|---|
@@ -121,7 +129,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 9. Termination / exit mid-program *(draft §6)*
+<a id="vote-9"></a>
+### 9. Termination / exit mid-program *([draft §6](Joint-Venture-Agreement-Draft.md#sec-6))*
 
 | Party | Y |
 |---|---|
@@ -134,7 +143,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 10. Dispute resolution mechanism: negotiate → mediate → arbitrate *(draft §8)*
+<a id="vote-10"></a>
+### 10. Dispute resolution mechanism: negotiate → mediate → arbitrate *([draft §8](Joint-Venture-Agreement-Draft.md#sec-8))*
 
 | Party | Y |
 |---|---|
@@ -147,7 +157,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 11. No separate JV-level profit split *(draft §2, §9)*
+<a id="vote-11"></a>
+### 11. No separate JV-level profit split *([draft §2](Joint-Venture-Agreement-Draft.md#sec-2), [§9](Joint-Venture-Agreement-Draft.md#sec-9))*
 
 | Party | Y |
 |---|---|
@@ -160,7 +171,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 12. Email is the adopted method of written notice *(draft §6)*
+<a id="vote-12"></a>
+### 12. Email is the adopted method of written notice *([draft §6](Joint-Venture-Agreement-Draft.md#sec-6))*
 
 | Party | Y |
 |---|---|
@@ -173,7 +185,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 13. Non-Circumvention and Non-Compete (incl. dealing directly with VSU) *(draft §5)*
+<a id="vote-13"></a>
+### 13. Non-Circumvention and Non-Compete (incl. dealing directly with VSU) *([draft §5](Joint-Venture-Agreement-Draft.md#sec-5))*
 
 | Party | Y |
 |---|---|
@@ -186,7 +199,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 14. Confidentiality clause, 3-year survival *(draft §5)*
+<a id="vote-14"></a>
+### 14. Confidentiality clause, 3-year survival *([draft §5](Joint-Venture-Agreement-Draft.md#sec-5))*
 
 | Party | Y |
 |---|---|
@@ -199,7 +213,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 15. Payment structure beyond "VSU pays Nicholson LLC only" *(draft §2)*
+<a id="vote-15"></a>
+### 15. Payment structure beyond "VSU pays Nicholson LLC only" *([draft §2](Joint-Venture-Agreement-Draft.md#sec-2))*
 
 **15a.** Subcontractor payments, not JV contributions/profit share
 
@@ -236,7 +251,8 @@ as the meeting record once it's filled in.
 
 ---
 
-### 16. No tie-breaker for a 2-2 governance split (item 3) *(draft §4)*
+<a id="vote-16"></a>
+### 16. No tie-breaker for a 2-2 governance split (item 3) *([draft §4](Joint-Venture-Agreement-Draft.md#sec-4))*
 
 | Party | Y |
 |---|---|
