@@ -22,7 +22,7 @@ the meeting record once it's filled in.
 university opportunities (those would stay a separate, still-undrafted
 MOU).*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -37,7 +37,7 @@ MOU).*
 *Following from #1: the Agreement's term ends when the current program
 does (~April 2027), not open-ended.*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -52,11 +52,14 @@ does (~April 2027), not open-ended.*
 *Admitting a new Party, transferring/assigning an interest, or amending
 the Agreement requires a majority vote — 3 of 4 — not unanimous
 consent. (Revised 2026-08-13 from an earlier unanimous-consent
-proposal.) A 2-2 split simply fails to pass; no separate tie-breaker is
-proposed. **Removing a Party is NOT covered by this item** — see item
-10, kept unanimous.*
+proposal.) Covers transferring/assigning a Party's interest specifically
+too — the former separate item 4 asked this same question again and has
+been merged in here, 2026-08-13, to avoid a self-contradicting split
+vote on one rule. A 2-2 split simply fails to pass; no separate
+tie-breaker is proposed. **Removing a Party is NOT covered by this
+item** — see item 10, kept unanimous.*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -67,16 +70,10 @@ proposed. **Removing a Party is NOT covered by this item** — see item
 
 ---
 
-### 4. Transferring a Party's interest requires majority vote (3 of 4)
-
-| Party | Vote (Y/N) |
-|---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
-| Explay | ☐ |
-| Nicholson LLC | ☐ |
-
-**Result:** ______________ **Notes:** ___________________________________
+### 4. ~~Transferring a Party's interest requires majority vote~~ — merged into item 3
+*Merged 2026-08-13, per VoltPop — this asked the same question item 3
+already covers. See item 3 above. No separate vote needed for this
+item.*
 
 ---
 
@@ -85,7 +82,7 @@ proposed. **Removing a Party is NOT covered by this item** — see item
 only — it does not create an internal chain of command between the
 four Parties.*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -103,9 +100,9 @@ before VSU-facing decisions — not full discretion as prime contractor.
 If this fails to pass, the group will discuss further rather than
 defaulting to either position.*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
-| VoltPop | Y |
+| VoltPop | ☐ |
 | Builder Tech | ☐ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
@@ -115,11 +112,12 @@ defaulting to either position.*
 ---
 
 ### 7. Nicholson LLC's insurance as the liability mechanism
-*Accepted as the intended Party-to-Party liability-coverage mechanism —
-pending separate insurance/attorney verification of what it actually
-covers.*
+*Already discussed and agreed with Dr. Nicholson directly, per VoltPop
+2026-08-13 — not something he's seeing cold. Still pending the other
+three Parties' own sign-off, and separate insurance/attorney
+verification of what the policy actually covers.*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -132,7 +130,7 @@ covers.*
 
 ### 8. Virginia law governs disputes
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -164,8 +162,9 @@ needs updating to match, per `TODOs-by-Owner.md` Builder Tech item 21.
 ---
 
 ### 10. Termination / exit mid-program
-*Proposed boilerplate (adapted from standard JV practice, not yet
-agreed by anyone): 30 days' written notice to withdraw; no mid-cohort
+*Confirmed as VoltPop's own position, 2026-08-13 (not just a drafting
+placeholder) — not yet confirmed by the other three: 30 days' written
+notice to withdraw; no mid-cohort
 exit without **unanimous** consent of the other three; confidentiality/
 IP terms survive exit; exiting Party must hand off in-progress duties;
 exiting Party is paid pro-rata for completed work only; termination for
@@ -174,7 +173,7 @@ vote of the other three. Deliberately kept unanimous (per VoltPop)
 even though items 3-4 use majority — termination carries more weight.
 Full text in `Joint-Venture-Agreement-Draft.md` §6.*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -188,15 +187,14 @@ Full text in `Joint-Venture-Agreement-Draft.md` §6.*
 ### 11. Dispute resolution mechanism
 *Separate from item 8 (which law governs): direct negotiation first,
 then mediation, then binding arbitration as a last resort — the
-standard default structure — versus going straight to litigation, or
-something else entirely.*
+standard structure — as the adopted legal resolution mechanism.*
 
-| Party | Preference |
+| Party | Y |
 |---|---|
-| VoltPop | ______________ |
-| Builder Tech | ______________ |
-| Explay | ______________ |
-| Nicholson LLC | ______________ |
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
 
 **Result:** ______________ **Notes:** ___________________________________
 
@@ -209,7 +207,7 @@ Party's existing individual arrangement in `Admin-Business-Legal.md`
 §2/§6, and this Agreement doesn't modify the separate VSU-facing
 Operating Agreement.*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -221,31 +219,11 @@ Operating Agreement.*
 ---
 
 ### 13. What counts as valid "written notice"
-*Relevant to item 10's 30-day withdrawal notice: is email sufficient,
-or does formal notice require something more (certified mail, etc.)?*
+*Relevant to item 10's 30-day withdrawal notice: email is the adopted
+method of official communications — no certified mail or other formal
+method required.*
 
-| Party | Preference (Email OK / Formal method required) |
-|---|---|
-| VoltPop | ______________ |
-| Builder Tech | ______________ |
-| Explay | ______________ |
-| Nicholson LLC | ______________ |
-
-**Result:** ______________ **Notes:** ___________________________________
-
----
-
-### 14. Restriction on selling content to a Party's own clients
-*No Party may sell, license, or otherwise provide the jointly-developed
-program content to any of that Party's own previous or current clients
-without **unanimous** consent of the remaining three Parties. Kept
-unanimous, consistent with items 3/10's removal provisions, not the
-majority standard in items 3-4/9 generally. Scoping assumption: this
-covers the jointly-owned curriculum specifically, not each Party's own
-separately-owned pre-existing materials — confirm that reading is
-correct. Full text in `Joint-Venture-Agreement-Draft.md` §5.*
-
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -256,16 +234,23 @@ correct. Full text in `Joint-Venture-Agreement-Draft.md` §5.*
 
 ---
 
-### 15. Non-compete on the jointly-developed curriculum
-*No Party may use the jointly-developed curriculum to build/operate a
-directly competing program without **unanimous** consent of the other
-three. Applies during the Venture's term + 12 months after exit. Does
-not restrict a Party's own general skills/expertise, only the specific
-jointly-developed materials. Distinct from item 14 (selling to existing
-clients specifically). Full text in `Joint-Venture-Agreement-Draft.md`
-§5.*
+### 14. Non-Circumvention and Non-Compete
+*General-purpose clause, per VoltPop 2026-08-13, merging the two former
+separate items 14 (content-sale restriction) and 15 (non-compete) —
+intended to stop any one Party from undercutting the collective
+interests of the other three. Without **unanimous** consent of the
+remaining three, no Party may: (a) sell/license the jointly-developed
+program content to that Party's own previous or current clients; (b)
+build/operate a directly competing program using the jointly-developed
+curriculum **at VSU or any other institution**; or (c) deal directly
+with VSU (or independently solicit VSU) to offer a substantially
+similar program outside this Venture's structure. Applies during the
+Venture's term + 12 months after exit. Does not restrict a Party's own
+general skills/expertise, or a Party's own separately-owned
+pre-existing materials used with that Party's own clients. Full text in
+`Joint-Venture-Agreement-Draft.md` §5.*
 
-| Party | Vote (Y/N) |
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |
@@ -273,6 +258,14 @@ clients specifically). Full text in `Joint-Venture-Agreement-Draft.md`
 | Nicholson LLC | ☐ |
 
 **Result:** ______________ **Notes:** ___________________________________
+
+---
+
+### 15. ~~Non-compete on the jointly-developed curriculum~~ — merged into item 14
+*Merged 2026-08-13, per VoltPop — see item 14 above, which now covers
+both the content-sale restriction and the non-compete as one combined
+clause, plus a newly-closed gap (dealing directly with VSU to bypass
+the other Parties). No separate vote needed for this item.*
 
 ---
 
@@ -280,17 +273,17 @@ clients specifically). Full text in `Joint-Venture-Agreement-Draft.md`
 *Each Party keeps the others' non-public info confidential (financial
 terms, stakeholder/donor negotiation details, unpublished curriculum,
 internal strategy) — standard public-info/independent-development/
-legally-required-disclosure exceptions apply. Proposed survival period
-after exit/Venture end: 3 years (not indefinite) — this specific
-duration hasn't been discussed, worth a direct vote. Full text in
+legally-required-disclosure exceptions apply. Survival period after
+exit/Venture end: **3 years**, not indefinite — most of the underlying
+tech will likely be outdated by then anyway. Full text in
 `Joint-Venture-Agreement-Draft.md` §5.*
 
-| Party | Vote (Y/N on the clause itself) | Preferred survival period |
-|---|---|---|
-| VoltPop | ☐ | ______________ |
-| Builder Tech | ☐ | ______________ |
-| Explay | ☐ | ______________ |
-| Nicholson LLC | ☐ | ______________ |
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
 
 **Result:** ______________ **Notes:** ___________________________________
 
@@ -298,18 +291,45 @@ duration hasn't been discussed, worth a direct vote. Full text in
 
 ### 17. Payment structure beyond "VSU pays Nicholson LLC only"
 *Confirmed fact, not part of this vote: VSU pays Nicholson LLC only,
-consistent with his prime-contractor role. This vote covers what
-happens next: Nicholson LLC passes fees through to VoltPop, Builder
-Tech, and Explay as subcontractor payments (not JV contributions or a
-profit share), within a 10-business-day window of actually receiving
-the corresponding VSU funds, documented in separate subcontractor
-agreements between Nicholson LLC and each of the three individually
-(not in this JV Agreement). Dr. Nicholson's own compensation amount is
-not part of this vote — still TBD — and neither is whether he'd prefer
-a different structure entirely; that hasn't been asked yet. Full text
-in `Joint-Venture-Agreement-Draft.md` §2.*
+consistent with his prime-contractor role. Split into three separate
+votes, 2026-08-13, so disagreement on one part doesn't sink the others.
+Dr. Nicholson's own compensation amount is not part of any of these —
+still TBD — and neither is whether he'd prefer a different structure
+entirely for any of the below; per the agenda, this gets discussed
+before the vote itself, not sprung cold. Full text in
+`Joint-Venture-Agreement-Draft.md` §2.*
 
-| Party | Vote (Y/N) |
+**17a. Subcontractor payments, not JV contributions/profit share** —
+Nicholson LLC passes fees through to VoltPop, Builder Tech, and Explay
+as subcontractor payments.
+
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+**17b. 10-business-day pass-through window** — Nicholson LLC pays each
+subcontractor within 10 business days of actually receiving the
+corresponding funds from VSU.
+
+| Party | Y |
+|---|---|
+| VoltPop | ☐ |
+| Builder Tech | ☐ |
+| Explay | ☐ |
+| Nicholson LLC | ☐ |
+
+**Result:** ______________ **Notes:** ___________________________________
+
+**17c. Separate subcontractor agreements as the vehicle** — these
+payment obligations live in individual agreements between Nicholson LLC
+and each of the three, not in this JV Agreement itself.
+
+| Party | Y |
 |---|---|
 | VoltPop | ☐ |
 | Builder Tech | ☐ |

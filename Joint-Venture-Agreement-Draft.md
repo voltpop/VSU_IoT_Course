@@ -203,36 +203,47 @@ curriculum creators:
   finalized — not something to silently reconcile by rewriting his
   document without his sign-off. See `TODOs-by-Owner.md`, Builder Tech
   item 21.
-- **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
-  three Parties: no Party may sell, license, or otherwise provide the
-  jointly-developed program content to any of that Party's own
-  previous or current clients without unanimous consent of the
-  remaining three Parties.** Kept unanimous, consistent with §6's
-  termination provisions, rather than the majority standard in §4/§9 —
-  this is a content-protection clause, not a routine governance
-  decision. [**Scoping assumption, needs confirming:** this restricts
-  the *jointly-owned* curriculum specifically (per the bullet above),
-  not each Party's own separately-owned pre-existing materials, which
-  presumably that Party can already use with its own clients freely.
-  Worth confirming that reading is actually what's intended.] See
-  `JV-Agreement-Vote-Form.md` item 14.
-- **Proposed by VoltPop, 2026-08-13 — not yet confirmed by the other
-  three Parties: a non-compete on the jointly-developed curriculum
-  specifically.** No Party may use the jointly-developed curriculum to
-  build or operate a directly competing program (same or substantially
-  similar curriculum, at another institution) without **unanimous**
-  consent of the other three — kept unanimous, same reasoning as the
-  content-sale restriction above. Applies during the Venture's term and
-  for **12 months** after that Party exits or the Venture ends — a
-  defined tail, not indefinite, per standard non-compete practice
-  (scope needs to stay reasonable to be enforceable under Virginia law,
-  which limits overly broad restrictions). Distinct from the
-  content-sale restriction above — this covers building a rival
-  program generally, including with entirely new clients, not just
-  selling to an existing client list. Does **not** restrict a Party's
-  own general skills/expertise outside the specific jointly-developed
-  materials (e.g., VoltPop teaching IoT concepts elsewhere using his
-  own materials). See `JV-Agreement-Vote-Form.md` item 15.
+- **Non-Circumvention and Non-Compete — proposed by VoltPop, 2026-08-13,
+  consolidating two earlier separate proposals (content-sale
+  restriction and non-compete) into one general-purpose clause — not
+  yet confirmed by the other three Parties.** The intent: no Party may
+  use the jointly-developed program content, or its position/
+  relationships under this Venture, to undercut the collective
+  interests of the other Parties. Specifically, without **unanimous**
+  consent of the remaining three Parties, no Party may:
+  - (a) sell, license, or otherwise provide the jointly-developed
+    program content to any of that Party's own previous or current
+    clients;
+  - (b) use the jointly-developed curriculum to build or operate a
+    directly competing program (same or substantially similar
+    curriculum) **at VSU or at any other institution** — broadened
+    from the earlier draft, which only reached "another institution"
+    and left a gap at VSU itself, the Venture's actual current client;
+    or
+  - (c) deal directly with VSU, or independently solicit VSU, to offer
+    a substantially similar program outside this Venture's structure,
+    bypassing the other Parties — closing the specific gap that
+    neither the original content-sale restriction (scoped to a Party's
+    *own* clients, and VSU is the Venture's shared client, not any one
+    Party's) nor the original non-compete (scoped to *other*
+    institutions) actually closed.
+
+  Kept unanimous, consistent with §6's termination provisions, rather
+  than the majority standard in §4/§9 — this is a content-protection/
+  non-circumvention clause, not a routine governance decision. Applies
+  during the Venture's term and for **12 months** after a Party exits
+  or the Venture ends — a defined tail, not indefinite, per standard
+  non-compete practice (scope needs to stay reasonable to be
+  enforceable under Virginia law, which limits overly broad
+  restrictions). Does **not** restrict: a Party's own general
+  skills/expertise outside the specific jointly-developed materials
+  (e.g., VoltPop teaching IoT concepts elsewhere using his own
+  materials); or a Party's own separately-owned, pre-existing materials
+  used with that Party's own clients. [**Flag for attorney review:**
+  clause (c) in particular — a non-circumvention term aimed at a named
+  institutional client — should get a sanity check on enforceability
+  alongside the rest of this section.] See
+  `JV-Agreement-Vote-Form.md` item 14 (item 15 merged into this).
 - [**Not yet specified:** IP terms for any future opportunities pursued
   under §1 above, if this Agreement is meant to cover those too.]
 
@@ -253,11 +264,15 @@ curriculum creators:
   reference to the disclosed information; disclosure required by law,
   regulation, or court order, with prior notice to the disclosing
   Party where legally permitted.
-- **Survival — proposed default, needs group input:** confidentiality
-  obligations survive the end of the Venture's term or any Party's
-  exit for **3 years**, rather than indefinitely — reasonable given
-  this isn't trade-secret-level information, but this duration hasn't
-  actually been discussed. See `JV-Agreement-Vote-Form.md` item 16.
+- **Survival — confirmed as VoltPop's position, 2026-08-13, not yet
+  confirmed by the other three:** confidentiality obligations survive
+  the end of the Venture's term or any Party's exit for **3 years**,
+  rather than indefinitely. **Rationale, per VoltPop:** most of the
+  underlying tech referenced (AI coding tools, specific IoT/hardware
+  choices) will likely be outdated by then anyway, so a longer or
+  indefinite restriction isn't needed — this isn't trade-secret-level
+  information with lasting value. See `JV-Agreement-Vote-Form.md`
+  item 16.
 
 **Note:** this differs from the *older* IP structure still described in
 `Admin-Business-Legal.md` §1 ("jointly owned by Explay and VoltPop...
@@ -318,16 +333,17 @@ updating to match — flagged there separately.
 
 ## 7. Liability and Indemnification
 
-**Proposed by VoltPop, 2026-08-13 — not yet confirmed as formal
-coverage: Nicholson LLC's existing insurance would be the intended
-mechanism for Party-to-Party liability exposure.** This is reportedly a
-shared reason the Parties aligned behind him as prime contractor in the
-first place (§3) — his existing insurance and VSU standing, not just
-his institutional relationships — but that's a rationale for the
-overall structure, not the same as the other three Parties having
-agreed this specific policy actually covers them. **Needs both the
-other Parties' explicit sign-off and attorney/insurance-review
-attention before this is real language:** what does Nicholson LLC's
+**Confirmed in conversation with Dr. Nicholson, 2026-08-13, per
+VoltPop — not cold, he's already agreed:** Nicholson LLC's existing
+insurance would be the intended mechanism for Party-to-Party liability
+exposure. This is reportedly a shared reason the Parties aligned behind
+him as prime contractor in the first place (§3) — his existing
+insurance and VSU standing, not just his institutional relationships.
+**Still needs the other three Parties' own sign-off and
+attorney/insurance-review attention before this is real language:**
+Nicholson's agreement to the concept isn't the same as the other three
+having confirmed it themselves, or as knowing what his policy actually
+covers. What does Nicholson LLC's
 policy actually cover (does it extend to the other three Parties, or
 only to Nicholson LLC itself), what are its limits, and does it
 address the specific exposure here (e.g., a Party's negligence during
@@ -440,23 +456,21 @@ verify).
     match #4):** transferring/assigning a Party's interest requires a
     majority vote (3 of 4), not unanimous consent — consistent with
     #4, and carries the same not-yet-confirmed status. (§9)
-13. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** no Party may sell,
-    license, or otherwise provide the jointly-developed program content
-    to any of that Party's own previous or current clients without
-    **unanimous** consent of the remaining three — a content-protection
-    clause, kept unanimous rather than following #4's majority standard.
-    (§5, `JV-Agreement-Vote-Form.md` item 14)
-14. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** a 12-month
-    post-exit non-compete on the jointly-developed curriculum
-    specifically, requiring **unanimous** consent of the other three to
-    waive — does not restrict a Party's own general skills/expertise
-    outside the jointly-developed materials. (§5, `JV-Agreement-Vote-Form.md`
-    item 15)
-15. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** confidentiality
+13. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED (merges former #13/#14,
+    revised 2026-08-13 into one general-purpose Non-Circumvention and
+    Non-Compete clause):** without **unanimous** consent of the
+    remaining three, no Party may sell the jointly-developed content to
+    its own clients, build a competing program at VSU or elsewhere
+    using it, or deal directly with VSU to bypass the other Parties —
+    the last of which closes a gap the two original separate proposals
+    left open. 12-month post-exit tail; does not restrict a Party's own
+    general skills/expertise or separately-owned pre-existing materials.
+    (§5, `JV-Agreement-Vote-Form.md` item 14; former item 15 merged in)
+14. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED:** confidentiality
     obligations survive the Venture's end or a Party's exit for **3
     years** — a proposed default, not yet discussed by the group. (§5,
     `JV-Agreement-Vote-Form.md` item 16)
-16. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED, contingent on tomorrow's
+15. **PROPOSED BY VOLTPOP — NOT YET CONFIRMED, contingent on tomorrow's
     vote:** beyond the confirmed fact that VSU pays Nicholson LLC only,
     the rest of the payment structure is a proposal — Nicholson LLC
     passes fees through to VoltPop, Builder Tech, and Explay as
@@ -466,7 +480,8 @@ verify).
     agreements** rather than in this JV Agreement itself. Dr. Nicholson's
     own compensation, and whether he has a different preferred structure
     for any of this, are both still open — this hasn't been run past him
-    yet. (§2, `JV-Agreement-Vote-Form.md` item 17)
+    yet. (§2, `JV-Agreement-Vote-Form.md` items 17a-c, split 2026-08-13
+    so disagreement on one part doesn't sink the others)
 
 ## Open items before this becomes a real draft
 
