@@ -24,6 +24,10 @@ LLC, and VSU to collaborate from. Split by domain:
   source of truth for research and outreach status.
 - **[`Press-Kit-Content.md`](./Press-Kit-Content.md)** — blurbs/about copy
   for press materials (logos/photos still need sourcing separately).
+- **[`Project-Agenda.md`](./Project-Agenda.md)** — generic meeting/agenda
+  tracker: what's being discussed when, a running meeting log, and a
+  presentations tracker. Links out to `TODOs-by-Owner.md` for the
+  deliverable checklist rather than duplicating it.
 - **[`TODOs-by-Owner.md`](./TODOs-by-Owner.md)** — cross-party
   deliverables tied to a specific formal agreement, split by Builder
   Tech, VoltPop, Explay, and Dr. Shawn M. Nicholson LLC. One table per
