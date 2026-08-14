@@ -54,7 +54,13 @@ Tech, where the deliverable is the curriculum content itself.
    recorded anywhere in this KB — `Stakeholder-Notes.md`'s Siemens
    profile still carries the same 2026-08-04 "blocked" status. Confirm
    with the group whether Gail Norris was actually agreed on rather
-   than assuming either resolved or still-blocked.
+   than assuming either resolved or still-blocked. **Corrected
+   (2026-08-14, per VoltPop): this was never stale — it was
+   deliberately waiting on the pitch's ask being refined**, not
+   neglected. That precondition is now met: today's tag-up refined the
+   ask to network activation + in-kind support. Requesting Dr.
+   Nicholson's introduction is the next live step; the cold-call
+   fallback stays open in parallel.
 
 2. **Jabil outreach.** *Aug 4–7 — date passed, flagging as stale
    (2026-08-13):* Follow up with Jabil (Petersburg factory tied to
@@ -76,7 +82,11 @@ Tech, where the deliverable is the curriculum content itself.
    participation as a real, valued ask in its own right here** — not
    just a fallback if cash isn't available. **Needs a fresh check
    (2026-08-13):** no update in over a week — confirm current status
-   before assuming this is still on its original timeline.
+   before assuming this is still on its original timeline. **Corrected
+   (2026-08-14, per VoltPop): same situation as Siemens, above — was
+   waiting on the ask, not neglected.** Ask now refined; meeting-
+   scheduling for both Siemens and Jabil to be discussed at the next
+   Friday tag-up (2026-08-21), per `Project-Agenda.md`.
 
 3. **Apache/ASF stakeholder tracker row.** *Aug 7 — date passed,
    flagging as stale (2026-08-13):* Complete the Apache/ASF row in
