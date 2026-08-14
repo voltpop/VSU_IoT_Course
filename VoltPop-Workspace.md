@@ -193,7 +193,13 @@ Tech, where the deliverable is the curriculum content itself.
     (Stakeholder-Notes.md) in favor of the **Amazon AI-tooling
     donation** angle (credits/licenses) below — pursue that research
     now rather than waiting on the final lock-in. No named Amazon
-    contact yet.
+    contact yet. **Decided, provisionally (2026-08-14, per VoltPop):
+    "for now... Kiro is our guy."** Reasoning: ease of use, and the
+    cost of switching later is minimal — it's one tool in the toolbox
+    with a roughly similar cost basis to the alternatives, not a
+    deep lock-in. Explicitly **revisit if something moves forward on
+    the Claude/Anthropic side** that changes the calculus — not a
+    closed-forever decision, but firm enough to plan around now.
 
 13. **Workspace repo.** *(new, flagged 2026-08-08, per VoltPop)* Stand
     up a standalone **workspace repo** to automate the Day 1 "great
