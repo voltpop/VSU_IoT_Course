@@ -669,6 +669,14 @@ recite.
 - **Still requires its own sales materials (per VoltPop, 2026-08-06)** — "coordination target, not a funding ask" doesn't mean no pitch is needed, it means a *different* pitch is needed. Dean Haile and the incoming Lewis dean both still need to be sold on hosting this specifically — lab/classroom disruption, faculty time, and FERPA/liability exposure are a real ask of them even with no money changing hands. This is its own deck-reuse cluster (see above), distinct from every funder-facing deck — not yet built, no owner assigned beyond Dr. Nicholson himself (content likely also needs VoltPop/Explay/Builder Tech input on student-outcomes framing; flagged as a gap in `TODOs-by-Owner.md`).
 - **Timing differs sharply between the two:** College of Engineering and Technology can move now — Dean Haile is a known, already-coordinating contact (`TODOs-by-Owner.md`, Dr. Shawn M. Nicholson LLC item #18). Reginald F. Lewis College of Business is genuinely blocked until its incoming dean starts (mid-August) — there's no one to confirm anything with, let alone pitch, yet.
 
+## SME (Society of Manufacturing Engineers) — new, surfaced live on the 2026-08-14 tag-up
+
+- **Owner:** Dr. Shawn M. Nicholson LLC (personal connection). **Status:** contact info obtained (business card exchanged); not yet formally reached out to.
+- **How this surfaced:** Nicholson's personal connection to Vincent W. Howell, SME's President — raised live at the 2026-08-14 tag-up.
+- **What they might want / angle:** SME (sme.org) is a nonprofit whose mission centers on advancing manufacturing — a strong content fit with this program's IoT/manufacturing and workforce-development/competitiveness framing (the pivot the group confirmed it likes at this same meeting). **Unconfirmed, needs research:** whether the separately-organized SME Education Foundation is a distinct funding/scholarship angle worth pursuing alongside the direct SME relationship.
+- **Contact:** Vincent W. Howell, FSME, CMfgE — SME President. Direct: 336-830-4531. Email: vincenthowell.sme@gmail.com. Address: 1000 Town Center, Suite 1910, Southfield, MI 48075.
+- **Ask structure:** not yet researched or sized — needs a follow-up conversation before framing any specific ask.
+
 ## Other angles worth checking
 
 - VSU's own institutional advancement/development office may have other regional corporate or foundation contacts — the Tri-Cities employers already listed in `Admin-Business-Legal.md` §4 (Amazon, LEGO Group, Perdue Farms, etc.) are plausible CSR/education-funding targets too, once that office is looped in.

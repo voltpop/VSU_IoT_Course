@@ -116,3 +116,16 @@ ADR:;;10800 Roosevelt Boulevard North;St. Petersburg;FL;33716;USA
 NOTE:Invitation-only — does not accept unsolicited proposals. Local Petersburg, VA site leadership is the stronger path (Stakeholder-Notes.md).
 END:VCARD
 ```
+
+```vcard
+BEGIN:VCARD
+VERSION:4.0
+FN:Vincent W. Howell
+ORG:SME (Society of Manufacturing Engineers)
+TITLE:President
+EMAIL:vincenthowell.sme@gmail.com
+TEL:+1-336-830-4531
+ADR:;Suite 1910;1000 Town Center;Southfield;MI;48075;USA
+NOTE:Nicholson's personal contact, surfaced 2026-08-14 tag-up. Ask/angle not yet researched (Stakeholder-Notes.md).
+END:VCARD
+```
