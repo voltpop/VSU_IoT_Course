@@ -146,7 +146,7 @@ nothing here is lost by trimming it — it's archived there instead.*
 | ☐ | Register with eVA, check DSBSD SWaM-certification eligibility | — | Self | Same requirement across all four entities; Admin-Business-Legal.md §3 |
 | ☐ | Actually decide on a program name | — | Self *(shared: all parties)* | "VSU Innovation Program" is an assumptive placeholder, never a deliberate choice; README.md |
 | ☐ | Give Javon's take on pivoting the Regional Development deck's narrative (retention → student competitiveness) | — | Self | Collaborative ask, not an instruction; would affect Regional-Deck-Outline.md if it goes forward |
-| ☐ | Correct the IP clause in Builder Tech's own Curriculum Development MOU Draft (Exhibit A) | — | Self | Currently states Builder Tech as sole owner — contradicts the split-ownership resolution in Joint-Venture-Agreement-Draft.md §5. Bigger, separate conversation flagged: who owns this KB repo itself — deliberately not part of tomorrow's vote. |
+| ☑ | Correct the IP clause in Builder Tech's own Curriculum Development MOU Draft (Exhibit A) | — | Self | **Resolved 2026-08-14, confirmed by Javon and VoltPop together:** §5 and Exhibit A5 now state joint, equal (100% combined) ownership of Curriculum materials among Builder Tech, Voltpop, and Explay, matching the split-ownership resolution in [Joint-Venture-Agreement-Draft.md §5](./Joint-Venture-Agreement-Draft.md#5-intellectual-property-and-confidentiality). Bigger, separate conversation flagged: who owns this KB repo itself — deliberately not part of tomorrow's vote. |
 
 ## VoltPop
 
