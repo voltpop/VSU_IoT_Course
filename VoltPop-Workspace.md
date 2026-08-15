@@ -178,7 +178,10 @@ Tech, where the deliverable is the curriculum content itself.
 10. **Huntington Ingalls outreach.** *(new owner assignment,
     2026-08-05)* Research/pursue Huntington Ingalls outreach — no due
     date set yet; contact is Harry Johnson via VSU's Dept. of
-    Engineering IAC (Stakeholder-Notes.md).
+    Engineering IAC (Stakeholder-Notes.md). **Struck 2026-08-15 (per
+    VoltPop):** Huntington Ingalls hires out of the same Siemens-tied
+    capacity this program would feed — not a separate lead, folded into
+    the Siemens outreach row instead of tracked on its own.
 
 11. **"Give me information" web feature.** *(new, flagged 2026-08-07,
     per Drew, during the Aug 7 meeting)* Add a "give me information
