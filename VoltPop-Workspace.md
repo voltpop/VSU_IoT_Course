@@ -305,11 +305,12 @@ Tech, where the deliverable is the curriculum content itself.
     with Dr. Nicholson's own action item (developing the underlying
     mentorship/sponsorship/donation figures) — he supplies content,
     this is the actual slide edit. **Resolved 2026-08-15 (per
-    VoltPop):** slide 9 now lists three personnel-support categories
-    under In-Kind Support — **Student Mentorship** (the obvious one),
-    **Guest Speakers** (bring your own content), and **Guest
-    Instructors** (help flavor our content). Financial Sponsorship
-    figures themselves are still Nicholson's open item (#27 in
+    VoltPop):** slide 9's In-Kind Support box now lists **Student
+    Mentorship** (the obvious one), **Guest Speakers** (bring your own
+    content), **Guest Instructors** (help flavor our content), and
+    **judges/recruiters for the Tri-Cities Career Showcase** (confirmed
+    from the slide itself, 2026-08-15). Financial Sponsorship figures
+    themselves are still Nicholson's open item (#27 in
     `TODOs-by-Owner.md`), not resolved by this edit.
 22. **Press kit + guest speakers.** *(2026-08-14 tag-up action item,
     due Aug 17)* Supply potential guest IoT speakers (Siemens, Dominion,
