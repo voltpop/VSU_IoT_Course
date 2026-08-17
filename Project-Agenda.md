@@ -84,11 +84,11 @@ confirming for the record):**
 - Operating Agreement draft rebuild (now on Nicholson/counsel to work
   through)
 - Huntington Ingalls folded into the Siemens outreach thread
-- **New (2026-08-17, per VoltPop): at least one ASF guest speaker is
-  semi-confirmed**, contingent on the course actually selling — not
-  yet clear whether this is the existing confirmed Rich Bowen
-  guest-lecturer commitment restated, or a second speaker; worth
-  clarifying live rather than assuming either.
+- **New (2026-08-17, per VoltPop): the existing confirmed Rich Bowen
+  guest-lecturer commitment (ASF) is now semi-confirmed** with a
+  firmer real-world caveat — contingent on the course actually
+  selling. Confirmed 2026-08-17 as the same speaker, not a second one
+  — no live clarification needed on this point.
 - **New: "The Ask" slide refined into a multi-pronged guest-engagement
   structure** — mentorship, guest instruction (our content), guest
   lecturer (their content). The ASF speaker above is a concrete fit
