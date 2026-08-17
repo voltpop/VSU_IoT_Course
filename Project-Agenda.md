@@ -1,7 +1,7 @@
 ---
 title: VSU IoT Project — Agenda & Meeting Tracker
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # VSU IoT Project — Agenda & Meeting Tracker
@@ -45,6 +45,49 @@ being discussed *when*, not the full task list.
 - VoltPop: supply potential guest IoT speakers; manage the press-kit repo (GitHub); support pitch-deck content updates; implement "The Ask" slide edit itself (content from Nicholson, above).
 - Builder Tech + Nicholson: finalize MOUs and the Joint Venture agreement (roles, responsibilities, decision hierarchy).
 - All: prep for next Tuesday's 5:00 PM meeting.
+
+---
+
+## Tuesday check-in — 2026-08-18 (proposed agenda)
+
+First of the standing weekly Tuesday 5:00 PM check-ins (see cadence
+note above) — purpose is reviewing progress against deliverables/due
+dates, not introducing new topics.
+
+**1. Aug 17 due-item status (day before this meeting):**
+- All: bios/photos/logos for the press kit — done?
+- Builder Tech: Google Drive access + slide updates; cohort
+  profile/program overview/career-showcase visuals — done?
+- Dr. Nicholson: title/role alignment + reformatted project timeline —
+  done?
+- VoltPop: guest speakers + press-kit repo; professional headshot —
+  done?
+- **Milestone #9 "Program revision"** — scope still ambiguous (see
+  [TODOs-by-Owner.md's milestone list](./TODOs-by-Owner.md#milestone-present-to-vsu-per-javons-2026-07-31-meeting-recap))
+  — risks being silently satisfied by Builder Tech's slide row above
+  while milestone #12's actual curriculum update goes untouched. Needs
+  Javon's call on scope before it's treated as done either way.
+
+**2. Quick resolved-since-last-meeting status (no discussion needed,
+just confirming for the record):**
+- Ask slide's In-Kind Support categories (Student Mentorship, Guest
+  Speakers, Guest Instructors, Career Showcase judges/recruiters)
+- Apache/ASF Stakeholder Tracker row
+- Operating Agreement draft rebuild (now on Nicholson/counsel to work
+  through)
+- Huntington Ingalls folded into the Siemens outreach thread
+
+**3. Live status checks:**
+- **JV vote** — was the 16-item ballot in
+  [JV-Agreement-Vote-Form.md](./JV-Agreement-Vote-Form.md) formally
+  confirmed, or still just conversational agreement from the 08-14
+  tag-up?
+- **Nicholson's outreach threads** — any movement on VGR/Siemens/
+  Dominion follow-ups, including the in-person Petersburg meeting with
+  Tom Stansbury he committed to setting up live on the 08-14 call?
+- **MOU v2, Exhibit C flag** — Explay's role description ("software/
+  experience design") still doesn't match the business/go-to-market
+  weeks he actually leads — worth reconciling.
 
 ---
 
