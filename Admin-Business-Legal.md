@@ -80,6 +80,23 @@ not yet reflected in the Software Licenses & Subscriptions figures in
 
 ## 3. Legal/contract status
 
+- **Operating-relationship structure (Drew's current understanding as
+  of 2026-08-15, whiteboarded — see
+  [`Files/Operating-Relationship-Whiteboard (2026-08-15).jpg`](./Files/Operating-Relationship-Whiteboard%20%282026-08-15%29.jpg)):**
+  VSU (outer circle) relates to the program as a **Sale** — VSU
+  provides **venue + endorsement**. Nicholson (nested inside VSU's
+  circle) is legally separate from VSU but functionally its
+  institutional liaison. The **JV** (Builder Tech, VoltPop, Explay,
+  and Nicholson together) is what delivers the **Class** — the JV's
+  circle overlaps VSU's only through Nicholson specifically, not VSU
+  directly. Builder Tech, VoltPop, and Explay alone (excluding
+  Nicholson) are bound tighter still by the **Curriculum Development
+  MOU** governing curriculum work — consistent with Nicholson having
+  no curriculum table anywhere in this KB (`TODOs-by-Owner.md`).
+  **Not yet formally confirmed** — this is the understanding to be
+  clarified/voted on at the 2026-08-18 steering meeting alongside the
+  JV ballot itself (see [`JV-Agreement-Vote-Form.md`](./JV-Agreement-Vote-Form.md)
+  and `Project-Agenda.md`'s Tuesday agenda, item 3).
 - Operating Agreement (`Files/VoltPop-BuilderTech-VSU-Agreement.docx`) —
   **the version referenced here could not actually be located in the
   repo or its history as of 2026-08-13; rebuilt from scratch 2026-08-14**
