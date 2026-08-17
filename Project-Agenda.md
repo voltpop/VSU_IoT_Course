@@ -95,10 +95,12 @@ confirming for the record):**
   for the guest-lecturer prong specifically.
 
 **3. Live status checks:**
-- **JV vote** — was the 16-item ballot in
-  [JV-Agreement-Vote-Form.md](./JV-Agreement-Vote-Form.md) formally
-  confirmed, or still just conversational agreement from the 08-14
-  tag-up?
+- **JV vote + operating-structure confirmation** — was the 16-item
+  ballot in [JV-Agreement-Vote-Form.md](./JV-Agreement-Vote-Form.md)
+  formally confirmed, or still just conversational agreement from the
+  08-14 tag-up? Use this slot to confirm/correct Drew's whiteboarded
+  read of the operating relationship too — see
+  [`Admin-Business-Legal.md` §3](./Admin-Business-Legal.md#3-legalcontract-status).
 - **Nicholson's outreach threads** — any movement on VGR/Siemens/
   Dominion follow-ups, including the in-person Petersburg meeting with
   Tom Stansbury he committed to setting up live on the 08-14 call?
