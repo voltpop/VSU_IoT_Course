@@ -48,34 +48,51 @@ being discussed *when*, not the full task list.
 
 ---
 
-## Tuesday check-in — 2026-08-18 (proposed agenda)
+## Tuesday check-in — 2026-08-18 (agenda)
 
 First of the standing weekly Tuesday 5:00 PM check-ins (see cadence
 note above) — purpose is reviewing progress against deliverables/due
-dates, not introducing new topics.
+dates, not introducing new topics. Due dates for the items below moved
+from Aug 14/17 to Aug 18 to match this meeting (see
+[TODOs-by-Owner.md](./TODOs-by-Owner.md)) — treat as due today, not
+overdue by three-plus days.
 
-**1. Aug 17 due-item status (day before this meeting):**
+**1. Due-item status:**
 - All: bios/photos/logos for the press kit — done?
-- Builder Tech: Google Drive access + slide updates; cohort
-  profile/program overview/career-showcase visuals — done?
+- Builder Tech: ~~Google Drive access~~ **confirmed 2026-08-17** —
+  Builder Tech shared their "VSU Innovation Lab" Drive folder
+  (PROGRAM DEVELOPMENT/NOTES/ARCHIVE, the Agenda Notes doc, both pitch
+  decks) directly with VoltPop. Still open: slide updates
+  (logos/bios) and cohort profile/program overview/career-showcase
+  visuals — done?
 - Dr. Nicholson: title/role alignment + reformatted project timeline —
-  done?
-- VoltPop: guest speakers + press-kit repo; professional headshot —
-  done?
+  done? Separately: "The Ask" slide's mentorship/sponsorship/donation
+  dollar figures — still open, newly dated Aug 18 (previously undated).
+- VoltPop: press-kit repo; professional headshot — done? Guest
+  speakers has a concrete answer now — see item 2.
 - **Milestone #9 "Program revision"** — scope still ambiguous (see
   [TODOs-by-Owner.md's milestone list](./TODOs-by-Owner.md#milestone-present-to-vsu-per-javons-2026-07-31-meeting-recap))
   — risks being silently satisfied by Builder Tech's slide row above
   while milestone #12's actual curriculum update goes untouched. Needs
   Javon's call on scope before it's treated as done either way.
 
-**2. Quick resolved-since-last-meeting status (no discussion needed,
-just confirming for the record):**
+**2. Resolved/new since last meeting (no discussion needed, just
+confirming for the record):**
 - Ask slide's In-Kind Support categories (Student Mentorship, Guest
   Speakers, Guest Instructors, Career Showcase judges/recruiters)
 - Apache/ASF Stakeholder Tracker row
 - Operating Agreement draft rebuild (now on Nicholson/counsel to work
   through)
 - Huntington Ingalls folded into the Siemens outreach thread
+- **New (2026-08-17, per VoltPop): at least one ASF guest speaker is
+  semi-confirmed**, contingent on the course actually selling — not
+  yet clear whether this is the existing confirmed Rich Bowen
+  guest-lecturer commitment restated, or a second speaker; worth
+  clarifying live rather than assuming either.
+- **New: "The Ask" slide refined into a multi-pronged guest-engagement
+  structure** — mentorship, guest instruction (our content), guest
+  lecturer (their content). The ASF speaker above is a concrete fit
+  for the guest-lecturer prong specifically.
 
 **3. Live status checks:**
 - **JV vote** — was the 16-item ballot in
