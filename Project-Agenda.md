@@ -55,11 +55,6 @@ overdue by three-plus days.
   Framing section suggests the former.
 - VoltPop: press-kit repo, headshot — done? *(Guest speakers answered
   in item 2.)*
-- **"Program revision" curriculum update** (`Course-Curriculum.md`'s
-  schedule/program document, per Builder Tech + VoltPop + Explay) —
-  scope still unconfirmed with Javon. Flag: don't let this get
-  silently satisfied by the slide-update row above — it's a separate,
-  still-untouched deliverable.
 
 **2. Resolved/new since last meeting (no discussion needed, just
 confirming for the record):**
