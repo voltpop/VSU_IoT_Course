@@ -46,29 +46,20 @@ overdue by three-plus days.
 
 **1. Due-item status:**
 - All: bios/photos/logos for the press kit — done?
-- Builder Tech: ~~Google Drive access~~ **confirmed 2026-08-17** —
-  Builder Tech shared their "VSU Innovation Lab" Drive folder
-  (PROGRAM DEVELOPMENT/NOTES/ARCHIVE, the Agenda Notes doc, both pitch
-  decks) directly with VoltPop. Still open: slide updates
-  (logos/bios) and cohort profile/program overview/career-showcase
-  visuals — done?
-- Dr. Nicholson: title/role alignment + reformatted project timeline —
-  done? Separately: "The Ask" slide's mentorship/sponsorship/donation
-  dollar figures — still open, newly dated Aug 18 (previously undated).
-  **Open question, not yet resolved:** does this mean internal
-  reference ranges to guide his conversations, or an actual number
-  printed on the public-facing slide? The Framing section's own
-  guidance in `Stakeholder-Notes.md` ("don't quote the total program
-  cost as a fixed, approved ask," "don't lock in a number on the
-  call") points toward the former — worth confirming with him directly
-  rather than assuming either.
-- VoltPop: press-kit repo; professional headshot — done? Guest
-  speakers has a concrete answer now — see item 2.
-- **Milestone #9 "Program revision"** — scope still ambiguous (see
-  [TODOs-by-Owner.md's milestone list](./TODOs-by-Owner.md#milestone-present-to-vsu-per-javons-2026-07-31-meeting-recap))
-  — risks being silently satisfied by Builder Tech's slide row above
-  while milestone #12's actual curriculum update goes untouched. Needs
-  Javon's call on scope before it's treated as done either way.
+- Builder Tech: slide updates (logos/bios), cohort profile/program
+  overview/career-showcase visuals — done? *(Drive-folder access is
+  already confirmed — see `TODOs-by-Owner.md`.)*
+- Dr. Nicholson: title/timeline reformat — done? Ask-slide dollar
+  figures (due Aug 18) — also clarify whether these are internal
+  reference ranges or a public number; `Stakeholder-Notes.md`'s
+  Framing section suggests the former.
+- VoltPop: press-kit repo, headshot — done? *(Guest speakers answered
+  in item 2.)*
+- **"Program revision" curriculum update** (`Course-Curriculum.md`'s
+  schedule/program document, per Builder Tech + VoltPop + Explay) —
+  scope still unconfirmed with Javon. Flag: don't let this get
+  silently satisfied by the slide-update row above — it's a separate,
+  still-untouched deliverable.
 
 **2. Resolved/new since last meeting (no discussion needed, just
 confirming for the record):**
