@@ -24,6 +24,12 @@ line-item confirmation pass before anything here is settled, rather
 than letting conceptual agreement in conversation stand in for the
 formal ballot. Checkboxes below remain unfilled until that happens.
 
+**Status update (2026-08-18 Tuesday tag-up):** VoltPop and Builder Tech
+ran the ballot together live. Items 1, 2, 3, 5, 6, 7, 8, 10, 12, 14, and
+16 confirmed Y by both. Items 4, 9, 11, 13, and 15 held/skipped — see
+each item's notes below. **Explay and Nicholson LLC have not yet voted
+on any item** — this was a two-party pass only, not a full ratification.
+
 ---
 
 <a id="vote-1"></a>
@@ -31,12 +37,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** ___________________________________
 
 ---
 
@@ -45,12 +51,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** ___________________________________
 
 ---
 
@@ -59,12 +65,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** ___________________________________
 
 ---
 
@@ -78,7 +84,7 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** **Held, 2026-08-18** — pending discussion with Dr. Nicholson. **Notes:** Builder Tech flagged this needs to be clear **"in fact and appearance"** — specifically whether the external-only distinction is being drawn correctly between business-decision authority (where prime/sub labels are just contracting mechanics) versus anything that could read as an employment relationship (direction-and-control/misclassification concern).
 
 ---
 
@@ -87,12 +93,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** Builder Tech's yes is scoped to **this particular program only**, consistent with the overall JV scope (Item 1) — not a standing obligation carrying into any future engagement.
 
 ---
 
@@ -101,12 +107,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** Scoped as **for the program** specifically.
 
 ---
 
@@ -115,12 +121,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** ___________________________________
 
 ---
 
@@ -129,12 +135,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ (Exhibit A correction drafted and merged 2026-08-14 — see [PR #42](https://github.com/voltpop/VSU_IoT_Course/pull/42)) |
+| VoltPop | ☑ |
+| Builder Tech | ☑ (Exhibit A correction drafted and merged 2026-08-14 — see [PR #42](https://github.com/voltpop/VSU_IoT_Course/pull/42)) |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** ___________________________________
 
 ---
 
@@ -148,7 +154,7 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** **Held, 2026-08-18** — Builder Tech wants to come back to this one. **Notes:** ___________________________________
 
 ---
 
@@ -157,12 +163,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** ___________________________________
 
 ---
 
@@ -176,7 +182,7 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** **Held, 2026-08-18** — no reason given yet. **Notes:** ___________________________________
 
 ---
 
@@ -185,12 +191,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** ___________________________________
 
 ---
 
@@ -204,7 +210,7 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** **Held, 2026-08-18** — flagged as conflating multiple distinct issues (likely non-circumvention/dealing-direct-with-VSU vs. non-compete are separable and shouldn't be one vote item as written). **Notes:** Proposed term for the non-compete piece specifically: **24 months following the end of the course**, with a carve-out allowing a shorter/no restriction if all parties agree.
 
 ---
 
@@ -213,12 +219,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** Builder Tech asked what's typical for confidentiality terms — 3 years is a standard default (common range 2–5 years) for this kind of commercial agreement; trade secrets and any FERPA-covered info would be protected separately/indefinitely regardless of this clause's stated term.
 
 ---
 
@@ -234,7 +240,7 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** **Skipped, 2026-08-18.** **Notes:** ___________________________________
 
 **15b.** 10-business-day pass-through window
 
@@ -245,7 +251,7 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** **Skipped, 2026-08-18.** **Notes:** ___________________________________
 
 **15c.** Separate subcontractor agreements as the vehicle
 
@@ -256,7 +262,7 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** **Skipped, 2026-08-18.** **Notes:** ___________________________________
 
 ---
 
@@ -265,12 +271,12 @@ formal ballot. Checkboxes below remain unfilled until that happens.
 
 | Party | Y |
 |---|---|
-| VoltPop | ☐ |
-| Builder Tech | ☐ |
+| VoltPop | ☑ |
+| Builder Tech | ☑ |
 | Explay | ☐ |
 | Nicholson LLC | ☐ |
 
-**Result:** ______________ **Notes:** ___________________________________
+**Result:** VoltPop/Builder Tech confirmed 2026-08-18; Explay/Nicholson LLC pending. **Notes:** Builder Tech's yes is "in general" — open to revisiting this one later.
 
 ---
 
