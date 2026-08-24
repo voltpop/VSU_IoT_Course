@@ -378,6 +378,16 @@ working files):
       which no longer holds if Kiro is the actual classroom tool.
       Funding focus shifts to the Amazon AI-tooling donation angle
       (`Stakeholder-Notes.md`'s Amazon/Kiro profile) instead.
+17. **[New, backfilled 2026-08-24 from the 2026-08-18 tag-up, per
+    VoltPop]** Reconcile the cohort's academic composition with the
+    2026-08-18 decision to bring actual Agriculture students into the
+    cohort alongside Business and Engineering (`Admin-Business-Legal.md`
+    §4/§9) — the "audience is business students, not ag-science
+    students" caveat in `Stakeholder-Notes.md`'s Southern Company
+    section no longer holds as stated and needs updating, and the
+    curriculum itself may need Ag-relevant project options/examples
+    once this is formalized. Not yet assessed for schedule/content
+    impact — this item just flags that the assessment is needed.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 

@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Press Kit Content (Draft)
 compiled: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-24
 ---
 
 # VSU Innovation Program — Press Kit Content (Draft)
@@ -28,7 +28,7 @@ prototype — combining generative AI, IoT hardware, and entrepreneurship
 — to solve a real business problem rooted in the Tri-Cities region.
 
 **Long about (press/partner-facing):**
-The VSU Innovation Program is a 14-week, project-based program offered
+The VSU Innovation Program is a 15-week, project-based program offered
 by Virginia State University in partnership with Builder Tech LLC,
 Explay, and VoltPop LLC. Students root their projects in the Tri-Cities
 regional economy, applying generative AI, IoT, and cybersecurity

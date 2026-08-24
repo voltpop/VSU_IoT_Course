@@ -96,7 +96,15 @@ which party you're representing) rather than editing straight away.
   innovation program for VSU," described that way and never revisited
   as a naming decision. Don't state it as fact in stakeholder
   conversations, and treat naming the program as an open decision, not
-  a confirmation task.
+  a confirmation task. **Update (2026-08-24, per VoltPop):** still not
+  formally decided, but **"Tri-Cities Innovation Lab"** — the name used
+  in the blurb Javon gave Dr. Nicholson for his 2026-09-09 Dominion
+  Energy meeting (`Stakeholder-Notes.md`'s Dominion Energy section) —
+  may end up being adopted as the default if nothing else is chosen.
+  A third variant, "VSU Innovation Lab," is also in use as Builder
+  Tech's Drive-folder name (`TODOs-by-Owner.md`'s Aug 17 update). All
+  three are currently live in different places; reconcile before more
+  stakeholder-facing material goes out under any one of them.
 - Students build a **mobile web app addressing a real Tri-Cities-area
   business problem**, touching GenAI/ML/IoT/cybersecurity as their
   project needs.
