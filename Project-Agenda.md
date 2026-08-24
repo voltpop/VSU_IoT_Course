@@ -88,6 +88,20 @@ confirming for the record):**
   experience design") still doesn't match the business/go-to-market
   weeks he actually leads — worth reconciling.
 
+**Partial backfill (2026-08-24, per VoltPop):** this meeting's actual
+outcomes were never condensed into a decisions record the way Aug 14's
+were (see below) — the live-status-check items above are still open
+questions, not known answers. One outcome has since surfaced and is
+recorded here: **decided to court VSU's College of Agriculture as a
+third participating school** (Agriculture students joining the cohort
+alongside Business/Engineering), targeting a 3-way cost split across
+the three schools — see `Admin-Business-Legal.md` §4/§9,
+`Course-Curriculum.md` §7, and `Stakeholder-Notes.md`'s Southern
+Company section for the downstream flags this raises. The rest of this
+meeting's outcomes (JV vote status, Nicholson's outreach threads, MOU
+v2 Exhibit C) are still unconfirmed as of this backfill — worth a
+follow-up pass whenever that context is available.
+
 ---
 
 ## Meeting — 2026-08-14 (past, condensed)

@@ -246,6 +246,27 @@ Entrepreneurship.
 - Both colleges have been notified of an **existing MoU directing them
   to collaborate**, with professors and Deans on both sides already
   engaged, and precedent for this kind of program at VSU.
+- **College of Agriculture (added 2026-08-24, backfilling a 2026-08-18
+  tag-up decision per VoltPop)** — decided at the Aug 18 standing
+  check-in to actively court VSU's College of Agriculture as a third
+  participating school, with Agriculture students joining the cohort
+  alongside Business and Engineering (not just an institutional/
+  funding partner — see `Course-Curriculum.md` §7 and
+  `Stakeholder-Notes.md`'s Southern Company section for the curriculum-
+  scope implications this raises). Goal is a **3-way cost split**
+  across the three schools (amounts still TBD — "something reasonable
+  for each school in reality," per VoltPop), framed as a VSU-wide
+  synergy effort to ease institutional buy-in. **Unlike the Engineering/
+  Business entries above, this hasn't gone through Javon's Stakeholder
+  Tracker yet** — official college name and a named dean/contact still
+  need confirming (the working name in `Stakeholder-Notes.md`'s
+  Southern Company section is "College of Agriculture and Agricultural
+  Research Station (ARS)"). **Owner: unassigned** — courting this
+  relationship wasn't delegated to a specific party as of the Aug 18
+  meeting; needs a lead (Dr. Nicholson LLC, given the institutional-
+  liaison role, is the natural fit but hasn't been confirmed as one).
+  This was never written up after the Aug 18 meeting — see
+  `Project-Agenda.md`'s Aug 18 entry for the backfill note.
 
 **Regional focus** — students root projects in the **Tri-Cities** region
 (Petersburg, Hopewell, Colonial Heights, Prince George, Dinwiddie,
@@ -585,3 +606,4 @@ looped in.
 15. Confirm the loaner-laptop question by Aug 7, 2026, per the same email (§6) — resolve whether VSU will provide loaners for students without their own.
 16. Meet the overall Aug 21/28, 2026 VSU-presentation milestone from Javon's recap — see TODOs-by-Owner.md for the full categorized list (owners pending his delegation email).
 17. **[New, flagged 2026-08-13, per VoltPop]** Add a budget line to reimburse Dr. Nicholson LLC for a portion of his insurance premium, since his insurance is proposed (`Joint-Venture-Agreement-Draft.md` §7) as the Party-to-Party liability mechanism covering all four Parties, not just him — distinct from the existing $4,000 VSU-side insurance line (§6a). Amount TBD pending his actual premium cost.
+18. **[New, backfilled 2026-08-24 from the 2026-08-18 tag-up, per VoltPop]** Assign an owner and work out the 3-way cost split for courting VSU's College of Agriculture as a third participating school (§4) — negotiate per-school amounts, get an official college name/contact through Javon's tracker, and reconcile with `Course-Curriculum.md` §7 and `Stakeholder-Notes.md`'s Southern Company section, both of which currently assume a Business/Engineering-only cohort.
