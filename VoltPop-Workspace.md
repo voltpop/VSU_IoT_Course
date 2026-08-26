@@ -353,3 +353,21 @@ Tech, where the deliverable is the curriculum content itself.
     VoltPop):** gated on securing VSU's own interest/buy-in first, on
     top of the general in-kind-asks pause covering Siemens/Jabil above —
     hold until both land.
+
+24. **Sep 9 meeting logistics + team alignment meeting.** **[New,
+    2026-08-25 tag-up]** Get the virtual meeting link for the Sep 9
+    Britney Edwards meeting (Nicholson-Workspace.md item 29), and send
+    calendar invites for a separate team alignment meeting. **Date
+    genuinely unresolved:** the meeting-summary transcript's own body
+    text names Aug 29 and Sep 12 as the discussed options, but its
+    Action Items section repeats "September 29th" for the same
+    meeting — three different dates across one transcript. Confirm the
+    actual date directly rather than trusting any single mention here.
+    Evening/weekend/Friday timing preferred, Richmond metro area, per
+    Builder Tech's availability.
+
+25. **Support Blackbird Co-op outreach.** **[New, 2026-08-25 tag-up]**
+    Recommended leveraging Blackbird Co-op's social-media reach for
+    program promotion and legitimacy in the agricultural cohort — support
+    role, Nicholson owns the actual outreach (Nicholson-Workspace.md item
+    31).

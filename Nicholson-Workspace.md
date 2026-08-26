@@ -312,3 +312,44 @@ institutional-liaison/stakeholder work, not curriculum content.
     and get it moving toward attorney/VSU-counsel review — VoltPop's own
     drafting piece is done; this is the remaining step, not yet
     started.
+
+29. **Sep 9 funding meeting with Britney Edwards (Dominion).** **[New,
+    2026-08-25 tag-up]** Present an executive summary and request
+    funding directly — a cash ask, distinct from the in-kind framing
+    this thread carried earlier (Stakeholder-Notes.md's Dominion Energy
+    profile). **Corrected 2026-08-26, per VoltPop:** this KB previously
+    had the Sep 9 slot attributed to Beazley — it's Britney's meeting.
+    Builder Tech and VoltPop expected to attend if schedules allow;
+    VoltPop needs the virtual meeting link.
+
+30. **Letters of Interest/Intent — Virginia Tech, Dominion Energy, VSU
+    Agriculture Department.** **[New, 2026-08-25 tag-up]** Secure formal
+    letters from all three before the Sep 9 pitch, to present a credible
+    multi-partner front rather than a single-institution ask.
+    Stakeholder-Notes.md.
+
+31. **Blackbird Co-op + farming-community outreach.** **[New, 2026-08-25
+    tag-up]** Committed to forming a dedicated team to engage Blackbird
+    Co-op (a Virginia minority-farming cooperative with a large
+    social-media following, focused on the farmer-succession crisis) and
+    the related farm-to-school/minority-farming community contacts
+    (Breon Pierce, Tyrone Cherry) flagged the same meeting. Goal:
+    leverage their reach for cohort recruitment and legitimacy on the
+    agricultural-cohort track. **Political-sensitivity flag, raised by
+    the team itself:** both individual contacts carry public
+    advocacy/legal context worth being deliberate about — see
+    Stakeholder-Notes.md's new section for detail.
+
+32. **Deck content edits.** **[New, 2026-08-25 tag-up]** Edit the
+    proposal deck's stakeholder language, funding ask, and next-steps
+    sections so it's modular for per-audience customization. Builder
+    Tech finalizes formatting once this lands.
+
+33. **Business-school pivot.** **[New, 2026-08-25 tag-up]** Given
+    limited support from the College of Engineering's dean (Haile — see
+    Stakeholder-Notes.md's "VSU's own colleges" section), lead the
+    project through VSU's School of Business instead, which has shown
+    initial interest in the combined pitch/hackathon event specifically.
+    **Not yet reconciled:** whether this supersedes the existing
+    Haile/Lewis-dean "sell VSU" pitch ownership (item 21 above) or runs
+    alongside it.

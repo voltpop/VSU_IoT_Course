@@ -18,6 +18,11 @@ line, don't append it at the bottom.
 
 ## Tuesday tag-up — 2026-08-25
 
+Attendees: Dr. Shawn M. Nicholson, Builder Tech (Javon Guerrier),
+VoltPop (Drew). Written up from VoltPop's live notes plus a fuller
+meeting-summary transcript surfaced 2026-08-26 — both sources folded
+in below; one correction between them is noted explicitly.
+
 **Decisions:**
 - **In-kind donor asks paused until the program's own terms are
   secured** (JV ratification, budget, compensation/payment flow) — per
@@ -27,29 +32,63 @@ line, don't append it at the bottom.
   [Admin-Business-Legal.md §6a](./Admin-Business-Legal.md#6a-in-kind-candidate-analysis).
 - **VGR outreach also gated on securing VSU's own interest/buy-in
   first**, on top of the in-kind pause above — per VoltPop.
+- **Institutional lead pivots from Engineering to the School of
+  Business.** Given Dean Haile's limited support unless he's driving it
+  himself, the group is instead leaning into VSU's School of Business,
+  which has shown initial interest in a combined pitch-competition +
+  hackathon event. Nicholson is driving this from the Business-school
+  side. Not yet reconciled against the existing Haile/Lewis-dean "sell
+  VSU" pitch ownership — see
+  [Stakeholder-Notes.md's VSU colleges section](./Stakeholder-Notes.md#vsus-own-colleges-institutional-coordination--but-still-needs-its-own-sales-materials).
 
-**New/updated from Dr. Nicholson:**
+**New from Dr. Nicholson:**
 - **Britney Edwards (Dominion) origin story** — met her in early summer
   2026 (before joining the team); STEM/workforce development came up,
   she was interested. At a secondary meeting he pitched combining a
   pitch competition and a hackathon; she expressed utmost interest.
   Resolves the "hackathon framing" open question in
   [Stakeholder-Notes.md's Dominion Energy profile](./Stakeholder-Notes.md#dominion-energy).
-- **Dean Haile** doesn't see the benefit of cross-college collaboration
-  outside his own agenda unless he's driving it — a governance question,
-  not a buy-in question. He's now angling for a follow-up conversation.
-  See [Stakeholder-Notes.md's VSU colleges section](./Stakeholder-Notes.md#vsus-own-colleges-institutional-coordination--but-still-needs-its-own-sales-materials).
-- **Dr. Samuels (Virginia Tech)** flagged as a possible new interested
-  contact — no detail yet beyond the name; see
-  [Stakeholder-Notes.md's new Virginia Tech section](./Stakeholder-Notes.md#virginia-tech--new-surfaced-live-on-the-2026-08-25-tag-up).
+- **Sep 9, 9am meeting is with Britney Edwards**, to present an
+  executive summary and request funding directly (a cash ask, not just
+  in-kind). **Correction (2026-08-26, per VoltPop):** this KB had
+  previously attributed the Sep 9 slot to Beazley — fixed.
+- Pushing for **Letters of Interest/Intent from Virginia Tech, Dominion
+  Energy, and VSU's Agriculture Department** ahead of that meeting, to
+  present a credible multi-partner front. New Virginia Tech contact:
+  **Dr. Samuels**.
+- **Blackbird Co-op** (Virginia minority-farming co-op, large
+  social-media following, focused on the farmer-succession crisis)
+  identified as a potential legitimacy/recruitment partner for the
+  agricultural-cohort track — Nicholson forming a dedicated team to
+  engage them, alongside farm-to-school/minority-farming community
+  contacts **Breon Pierce** and **Tyrone Cherry** (both carry
+  public-advocacy/legal context worth handling deliberately — see
+  [Stakeholder-Notes.md](./Stakeholder-Notes.md)).
+- **DEI funding angle flagged**: HBCUs reportedly have more flexibility
+  navigating DEI-related funding restrictions — a possible way to widen
+  the pool of federal/unrestricted funds. Not yet a concrete plan.
+
+**Also discussed, not an action item — parked for later:** a tangent on
+K-12 education-system incentives (districts defaulting to low-bar
+workplace-readiness certifications over harder programs like
+cybersecurity) prompted VoltPop to float **scaling a version of this
+program down into high schools**, with teacher training as a likely
+prerequisite. No owner or next step assigned — flagging so the idea
+isn't lost.
+
+**Logistics:** a team alignment meeting is being scheduled for
+late-Aug/early-Sep — **date genuinely unresolved across sources** (Aug
+29 and Sep 12 both discussed live; the meeting-summary transcript's own
+action items say Sep 29). VoltPop to send calendar invites once
+confirmed. Deck edits (Nicholson content → Builder Tech formatting) are
+in progress ahead of the Sep 9 meeting.
 
 **Still open, not discussed today (carried forward from Aug 18/21, still
 unresolved as of this meeting):** JV agreement ballot formal
-confirmation, Nicholson's other outreach threads (Dominion follow-up
-scheduled separately for 2026-09-09, Cameron/Open Trellis/Virginia
-Credit Union), MOU Exhibit C's Explay role-description mismatch, and the
-now-overdue Aug 18/19/21 due-items (budget revision, pitch rehearsal,
-client presentation, Ag-school cost-split ownership).
+confirmation, Nicholson's other outreach threads (Cameron/Open
+Trellis/Virginia Credit Union), MOU Exhibit C's Explay role-description
+mismatch, and the now-overdue Aug 18/19/21 due-items (budget revision,
+pitch rehearsal, client presentation, Ag-school cost-split ownership).
 
 ---
 

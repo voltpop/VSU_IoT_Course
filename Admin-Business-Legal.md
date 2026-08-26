@@ -507,6 +507,14 @@ contributions rather than cash.
 down further — the path is external funding and in-kind contributions,
 not cost-cutting.
 
+**Strategic angle flagged 2026-08-25, per the meeting-summary
+transcript:** HBCUs reportedly have relative flexibility on
+DEI-related funding restrictions compared to other institutions —
+raised as a way to widen the pool of federal/unrestricted funds worth
+pursuing. Not yet developed into a concrete plan or specific funding
+source; flagged here as a direction to navigate carefully rather than
+an established strategy.
+
 **Open idea, not yet confirmed (per VoltPop, 2026-08-06):** the working
 assumption above treats external funding as needing to close the entire
 ~$295K–$311K gap. A different model may be in play instead — VSU's own
