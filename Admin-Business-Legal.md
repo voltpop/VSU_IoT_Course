@@ -419,6 +419,13 @@ range.
 
 ## 6a. In-kind candidate analysis
 
+**Deferred (per VoltPop, 2026-08-25 tag-up): actively pursuing any of
+the in-kind conversions below is paused until the program's own terms
+(JV agreement ratification, budget, compensation/payment flow) are
+secured.** Treat every line below as cash in the working budget until
+that's resolved — don't provisionally discount the Grand Total for any
+of these yet.
+
 Which budget line items could realistically be treated as in-kind
 contributions rather than cash.
 
@@ -499,6 +506,14 @@ contributions rather than cash.
 (~$295K-$311K) alone, and isn't looking to push the Program's budget
 down further — the path is external funding and in-kind contributions,
 not cost-cutting.
+
+**Strategic angle flagged 2026-08-25, per the meeting-summary
+transcript:** HBCUs reportedly have relative flexibility on
+DEI-related funding restrictions compared to other institutions —
+raised as a way to widen the pool of federal/unrestricted funds worth
+pursuing. Not yet developed into a concrete plan or specific funding
+source; flagged here as a direction to navigate carefully rather than
+an established strategy.
 
 **Open idea, not yet confirmed (per VoltPop, 2026-08-06):** the working
 assumption above treats external funding as needing to close the entire

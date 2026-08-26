@@ -261,3 +261,9 @@ Budget, agreement-drafting, and prep work.
     confirmation per VoltPop — see
     [JV-Agreement-Vote-Form.md](JV-Agreement-Vote-Form.md)'s status
     note — so this isn't "final" in the ratified sense yet.
+
+13. **Proposal deck formatting.** **[New, 2026-08-25 tag-up]** Format
+    and finalize the proposal deck once Dr. Nicholson's content edits
+    (stakeholder language, funding ask, modular customization) land —
+    see Nicholson-Workspace.md item 32. Attend the Sep 9 Britney Edwards
+    funding meeting if schedule permits.
