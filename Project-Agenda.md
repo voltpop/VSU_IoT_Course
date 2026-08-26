@@ -1,7 +1,7 @@
 ---
 title: VSU IoT Project — Agenda & Meeting Tracker
 created: 2026-08-14
-updated: 2026-08-17
+updated: 2026-08-25
 ---
 
 # VSU IoT Project — Agenda & Meeting Tracker
@@ -15,6 +15,43 @@ being discussed *when*, not the full task list.
 **Meeting sections below are newest-first** — the most recently dated
 meeting is always at the top; add a new meeting section above this
 line, don't append it at the bottom.
+
+## Tuesday tag-up — 2026-08-25
+
+**Decisions:**
+- **In-kind donor asks paused until the program's own terms are
+  secured** (JV ratification, budget, compensation/payment flow) — per
+  VoltPop. Deprioritizes Siemens outreach, Jabil outreach, and the Dean
+  Haile/Lewis dean "sell VSU" pitch; see each row in
+  [TODOs-by-Owner.md](./TODOs-by-Owner.md) and
+  [Admin-Business-Legal.md §6a](./Admin-Business-Legal.md#6a-in-kind-candidate-analysis).
+- **VGR outreach also gated on securing VSU's own interest/buy-in
+  first**, on top of the in-kind pause above — per VoltPop.
+
+**New/updated from Dr. Nicholson:**
+- **Britney Edwards (Dominion) origin story** — met her in early summer
+  2026 (before joining the team); STEM/workforce development came up,
+  she was interested. At a secondary meeting he pitched combining a
+  pitch competition and a hackathon; she expressed utmost interest.
+  Resolves the "hackathon framing" open question in
+  [Stakeholder-Notes.md's Dominion Energy profile](./Stakeholder-Notes.md#dominion-energy).
+- **Dean Haile** doesn't see the benefit of cross-college collaboration
+  outside his own agenda unless he's driving it — a governance question,
+  not a buy-in question. He's now angling for a follow-up conversation.
+  See [Stakeholder-Notes.md's VSU colleges section](./Stakeholder-Notes.md#vsus-own-colleges-institutional-coordination--but-still-needs-its-own-sales-materials).
+- **Dr. Samuels (Virginia Tech)** flagged as a possible new interested
+  contact — no detail yet beyond the name; see
+  [Stakeholder-Notes.md's new Virginia Tech section](./Stakeholder-Notes.md#virginia-tech--new-surfaced-live-on-the-2026-08-25-tag-up).
+
+**Still open, not discussed today (carried forward from Aug 18/21, still
+unresolved as of this meeting):** JV agreement ballot formal
+confirmation, Nicholson's other outreach threads (Dominion follow-up
+scheduled separately for 2026-09-09, Cameron/Open Trellis/Virginia
+Credit Union), MOU Exhibit C's Explay role-description mismatch, and the
+now-overdue Aug 18/19/21 due-items (budget revision, pitch rehearsal,
+client presentation, Ag-school cost-split ownership).
+
+---
 
 ## Next Friday tag-up — 2026-08-21 (planned agenda)
 

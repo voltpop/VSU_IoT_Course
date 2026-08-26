@@ -419,6 +419,13 @@ range.
 
 ## 6a. In-kind candidate analysis
 
+**Deferred (per VoltPop, 2026-08-25 tag-up): actively pursuing any of
+the in-kind conversions below is paused until the program's own terms
+(JV agreement ratification, budget, compensation/payment flow) are
+secured.** Treat every line below as cash in the working budget until
+that's resolved — don't provisionally discount the Grand Total for any
+of these yet.
+
 Which budget line items could realistically be treated as in-kind
 contributions rather than cash.
 

@@ -59,6 +59,11 @@ institutional-liaison/stakeholder work, not curriculum content.
    I'll make that happen" — to setting up/extending an invitation to an
    **in-person VGR meeting in Petersburg with Tom Stansbury**, for
    VoltPop (and per VoltPop's own notes, Javon too) to attend.
+   **Deprioritized (2026-08-25 tag-up, per VoltPop):** in-kind donor
+   asks generally are paused until program terms are secured (JV
+   ratification, budget, compensation), and VGR specifically is also
+   gated on securing VSU's own interest/buy-in first — hold until both
+   land.
 
 3. **Lead Dominion Energy outreach.** **[Due mid-Aug 2026]** *(shared,
    confirmed by VoltPop 2026-08-04: VoltPop)* — Dr. Nicholson is taking
@@ -196,7 +201,13 @@ institutional-liaison/stakeholder work, not curriculum content.
     Haile (College of Engineering and Technology) and the Reginald F.
     Lewis College of Business's interim/incoming dean, leveraging the
     existing MoU that already directs the two colleges to collaborate
-    (Admin-Business-Legal.md §4).
+    (Admin-Business-Legal.md §4). **Update (2026-08-25 tag-up, per Dr.
+    Nicholson):** Haile doesn't see the immediate benefit of
+    collaborating across colleges on something outside his own agenda
+    **unless he's the one driving it** — a governance/ownership
+    question, not a buy-in question. He's now angling for a follow-up
+    conversation. See Stakeholder-Notes.md's "VSU's own colleges"
+    section.
 
 19. **eVA/SWaM registration.** *(flagged by VoltPop, 2026-08-05 — same
     requirement as Builder Tech's, VoltPop's, and Explay's own items,
@@ -218,7 +229,11 @@ institutional-liaison/stakeholder work, not curriculum content.
     funder-facing one, since nothing here is a cash ask; the ask is
     lab/classroom access, faculty time, curriculum integration, and
     FERPA/liability sign-off (Stakeholder-Notes.md's "VSU's own
-    colleges" section).
+    colleges" section). **Deprioritized (2026-08-25 tag-up, per
+    VoltPop):** no-cash/in-kind asks generally are paused until program
+    terms are secured — also worth re-scoping once item 18's "wants to
+    drive it" read is worked through, since that changes what this pitch
+    needs to lead with.
 
 22. **Three-college cost split.** *(new, flagged 2026-08-06, per
     VoltPop, not yet confirmed)* Confirm with VSU whether College of
