@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Admin, Business & Legal
 compiled: 2026-07-31
-updated: 2026-08-14
+updated: 2026-08-26
 see_also: Course-Curriculum.md (teaching side)
 ---
 
@@ -110,7 +110,7 @@ not yet reflected in the Software Licenses & Subscriptions figures in
   review before signature, especially IP, FERPA, and liability
   sections, and needs VSU's contracts/procurement office looped in
   early.
-- **Decided at the Aug 7 meeting (per Drew): the Operating Agreement will be prioritized for value and efficacy** — Dr. Nicholson (assumed "he" from context; confirm if this was someone else) is OK with that approach. **Not yet specified:** what "value and efficacy" concretely means for drafting priorities — e.g., which sections get attorney attention first, or what gets simplified/deferred. Worth nailing down before this becomes the actual drafting instruction to whoever finalizes the Agreement. **Update (2026-08-12, per VoltPop):** VoltPop is starting work on this deliverable directly with Dr. Nicholson — the "value and efficacy" drafting-priorities question above is still open and worth resolving as part of that work, not a separate blocker.
+- **Decided at the Aug 7 meeting (per Drew): the Operating Agreement will be prioritized for value and efficacy** — Dr. Nicholson is OK with that approach. **Not yet specified:** what "value and efficacy" concretely means for drafting priorities — e.g., which sections get attorney attention first, or what gets simplified/deferred. Worth nailing down before this becomes the actual drafting instruction to whoever finalizes the Agreement. **Update (2026-08-12, per VoltPop):** VoltPop is starting work on this deliverable directly with Dr. Nicholson — the "value and efficacy" drafting-priorities question above is still open and worth resolving as part of that work, not a separate blocker.
 - Three sections need VSU counsel review: indemnification, liability
   caps, governing law/arbitration — standard commercial language in
   these areas may not survive VSU's sovereign-immunity and procurement
@@ -182,7 +182,7 @@ not yet reflected in the Software Licenses & Subscriptions figures in
     questions, VoltPop (Andrew) addresses technical/hardware-curriculum
     credibility, and Builder Tech (Javon) + Explay (Emanuel) address
     pedagogy/teaching-style questions.
-  - **Status — fully aligned (per VoltPop, 2026-08-13): Dr. Nicholson has now agreed to the prime-contractor role.** VoltPop and Explay aligned on 2026-08-12; Nicholson's own confirmation followed on 2026-08-13, completing alignment across all four private parties. §1's party roles and IP ownership (above) should now be treated as **superseded** by this structure — curriculum IP stays with VoltPop/Builder Tech/Explay via joint license, with Nicholson LLC receiving a limited license for this program only — not the older "Explay/VoltPop joint-ownership + Builder Tech/VSU license" framing still written in §1. §1 itself still needs a direct rewrite to match; flagging here in the meantime so the two sections don't silently disagree. See the first-pass `Joint-Venture-Agreement-Draft.md` for how this is being worked through with the group.
+  - **Status — fully aligned (per VoltPop, 2026-08-13): Dr. Nicholson has now agreed to the prime-contractor role.** VoltPop and Explay aligned on 2026-08-12; Nicholson's own confirmation followed on 2026-08-13, completing alignment across all four private parties. §1's party roles and IP ownership (above) should now be treated as **superseded** by this structure — curriculum IP stays with VoltPop/Builder Tech/Explay via joint license, with Nicholson LLC receiving a limited license for this program only — not the older "Explay/VoltPop joint-ownership + Builder Tech/VSU license" framing. **Resolved (found consistent during 2026-08-26 audit): §1 now carries this same superseded/current structure directly** — the two sections no longer disagree. See the first-pass `Joint-Venture-Agreement-Draft.md` for how this is being worked through with the group.
   - **Condensed with the internal MOUs/NDAs item above (per VoltPop,
     2026-08-05):** the two are intrinsically linked — both are really
     the same underlying question of what the internal contracting
