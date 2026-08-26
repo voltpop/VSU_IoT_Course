@@ -30,6 +30,19 @@ Tech, where the deliverable is the curriculum content itself.
    framework** (Course-Curriculum.md §7).
 5. **Name RTFC explicitly as Week 8's default template** once its
    lesson is rewritten (Course-Curriculum.md §7).
+6. **§4 schedule table still shows 14 weeks.** **[New, found during
+   2026-08-26 kb-audit]** The 2026-08-14 tag-up confirmed 15 weeks of
+   actual course content (16-week calendar span including spring
+   break) as the correct figure — the pitch deck and press-kit blurb
+   both already reflect it. But Course-Curriculum.md §4's own
+   "current authoritative schedule" table was never updated to match:
+   it still has 14 numbered weeks (Week 13 being a no-new-content
+   Buffer Week), plus separate spring-break and Finals rows.
+   `TODOs-by-Owner.md` previously claimed this was fully resolved —
+   corrected 2026-08-26. Needs an actual content decision (which week
+   is missing, or whether the Buffer Week should count as the 15th
+   content week) before the table itself can be edited — not a
+   mechanical fix.
 
 ## Administrative
 
