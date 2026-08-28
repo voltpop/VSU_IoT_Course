@@ -121,13 +121,19 @@ in `KB-Skills.md` that writes to the repo (`kb-assign`, `kb-message`,
   the depth elsewhere. Also holds a "Messages" section (added
   2026-08-14) at the top, per the `kb-message` function in
   `KB-Skills.md`.
-- **`Curriculum/` directory (new, 2026-08-28; restructured into
-  per-week subdirectories the same day) — another established
+- **`Curriculum/` directory (new, 2026-08-28; restructured into a
+  per-week scaffold the same day, per VoltPop) — another established
   exception, for the same reason.** One subdirectory per week,
-  `Curriculum/WeekN/`, holding that week's lesson plan
-  (`Lesson-Plan.md`) plus a home for that week's assets and eventually
-  presentations as they get added — not one flat file per week, so a
-  week's supporting material has somewhere to live alongside its plan.
+  `Curriculum/WeekN/`, following a standard scaffold:
+  - The lesson plan itself — `Lesson-Plan.md` for a week not yet split
+    by day, or `README.md` (shared framing/objectives/deliverables/open
+    items) + `Day1.md`/`Day2.md` once a week is split into its actual
+    per-day classes (Week 1 is the first example).
+  - `Assets/` — distributable assets (handouts, diagrams, worksheets).
+  - `Presentations/` — slide decks.
+  Apply this same scaffold (`Assets/` + `Presentations/`, at minimum a
+  placeholder `README.md` in each so the empty directory actually
+  persists in git) to every week as it's built, not just Week 1 and 2.
   `Course-Curriculum.md` stays the schedule/philosophy/status overview
   and links out to each week's actual plan as it gets drafted, per §6
   of `Course-Curriculum.md`.
