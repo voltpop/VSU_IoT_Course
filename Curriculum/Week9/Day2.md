@@ -4,7 +4,7 @@ week: 9
 day: 2
 date: Mar 25 (Thu)
 duration: 3 hours (180 min) — not yet time-boxed at the block level
-status: skeleton — Explay-led per the schedule, temporarily VoltPop's to build (see ../README.md)
+status: skeleton — VoltPop-led (was Explay; reassigned 2026-08-28, see ../README.md)
 see_also: ./README.md
 ---
 

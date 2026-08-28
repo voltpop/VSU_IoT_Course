@@ -2,17 +2,16 @@
 title: Week 9 — Full Build, Iterations 3 & 4
 week: 9
 status: skeleton — created 2026-08-28, structure only. Day1.md/Day2.md need actual talking points, exercises, and timing before this is teachable (same depth as Weeks 1–2).
-see_also: Course-Curriculum.md §1 (build stand-ups), §4 (schedule, Explay-ownership note, temporary reassignment to VoltPop), §5 finding #1 (security demoted), §6 (lesson-plan status), §7 items #1, #7, #18
+see_also: Course-Curriculum.md §4 (schedule — Lead column reflects the current reassignment directly, footnote 1), §1 (build stand-ups), §5 finding #1 (security demoted), §6 (lesson-plan status), §7 items #1, #7, #18
 ---
 
 # Week 9 — Full Build, Iterations 3 & 4
 
-**Ownership note: schedule says Explay leads this week, but it's been
-temporarily passed to VoltPop (per VoltPop, 2026-08-28) — see
-Course-Curriculum.md §4.** "For now," not a permanent reassignment;
-worth confirming the actual end condition before treating this as
-settled. Per Course-Curriculum.md §6, Explay-led weeks (4, 9, 10, 11,
-12) had no lesson-plan-status tracking in this KB at all until now.
+**Ownership note: VoltPop leads this week** — reassigned from Explay
+2026-08-28, given Explay's reduced role in the program
+(Course-Curriculum.md §4, footnote 1). Stated as "for now," not
+confirmed permanent, with no defined end condition for handing it
+back.
 
 Two 3-hour classes, Tuesday and Thursday. **This is a skeleton, not a
 full lesson plan** — structure, known context, and open questions only.
@@ -23,15 +22,13 @@ full lesson plan** — structure, known context, and open questions only.
 ## Where this fits in the schedule
 
 **Week 9 of 15** — Full Build — Iterations 3 & 4, Mar 23 (Tue) / Mar 25
-(Thu). Lead: **Explay** per the schedule table, **temporarily VoltPop**
-per the ownership note above. Support: VoltPop (Course-Curriculum.md
-§4, full table).
+(Thu). Lead: **VoltPop** (was Explay — see ownership note above).
+Support: All (Course-Curriculum.md §4, full table).
 
 - ← Previous: **[Week 8](../Week8/README.md)** — Full Build —
   Iterations 1 & 2, Mar 16 (Tue) / Mar 18 (Thu). Lead: VoltPop.
 - → Next: **[Week 10](../Week10/README.md)** — Testing & Going Live,
-  Mar 30 (Tue) / Apr 1 (Thu). Lead: Explay per the schedule table,
-  temporarily VoltPop.
+  Mar 30 (Tue) / Apr 1 (Thu). Lead: VoltPop (was Explay).
 
 ## What we know so far (from Course-Curriculum.md §4)
 
@@ -51,14 +48,15 @@ inside this hands-on build week, with **no explicit deliverable**.
 Course-Curriculum.md §7 item #1 flags deciding whether to restore a
 real deliverable; item #7 flags designing whatever security content
 survives around the 4D lens rather than leaving it unstructured. This
-skeleton doesn't resolve either — it's exactly the kind of call that
-should be Explay's (and VoltPop's, jointly) to make, not assumed here.
+skeleton doesn't resolve either — it's a call for VoltPop to make as
+Lead, not assumed here.
 
-**Division of labor between Explay and VoltPop is undefined** — Course-
-Curriculum.md §4's Explay-ownership-confirmation note says Week 9's
-"detailed division of product-iteration, technical-debugging,
-integration, and security work between Explay and VoltPop remains to
-be defined."
+**Division of labor across the team is undefined.** Originally scoped
+(Course-Curriculum.md §4's Explay-ownership-confirmation note) as
+Week 9's "detailed division of product-iteration, technical-debugging,
+integration, and security work between Explay and VoltPop" — now a
+question of how VoltPop (Lead) splits that work with Builder Tech and
+Explay (both Support), not resolved by the reassignment itself.
 
 **Build stand-up (Course-Curriculum.md §1, §7 item #18):** same as
 Week 8 — an iterative build week with real recurring blockers. Open
@@ -78,13 +76,13 @@ both days with one.
 
 ## Open items — resolve before this is more than a skeleton
 
-1. **No actual day-by-day content yet.** Explay would normally own this
-   week's content per the schedule table, though it's temporarily
-   VoltPop's to build (ownership note above) — worth Explay's review
-   regardless, once it exists.
+1. **No actual day-by-day content yet.** VoltPop leads this week now
+   (ownership note above) — Explay originally owned it per the schedule
+   table and is worth looping in for review once content exists, given
+   the history.
 2. **Security deliverable question is unresolved** (Course-Curriculum.md
    §5 finding #1, §7 items #1 and #7) — decide whether to restore a
    real, named security deliverable before scripting the days around
    whatever the answer implies.
-3. **Explay/VoltPop division of labor for this week was never
+3. **Division of labor across the team for this week was never
    finalized** — resolve before assigning who teaches which block.
