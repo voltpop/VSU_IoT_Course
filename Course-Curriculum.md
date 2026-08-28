@@ -64,6 +64,37 @@ go from an ambiguous real-world ask to working code:
 2. **Mechanical-generation step** (turn the settled spec into working
    code) → scaffolded with **RTFC**: Role, Task, Format, Context.
 
+### The reusable pattern: build stand-ups
+
+*(New, added 2026-08-28, per VoltPop: "I want there to be the
+equivalent of stand-ups, sharing problems so we can collaborate.")*
+Borrowed from agile software practice, but built for peer *matching*,
+not just status reporting — the point is getting a stuck team paired
+with a team that can actually help, not just accountability theater.
+Applies as a recurring opening block on class days where teams are
+doing independent technical build work across sessions — **Weeks 5, 7,
+8, 9, and 10** (hardware setup, data flow/integration, both full-build
+iteration weeks, and testing/go-live). Not applied to weeks that are
+single-session or non-technical (design, business, pitch weeks) — a
+stand-up only earns its place once there's an ongoing build with real,
+recurring blockers to surface.
+
+Format (~10–15 min):
+1. **Write (~5 min).** Each team posts a 3-line stand-up note to their
+   notes-KB: what we finished since last time, what we're stuck on,
+   what we need.
+2. **Match (~5–10 min).** Instructor scans quickly (walking the room or
+   a shared board) and calls out 2–3 pairings where one team's blocker
+   matches another team's recent win or visible expertise — those teams
+   huddle briefly to troubleshoot together.
+3. **Optional public share**, time permitting — a one-sentence callout
+   ("anyone stuck on Wi-Fi setup, Team 4 just solved it") for the whole
+   room.
+
+**Not yet built into any actual lesson plan** — Weeks 5, 7, 8, 9, and
+10 don't exist yet (§6). Bake this in as each of those weeks gets
+drafted, rather than retrofitting it after the fact. See §7 item #18.
+
 ## 2. Schedule history — V1 → V2 (current)
 
 - **V1** — `Program Schedule & Sequence (2026 17 JULY - V1).ods`, full
@@ -171,6 +202,20 @@ Explay as Lead and still says "Integrate API connections" rather than
 reflecting the MCP-integration swap. Both need updating in the actual
 source sheet.
 
+**Explay-led weeks temporarily reassigned, confirmed split (per
+VoltPop, 2026-08-28):** stated as "for now," not confirmed as
+permanent — the table above still lists Explay as Lead for Weeks 4, 9,
+10, 11, and 12, and that hasn't been changed here on purpose.
+- **Weeks 4, 9, and 10 → VoltPop** — "VoltPop is the technical
+  curriculum lead for this" (per VoltPop); consistent with these three
+  being the more technical/build-oriented of the five (Business Models
+  & Market Fit's brand/product work feeds directly into the technical
+  build track, and Full Build/Testing are squarely technical).
+- **Weeks 11 and 12 → Builder Tech** — pitch/presentation-skills weeks,
+  outside VoltPop's technical remit.
+- **End condition for handing leadership back to Explay isn't defined**
+  — worth clarifying if/when that matters.
+
 ## 5. Cross-check findings (V2 schedule vs. Scope Doc / Agreement)
 
 1. **Security Considerations demoted.** The Scope Doc/Agreement allocate
@@ -233,12 +278,13 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
   several real open items in `README.md` (portfolio mechanism, GitHub
   org structure, Kiro provisioning, untested timing) still need
   resolving before it's final.
-- `Week5_AI_Wiring_Firmware_Prompt_Template.md` — built for
-  MicroPython/Thonny (confirmed as the right toolchain, see §4); needs
-  one new section added for Week 5's Tuesday content (GitHub migration,
-  open-source governance intro) that isn't in the file yet. **When that
-  section gets built (flagged 2026-08-08, per VoltPop):** include
-  GitHub Education's [Git Cheat
+- `Week5_AI_Wiring_Firmware_Prompt_Template.md` (VoltPop's external
+  working files, not in this repo) — built for MicroPython/Thonny
+  (confirmed as the right toolchain, see §4); needs one new section
+  added for Week 5's Tuesday content (GitHub migration, open-source
+  governance intro) that isn't in the file yet. **When that section
+  gets built (flagged 2026-08-08, per VoltPop):** include GitHub
+  Education's [Git Cheat
   Sheet](https://education.github.com/git-cheat-sheet-education.pdf) as
   a student handout — students are being introduced to git/GitHub cold
   here, same onboarding gap this KB itself solves for the five program
@@ -246,30 +292,52 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
   question, same day (per VoltPop):** whether this git/GitHub
   introduction should actually move earlier than Week 5 — possibly
   Week 1 — so students have git-based-knowledge-base literacy from day
-  one rather than only once firmware work starts; see §7 item #15's
-  per-tool timing breakdown.
-- `Week7_MCP_Server_Design_Prompts.md` — originally built for the old
-  Week 7 topic (MCP server design). Week 7's actual topic is now "Data
-  Flow & Systems Architecture," which needs new content built for it
+  one rather than only once firmware work starts; **resolved: it moved
+  to Week 1** (see §7 item #15's per-tool timing breakdown). **A
+  [skeleton](./Curriculum/Week5/README.md) now exists in this repo**
+  (2026-08-28) — structure and known context only, built from the
+  schedule table since the external file above was never pulled in;
+  reconcile the two before writing full content, so nothing already
+  built there gets redone from scratch.
+- `Week7_MCP_Server_Design_Prompts.md` (VoltPop's external working
+  files, not in this repo) — originally built for the old Week 7 topic
+  (MCP server design). Week 7's actual topic is now "Data Flow &
+  Systems Architecture," which needs new content built for it
   (following the same judgment-step/mechanical-step 4D+RTFC pattern,
   re-pointed at payload/data-flow design and a proof-of-life
   integration build). The existing MCP-server content isn't wasted —
   it's being relocated into **Week 8**, where MCP integration now
   replaces the old "API integration" framing, and Week 8 is also
   VoltPop-led. Needs adaptation work, not a full rewrite, once that
-  relocation is finalized.
-- [`Curriculum/Week2/Lesson-Plan.md`](./Curriculum/Week2/Lesson-Plan.md) —
-  built 2026-08-28 (V2 makes VoltPop Lead for this week, which wasn't
-  anticipated under the earlier schedule version, so no prior draft
-  existed to build from). Marked `status: draft` — re-introduces the
-  regional/Tri-Cities framing dropped between V1 and V2 (§5 finding #4,
-  §7 item #13) as a design call needing explicit confirmation, and
-  leaves hardware-kit checkout/return logistics unresolved (see the
-  file's own Open Items).
-- **Weeks 4, 9, 10, 11, 12** (all Explay-led) have no lesson-plan-status
-  tracking in this KB at all — unlike the VoltPop-led weeks above, it's
-  not documented here whether lesson plans for any of these exist,
-  are drafted, or still need to be built from scratch.
+  relocation is finalized. **[Skeletons](./Curriculum/Week7/README.md)
+  now exist for both Week 7 and
+  [Week 8](./Curriculum/Week8/README.md)** (2026-08-28) — Week 8's
+  skeleton flags the same external-file reconciliation need as Week 5's
+  above.
+- [`Curriculum/Week2/`](./Curriculum/Week2/) — built 2026-08-28 (V2
+  makes VoltPop Lead for this week, which wasn't anticipated under the
+  earlier schedule version, so no prior draft existed to build from).
+  **Split into one file per day (2026-08-28, same day, mirroring Week
+  1):** [`README.md`](./Curriculum/Week2/README.md) (shared framing/
+  objectives/open items), [`Day1.md`](./Curriculum/Week2/Day1.md),
+  [`Day2.md`](./Curriculum/Week2/Day2.md). The split's timing check
+  found both days only accounted for 120 of the real 180 minutes —
+  fixed with an explicit 60-minute buffer block on each day. Marked
+  `status: draft` — re-introduces the regional/Tri-Cities framing
+  dropped between V1 and V2 (§5 finding #4, §7 item #13) as a design
+  call needing explicit confirmation, and leaves hardware-kit
+  checkout/return logistics unresolved (see `README.md`'s Open Items).
+- [`Curriculum/Week9/`](./Curriculum/Week9/) and
+  [`Curriculum/Week10/`](./Curriculum/Week10/) — Explay-led per the
+  schedule table, **temporarily reassigned to VoltPop** (§4's note
+  above). **Skeletons built 2026-08-28** — structure, known context,
+  and open items only; no scripted day content yet. Both explicitly
+  note the temporary-ownership caveat so a review by Explay isn't
+  skipped once real content exists.
+- **Weeks 4, 11, 12** (Explay-led, not currently reassigned) still have
+  no lesson-plan-status tracking in this KB at all — it's not
+  documented here whether lesson plans for any of these exist, are
+  drafted, or still need to be built from scratch.
 
 ## 7. Open items — curriculum and teaching
 
@@ -404,6 +472,16 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
     curriculum itself may need Ag-relevant project options/examples
     once this is formalized. Not yet assessed for schedule/content
     impact — this item just flags that the assessment is needed.
+18. **[New, 2026-08-28, per VoltPop]** Bake the new **build stand-up**
+    reusable pattern (§1) into Weeks 5, 7, 8, 9, and 10 as each gets
+    drafted — a recurring opening block where teams post blockers and
+    get matched with a team that can help, not just status reporting.
+    **In progress (2026-08-28): skeletons now exist for all five weeks**
+    (§6) with the stand-up block placed on each — Week 5 Day 1 excepted
+    (nothing's built yet on the very first hardware day to report on;
+    it opens on Day 2 instead). Still open: none of the five weeks have
+    actual scripted content yet, so the stand-up's placement is a
+    structural placeholder, not a taught exercise.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 
