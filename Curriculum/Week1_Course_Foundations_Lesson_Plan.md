@@ -106,12 +106,19 @@ that this is exposure to a way of working, not a certification.
   and commit it — the first hands-on git action of the course.
 
 **5. Portfolio setup** *(setup)* (~40 min)
-- **Mechanism: a per-group GitHub Pages site** (proposed 2026-08-08,
-  not yet fully locked — see Open Items below).
+- **Mechanism: a per-group GitHub Pages site, plus an individual
+  portfolio for each student (confirmed per VoltPop, 2026-08-28)** —
+  the group site doesn't replace an individual one. Lovable-vs-plain
+  styling still open — see Open Items below.
 - Each group stands up a bare GitHub Pages site off their repo. Content
   can be minimal today (group name, member names, one sentence about
   what they're building) — this gets built out across the semester, not
   finished today.
+- Each student also starts their own individual portfolio (same
+  minimal-today, built-out-later treatment). Mechanism TBD — likely the
+  same GitHub Pages approach as the group site, but not yet decided
+  whether it needs its own repo or can live as a page within the
+  group's.
 
 **6. Prompt engineering & context management intro** *(academic content)* (~40 min)
 - First hands-on use of Kiro: a short guided exercise giving it a role,
@@ -142,6 +149,8 @@ how comfortable each group is with the tools.
 ## Deliverables
 
 - Portfolio & LinkedIn (per the schedule table, Course-Curriculum.md §4)
+  — both the group site and each student's individual portfolio
+  (confirmed per VoltPop, 2026-08-28), started today
 - First Public Post
 
 ## Materials / resources
@@ -158,16 +167,33 @@ how comfortable each group is with the tools.
    site's UI (bringing Lovable back into Day 1 for this one purpose) or
    whether the page starts plain and gets Lovable-polished later (once
    Lovable is actually introduced) is still an open call.
-2. **Group vs. individual portfolio** — unconfirmed whether "group"
-   replaces an individual portfolio outright or sits alongside one.
-3. **GitHub org/repo structure for students** — how groups actually get
-   their own repos (a class GitHub organization? individual repos under
-   each student's account? a template repo they fork?) isn't decided.
-   This affects the account-creation walkthrough directly.
-4. **Kiro provisioning** — whether students get individual Kiro
-   accounts, a shared/classroom license, or something tied to the
-   Amazon donation ask (`Stakeholder-Notes.md`) isn't resolved, and
-   changes how "account creation" actually runs on Day 1.
+2. **Resolved (per VoltPop, 2026-08-28): group *and* individual
+   portfolios, both.** The per-group GitHub Pages site sits alongside
+   an individual portfolio for each student, not in place of one — more
+   Day 1 setup than the group-only option, but each student leaves with
+   their own standalone artifact for résumés/LinkedIn as well as the
+   group's. Day 1 item 5 and the Deliverables section need the
+   individual-portfolio step added, not just the group site.
+3. **GitHub org/repo structure for students — still open, larger than
+   a Day 1 question (per VoltPop, 2026-08-28): "we're going to have to
+   plan out the larger structure."** One direction floated worth
+   designing toward: a **template repo groups fork, with an explicit
+   lesson on pulling upstream changes** baked into the repo process —
+   i.e., program staff push updates/materials to the template, and
+   syncing a fork against upstream becomes a real, recurring git skill
+   students practice (not just clone/add/commit/push once on Day 1),
+   mirroring the same fork-and-sync model this KB's own contributors
+   use. Not decided yet — still needs the org-vs-template-vs-individual
+   call made explicitly, and if the upstream-sync idea is adopted, a
+   home for that mini-lesson (Day 1, alongside item 3's git basics, or
+   its own later touchpoint once forks have drifted enough to make
+   syncing a real exercise). Directly affects the account-creation
+   walkthrough and Day 1 timing either way.
+4. **Kiro provisioning — still open (confirmed still unresolved,
+   2026-08-28): VoltPop hasn't yet asked Amazon** whether students get
+   individual accounts, a shared/classroom license, or something tied
+   to the donation ask (`Stakeholder-Notes.md`'s Amazon/Kiro profile).
+   Blocks locking how "account creation" runs on Day 1 until asked.
 5. **Density confirmed as intentional, not a problem to trim (per
    VoltPop, 2026-08-08): "Day 1 will be a long day of setting up
    accounts and learning to use the tools of the trade (GitHub and
