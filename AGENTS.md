@@ -121,13 +121,16 @@ in `KB-Skills.md` that writes to the repo (`kb-assign`, `kb-message`,
   the depth elsewhere. Also holds a "Messages" section (added
   2026-08-14) at the top, per the `kb-message` function in
   `KB-Skills.md`.
-- **`Curriculum/` directory (new, 2026-08-28) — another established
-  exception, for the same reason.** Built lesson plans (one file per
-  week, e.g. `Curriculum/Week1_Course_Foundations_Lesson_Plan.md`) live
-  here instead of as loose top-level files — `Course-Curriculum.md`
-  stays the schedule/philosophy/status overview and links out to each
-  week's actual plan in this directory as it gets drafted, per §6 of
-  `Course-Curriculum.md`.
+- **`Curriculum/` directory (new, 2026-08-28; restructured into
+  per-week subdirectories the same day) — another established
+  exception, for the same reason.** One subdirectory per week,
+  `Curriculum/WeekN/`, holding that week's lesson plan
+  (`Lesson-Plan.md`) plus a home for that week's assets and eventually
+  presentations as they get added — not one flat file per week, so a
+  week's supporting material has somewhere to live alongside its plan.
+  `Course-Curriculum.md` stays the schedule/philosophy/status overview
+  and links out to each week's actual plan as it gets drafted, per §6
+  of `Course-Curriculum.md`.
 - When a figure or fact changes (budget numbers, schedule dates, role
   assignments), update it in place rather than leaving stale figures
   alongside new ones — but note *what changed and when* if the change
