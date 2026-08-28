@@ -194,6 +194,17 @@ how comfortable each group is with the tools.
    individual accounts, a shared/classroom license, or something tied
    to the donation ask (`Stakeholder-Notes.md`'s Amazon/Kiro profile).
    Blocks locking how "account creation" runs on Day 1 until asked.
+   **Checked 2026-08-28: Kiro's own free student tier
+   (kiro.dev/students) doesn't currently cover this.** It's free (1,000
+   credits/month for a year, no card required) and signup is per-student
+   via GitHub/Google/AWS Builder ID + SheerID enrollment verification —
+   but eligibility is restricted to a named list of partner universities
+   (ASU, Cal Poly, CSUF, CMU, Georgia Tech, Hampton, NYU, U Chicago, UT
+   Austin, U Toronto, U Waterloo) and **VSU isn't on it.** There's also
+   no documented instructor/class-wide provisioning path — each student
+   verifies individually. Worth asking Amazon directly whether VSU could
+   be added to the eligible list, rather than assuming this tier is a
+   ready-made answer to the provisioning question.
 5. **Density confirmed as intentional, not a problem to trim (per
    VoltPop, 2026-08-08): "Day 1 will be a long day of setting up
    accounts and learning to use the tools of the trade (GitHub and
