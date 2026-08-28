@@ -209,9 +209,13 @@ considered.
 
 ## 6. Lesson-plan status
 
-Built lesson plans live in `~/Documents/VoltPop/IoT_Course/` (VoltPop's
-working files):
-- `Week1_Course_Foundations_Lesson_Plan.md` — the prior version (built
+Lesson plans tracked in this repo live in the `Curriculum/` directory
+(established 2026-08-28, as the day-by-day/week-by-week lesson plans
+grow past one file — see `AGENTS.md`'s file-split conventions). Weeks
+not yet moved in still have working notes, if any, in
+`~/Documents/VoltPop/IoT_Course/` (VoltPop's own working files, outside
+this repo):
+- [`Curriculum/Week1_Course_Foundations_Lesson_Plan.md`](./Curriculum/Week1_Course_Foundations_Lesson_Plan.md) — the prior version (built
   against V2's original Lovable/ChatGPT/Claude/Codex/Gemini plan) was
   lost — VoltPop's external working-files copy couldn't be located
   (2026-08-08). **Rebuilt from scratch, now tracked in this repo** (not
