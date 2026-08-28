@@ -142,25 +142,43 @@ table to match is still open, not assumed done by this note.
 | 1 | Jan 19 | Jan 21 | Course Kickoff | Program intro, account creation, git/GitHub basics, notes-KB setup (Kiro-fronted), prompt engineering, first social post | Prompt Engineering & Context Management | Portfolio & LinkedIn; First Public Post | GitHub, Kiro | All | All |
 | 2 | Jan 26 | Jan 28 | Understanding Systems & IoT | Use-case exploration; students pick their own use case; device tinkering | Systems Thinking | Use Case Report; Systems Mapping & Post | + IoT Prototypes | **VoltPop** | Builder Tech, Explay |
 | 3 | Feb 2 | Feb 4 | Problem & User Discovery | Problem validation, persona, current-state stories & flow | Design Thinking & Problem Solving | Problem Statement; Persona & Journey Map & Post | + TL Draw | Builder Tech | Explay |
-| 4 | Feb 9 | Feb 11 | Business Models & Market Fit | Generate/evaluate ideas, brand identity, project page | Business Model Design & Strategic Planning | Business Model Canvas; Brand Identity Launch & Post | same | Explay | Builder Tech |
+| 4 | Feb 9 | Feb 11 | Business Models & Market Fit | Generate/evaluate ideas, brand identity, project page | Business Model Design & Strategic Planning | Business Model Canvas; Brand Identity Launch & Post | same | **Builder Tech**¹ | All |
 | 5 | Feb 16 | Feb 18 | Hardware Setup & Sensor Basics | Extend the existing GitHub repo to hardware/firmware code, open-source governance intro, ESP32 power-on/sensor/breadboard; firmware | Hardware Prototyping & Firmware Basics | Hardware Repo Setup; Firmware & Docs & Post | + Canva, MicroPython/Thonny, ESP32/Breadboard/Sensors | **VoltPop** | Builder Tech, Explay (TBD) |
 | 6 | Feb 23 | Feb 25 | Designing the User Experience | Future-state user flow, key screens, AI-polished prototype | User-Centered Design | Future State Journey Map; Low-Fidelity Prototype & Post | same | Builder Tech | Explay, VoltPop |
 | 7 | Mar 2 | Mar 4 | Data Flow & Systems Architecture | Map sensor→app data flow/payload; "proof of life" hardware-software integration | AI-Assisted Design & Systems Integration | System Architecture Diagram; End-to-End Integration Test & Post | same | **VoltPop** | Explay (TBD) |
 | — | Mar 9 | Mar 11 | SPRING BREAK | No classes | — | — | — | — | — |
 | 8 | Mar 16 | Mar 18 | Full Build — Iterations 1 & 2 | Full app build; MCP integration (replacing prior API-integration framing); hardware integration; submit iter 1 & 2 | AI-Assisted Development & Full-Stack Integration | Iteration 1; Iteration 2 & Post | + Postman | **VoltPop** (pending update to shared sheet — see §5) | Explay |
-| 9 | Mar 23 | Mar 25 | Full Build — Iterations 3 & 4 | Incorporate feedback, security concepts, submit iter 3 & final iter 4 | same | Iteration 3; Iteration 4 Final & Post | same | Explay | VoltPop |
-| 10 | Mar 30 | Apr 1 | Testing & Going Live | Go-live publishing, go-to-market, public launch + demo video | Testing, Validation & Go-to-Market | Go-to-Market Strategy; Live Product & Demo Video & Post | same | Explay | VoltPop, Builder Tech |
-| 11 | Apr 6 | Apr 8 | Crafting Your Pitch | Pitch structure/storytelling, pitch video, deck update | Pitch Development & Storytelling | Pitch Deck Outline; Pitch Deck Draft & Post | + PowerPoint | Explay | Builder Tech, VoltPop (TBD) |
-| 12 | Apr 13 | Apr 15 | Practice & Feedback | Rehearse pitch, live judge feedback | Presentation Skills & Self-Review | Pitch Rehearsal & Peer Review; Video Submission & Post | same | Explay | Builder Tech, VoltPop (TBD) |
+| 9 | Mar 23 | Mar 25 | Full Build — Iterations 3 & 4 | Incorporate feedback, security concepts, submit iter 3 & final iter 4 | same | Iteration 3; Iteration 4 Final & Post | same | **VoltPop**¹ | All |
+| 10 | Mar 30 | Apr 1 | Testing & Going Live | Go-live publishing, go-to-market, public launch + demo video | Testing, Validation & Go-to-Market | Go-to-Market Strategy; Live Product & Demo Video & Post | same | **VoltPop**¹ | All |
+| 11 | Apr 6 | Apr 8 | Crafting Your Pitch | Pitch structure/storytelling, pitch video, deck update | Pitch Development & Storytelling | Pitch Deck Outline; Pitch Deck Draft & Post | + PowerPoint | **Builder Tech**¹ | All |
+| 12 | Apr 13 | Apr 15 | Practice & Feedback | Rehearse pitch, live judge feedback | Presentation Skills & Self-Review | Pitch Rehearsal & Peer Review; Video Submission & Post | same | **Builder Tech**¹ | All |
 | 13 | Apr 20 | Apr 22 | Buffer Week | Slippage absorption, polish, no new content | — | — | — | — | — |
 | 14 | Apr 27 | Apr 29 | Final Presentations & Portfolio Career Day | Final live presentations, portfolio recordings | Live Presentation & Portfolio Polish | Pitch Deck, Portfolio Site & MVP, Resume; Final Presentations | same | All | All |
 | Finals Wk | May 4 / 11 | May 6 / 13 | Program Concluded | VSU Final Exams. No program activities | — | — | — | — | — |
 
-**Explay ownership confirmation (2026-07-31):** Explay confirmed the
-lead and support assignments shown above: lead for Weeks 4 and 9–12,
-and support for Weeks 2, 5, 7, and 8. Week 9's detailed division of
-product-iteration, technical-debugging, integration, and security work
-between Explay and VoltPop remains to be defined.
+¹ **Lead reassigned from Explay, 2026-08-28 (per VoltPop), given
+Explay's reduced role in the program** — stated as "for now," not
+confirmed permanent, with no defined end condition for handing these
+weeks back. **Weeks 9–10 → VoltPop** (technical curriculum lead;
+Week 4 was briefly grouped here too before being corrected same-day to
+Builder Tech). **Weeks 4, 11–12 → Builder Tech.** Support columns for
+these five weeks changed from explicit party lists to **All** — per
+VoltPop, mutual support across all three parties is now the assumption
+rather than something tracked precisely per week. Week 6 was never
+Explay's and is unaffected. **Net effect: Builder Tech now leads Weeks
+3, 4, 6, 11, and 12** — a real load concentration worth being aware of,
+not just a bookkeeping detail; VoltPop leads Weeks 2, 5, 7, 8, 9, and
+10. Why Explay's role specifically shrank isn't recorded here yet —
+capture in `TODOs-by-Owner.md` or `VoltPop-Workspace.md` if that
+becomes relevant later.
+
+**Explay ownership confirmation (2026-07-31, superseded 2026-08-28 for
+Weeks 4 and 9–12 — see ¹ above):** Explay confirmed the lead and
+support assignments shown above at the time: lead for Weeks 4 and
+9–12, and support for Weeks 2, 5, 7, and 8. Week 9's detailed division
+of product-iteration, technical-debugging, integration, and security
+work between Explay and VoltPop remains to be defined — now a question
+for VoltPop and Builder Tech instead, per the reassignment.
 
 **Day 1 plan — updated 2026-08-08 (per VoltPop):** account creation is
 now **GitHub and Kiro**, replacing ChatGPT/Claude/Codex/Gemini —
@@ -201,47 +219,6 @@ schedule sheet** — as of the most recent check, the sheet still shows
 Explay as Lead and still says "Integrate API connections" rather than
 reflecting the MCP-integration swap. Both need updating in the actual
 source sheet.
-
-### Current week ownership, given Explay's reduced role (2026-08-28)
-
-The table above (§4) still lists Explay as Lead for Weeks 4, 9, 10, 11,
-and 12 — that's the original schedule, unchanged here on purpose. In
-practice, per VoltPop, Explay's role has shrunk and those weeks have
-been temporarily redistributed:
-
-| Week | Topic | Schedule Lead | Current owner | Repo status |
-|---|---|---|---|---|
-| 1 | Course Kickoff | All | — | Full script |
-| 2 | Understanding Systems & IoT | VoltPop | — | Full script |
-| 3 | Problem & User Discovery | Builder Tech | — | Not built |
-| 4 | Business Models & Market Fit | Explay | **Builder Tech** | Not built |
-| 5 | Hardware Setup & Sensor Basics | VoltPop | — | Skeleton |
-| 6 | Designing the User Experience | Builder Tech | — *(never Explay's — unrelated to this handoff)* | Not built |
-| 7 | Data Flow & Systems Architecture | VoltPop | — | Skeleton |
-| 8 | Full Build — Iterations 1 & 2 | VoltPop¹ | — | Skeleton |
-| 9 | Full Build — Iterations 3 & 4 | Explay | **VoltPop** | Skeleton |
-| 10 | Testing & Going Live | Explay | **VoltPop** | Skeleton |
-| 11 | Crafting Your Pitch | Explay | **Builder Tech** | Not built |
-| 12 | Practice & Feedback | Explay | **Builder Tech** | Not built |
-| 14 | Final Presentations & Portfolio Career Day | All | — | Not built |
-
-¹ Confirmed at the 2026-07-31 meeting (was Explay), not yet entered
-into the live shared schedule sheet — see the Week 8 leadership note
-above.
-
-**Net effect: Builder Tech now leads Weeks 3, 4, 6, 11, and 12** — a
-real load concentration worth flagging, not just a bookkeeping detail.
-VoltPop leads Weeks 2, 5, 7, 8, 9, and 10.
-
-**Caveats, still open:**
-- Stated as "for now" — not confirmed permanent, and the end condition
-  for handing weeks back to Explay isn't defined.
-- Week 4's assignment was corrected same-day (2026-08-28): originally
-  grouped with 9–10 under VoltPop, then moved to Builder Tech.
-- This table isn't itself the record of *why* Explay's role shrank —
-  if that reason matters going forward, it should be captured in
-  `TODOs-by-Owner.md` or `VoltPop-Workspace.md`, not just inferred from
-  this reassignment.
 
 ## 5. Cross-check findings (V2 schedule vs. Scope Doc / Agreement)
 
@@ -355,16 +332,15 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
   call needing explicit confirmation, and leaves hardware-kit
   checkout/return logistics unresolved (see `README.md`'s Open Items).
 - [`Curriculum/Week9/`](./Curriculum/Week9/) and
-  [`Curriculum/Week10/`](./Curriculum/Week10/) — Explay-led per the
-  schedule table, **temporarily reassigned to VoltPop** (§4's note
-  above). **Skeletons built 2026-08-28** — structure, known context,
-  and open items only; no scripted day content yet. Both explicitly
-  note the temporary-ownership caveat so a review by Explay isn't
-  skipped once real content exists.
-- **Weeks 4, 11, 12** (Explay-led, not currently reassigned) still have
-  no lesson-plan-status tracking in this KB at all — it's not
-  documented here whether lesson plans for any of these exist, are
-  drafted, or still need to be built from scratch.
+  [`Curriculum/Week10/`](./Curriculum/Week10/) — **VoltPop-led**
+  (reassigned from Explay, §4 footnote 1). **Skeletons built
+  2026-08-28** — structure, known context, and open items only; no
+  scripted day content yet. Both note the reassignment so a review by
+  Explay isn't skipped once real content exists, given the history.
+- **Weeks 4, 11, 12** (now **Builder Tech**-led, reassigned from Explay
+  — §4 footnote 1) still have no lesson-plan-status tracking in this KB
+  at all — it's not documented here whether lesson plans for any of
+  these exist, are drafted, or still need to be built from scratch.
 
 ## 7. Open items — curriculum and teaching
 
@@ -395,12 +371,14 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
     access to (Claude Code vs. ChatGPT/Codex) — see
     `Admin-Business-Legal.md` §6 — before further lesson-plan rewrites
     lock in one tool's prompts over the other.
-11. Establish lesson-plan status (built / drafted / not started) for
-    Explay's five lead weeks (4, 9, 10, 11, 12), matching the tracking
-    already kept for VoltPop's weeks in §6.
+11. **Partially done (2026-08-28):** lesson-plan status for the five
+    originally-Explay weeks is now tracked in §6 — skeletons exist for
+    9 and 10 (VoltPop-led per the reassignment); 4, 11, and 12
+    (Builder Tech-led per the reassignment) are still fully unbuilt.
 12. Decide whether to reintroduce a named "elevator pitch" deliverable
-    in Weeks 11–12 (Explay-led), present in V1's schedule but dropped
-    from V2's pitch weeks (see §5).
+    in Weeks 11–12 (originally Explay-led, now Builder Tech per §4
+    footnote 1), present in V1's schedule but dropped from V2's pitch
+    weeks (see §5).
 13. **Re-introduce the Tri-Cities/regional-industry focus into Week 2**
     (flagged 2026-08-06, per VoltPop, see §5 finding #4) — dropped
     between V1 and V2; several stakeholder pitches depend on students
