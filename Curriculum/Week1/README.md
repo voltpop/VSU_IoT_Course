@@ -16,6 +16,70 @@ This file holds what's shared across both days: framing, learning
 objectives, deliverables, materials, and the open items that still need
 resolving before Week 1 is final.
 
+## Where this fits in the schedule
+
+**Week 1 of 15** — Course Kickoff, Jan 19 (Tue) / Jan 21 (Thu). Lead:
+all three teaching parties (Course-Curriculum.md §4, full table).
+
+- ← *(first week — nothing precedes it)*
+- → **Next: [Week 2](../Week2/README.md)** — Understanding Systems &
+  IoT, Jan 26 (Tue) / Jan 28 (Thu). Lead: VoltPop.
+
+## Agenda at a glance
+
+### Day 1 (Tuesday) — Setup & Tooling, 180 min, fully packed, no buffer
+
+All setup/logistics, checklist mode — no academic content today (see
+the note below on why). Full detail: [Day1.md](./Day1.md).
+
+1. **Program intro** (~20 min) — welcome, one-sentence course pitch,
+   name Career Day as the destination, set the "today is mostly setup"
+   expectation, confirm teams.
+   *Deck: [Getting Started](./Presentations/Getting_Started.md).*
+2. **Account creation — GitHub and Kiro** (~40 min) — GitHub signup/2FA
+   → join the group repo (invite or join-code, TBD) → Kiro via GitHub
+   OAuth → install Kiro CLI/Crew → quick orientation.
+   *Decks: [GitHub Primer](./Presentations/GitHub_Primer.md) (GitHub
+   portion), [AI Primer](./Presentations/AI_Primer.md) (Kiro portion).*
+3. **Git/GitHub basics** (~40 min) — cheat sheet handout, plain-language
+   concepts, then a live demo: clone → edit → status/add/commit/push →
+   pull. *Deck: [GitHub Primer](./Presentations/GitHub_Primer.md).*
+4. **Notes-KB setup** (~40 min) — confirm the scaffold's there, write +
+   commit a "who we are" note. Proposes (not locked) an `upstream`
+   remote for the future sync-lesson idea.
+   *Deck: [GitHub Primer](./Presentations/GitHub_Primer.md).*
+5. **Portfolio setup** (~40 min) — group GitHub Pages site step by
+   step, individual site run plain for now, bio placeholder left empty
+   for Day 2. *Deck: [Portfolio Setup](./Presentations/Portfolio_Setup.md).*
+
+Plus a **blocking dependency** running through items 2–4: the
+workspace repo (`VoltPop-Workspace.md` item #13) that all this
+account/repo provisioning assumes already exists — still unbuilt (Open
+Item 3 below).
+
+### Day 2 (Thursday) — Prompt Engineering & First Public Post, 180 min: 100 min fixed + 80 min buffer
+
+Full detail: [Day2.md](./Day2.md).
+
+1. **Recap + troubleshooting** (~20 min) — walks the room for the
+   specific Day 1 failure points (unverified email, Kiro CLI not
+   authenticated, repo invite not accepted, Pages site not live yet).
+   *No deck yet.*
+2. **Prompt engineering & context management** (~40 min) — the RTFC
+   bad-prompt/good-prompt demo; each group runs it through Kiro to fill
+   in the portfolio bio left blank on Day 1. Week 1's one actual
+   academic content block (moved here from the original combined
+   plan's Day 1 — see Open Item 5).
+   *Deck: [Prompting Frameworks](./Presentations/Prompting_Frameworks.md)
+   (also covers 4D, generic/reusable beyond Week 1).*
+3. **First public LinkedIn post** (~40 min) — reuses the same RTFC
+   pattern to draft a first pass, then personalize before posting; logs
+   the post URL in the notes-KB. *No deck yet.*
+4. **Buffer / open work time** (~80 min) — not idle: an instructor
+   checklist confirming every group has a working repo, authenticated
+   Kiro, a live bio'd portfolio page, and a published post. Also where
+   anything that ran over from Day 1 gets absorbed. *No deck yet.*
+
 **Audience reminder (Course-Curriculum.md §1):** business students, not
 developers or engineers. This week is pure environment setup and
 orientation — no hardware, no firmware, no graded technical skill yet.
@@ -67,7 +131,7 @@ By the end of Week 1, students can:
 
 ## Materials / resources
 
-- [GitHub Education Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [GitHub Education Git Cheat Sheet](./Assets/git-cheat-sheet-education.pdf) — mirrored locally in `Assets/` 2026-08-28 for distribution; original at https://education.github.com/git-cheat-sheet-education.pdf
 - GitHub account + class org/repo access (mechanics TBD)
 - Kiro account + setup instructions (TBD — depends on Amazon donation status, `Stakeholder-Notes.md`'s Amazon/Kiro profile). Sources checked 2026-08-08: [Kiro CLI setup](https://kiro.dev/docs/cli/setup/), [Kiro Crew installation](https://kiro.dev/docs/crew/installation/), [Kiro authentication methods](https://kiro.dev/docs/getting-started/authentication/).
 - Setup/install automation is being built as a separate standalone repo (VoltPop's own account initially, to be transferred later) — see the workspace-repo row in `TODOs-by-Owner.md` (still ☐ unbuilt) and its fuller scoping in `VoltPop-Workspace.md` item #13. **This is the single biggest thing standing between this plan and being run as scripted** — see Day 1's blocking-dependency note.

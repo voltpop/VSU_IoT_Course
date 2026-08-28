@@ -98,7 +98,8 @@ Codex, or Gemini accounts — Kiro is the program's AI tool going forward
 
 **3. Git/GitHub basics** *(~40 min)*
 - Hand out the GitHub Education [Git Cheat
-  Sheet](https://education.github.com/git-cheat-sheet-education.pdf).
+  Sheet](../Assets/git-cheat-sheet-education.pdf) — mirrored locally in
+  `Assets/` for distribution.
 - Plain-language concept pass, no deep internals (same recipe-following
   philosophy as the hardware weeks): a **repo** is a shared folder with
   history, a **commit** is a saved checkpoint, **push/pull** sync your
