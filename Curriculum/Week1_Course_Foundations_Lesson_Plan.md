@@ -3,7 +3,7 @@ title: Week 1 — Course Foundations Lesson Plan
 week: 1
 dates: Jan 19 (Tue) / Jan 21 (Thu)
 status: draft — new as of 2026-08-08, replaces a lost prior version
-see_also: Course-Curriculum.md §4 (schedule), §6 (lesson-plan status), §7 item #15 (tool-timing decisions)
+see_also: Course-Curriculum.md §4 (schedule), §6 (lesson-plan status), §7 item #15 (tool-timing decisions); VoltPop-Workspace.md item #13 (workspace-repo scoping this day's account-creation/repo steps assume); Admin-Business-Legal.md §9 (cohort size)
 ---
 
 # Week 1 — Course Foundations
