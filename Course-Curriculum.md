@@ -251,9 +251,14 @@ this repo):
   replaces the old "API integration" framing, and Week 8 is also
   VoltPop-led. Needs adaptation work, not a full rewrite, once that
   relocation is finalized.
-- **Week 2** ("Understanding Systems & IoT") has no lesson plan built
-  yet — V2 makes VoltPop Lead for this week, which wasn't anticipated
-  under the earlier schedule version.
+- [`Curriculum/Week2_Understanding_Systems_IoT_Lesson_Plan.md`](./Curriculum/Week2_Understanding_Systems_IoT_Lesson_Plan.md) —
+  built 2026-08-28 (V2 makes VoltPop Lead for this week, which wasn't
+  anticipated under the earlier schedule version, so no prior draft
+  existed to build from). Marked `status: draft` — re-introduces the
+  regional/Tri-Cities framing dropped between V1 and V2 (§5 finding #4,
+  §7 item #13) as a design call needing explicit confirmation, and
+  leaves hardware-kit checkout/return logistics unresolved (see the
+  file's own Open Items).
 - **Weeks 4, 9, 10, 11, 12** (all Explay-led) have no lesson-plan-status
   tracking in this KB at all — unlike the VoltPop-led weeks above, it's
   not documented here whether lesson plans for any of these exist,
