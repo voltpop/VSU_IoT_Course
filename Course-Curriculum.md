@@ -202,25 +202,46 @@ Explay as Lead and still says "Integrate API connections" rather than
 reflecting the MCP-integration swap. Both need updating in the actual
 source sheet.
 
-**Explay-led weeks temporarily reassigned, confirmed split (per
-VoltPop, 2026-08-28; Week 4 corrected 2026-08-28, same day):** stated
-as "for now," not confirmed as permanent — the table above still lists
-Explay as Lead for Weeks 4, 9, 10, 11, and 12, and that hasn't been
-changed here on purpose.
-- **Weeks 9 and 10 → VoltPop** — "VoltPop is the technical curriculum
-  lead for this" (per VoltPop); both are squarely technical (Full
-  Build, Testing/Going-Live).
-- **Weeks 4, 11, and 12 → Builder Tech.** **Correction (per VoltPop,
-  2026-08-28):** Week 4 moved from VoltPop to Builder Tech — the
-  earlier "Weeks 4, 9, 10 → VoltPop" grouping is superseded for Week 4
-  specifically; Weeks 9–10 are unaffected. Weeks 11–12 were already
-  Builder Tech (pitch/presentation-skills weeks, outside VoltPop's
-  technical remit).
-- **Week 6 is unaffected by any of this** — it was already Builder
-  Tech-led in the original schedule table (Designing the User
-  Experience), not part of the Explay handoff.
-- **End condition for handing leadership back to Explay isn't defined**
-  — worth clarifying if/when that matters.
+### Current week ownership, given Explay's reduced role (2026-08-28)
+
+The table above (§4) still lists Explay as Lead for Weeks 4, 9, 10, 11,
+and 12 — that's the original schedule, unchanged here on purpose. In
+practice, per VoltPop, Explay's role has shrunk and those weeks have
+been temporarily redistributed:
+
+| Week | Topic | Schedule Lead | Current owner | Repo status |
+|---|---|---|---|---|
+| 1 | Course Kickoff | All | — | Full script |
+| 2 | Understanding Systems & IoT | VoltPop | — | Full script |
+| 3 | Problem & User Discovery | Builder Tech | — | Not built |
+| 4 | Business Models & Market Fit | Explay | **Builder Tech** | Not built |
+| 5 | Hardware Setup & Sensor Basics | VoltPop | — | Skeleton |
+| 6 | Designing the User Experience | Builder Tech | — *(never Explay's — unrelated to this handoff)* | Not built |
+| 7 | Data Flow & Systems Architecture | VoltPop | — | Skeleton |
+| 8 | Full Build — Iterations 1 & 2 | VoltPop¹ | — | Skeleton |
+| 9 | Full Build — Iterations 3 & 4 | Explay | **VoltPop** | Skeleton |
+| 10 | Testing & Going Live | Explay | **VoltPop** | Skeleton |
+| 11 | Crafting Your Pitch | Explay | **Builder Tech** | Not built |
+| 12 | Practice & Feedback | Explay | **Builder Tech** | Not built |
+| 14 | Final Presentations & Portfolio Career Day | All | — | Not built |
+
+¹ Confirmed at the 2026-07-31 meeting (was Explay), not yet entered
+into the live shared schedule sheet — see the Week 8 leadership note
+above.
+
+**Net effect: Builder Tech now leads Weeks 3, 4, 6, 11, and 12** — a
+real load concentration worth flagging, not just a bookkeeping detail.
+VoltPop leads Weeks 2, 5, 7, 8, 9, and 10.
+
+**Caveats, still open:**
+- Stated as "for now" — not confirmed permanent, and the end condition
+  for handing weeks back to Explay isn't defined.
+- Week 4's assignment was corrected same-day (2026-08-28): originally
+  grouped with 9–10 under VoltPop, then moved to Builder Tech.
+- This table isn't itself the record of *why* Explay's role shrank —
+  if that reason matters going forward, it should be captured in
+  `TODOs-by-Owner.md` or `VoltPop-Workspace.md`, not just inferred from
+  this reassignment.
 
 ## 5. Cross-check findings (V2 schedule vs. Scope Doc / Agreement)
 
