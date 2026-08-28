@@ -203,16 +203,22 @@ reflecting the MCP-integration swap. Both need updating in the actual
 source sheet.
 
 **Explay-led weeks temporarily reassigned, confirmed split (per
-VoltPop, 2026-08-28):** stated as "for now," not confirmed as
-permanent — the table above still lists Explay as Lead for Weeks 4, 9,
-10, 11, and 12, and that hasn't been changed here on purpose.
-- **Weeks 4, 9, and 10 → VoltPop** — "VoltPop is the technical
-  curriculum lead for this" (per VoltPop); consistent with these three
-  being the more technical/build-oriented of the five (Business Models
-  & Market Fit's brand/product work feeds directly into the technical
-  build track, and Full Build/Testing are squarely technical).
-- **Weeks 11 and 12 → Builder Tech** — pitch/presentation-skills weeks,
-  outside VoltPop's technical remit.
+VoltPop, 2026-08-28; Week 4 corrected 2026-08-28, same day):** stated
+as "for now," not confirmed as permanent — the table above still lists
+Explay as Lead for Weeks 4, 9, 10, 11, and 12, and that hasn't been
+changed here on purpose.
+- **Weeks 9 and 10 → VoltPop** — "VoltPop is the technical curriculum
+  lead for this" (per VoltPop); both are squarely technical (Full
+  Build, Testing/Going-Live).
+- **Weeks 4, 11, and 12 → Builder Tech.** **Correction (per VoltPop,
+  2026-08-28):** Week 4 moved from VoltPop to Builder Tech — the
+  earlier "Weeks 4, 9, 10 → VoltPop" grouping is superseded for Week 4
+  specifically; Weeks 9–10 are unaffected. Weeks 11–12 were already
+  Builder Tech (pitch/presentation-skills weeks, outside VoltPop's
+  technical remit).
+- **Week 6 is unaffected by any of this** — it was already Builder
+  Tech-led in the original schedule table (Designing the User
+  Experience), not part of the Explay handoff.
 - **End condition for handing leadership back to Explay isn't defined**
   — worth clarifying if/when that matters.
 
