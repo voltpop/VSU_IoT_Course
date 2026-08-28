@@ -209,13 +209,14 @@ considered.
 
 ## 6. Lesson-plan status
 
-Lesson plans tracked in this repo live in the `Curriculum/` directory
-(established 2026-08-28, as the day-by-day/week-by-week lesson plans
-grow past one file — see `AGENTS.md`'s file-split conventions). Weeks
-not yet moved in still have working notes, if any, in
-`~/Documents/VoltPop/IoT_Course/` (VoltPop's own working files, outside
-this repo):
-- [`Curriculum/Week1_Course_Foundations_Lesson_Plan.md`](./Curriculum/Week1_Course_Foundations_Lesson_Plan.md) — the prior version (built
+Lesson plans tracked in this repo live in the `Curriculum/` directory,
+one subdirectory per week (`Curriculum/WeekN/`, restructured
+2026-08-28 from a flat one-file-per-week layout so each week has a
+place for its lesson plan, assets, and eventually presentations — see
+`AGENTS.md`'s file-split conventions). Weeks not yet moved in still
+have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
+(VoltPop's own working files, outside this repo):
+- [`Curriculum/Week1/Lesson-Plan.md`](./Curriculum/Week1/Lesson-Plan.md) — the prior version (built
   against V2's original Lovable/ChatGPT/Claude/Codex/Gemini plan) was
   lost — VoltPop's external working-files copy couldn't be located
   (2026-08-08). **Rebuilt from scratch, now tracked in this repo** (not
@@ -251,7 +252,7 @@ this repo):
   replaces the old "API integration" framing, and Week 8 is also
   VoltPop-led. Needs adaptation work, not a full rewrite, once that
   relocation is finalized.
-- [`Curriculum/Week2_Understanding_Systems_IoT_Lesson_Plan.md`](./Curriculum/Week2_Understanding_Systems_IoT_Lesson_Plan.md) —
+- [`Curriculum/Week2/Lesson-Plan.md`](./Curriculum/Week2/Lesson-Plan.md) —
   built 2026-08-28 (V2 makes VoltPop Lead for this week, which wasn't
   anticipated under the earlier schedule version, so no prior draft
   existed to build from). Marked `status: draft` — re-introduces the
