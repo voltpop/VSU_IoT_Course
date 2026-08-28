@@ -3,7 +3,7 @@ title: Week 2 — Understanding Systems & IoT Lesson Plan
 week: 2
 dates: Jan 26 (Tue) / Jan 28 (Thu)
 status: draft — new as of 2026-08-28, first lesson plan built for this week (Course-Curriculum.md §6 previously listed it as not-yet-built)
-see_also: Course-Curriculum.md §1 (curriculum philosophy, judgment/mechanical pattern), §4 (schedule), §5 finding #4 & §7 item #13 (regional-focus gap this plan re-introduces), §8 (stakeholder stakes), §6 (lesson-plan status); Admin-Business-Legal.md §6 (hardware kit quantities); Curriculum/Week1/Lesson-Plan.md (tooling this week assumes is already working)
+see_also: Course-Curriculum.md §1 (curriculum philosophy, judgment/mechanical pattern), §4 (schedule), §5 finding #4 & §7 item #13 (regional-focus gap this plan re-introduces), §8 (stakeholder stakes), §6 (lesson-plan status); Admin-Business-Legal.md §6 (hardware kit quantities); Curriculum/Week1/README.md (tooling this week assumes is already working)
 ---
 
 # Week 2 — Understanding Systems & IoT
@@ -16,7 +16,7 @@ exploratory — actual wiring/firmware doesn't start until Week 5. Today's
 
 **Prerequisite:** every team has working GitHub + Kiro access and a
 functioning notes-KB repo from Week 1
-(`Curriculum/Week1/Lesson-Plan.md`). If a team's
+(`Curriculum/Week1/README.md`). If a team's
 setup didn't fully land, fix it before this week's content — everything
 below assumes teams can already commit to their repo and talk to Kiro.
 
@@ -168,7 +168,7 @@ as a final decision.
   return logistics aren't decided anywhere in this KB** — see Open Items
   below.
 - Paper/whiteboard for systems mapping (TLDraw deferred to Week 3).
-- Kiro + GitHub access from Week 1 (`Curriculum/Week1/Lesson-Plan.md`).
+- Kiro + GitHub access from Week 1 (`Curriculum/Week1/README.md`).
 - `Stakeholder-Notes.md` — source for the regional-sector examples
   offered in Day 1 item 3 (don't hand this file to students as-is; it
   contains outreach/fundraising content, not a student-facing resource).

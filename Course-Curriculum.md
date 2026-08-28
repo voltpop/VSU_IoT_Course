@@ -216,17 +216,23 @@ place for its lesson plan, assets, and eventually presentations — see
 `AGENTS.md`'s file-split conventions). Weeks not yet moved in still
 have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
 (VoltPop's own working files, outside this repo):
-- [`Curriculum/Week1/Lesson-Plan.md`](./Curriculum/Week1/Lesson-Plan.md) — the prior version (built
-  against V2's original Lovable/ChatGPT/Claude/Codex/Gemini plan) was
-  lost — VoltPop's external working-files copy couldn't be located
-  (2026-08-08). **Rebuilt from scratch, now tracked in this repo** (not
-  an external file anymore, precisely so it can't go missing the same
-  way again) — reflects the 2026-08-08 Day 1 update above: GitHub/Kiro
-  account creation, git basics, notes-KB setup, and a proposed
-  per-group GitHub Pages portfolio. Marked `status: draft` in its own
-  frontmatter — several real open items listed at the bottom of the
-  file (portfolio mechanism, GitHub org structure, Kiro provisioning,
-  untested timing) still need resolving before it's final.
+- [`Curriculum/Week1/`](./Curriculum/Week1/) — the prior single-file
+  version (built against V2's original Lovable/ChatGPT/Claude/Codex/
+  Gemini plan) was lost — VoltPop's external working-files copy
+  couldn't be located (2026-08-08). **Rebuilt from scratch, now tracked
+  in this repo** (not an external file anymore, precisely so it can't
+  go missing the same way again) — reflects the 2026-08-08 Day 1
+  update: GitHub/Kiro account creation, git basics, notes-KB setup, and
+  a proposed per-group GitHub Pages portfolio. **Split into one file
+  per day (2026-08-28)**, since the real class is two fixed 3-hour
+  sessions: [`README.md`](./Curriculum/Week1/README.md) (shared
+  framing/objectives/open items), [`Day1.md`](./Curriculum/Week1/Day1.md),
+  [`Day2.md`](./Curriculum/Week1/Day2.md). The split also caught and
+  fixed a real timing bug — the combined plan's content summed to
+  3h40m against the actual 3-hour limit. Marked `status: draft` —
+  several real open items in `README.md` (portfolio mechanism, GitHub
+  org structure, Kiro provisioning, untested timing) still need
+  resolving before it's final.
 - `Week5_AI_Wiring_Firmware_Prompt_Template.md` — built for
   MicroPython/Thonny (confirmed as the right toolchain, see §4); needs
   one new section added for Week 5's Tuesday content (GitHub migration,
