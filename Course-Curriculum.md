@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Course & Curriculum
 compiled: 2026-07-31
-updated: 2026-08-14
+updated: 2026-09-02
 see_also: Admin-Business-Legal.md (business/legal side)
 ---
 
@@ -220,6 +220,20 @@ Explay as Lead and still says "Integrate API connections" rather than
 reflecting the MCP-integration swap. Both need updating in the actual
 source sheet.
 
+**Why Weeks 3–4 have no hardware content (clarified 2026-09-02, per
+VoltPop):** the gap between Week 2's device tinkering and Week 5's
+hardware setup is intentional, not an oversight or a "tinker often"
+lapse. Week 2 is where students land on a use case and, from it, a
+sensor choice; Weeks 3–4 double as procurement lead time so the
+specific sensors students chose can be ordered and delivered in time
+for Week 5, rather than forcing student choice into a pre-bought
+generic kit. This resolves Week 2's and Week 5's open "hardware kit
+continuity" question with a third option neither lesson-plan file
+previously listed: not "same kit kept all semester," not "generic kit
+reassigned," but **ordered-to-choice** after Week 2 — see
+[`Curriculum/Week2/README.md`](./Curriculum/Week2/README.md#open-items--resolve-before-this-week-is-considered-final)
+and [`Curriculum/Week5/README.md`](./Curriculum/Week5/README.md#open-items--resolve-before-this-is-more-than-a-skeleton).
+
 ## 5. Cross-check findings (V2 schedule vs. Scope Doc / Agreement)
 
 1. **Security Considerations demoted.** The Scope Doc/Agreement allocate
@@ -283,26 +297,29 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
   org structure, Kiro provisioning, untested timing) still need
   resolving before it's final.
 - `Week5_AI_Wiring_Firmware_Prompt_Template.md` (VoltPop's external
-  working files, not in this repo) — built for MicroPython/Thonny
-  (confirmed as the right toolchain, see §4); needs one new section
-  added for Week 5's Tuesday content (GitHub migration, open-source
-  governance intro) that isn't in the file yet. **When that section
-  gets built (flagged 2026-08-08, per VoltPop):** include GitHub
-  Education's [Git Cheat
-  Sheet](https://education.github.com/git-cheat-sheet-education.pdf) as
-  a student handout — students are being introduced to git/GitHub cold
-  here, same onboarding gap this KB itself solves for the five program
-  parties via `AGENTS.md`'s own pointer to the same resource. **Open
-  question, same day (per VoltPop):** whether this git/GitHub
-  introduction should actually move earlier than Week 5 — possibly
-  Week 1 — so students have git-based-knowledge-base literacy from day
-  one rather than only once firmware work starts; **resolved: it moved
-  to Week 1** (see §7 item #15's per-tool timing breakdown). **A
-  [skeleton](./Curriculum/Week5/README.md) now exists in this repo**
-  (2026-08-28) — structure and known context only, built from the
-  schedule table since the external file above was never pulled in;
-  reconcile the two before writing full content, so nothing already
-  built there gets redone from scratch.
+  working files) — **confirmed lost, 2026-09-02 (per VoltPop), same as
+  the original Week 1 file.** Built for MicroPython/Thonny (confirmed
+  as the right toolchain, see §4); was going to need one new section
+  for Week 5's Tuesday content (GitHub migration, open-source
+  governance intro). **Open question, 2026-08-08 (per VoltPop), now
+  resolved:** whether git/GitHub introduction should move earlier than
+  Week 5 — resolved: it moved to Week 1 (see §7 item #15's per-tool
+  timing breakdown; Week 1 already includes the [Git Cheat
+  Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+  handout). **[Scripted, 2026-09-02](./Curriculum/Week5/README.md)** —
+  built fresh from the schedule table rather than reconciled against
+  the lost external file. `status: draft`, same depth as Weeks 1–2,
+  untested live. Both 4D and RTFC are formally named/applied here for
+  the first time on hardware (resolves §7 item #6). **Canva's Week 5
+  role is now in question (2026-09-02, per VoltPop):** the lesson plan
+  originally had Canva doing wiring-diagram documentation, but VoltPop's
+  own test showed **Kiro** generates a complete wiring diagram +
+  connection table + build steps directly as part of the 4D wiring
+  exercise, making a separate Canva step redundant. Not yet decided
+  whether to drop Canva from Week 5's tools list entirely (§4's table
+  still shows `+ Canva`) — see
+  [`Curriculum/Week5/README.md`](./Curriculum/Week5/README.md#open-items--resolve-before-this-is-fully-final)
+  Open Item 3.
 - `Week7_MCP_Server_Design_Prompts.md` (VoltPop's external working
   files, not in this repo) — originally built for the old Week 7 topic
   (MCP server design). Week 7's actual topic is now "Data Flow &
@@ -313,11 +330,13 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
   it's being relocated into **Week 8**, where MCP integration now
   replaces the old "API integration" framing, and Week 8 is also
   VoltPop-led. Needs adaptation work, not a full rewrite, once that
-  relocation is finalized. **[Skeletons](./Curriculum/Week7/README.md)
-  now exist for both Week 7 and
-  [Week 8](./Curriculum/Week8/README.md)** (2026-08-28) — Week 8's
-  skeleton flags the same external-file reconciliation need as Week 5's
-  above.
+  relocation is finalized. **[Week 7 scripted, 2026-09-02](./Curriculum/Week7/README.md)**
+  — `status: draft`, same depth as Weeks 1, 2, and 5, untested live.
+  Payload design (4D) and the Day 2 "proof of life" integration (RTFC,
+  via a webhook.site placeholder endpoint — no real app exists until
+  Week 8) are both fully scripted. **[Week 8 remains a
+  skeleton](./Curriculum/Week8/README.md)** (2026-08-28) — still flags
+  the same external-file reconciliation need noted for Week 5 above.
 - [`Curriculum/Week2/`](./Curriculum/Week2/) — built 2026-08-28 (V2
   makes VoltPop Lead for this week, which wasn't anticipated under the
   earlier schedule version, so no prior draft existed to build from).
@@ -357,10 +376,12 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
    actually does with it. Resolve this alongside the donor-mentor asks,
    not as a separate curriculum-only question.
 3. Build a lesson plan for Week 2.
-4. Rewrite Week 7's lesson plan around Data Flow & Systems Architecture.
+4. **Resolved, 2026-09-02** (§6) — Week 7's lesson plan scripted around
+   Data Flow & Systems Architecture.
 5. Adapt the MCP-server lesson into Week 8.
-6. Retrofit Week 5's materials to explicitly name the 4D/RTFC framework,
-   and name RTFC explicitly as Week 8's default template.
+6. **Resolved for Week 5, 2026-09-02** (§6) — 4D/RTFC now explicitly
+   named and applied on hardware. **Still open:** name RTFC explicitly
+   as Week 8's default template.
 7. Design Week 9's shrunken security/APIs content around the 4D lens
    rather than leaving it unstructured.
 8. Get Week 8's leadership (VoltPop) and the API→MCP swap actually
@@ -481,12 +502,15 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
     reusable pattern (§1) into Weeks 5, 7, 8, 9, and 10 as each gets
     drafted — a recurring opening block where teams post blockers and
     get matched with a team that can help, not just status reporting.
-    **In progress (2026-08-28): skeletons now exist for all five weeks**
-    (§6) with the stand-up block placed on each — Week 5 Day 1 excepted
-    (nothing's built yet on the very first hardware day to report on;
-    it opens on Day 2 instead). Still open: none of the five weeks have
-    actual scripted content yet, so the stand-up's placement is a
-    structural placeholder, not a taught exercise.
+    **In progress:** skeletons exist for all five weeks (§6) with the
+    stand-up block placed on each — Week 5 Day 1 excepted (nothing's
+    built yet on the very first hardware day to report on; it opens on
+    Day 2 instead). **Week 5 and Week 7 now have this actually
+    scripted, not just placeholder (2026-09-02)** — see
+    [`Curriculum/Week5/Presentations/Build_Standup.md`](./Curriculum/Week5/Presentations/Build_Standup.md)
+    (first live use) and Week 7's Day 1/Day 2 (second use, reuses the
+    same deck rather than re-teaching it). Still open: Weeks 8, 9, and
+    10 remain structural placeholders, not taught exercises.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 
