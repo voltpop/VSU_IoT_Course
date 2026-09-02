@@ -57,7 +57,14 @@ lab-safety briefing. Essentially zero personal-injury risk at 3.3V.
 Run this as the course's first live 4D exercise applied to a physical
 (not just informational) judgment call:
 1. **Delegate** — hand the AI the wiring-plan draft, not the final
-   safety call.
+   safety call. **Confirmed, 2026-09-02 (per VoltPop's own test):**
+   Kiro can generate this as a complete artifact in one pass — a
+   labeled breadboard-view diagram, a pin-by-pin connection table, a
+   step-by-step build sequence, and its own safety callouts (VoltPop's
+   test case: a Pico/stepper/LCD/photoresistor project) — not just a
+   text pin-map. That generated diagram + table **is** the artifact
+   this week's repo docs need; there's no separate diagramming step
+   later (see Day 2 item 3).
 2. **Describe** — give it real context: your specific sensor, the
    ESP32's available pins, and what you're trying to build. Not
    *"how do I wire a sensor,"* but *"I have [sensor] and an ESP32-
@@ -71,12 +78,12 @@ Run this as the course's first live 4D exercise applied to a physical
    context (sensor's actual voltage spec), not straight to wiring.
 4. **Diligence** — before powering on, one more set of eyes (a
    teammate, then an instructor/TA) checks the physical breadboard
-   against the settled plan. This is the actual safety gate — the AI
-   step drafts the plan, a human confirms it before power touches the
-   board.
+   against the settled plan and the generated diagram/table. This is
+   the actual safety gate — the AI step drafts the plan, a human
+   confirms it before power touches the board.
 
-Wire it, then power on and confirm nothing smokes/overheats before
-moving to firmware.
+Wire it against the generated diagram, then power on and confirm
+nothing smokes/overheats before moving to firmware.
 
 *Deck: [Wiring Safety & the 4D Judgment Step](./Presentations/Wiring_Safety_4D.md).*
 

@@ -310,9 +310,16 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
   built fresh from the schedule table rather than reconciled against
   the lost external file. `status: draft`, same depth as Weeks 1–2,
   untested live. Both 4D and RTFC are formally named/applied here for
-  the first time on hardware (resolves §7 item #6); Canva's role this
-  week is resolved as wiring-diagram documentation (resolves part of
-  §7 item #14).
+  the first time on hardware (resolves §7 item #6). **Canva's Week 5
+  role is now in question (2026-09-02, per VoltPop):** the lesson plan
+  originally had Canva doing wiring-diagram documentation, but VoltPop's
+  own test showed **Kiro** generates a complete wiring diagram +
+  connection table + build steps directly as part of the 4D wiring
+  exercise, making a separate Canva step redundant. Not yet decided
+  whether to drop Canva from Week 5's tools list entirely (§4's table
+  still shows `+ Canva`) — see
+  [`Curriculum/Week5/README.md`](./Curriculum/Week5/README.md#open-items--resolve-before-this-is-fully-final)
+  Open Item 3.
 - `Week7_MCP_Server_Design_Prompts.md` (VoltPop's external working
   files, not in this repo) — originally built for the old Week 7 topic
   (MCP server design). Week 7's actual topic is now "Data Flow &

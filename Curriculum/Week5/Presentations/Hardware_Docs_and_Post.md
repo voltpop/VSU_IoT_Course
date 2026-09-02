@@ -16,13 +16,15 @@ settled:
 
 ---
 
-## Diagram the wiring in Canva
+## Commit the wiring diagram
 
-- A plain block diagram: ESP32 → breadboard → sensor, labeled pins.
-- **Not** a professional schematic — Canva, not EDA software.
-- This is the business-student-friendly way to visually document a
-  wiring setup without needing to learn a new tool for it.
-- Drop the exported image into the repo alongside the README.
+- Kiro already generated this during yesterday's wiring block — a
+  breadboard diagram, connection table, and build steps, all in one
+  output.
+- No separate diagramming step or tool needed today — just export it
+  and drop it into the repo alongside the README.
+- (Earlier plans had this as a Canva redraw — cut, 2026-09-02, once
+  testing showed Kiro's own output already covers it.)
 
 ---
 
@@ -30,7 +32,7 @@ settled:
 
 - Working firmware.
 - Filled-in README with the final pin-map.
-- Canva wiring diagram.
+- Kiro-generated wiring diagram + connection table.
 - The license file added Day 1.
 
 ---
@@ -38,9 +40,9 @@ settled:
 ## Post
 
 - Portfolio/LinkedIn, same recurring pattern since Week 1.
-- Include a photo of the physical wiring and/or the Canva diagram —
-  **first "& Post" with a physical artifact behind it**, not just a
-  written deliverable. Worth saying that out loud to the room.
+- Include a photo of the physical wiring and/or the Kiro-generated
+  diagram — **first "& Post" with a physical artifact behind it**, not
+  just a written deliverable. Worth saying that out loud to the room.
 - Short: what got built this week, one line on what it's for.
 
 ---

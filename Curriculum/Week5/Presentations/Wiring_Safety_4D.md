@@ -37,6 +37,12 @@ Three things, and only three things, matter today:
 - Hand the AI the **wiring-plan draft**.
 - Keep the **final safety call** as a human decision — yours, then your
   instructor's.
+- **What "good" looks like here:** a labeled breadboard-view diagram, a
+  pin-by-pin connection table, and a step-by-step build sequence — not
+  just a paragraph of text. Kiro can generate all of this in one pass
+  (confirmed 2026-09-02, per VoltPop's own test build) — this *is* the
+  documentation your repo needs, not a draft to redo later in another
+  tool.
 
 ---
 

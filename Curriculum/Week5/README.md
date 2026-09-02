@@ -88,9 +88,11 @@ something real to share/get stuck on.
   choice-driven.
 - MicroPython/Thonny (not Arduino IDE — confirmed toolchain).
 - Git Cheat Sheet: reuse `Curriculum/Week1/Assets/git-cheat-sheet-education.pdf`.
-- Canva — resolved, 2026-09-02: visual wiring-diagram documentation for
-  the repo (see Day 2 item 3), a business-student-friendly alternative
-  to EDA/schematic software.
+- **Kiro** — generates the wiring diagram, connection table, and build
+  steps directly as part of the Day 1 4D exercise (confirmed 2026-09-02,
+  per VoltPop's own test build); this is now the documentation artifact
+  the repo needs, no separate diagramming tool required. See README
+  Open Item 3 for what this means for Canva's role.
 
 ## Open items — resolve before this is fully final
 
@@ -105,9 +107,19 @@ something real to share/get stuck on.
    branch-per-change) — see
    [`Presentations/GitHub_Migration_and_Governance.md`](./Presentations/GitHub_Migration_and_Governance.md).
    Deliberately light for the audience, not a full governance module.
-3. **Resolved, 2026-09-02 — Canva's purpose.** See the Materials note
-   above and Day 2 item 3: visual wiring-diagram documentation, not
-   app-build or portfolio work.
+3. **Reopened, 2026-09-02 (per VoltPop) — Canva's purpose.** Earlier
+   the same day this was resolved as "visual wiring-diagram
+   documentation." VoltPop then tested whether Kiro itself could
+   generate a satisfactory wiring diagram (a Pico/stepper/LCD/
+   photoresistor project) and found it produces a complete artifact —
+   breadboard diagram, connection table, build steps — in one
+   generation. That's now this plan's assumption (see Day 1 item 3, Day
+   2 item 3), which removes the wiring-diagram rationale for Canva.
+   **Not a final decision** ("I don't know that we'll need canva for
+   wiring diagrams," per VoltPop) — Canva's Week 5 tools-column listing
+   (Course-Curriculum.md §4) hasn't been changed, and no other Week 5
+   use for it has been identified. Leaning toward Canva being cut from
+   Week 5 entirely, pending confirmation.
 4. **Resolved, 2026-09-02 (per VoltPop) — hardware kit continuity
    (inherited from Week 2 Open Item 1):** Week 5's sensors are
    ordered-to-choice, not Week 2's tinkering kit carried forward and not

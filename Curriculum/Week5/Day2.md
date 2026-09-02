@@ -35,12 +35,14 @@ Finalize the deliverables:
 - Commit the working firmware to the team repo.
 - Fill in the README started Day 1: purpose, **final** wiring pin-map,
   how to run the firmware in Thonny.
-- **Diagram the finished wiring in Canva** and drop it in the repo docs
-  — a plain block diagram (ESP32 → breadboard → sensor, labeled pins),
-  not a professional schematic. This is Canva's role this week: a
-  business-student-friendly way to visually document a wiring setup
-  without needing EDA/schematic software, resolving the tools-column
-  question at Course-Curriculum.md §7 item #14.
+- **Commit the wiring diagram and connection table Kiro already
+  generated during Day 1's 4D exercise** (item 3) into the repo docs —
+  no separate diagramming step or tool needed. **Changed, 2026-09-02
+  (per VoltPop):** earlier drafts of this plan had teams redraw the
+  wiring in Canva here; testing showed Kiro's own output (breadboard
+  diagram + connection table + build steps, in one generation) already
+  covers this, so that redundant step is cut. Canva's role this week is
+  now unresolved again — see README Open Item 3.
 - Confirm the license file added Day 1 is actually committed.
 
 *Deck: [Hardware Repo Docs & Post](./Presentations/Hardware_Docs_and_Post.md).*
@@ -48,9 +50,9 @@ Finalize the deliverables:
 **4. Post + submit** *(~20 min)*
 Publish the recurring "& Post" update (portfolio/LinkedIn) — a short
 one covering what got built this week, with a photo of the physical
-wiring and/or the Canva diagram. This is the first "& Post" with an
-actual physical artifact behind it, not just a written deliverable —
-worth naming that shift to students.
+wiring and/or the Kiro-generated diagram. This is the first "& Post"
+with an actual physical artifact behind it, not just a written
+deliverable — worth naming that shift to students.
 
 **5. Wrap — preview Week 6** *(~10 min)*
 Name explicitly that Week 6 (Designing the User Experience) shifts lead
@@ -63,8 +65,9 @@ not treat it as done.
 **6. Buffer / open work time** *(~50 min)*
 Items 1–5 above sum to 130 of the real 180-minute class. Not idle time
 — circulate and confirm every team has committed working firmware, a
-filled-in README with wiring pin-map, a Canva wiring diagram, a
-license file, and a published post before the day ends. This is the
+filled-in README with wiring pin-map, the Kiro-generated wiring diagram
+and connection table, a license file, and a published post before the
+day ends. This is the
 day most likely to need the buffer for genuine catch-up (finishing
 Day-1 wiring/firmware), not just polish.
 
