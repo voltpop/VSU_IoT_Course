@@ -132,13 +132,16 @@ By the end of Week 2, students can:
 
 ## Open items — resolve before this week is considered final
 
-1. **Hardware kit checkout/return logistics aren't decided anywhere in
-   this KB.** Who hands out the 84 ESP32 units / 80 breadboards / pooled
-   sensors to ~15–20 teams, how it's tracked, and whether a team keeps
-   the same physical kit all semester or it's checked back in after
-   Day 1's tinkering — none of this is scoped. Directly affects Day 1's
-   device-tinkering timing and whether Week 5 can assume teams already
-   have "their" kit.
+1. **Hardware kit checkout/return logistics for Day 1's shared-pool
+   tinkering kit still aren't decided anywhere in this KB.** Who hands
+   out the 84 ESP32 units / 80 breadboards / pooled sensors to ~15–20
+   teams for Day 1, and how it's tracked, remains unscoped. **Resolved,
+   2026-09-02 (per VoltPop), for the separate question of what Week 5
+   assumes:** teams don't keep Day 1's generic tinkering kit all
+   semester — Week 2 is where each team lands on a sensor choice, and
+   Weeks 3–4 are procurement lead time to order those specific sensors
+   for Week 5 delivery. See Course-Curriculum.md §4's "Why Weeks 3–4
+   have no hardware content" note.
 2. **Regional-focus reintroduction (see the design-call note above)
    needs explicit confirmation, not just this draft's assumption.** If
    confirmed, Course-Curriculum.md §7 item #13 and §5 finding #4 can be

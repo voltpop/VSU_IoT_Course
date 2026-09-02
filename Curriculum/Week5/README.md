@@ -76,10 +76,14 @@ something real to share/get stuck on.
 
 ## Materials / resources
 
-- One hardware kit per team, continuing from Week 2's tinkering
-  (Admin-Business-Legal.md §6) — **whether it's the same physical kit
-  each team already touched, or newly assigned, is still open** (see
-  Week 2's Open Item 1; this week inherits that gap).
+- Sensor kit ordered to each team's Week 2 choice (Admin-Business-
+  Legal.md §6) — **resolved, 2026-09-02 (per VoltPop): not the same
+  generic kit from Day 1 tinkering, and not a reassigned generic kit
+  either.** Weeks 3–4 are procurement lead time so the specific sensors
+  a team chose in Week 2 can be ordered and delivered in time for Week
+  5 (Course-Curriculum.md §4). ESP32 units themselves may still be
+  shared-pool/reused — only the sensor selection is confirmed
+  choice-driven.
 - MicroPython/Thonny (not Arduino IDE — confirmed toolchain).
 - Git Cheat Sheet: reuse `Curriculum/Week1/Assets/git-cheat-sheet-education.pdf`.
 - Canva (new tool this week per the schedule; purpose not yet specified
@@ -98,9 +102,16 @@ something real to share/get stuck on.
    column but nothing in this KB says what it's used for in Week 5
    specifically (Course-Curriculum.md §7 item #14 flags the tools list
    generally as never having been deliberately trimmed/timed).
-4. **Hardware kit continuity (inherited from Week 2 Open Item 1):**
-   whether Week 5 assumes teams already have "their" kit from Week 2's
-   tinkering, or kits get reassigned, isn't decided.
+4. **Resolved, 2026-09-02 (per VoltPop) — hardware kit continuity
+   (inherited from Week 2 Open Item 1):** Week 5's sensors are
+   ordered-to-choice, not Week 2's tinkering kit carried forward and not
+   a reassigned generic kit. Week 2 is where teams choose their sensor;
+   Weeks 3–4 are the procurement lead time to get that specific sensor
+   delivered by Week 5. Still open: whether the ESP32 unit/breadboard
+   themselves are the same physical items from Day 1 or freshly issued —
+   this resolution only confirms the sensor-choice-to-delivery logic,
+   not full kit logistics (Week 2 Open Item 1 still covers Day 1
+   checkout/return).
 5. **Old external Week 5 file exists but isn't in this repo.**
    Course-Curriculum.md §6 references
    `~/Documents/VoltPop/IoT_Course/Week5_AI_Wiring_Firmware_Prompt_Template.md`

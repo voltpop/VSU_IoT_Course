@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — Course & Curriculum
 compiled: 2026-07-31
-updated: 2026-08-14
+updated: 2026-09-02
 see_also: Admin-Business-Legal.md (business/legal side)
 ---
 
@@ -219,6 +219,20 @@ schedule sheet** — as of the most recent check, the sheet still shows
 Explay as Lead and still says "Integrate API connections" rather than
 reflecting the MCP-integration swap. Both need updating in the actual
 source sheet.
+
+**Why Weeks 3–4 have no hardware content (clarified 2026-09-02, per
+VoltPop):** the gap between Week 2's device tinkering and Week 5's
+hardware setup is intentional, not an oversight or a "tinker often"
+lapse. Week 2 is where students land on a use case and, from it, a
+sensor choice; Weeks 3–4 double as procurement lead time so the
+specific sensors students chose can be ordered and delivered in time
+for Week 5, rather than forcing student choice into a pre-bought
+generic kit. This resolves Week 2's and Week 5's open "hardware kit
+continuity" question with a third option neither lesson-plan file
+previously listed: not "same kit kept all semester," not "generic kit
+reassigned," but **ordered-to-choice** after Week 2 — see
+[`Curriculum/Week2/README.md`](./Curriculum/Week2/README.md#open-items--resolve-before-this-week-is-considered-final)
+and [`Curriculum/Week5/README.md`](./Curriculum/Week5/README.md#open-items--resolve-before-this-is-more-than-a-skeleton).
 
 ## 5. Cross-check findings (V2 schedule vs. Scope Doc / Agreement)
 
