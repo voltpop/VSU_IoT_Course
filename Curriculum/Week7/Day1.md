@@ -47,13 +47,22 @@ just how. Run this as a 4D exercise:
 *Deck: [Payload Design & the 4D Judgment Step](./Presentations/Payload_Design_4D.md).*
 
 **4. Systems Architecture Diagram** *(~40 min)*
-Diagram the real technical path data will take, using **TLDraw**
-(introduced Week 3 — no new tool needed): **Sensor → ESP32 (local read
-+ payload assembly) → Wi-Fi → HTTP request → [receiving endpoint]**.
+**Changed, 2026-09-02 (per VoltPop):** generate this with **Kiro**
+rather than hand-drawing it in TLDraw — same pattern confirmed in Week
+5's wiring diagram. This is mechanical generation, not a new judgment
+call, so scaffold it with **RTFC**:
+- *Role:* "You're a systems-diagramming assistant."
+- *Task:* "Diagram the technical path our sensor data takes, labeled
+  end to end."
+- *Format:* "A labeled block diagram: Sensor → ESP32 (local read +
+  payload assembly) → Wi-Fi → HTTP request → [receiving endpoint] —
+  mark the receiving endpoint as a placeholder, not final."
+- *Context:* today's settled payload structure (item 3) and your
+  project's use case.
+
 This extends Week 2's plain sense/connect/act sketch into something
-with actual technical stages a builder could follow. Each team diagrams
-their own system using yesterday's settled payload as the "what travels
-along this arrow" label.
+with actual technical stages a builder could follow. Each team
+generates their own diagram from their own settled payload.
 
 *Deck: [Systems Architecture Diagram](./Presentations/Systems_Architecture_Diagram.md).*
 

@@ -38,9 +38,9 @@ scaffolded the same way as every prior RTFC exercise.*
   settled payload structure, your webhook.site URL, and the classroom
   Wi-Fi network name.
 
-> Speaker notes: whether ESP32 devices can actually reach the internet
-> on VSU's classroom network isn't confirmed yet (README Open Item 5) —
-> confirm this well before this class, not on the day.
+> Speaker notes: classroom network access is confirmed available
+> (2026-09-02, per VoltPop) — individual device Wi-Fi connection issues
+> are still normal on the day, just not a network-policy blocker.
 
 ---
 

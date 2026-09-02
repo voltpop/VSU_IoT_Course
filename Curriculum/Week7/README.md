@@ -68,12 +68,15 @@ hardware/wiring stands going into this integration-focused week.
 
 ## Materials / resources
 
-- **TLDraw** (introduced Week 3) for the System Architecture Diagram —
-  see Open Item 3, a design call not yet confirmed.
+- **Kiro** generates the System Architecture Diagram directly (changed
+  2026-09-02, per VoltPop — see Open Item 3), same pattern as Week 5's
+  wiring diagram. No TLDraw needed this week.
 - **webhook.site** (free, no signup) as the Day 2 placeholder receiving
-  endpoint — see Open Item 5, depends on classroom network access.
+  endpoint.
 - Hardware/firmware from Week 5 must actually be working — this week
   assumes that, not re-teaches it.
+- Classroom Wi-Fi with outbound internet access (confirmed available,
+  2026-09-02, per VoltPop — see Open Item 5).
 
 ## Open items — resolve before this is fully final
 
@@ -84,22 +87,25 @@ hardware/wiring stands going into this integration-focused week.
 2. **Built as new content, not adapted from an existing file** — per
    Course-Curriculum.md §6: unlike Week 8 (which has old MCP content to
    relocate), Week 7 had nothing to adapt from.
-3. **Design call made in this draft — flag for confirmation:**
-   **TLDraw** (introduced Week 3) is used for the System Architecture
-   Diagram — no new tool introduced. Reasonable default given §7 item
-   #14's tools-trim goal, but not previously confirmed anywhere in this
-   KB; revert if a different tool is actually intended.
+3. **Changed, 2026-09-02 (per VoltPop) — TLDraw replaced with Kiro for
+   the System Architecture Diagram.** Same pattern as Week 5's wiring
+   diagram: Kiro generates the labeled diagram directly from a prompt
+   (RTFC-scaffolded), rather than teams hand-drawing it. **Raises a
+   broader question, not yet resolved:** does TLDraw's actual
+   introduction point — **Week 3** (Course-Curriculum.md §4's `+ TL
+   Draw`, Builder Tech-led, not yet drafted) — still need it, now that
+   Kiro can generate diagrams directly? Not decided here; Week 3 is
+   Builder Tech's to draft, this just flags the question for whoever
+   drafts it. See also Course-Curriculum.md §7 item #14 (tools-trim
+   goal) and Week 5's parallel Canva reconsideration.
 4. **Support-party involvement (Explay) is marked TBD in the schedule
    table itself** — not just a KB gap, the schedule row says "Explay
    (TBD)." Still open.
-5. **New, 2026-09-02 — VSU network access for the Day 2 integration
-   exercise is unconfirmed.** Day 2's "proof of life" requires ESP32
-   devices to reach the open internet (an HTTP POST to webhook.site)
-   over the classroom Wi-Fi — campus networks often block or require
-   registration for IoT-style outbound traffic. This is the same
-   unresolved item as `TODOs-by-Owner.md`'s "Confirm classroom/lab space
-   for hardware weeks + network access" row (`Admin-Business-Legal.md`
-   §7) — not a new ask, but Week 7 is the first week that actually
-   depends on outbound internet access working, not just local Wi-Fi
-   presence. Worth confirming specifically before this week is taught,
-   not just generally before hardware weeks begin.
+5. **Resolved, 2026-09-02 (per VoltPop) — VSU network access for the
+   Day 2 integration exercise.** Classroom Wi-Fi will have outbound
+   internet access, confirmed. This was the same underlying question as
+   `TODOs-by-Owner.md`'s "Confirm classroom/lab space for hardware weeks
+   + network access" row (`Admin-Business-Legal.md` §7) — that broader
+   row isn't necessarily fully closed by this, but Week 7's specific
+   dependency (ESP32 → internet, for the webhook.site proof-of-life
+   test) is confirmed.

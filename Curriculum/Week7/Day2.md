@@ -37,8 +37,8 @@ starting over:
   with brief comments on the new parts only."
 - *Context:* Week 5's working firmware (paste it in), yesterday's
   settled payload structure, the team's webhook.site test URL, and the
-  classroom Wi-Fi network name (**pending confirmation this actually
-  works on VSU's network** — see README Open Item 5).
+  classroom Wi-Fi network name (**confirmed available, 2026-09-02, per
+  VoltPop** — see README Open Item 5).
 
 **3. Verify + debug** *(~30 min)*
 Confirm the payload actually shows up on the webhook.site page —
@@ -63,10 +63,10 @@ final destination.
 
 **6. Buffer / open work time** *(~35 min)*
 Items 1–5 sum to 145 of the real 180-minute class. This is the day
-most likely to need genuine catch-up time — Wi-Fi/network issues are
-the highest-variance failure mode of the whole week and may not be
-something a team can debug their way out of alone (see README Open
-Item 5).
+most likely to need genuine catch-up time — Wi-Fi/network issues remain
+the highest-variance failure mode of the week even with network access
+confirmed (individual device connection problems are still normal),
+and may not be something a team can debug their way out of alone.
 
 ## Deliverables due
 
