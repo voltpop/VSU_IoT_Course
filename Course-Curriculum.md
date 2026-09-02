@@ -321,22 +321,20 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
   [`Curriculum/Week5/README.md`](./Curriculum/Week5/README.md#open-items--resolve-before-this-is-fully-final)
   Open Item 3.
 - `Week7_MCP_Server_Design_Prompts.md` (VoltPop's external working
-  files, not in this repo) — originally built for the old Week 7 topic
-  (MCP server design). Week 7's actual topic is now "Data Flow &
-  Systems Architecture," which needs new content built for it
-  (following the same judgment-step/mechanical-step 4D+RTFC pattern,
-  re-pointed at payload/data-flow design and a proof-of-life
-  integration build). The existing MCP-server content isn't wasted —
-  it's being relocated into **Week 8**, where MCP integration now
-  replaces the old "API integration" framing, and Week 8 is also
-  VoltPop-led. Needs adaptation work, not a full rewrite, once that
-  relocation is finalized. **[Week 7 scripted, 2026-09-02](./Curriculum/Week7/README.md)**
+  files) — **confirmed lost, 2026-09-02 (per VoltPop), same as the
+  Week 5 and Week 7 external files.** Originally built for the old
+  Week 7 topic (MCP server design); Week 7's actual topic is now "Data
+  Flow & Systems Architecture." **[Week 7 scripted, 2026-09-02](./Curriculum/Week7/README.md)**
   — `status: draft`, same depth as Weeks 1, 2, and 5, untested live.
   Payload design (4D) and the Day 2 "proof of life" integration (RTFC,
   via a webhook.site placeholder endpoint — no real app exists until
-  Week 8) are both fully scripted. **[Week 8 remains a
-  skeleton](./Curriculum/Week8/README.md)** (2026-08-28) — still flags
-  the same external-file reconciliation need noted for Week 5 above.
+  Week 8) are both fully scripted. **[Week 8 scripted, 2026-09-02](./Curriculum/Week8/README.md)**
+  — built fresh, not adapted from the lost file, around VoltPop's new
+  **sense-react loop** framing: Iteration 1 replaces Week 7's
+  webhook.site placeholder with a real MCP server (sense), Iteration 2
+  adds a "react" tool closing the loop (§1's sense-and-actuate
+  direction). `status: draft`, same depth as Weeks 1, 2, 5, and 7,
+  untested live.
 - [`Curriculum/Week2/`](./Curriculum/Week2/) — built 2026-08-28 (V2
   makes VoltPop Lead for this week, which wasn't anticipated under the
   earlier schedule version, so no prior draft existed to build from).
@@ -378,10 +376,13 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
 3. Build a lesson plan for Week 2.
 4. **Resolved, 2026-09-02** (§6) — Week 7's lesson plan scripted around
    Data Flow & Systems Architecture.
-5. Adapt the MCP-server lesson into Week 8.
-6. **Resolved for Week 5, 2026-09-02** (§6) — 4D/RTFC now explicitly
-   named and applied on hardware. **Still open:** name RTFC explicitly
-   as Week 8's default template.
+5. **Resolved, 2026-09-02** (§6) — Week 8's MCP-server content built
+   fresh (the old lesson to adapt was confirmed lost), around a new
+   sense-react-loop framing.
+6. **Resolved, 2026-09-02** (§6) — 4D/RTFC formally named and applied
+   on hardware starting Week 5. **Resolved for Week 8 too:** RTFC is
+   Week 8's default template for both the MCP server build and the
+   "react" extension.
 7. Design Week 9's shrunken security/APIs content around the 4D lens
    rather than leaving it unstructured.
 8. Get Week 8's leadership (VoltPop) and the API→MCP swap actually
@@ -505,12 +506,12 @@ have working notes, if any, in `~/Documents/VoltPop/IoT_Course/`
     **In progress:** skeletons exist for all five weeks (§6) with the
     stand-up block placed on each — Week 5 Day 1 excepted (nothing's
     built yet on the very first hardware day to report on; it opens on
-    Day 2 instead). **Week 5 and Week 7 now have this actually
+    Day 2 instead). **Weeks 5, 7, and 8 now have this actually
     scripted, not just placeholder (2026-09-02)** — see
     [`Curriculum/Week5/Presentations/Build_Standup.md`](./Curriculum/Week5/Presentations/Build_Standup.md)
-    (first live use) and Week 7's Day 1/Day 2 (second use, reuses the
-    same deck rather than re-teaching it). Still open: Weeks 8, 9, and
-    10 remain structural placeholders, not taught exercises.
+    (first live use); Weeks 7 and 8 both reuse the same deck rather than
+    re-teaching it. Still open: Weeks 9 and 10 remain structural
+    placeholders, not taught exercises.
 
 ## 8. Curriculum vs. stated objectives, and stakeholder reception (2026-08-06)
 
