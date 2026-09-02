@@ -1,14 +1,16 @@
 ---
 title: Week 5 — Hardware Setup & Sensor Basics
 week: 5
-status: skeleton — created 2026-08-28, structure only. Day1.md/Day2.md need actual talking points, exercises, and timing before this is teachable (same depth as Weeks 1–2).
+status: draft — scripted 2026-09-02, same depth as Weeks 1–2. Day1.md/Day2.md have real talking points, exercises, and timing; untested live, same caveat as Weeks 1–2's draft status.
 see_also: Course-Curriculum.md §1 (audience/safety framing, judgment-mechanical pattern, build stand-ups), §4 (schedule, tools-column correction), §6 (lesson-plan status), §7 items #6, #9, #14, #15, #18; Curriculum/Week1/README.md (git/Kiro basics assumed working); Curriculum/Week2/README.md (hardware kit continuity question)
 ---
 
 # Week 5 — Hardware Setup & Sensor Basics
 
-Two 3-hour classes, Tuesday and Thursday. **This is a skeleton, not a
-full lesson plan** — structure, known context, and open questions only.
+Two 3-hour classes, Tuesday and Thursday. **Scripted 2026-09-02** — real
+talking points, exercises, and timing, same depth as Weeks 1–2. Still
+`status: draft`, not final: untested live, same as every other drafted
+week in this repo.
 
 - [Day 1 (Tuesday)](./Day1.md)
 - [Day 2 (Thursday)](./Day2.md)
@@ -86,22 +88,26 @@ something real to share/get stuck on.
   choice-driven.
 - MicroPython/Thonny (not Arduino IDE — confirmed toolchain).
 - Git Cheat Sheet: reuse `Curriculum/Week1/Assets/git-cheat-sheet-education.pdf`.
-- Canva (new tool this week per the schedule; purpose not yet specified
-  in this KB — see Open Items).
+- Canva — resolved, 2026-09-02: visual wiring-diagram documentation for
+  the repo (see Day 2 item 3), a business-student-friendly alternative
+  to EDA/schematic software.
 
-## Open items — resolve before this is more than a skeleton
+## Open items — resolve before this is fully final
 
-1. **No actual day-by-day content yet.** Day1.md/Day2.md need real
-   talking points, a scripted wiring walkthrough, a firmware-by-
-   prompting exercise, and timing — same depth as Weeks 1–2.
-2. **Open-source governance intro has no designed content anywhere in
-   this KB.** The schedule Description names it, but what it actually
-   covers (a license? contribution norms? how their repo becoming more
-   public-facing changes anything?) has never been scoped.
-3. **Canva's purpose this week is unclear.** It's new in the Tools
-   column but nothing in this KB says what it's used for in Week 5
-   specifically (Course-Curriculum.md §7 item #14 flags the tools list
-   generally as never having been deliberately trimmed/timed).
+1. **Resolved, 2026-09-02:** Day1.md/Day2.md now have real talking
+   points, a scripted wiring walkthrough (4D-scaffolded), a firmware-
+   by-prompting exercise (RTFC-scaffolded), and timing — same depth as
+   Weeks 1–2. **Still needs a live timing check**, same caveat every
+   other drafted week in this repo carries.
+2. **Resolved, 2026-09-02 — open-source governance intro.** Scoped as:
+   picking a license (MIT default), a README that documents purpose/
+   pin-map/how-to-run, and brief contribution norms (small commits,
+   branch-per-change) — see
+   [`Presentations/GitHub_Migration_and_Governance.md`](./Presentations/GitHub_Migration_and_Governance.md).
+   Deliberately light for the audience, not a full governance module.
+3. **Resolved, 2026-09-02 — Canva's purpose.** See the Materials note
+   above and Day 2 item 3: visual wiring-diagram documentation, not
+   app-build or portfolio work.
 4. **Resolved, 2026-09-02 (per VoltPop) — hardware kit continuity
    (inherited from Week 2 Open Item 1):** Week 5's sensors are
    ordered-to-choice, not Week 2's tinkering kit carried forward and not
@@ -112,16 +118,16 @@ something real to share/get stuck on.
    this resolution only confirms the sensor-choice-to-delivery logic,
    not full kit logistics (Week 2 Open Item 1 still covers Day 1
    checkout/return).
-5. **Old external Week 5 file exists but isn't in this repo.**
-   Course-Curriculum.md §6 references
+5. **Resolved, 2026-09-02 (per VoltPop) — external Week 5 file.**
    `~/Documents/VoltPop/IoT_Course/Week5_AI_Wiring_Firmware_Prompt_Template.md`
-   (VoltPop's own working files) as a prior draft needing one new
-   section (the Tuesday GitHub-migration/governance content) — that
-   file was never pulled into this repo, so this skeleton was built
-   from the schedule table alone, not from that draft. Worth reconciling
-   before writing full content, so nothing already built there gets
-   redone from scratch.
-6. **4D/RTFC should be formally named here, not just previewed** — per
-   Course-Curriculum.md §7 item #6 ("retrofit Week 5's materials to
-   explicitly name the 4D/RTFC framework"). This skeleton notes it
-   above; actual day content needs to do the formal naming explicitly.
+   couldn't be located; confirmed lost the same way the original Week 1
+   file was. This week's content was built fresh from the schedule
+   table and this KB's context, not reconciled against that draft.
+6. **Resolved, 2026-09-02 — 4D/RTFC formally named.** Per
+   Course-Curriculum.md §7 item #6: 4D is formally applied to the
+   wiring-safety judgment step (Day 1 item 3), RTFC formally named for
+   the first time on the firmware-generation step (Day 1 item 4).
+7. **Not yet addressed:** hardware kit checkout/return logistics for
+   Day 1's original shared-pool tinkering kit (Week 2 Open Item 1)
+   remain unscoped — separate question from the sensor-ordering
+   resolution above.
