@@ -1,7 +1,7 @@
 ---
 title: VSU Innovation Program — TODOs by Owner
 compiled: 2026-07-31
-updated: 2026-08-26
+updated: 2026-09-29
 ---
 
 # VSU Innovation Program — TODOs by Owner
@@ -158,6 +158,7 @@ trimming it — it's archived there instead.*
 | ☐ | Supply potential guest IoT speakers (Siemens, Dominion, others) and manage the press-kit repo (GitHub) | Aug 18 *(moved from Aug 17)* | Self *(2026-08-14 tag-up action item)* | Also supports pitch-deck content updates by the same date. **Update (2026-08-17, per VoltPop):** this is the existing Rich Bowen guest-lecturer commitment (see `Stakeholder-Notes.md`'s ASF entry), restated as semi-confirmed — full confirmation pending the course actually being sold/greenlit. Confirmed 2026-08-17 as the same speaker, not a second one. |
 | ☑ | Get a professional headshot taken | — | Self | **Resolved 2026-08-17 (per VoltPop), for now:** interim placeholder (Slack avatar) added to the press kit — `assets/voltpop/headshot.png`, mirrored to the canonical `Marketing/Press-Kit/` copy. A real professional headshot is still a good idea eventually, but this unblocks the press-kit deliverable today. |
 | ☐ | Get the Sep 9 virtual meeting link (Britney meeting) and send calendar invites for the team alignment meeting | Sep 9 | Self *(2026-08-25 tag-up)* | Team alignment meeting date itself is unresolved — see [VoltPop-Workspace.md](./VoltPop-Workspace.md#administrative). |
+| ☐ | Get all program contracts (JV Agreement + Operating Agreement) signed by all parties | Oct 19, 2026 | Self *(flagged 2026-09-29, per VoltPop: hard deadline, not just a target)* | **No explicit signing deadline exists anywhere else in the KB — this date is derived**, not yet independently confirmed by anyone else: the ~3-month Setup Period ([Admin-Business-Legal.md §2](./Admin-Business-Legal.md#2-compensation-current-per-2026-07-31-budget-revision--see-6)) has to complete before the confirmed Jan 19, 2027 program start ([Admin-Business-Legal.md §5](./Admin-Business-Legal.md#5-business--planning-schedule)), which also roughly lines up with the Oct 2026 Enrollment Period start in that same table. Ties to the JV Agreement ratification (row above) and Operating Agreement attorney/VSU-counsel review ([Admin-Business-Legal.md §3](./Admin-Business-Legal.md#3-legalcontract-status)). *(shared: Builder Tech, Explay, Nicholson LLC — all must sign)* |
 | ☐ | Support Blackbird Co-op outreach strategy — leverage their social-media reach for cohort recruitment/legitimacy | — | Self *(2026-08-25 tag-up)* | *(shared: Nicholson LLC, who owns the actual outreach)* Stakeholder-Notes.md |
 
 ## Explay
