@@ -314,13 +314,18 @@ institutional-liaison/stakeholder work, not curriculum content.
     started.
 
 29. **Sep 9 funding meeting with Britney Edwards (Dominion).** **[New,
-    2026-08-25 tag-up]** Present an executive summary and request
-    funding directly — a cash ask, distinct from the in-kind framing
-    this thread carried earlier (Stakeholder-Notes.md's Dominion Energy
-    profile). **Corrected 2026-08-26, per VoltPop:** this KB previously
-    had the Sep 9 slot attributed to Beazley — it's Britney's meeting.
-    Builder Tech and VoltPop expected to attend if schedules allow;
-    VoltPop needs the virtual meeting link.
+    2026-08-25 tag-up]** **Purpose corrected 2026-09-08, per VoltPop:**
+    the ask is for Edwards to secure a meeting with Joe Woomer and
+    Daniel Holmes — the two Dominion contacts on VSU's Business and
+    Engineering Industry Advisory Councils — not a direct cash request.
+    (Prior read, from the meeting-summary transcript: present an
+    executive summary and request funding directly, distinct from the
+    in-kind framing this thread carried earlier — see
+    Stakeholder-Notes.md's Dominion Energy profile.) **Corrected
+    2026-08-26, per VoltPop:** this KB previously had the Sep 9 slot
+    attributed to Beazley — it's Britney's meeting. Builder Tech and
+    VoltPop expected to attend if schedules allow; VoltPop needs the
+    virtual meeting link.
 
 30. **Letters of Interest/Intent — Virginia Tech, Dominion Energy, VSU
     Agriculture Department.** **[New, 2026-08-25 tag-up]** Secure formal
