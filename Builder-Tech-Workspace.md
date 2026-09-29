@@ -5,6 +5,10 @@ purpose: Full history/context behind each row in TODOs-by-Owner.md's Builder Tec
 
 # Builder Tech — Workspace
 
+## Messages
+
+- **2026-09-29, from VoltPop:** Flagging [PR #74](https://github.com/voltpop/VSU_IoT_Course/pull/74) — a new hard-deadline row in [TODOs-by-Owner.md](./TODOs-by-Owner.md#buildertech-admin-work): all program contracts (JV Agreement + Operating Agreement) fully signed by **Oct 19, 2026**, derived from the Setup Period needing to clear before the Jan 19, 2027 program start. You and I need to reach our own agreement on this before it moves further — not merging it yet. Let's talk it through next time we're both in a session.
+
 > **EPHEMERAL — pass-off note for Javon, written 2026-08-13 for an
 > async work session. Delete this whole section once he's read it and
 > the items below are handled; it's not meant to stick around as
